@@ -185,5 +185,5 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y [Stallergenes-Greer](http://www.stallergenesgreer.com/)**: [L'échec du projet SAP fait vaciller les comptes de Stallergenes](http://www.lemondeinformatique.fr/actualites/lire-l-echec-du-projet-sap-fait-vaciller-les-comptes-de-stallergenes-65770.html) (Fuente: David Abián)
 
 **2016**
-
+* **SAP y Delta Air Lines** [IT failure grounds Delta flights worldwide](http://www.computerweekly.com/news/450302155/IT-failure-grounds-Delta-flights-worldwide) (Fuente: Víctor Lafaja)
 **2017**
