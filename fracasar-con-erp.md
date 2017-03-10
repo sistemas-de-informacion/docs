@@ -106,6 +106,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Oracle y Philadephia (EE.UU) : **[Philly flushes Oracle out of water bill project](http://www.computerworld.com/article/2549303/government-it/philly-flushes-oracle-out-of-water-bill-project.html) siendo resuelto el problema en 2008 con un nuevo proveedor y [Philadelphia's 'Ocean' Finally in Full Flow](http://www.computerworld.com/article/2551756/government-it/philadelphia-s--ocean--finally-in-full-flow.html) (Fuente: Juan Vela)
 * **SAP y [Waste Management](http://www.wm.com/index.jsp)** : [SAP fires back at Waste Management](http://www.cio.com/article/443864/SAP_Fires_Back_At_Waste_Management) (Fuente: Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa)
 * **SAP y Distrito Escolar de Los Ángeles (EE.UU.)** : [LA school district and Deloitte in $18m failure settlement](http://www.zdnet.com/article/la-school-district-and-deloitte-in-18m-failure-settlement/) (Fuente: Alejandro Guiu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
+* **SAP y Shane Co. (EE.UU)** : [SAP project costs cited in jeweler's bankruptcy filing](http://www.computerworld.com/article/2530405/it-careers/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html) (Fuente: Javier Perales)
 
 **2008**
 
