@@ -183,6 +183,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 * **Oracle R12 and Siebel y [Select Comfort](https://www.sleepnumber.com/)** : [Losing Sleep at Select Comfort - ERP Implementation is a Nightmare] (https://www.linkedin.com/pulse/losing-sleep-select-comfort-erp-implementation-nightmare-belden) (Fuente: Pablo Piedrafita)
 * **SAP y [Stallergenes-Greer](http://www.stallergenesgreer.com/)**: [L'échec du projet SAP fait vaciller les comptes de Stallergenes](http://www.lemondeinformatique.fr/actualites/lire-l-echec-du-projet-sap-fait-vaciller-les-comptes-de-stallergenes-65770.html) (Fuente: David Abián)
+* **NAV y Seo Eng Joo** : [Food Distribution Giant Equipped to Grow Customer Base By 300 Percent With New ERP Solution](https://enterprise.microsoft.com/en-sg/customer-story/industries/retail-and-consumer-goods/seo-eng-joo/) (Fuente: Víctor Lafaja)
 
 **2016**
 
