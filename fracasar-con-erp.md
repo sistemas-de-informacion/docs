@@ -67,6 +67,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Oracle y PharmaCo (nombre ficticio, China)** : [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
 * **Oracle PeopleSoft y [University of Wisconsing-Superior](http://www.uwsuper.edu/index.htm)** : [Lessons from an ERP Implementation](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=946615) (Fuente: Edgar Arnal)
 * **SAP y el estado de [Arkansas](http://www.state.ar.us/)** : [SAP agrees to fix Arkansas ERP system, settles lawsuit charging that system is not accessible to blind state employees](http://www.computerworld.com/article/2532356/enterprise-applications/sap-agrees-to-fix-arkansas-erp-system.html) (Fuente: Eduardo Mindam). El problema se detectó en 2001 (incumplimiento de la norma de accesibilidad) y se resuelve en 2008 tras llegar un acuerdo para actualizar el sistema para soportar el acceso a personas ciegas (Fuente: Beatriz Franco).
+* **HPT(nombre ficticio) ****Vico Communications ** : [The Relation Between BPR and ERP Systems: A failed project](http://www.cs.jyu.fi/el/itke50_03/Artikkelit/The%20Relation%20Between%20BPR%20and%20ERP%20Systems_%20A%20Failed%20Project%20IT5656_XZXCZQ282V.pdf) (Fuente: Andrés Soldevilla)
+
 
 **2002**
 
