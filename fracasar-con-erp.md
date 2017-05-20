@@ -49,6 +49,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Baan y Poolrite (Australia)** : [Manufacturer mends failed ERP project](http://www.computerworld.com.au/article/149421/manufacturer_mends_failed_erp_project/2) (Fuente: Álvaro Gómez Muñoz)
 * **MOVEX ERP y StoneCo (China)** : [ERP implementation failures in China: Case studies with implications for ERP vendors](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.6344&rep=rep1&type=pdf) (Fuente: Álvaro Gómez Muñoz)
 * **OneWorld y Evans Industries Inc.**: [J.D. Edwards user wins nearly $2M over ERP rollout gone bad](http://www.computerworld.com/article/2573740/enterprise-resource-planning/j-d--edwards-user-wins-nearly--2m-over-erp-rollout-gone-bad.html) (Fuente: David Abián)
+* **Oracle y Ford Motor (EE.UU)** : [Everest: Failure in Information Technology project at Ford Motor Company](https://www.360dissertations.in/wp-content/uploads/2013/sample-coursework.pdf) (Fuente: Javier Perales)
 
 **2000**
 
