@@ -4,6 +4,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 **1990**  
 
+* **Omega eMAG y Alpha Holdings**  : [Explaining ERP Failure in a Developing Country: A Jordanian Case Study](https://www.research.manchester.ac.uk/portal/files/27662627/POST-PEER-REVIEW-NON-PUBLISHERS.PDF) (Fuente: Alberto Mur)
+
 **1991**  
 
 **1992**  
