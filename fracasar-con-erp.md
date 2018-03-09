@@ -8,11 +8,11 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 **1992**  
 
-* **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/)**  : [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
+* **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/)**  : [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo, corregido por Adrián Ibáñez)
 
 **1993**
 
-* **SAP y  Comp Group (nombre ficticio)**: [Al-Mashari, M., & Al-Mudimigh, A. (2003). ERP implementation: Lessons from a case study. Information Technology & People, 16(1), 21. ](http://intranet.hcly.se/admin/data/files/12/45175/247-%20Al-Mashari%20and%20Al-Mudimigh%202003-%20ERP.pdf) (Fuente: Eduardo Navarro)
+* **SAP y  Comp Group (nombre ficticio)**: [Al-Mashari, M., & Al-Mudimigh, A. (2003). ERP implementation: Lessons from a case study. Information Technology & People, 16(1), 21. ](https://pdfs.semanticscholar.org/608a/1a36f5059f59cc5bed3bfeaca1a12b3cf033.pdf) (Fuente: Eduardo Navarro, corregido por Adrián Ibáñez)
 
 **1994**
 
