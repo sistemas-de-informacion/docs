@@ -8,7 +8,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 **1992**  
 
-* **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/Default.aspx)**  : [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
+* **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/)**  : [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
 
 **1993**
 
