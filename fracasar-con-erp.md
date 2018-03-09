@@ -8,11 +8,11 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 **1992**  
 
-* **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/)**  : [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo, corregido por Adrián Ibáñez)
+* **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/):**   [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo, corregido por Adrián Ibáñez)
 
 **1993**
 
-* **SAP y  Comp Group (nombre ficticio)**: [Al-Mashari, M., & Al-Mudimigh, A. (2003). ERP implementation: Lessons from a case study. Information Technology & People, 16(1), 21. ](https://pdfs.semanticscholar.org/608a/1a36f5059f59cc5bed3bfeaca1a12b3cf033.pdf) (Fuente: Eduardo Navarro, corregido por Adrián Ibáñez)
+* **SAP y  Comp Group (nombre ficticio)**: [Al-Mashari, M., & Al-Mudimigh, A. (2003). ERP implementation: Lessons from a case study. Information Technology & People, 16(1), 21. ]( https://pdfs.semanticscholar.org/608a/1a36f5059f59cc5bed3bfeaca1a12b3cf033.pdf) (Fuente: Eduardo Navarro, corregido por Adrián Ibáñez)
 
 **1994**
 
@@ -27,7 +27,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 **1997**
 
-* **PeopleSoft y Cleveland State University:** [CSU and PeopleSoft settle for $4.25 mil](https://www.csuohio.edu/class/com/clevelandstater/Archives/Vol%206/Issue%2014/news/news1.html) (Fuente: Manuel Herrero)
+* **PeopleSoft y Cleveland State University:** [University hits PeopleSoft with $510M lawsuit]( https://www.computerworld.com/article/2564202/technology-law-regulation/university-hits-peoplesoft-with--510m-lawsuit.html) (Fuente: Manuel Herrero, corregido por Adrián Ibáñez)
 * **PeopleSoft (implementador Deloitte & Touche) y W.L. Gore & Associates (marca Gore-Tex):** [Will the real Donald Duck please stand up?](http://www.uwosh.edu/faculty_staff/wresch/ERPgore.htm) (Fuente: Manuel Herrero, ampliado por Alejandro Solanas)
 * **Baan y [Snap-On](https://www.snapon.com/EN)**:[Top 10 Corporate Information Technology Failures](http://images.techhive.com/downloads/idge/imported/article/ctw/2000/10/30/44nfailchart.pdf) (Fuente: Miguel Bolsa)
 
@@ -40,6 +40,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y Water Corporation (nombre ficticio)** : [Issues in implementing ERP: A case study](https://www.researchgate.net/publication/222653996_Issues_in_implementing_ERP_A_case_study) (Fuente: Javier Tello, corregido por Fernando Alegre)
 * **SAP y Grainger (EE.UU)** : [ERP woes cut Grainger profits](http://www.computerworld.com/article/2593478/erp-woes-cut-grainger-profits.html) (Fuente : Catalin Dumitrache)
 * **Oracle y Oxford Health Plans Inc (EE.UU)** : [Companies Don't Learn From Previous IT Snafus](http://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html?page=2) (Fuente: Álvaro Gómez Muñoz)
+* **SAP y [Select Comfort Corp. (actualmente Sleep Number)]( https://www.sleepnumber.com/):** [Select Comfort puts big SAP project into sleep mode]( https://www.computerworld.com/article/2529907/it-industry/select-comfort-puts-big-sap-project-into-sleep-mode.html) (Fuente: Adrián Ibáñez)
 
 **1999**
 
@@ -85,15 +86,17 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAP y NASA (EE.UU.)**: [NASA systems: Houston, we have a problem](https://gcn.com/articles/2004/05/19/nasa-systems-houston-we-have-a-problem.aspx) (Fuente: Juan Vela)
 * **SAP e ICI **: [ICI pays price for side-effects of IT project](http://www.computerweekly.com/feature/ICI-pays-price-for-side-effects-of-IT-project) (Fuente: Darío Sánchez)
 * **Baan y Dexter Axle:** [Court of Appeals of Indiana](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) ( Fuente: Adrián Crespo )
+* **SAP y [The United States Navy]( https://www.navy.com/index.html):** [GAO: Navy sinks $1B into failed ERP pilot projects]( https://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Adrián Ibáñez)
 
 **2004**
 
 * **eMAG (nombre ficticio, EE.UU.) y Beta (nombre ficticio, Jordania)**: [Explaining ERP Failure in a Developing Country: A Jordanian Case Study](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:86510&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF) (Fuente: Gonzalo Robles)
-* **Oracle PeopleSoft y varias universidades americanas**: [University ERP: Big mess on Campus](http://www.cio.com/article/107706/University_ERP_Big_Mess_on_Campus) (Fuente: Alejandro Gálvez). En la Universidad de Massachusetts el componente que causó problemas fue un desarrollo personalizado denominado SPIRE utilizado para registrar alumnos en cursos.
+* **Oracle PeopleSoft y varias universidades americanas**: [A Multicampus ERP Implementation Case Study: What Worked and What Didn't]( https://library.educause.edu/resources/2003/1/a-multicampus-erp-implementation-case-study-what-worked-and-what-didnt) (Fuente: Alejandro Gálvez, corregido por Adrián Ibáñez). En la Universidad de Massachusetts el componente que causó problemas fue un desarrollo personalizado denominado SPIRE utilizado para registrar alumnos en cursos.
 * **Oracle PeopleSoft y Avis** : [Avis bins PeopleSoft system after €45m IT failure](http://www.zdnet.com/article/avis-bins-peoplesoft-system-after-eur45m-it-failure/) (Fuente: Jesús Bintaned)
 * **SAP y [HP](http://www.hp.com/)**: [When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán) y [ERP implementation failure at HP](http://astro.temple.edu/~wurban/Case%20Studies/HP's%20ERP%20Failure.pdf) (Fuente: Santiago Morón). El último tiene formato de caso. 
 * **Oracle y [Ford](http://corporate.ford.com)**: [Ford Abandons Oracle Procurement System](http://www.computerworld.com/article/2565732/enterprise-resource-planning/ford-abandons-oracle-procurement-system.html) (Fuente: Sergio Andrés)
 * **PeopleSoft y [University of Indiana](https://www.iu.edu/)**: [Indiana University suffers during PeopleSoft rollout](https://www.computerworld.com/article/2567014/enterprise-applications/indiana-university-suffers-during-peoplesoft-rollout.html) (Fuente: Miguel Bolsa)
+* **PeopleSoft y [University of Massachusetts-Amherst]( https://www.umass.edu/):** [UMass-Amherst bedeviled by PeopleSoft portal crash](https://www.computerworld.com/article/2566229/enterprise-applications/umass-amherst-bedeviled-by-peoplesoft-portal-crash.html) (Fuente: Adrián Ibáñez)
 
 **2005**
 
@@ -133,6 +136,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **ERP ficticio y Bodegas Olaya (Colombia, empresa ficticia)**: [Hay vida después de un ERP?](https://www.icesi.edu.co/blogs/hayvidadespuesdeunerp/) (Fuente: Marta Frías) es un caso de implementación problemática de un ERP en una empresa colombiana grande.
 * **SAP/Oracle y TomorrowNow**: [No more Tomorrows for TomorrowNow](http://www.cio.com/article/2434837/enterprise-software/sap--oracle-software-support-from-tomorrownow-to-end.html) (Fuente: David Puente) no es un caso de fracaso de una implementación pero si un buen culebrón con varios implicados.
 * **SAP, Logo, Mincom, Qlink e Industrias Iranies** : [Identification and classification of ERP critical failure factors in Iranian industries. Amin Amid, Morteza Moalagh,Ahad Zare Ravasan](http://dx.doi.org/10.1016/j.is.2011.10.010) (Fuente: Eduardo Navarro)
+* **Lawson Software  y [Finning Canada]( https://www.finning.com/en_CA.html):** [How an ERP Debacle Triggered Supply-Chain Transformation at Finning Canada](https://www.computerworld.com/article/2566229/enterprise-applications/umass-amherst-bedeviled-by-peoplesoft-portal-crash.html) (Fuente: Adrián Ibáñez)
 
 **2009**
 
