@@ -178,6 +178,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **SAIC y la ciudad de [Nueva York](http://www1.nyc.gov/)** : ['Consultants' getting $722M from city for doomed CityTime computer project](http://www.nydailynews.com/news/consultants-722m-city-doomed-citytime-computer-project-article-1.173403) (Fuente: Guillermo Sesé) [NYC mayor demands $600M refund on software project](http://www.networkworld.com/article/2178831/applications/nyc-mayor-demands--600m-refund-on-software-project.html) (Fuente: Alejandro Bean) 
 * **Unisys y el estado de [Idaho](http://www.idaho.gov/)** : [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) (Fuente: Óscar Murillo)
 * **IBM y Queensland Health** : [Shared Services Initiative – LATTICE replacement](http://calleam.com/WTPF/?p=3105) (Fuente: Iván Esteban)
+* **ERP y empresa desconocidos**(https://www.stupendo.pe/blog/2017/01/15/un-caso-de-fracaso-en-factura-electronica/) (Fuente: Alberto Mur)
 
 **2011**
 
