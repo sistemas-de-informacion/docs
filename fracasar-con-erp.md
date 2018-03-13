@@ -203,7 +203,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 * **Oracle R12 and Siebel y [Select Comfort](https://www.sleepnumber.com/)** : [Losing Sleep at Select Comfort - ERP Implementation is a Nightmare] (https://www.linkedin.com/pulse/losing-sleep-select-comfort-erp-implementation-nightmare-belden) (Fuente: Pablo Piedrafita)
 * **SAP y [Stallergenes-Greer](http://www.stallergenesgreer.com/)**: [L'échec du projet SAP fait vaciller les comptes de Stallergenes](http://www.lemondeinformatique.fr/actualites/lire-l-echec-du-projet-sap-fait-vaciller-les-comptes-de-stallergenes-65770.html) (Fuente: David Abián)
 * **Vodafone y Siebel CRM (UK)**: [Vodafone’s £4.6m CRM fine – when IT projects attack](https://diginomica.com/2016/10/26/vodafones-4-6m-customer-service-fine-when-it-projects-attack/) (Fuente: Marta Blanco)
-* **Programa Padre Renta (España)**: [La web caída, servidores colapsados... así ha empezado la campaña Renta 2015] (https://www.genbeta.com/web/la-web-caida-servidores-colapsados-asi-ha-empezado-la-campana-renta-2015) (Fuente: Adrián Casans)
+* **Programa Padre Renta (España)**: [La web caída, servidores colapsados... así ha empezado la campaña Renta 2015](https://www.genbeta.com/web/la-web-caida-servidores-colapsados-asi-ha-empezado-la-campana-renta-2015) (Fuente: Adrián Casans)
 
 **2016**
 
