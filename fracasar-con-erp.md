@@ -128,6 +128,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Health Service Executive (HSE, Irlanda)**: [Irish agency halts work on two SAP application projects](http://www.computerworld.com/article/2558350/app-development/irish-agency-halts-work-on-two-sap-application-projects.html) (Fuente: Marta Frías)
 - **SAIC y FBI (EE.UU.)**: [Anatomy of an IT disaster: How the FBI blew it](http://www.infoworld.com/article/2672020/application-development/anatomy-of-an-it-disaster--how-the-fbi-blew-it.html) (Fuente: Santiago Morón)
 - **Project Edison y [estado de Tennessee](https://www.tn.gov/)**: [Tennessee's ERP Project Mess](http://spectrum.ieee.org/riskfactor/computing/it/tennessees-erp-project-mess) (Fuente: David Puente)
+- **ERP SAP de USD 30 Millones**: [Crónica de un fracaso: implementación ERP SAP de USD 30 Millones](https://www.evaluandoerp.com/cronica-de-un-fracaso-implementacion-erp-sap-de-usd-30-millones/) (Fuente: Gregorio Largo)
 
 ## 2006
 
@@ -223,6 +224,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **ERP desconocida y RBS (Royal Bank of Scoltand)**: [RBS Bank joins the IT failures ‘Hall of Shame’](https://www.enterpriseirregulars.com/50387/rbs-bank-joins-it-failures-hall-shame/) (Fuente: Oscar Potrony)
 - **Dynamics AX system y [Avanade](https://www.avanade.com/es-es)**: [Avanade sued over alleged ERP project failure](https://www.computerworld.com/article/2494380/data-center/avanade-sued-over-alleged-erp-project-failure.html) (Fuente: David Sáez)
 - **ERP desconocido y empresa gubernamental de EEUU**: [Lessons learned from a government ERP failure](https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/PANCONUS/P121121L.pdf) (Fuente: David Sáez)
+- **ERP desconocido La Fuerza Aerea USA**: [La Fuerza Aerea USA cancela proyecto ERP tras invertir más de 1000 millones de USD](https://www.erp-spain.com/articulo/74350/erp/administracion-publica/la-fuerza-aerea-usa-cancela-proyecto-erp-tras-invertir-mas-de-1000-millones-de-usd) (Fuente: Gregorio Largo Mayor)
 
 ## 2013
 
