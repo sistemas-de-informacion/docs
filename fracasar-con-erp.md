@@ -131,6 +131,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Health Service Executive (HSE, Irlanda)**: [Irish agency halts work on two SAP application projects](http://www.computerworld.com/article/2558350/app-development/irish-agency-halts-work-on-two-sap-application-projects.html) (Fuente: Marta Frías)
 - **SAIC y FBI (EE.UU.)**: [Anatomy of an IT disaster: How the FBI blew it](http://www.infoworld.com/article/2672020/application-development/anatomy-of-an-it-disaster--how-the-fbi-blew-it.html) (Fuente: Santiago Morón)
 - **Project Edison y [estado de Tennessee](https://www.tn.gov/)**: [Tennessee's ERP Project Mess](http://spectrum.ieee.org/riskfactor/computing/it/tennessees-erp-project-mess) (Fuente: David Puente)
+- **SAP y [PLIVA](http://www.pliva.com/)(caso ficticio)**: [ERP System Implementation: Case Study of a Pharmaceutical Company](https://www.researchgate.net/publication/220066116_ERP_System_Implementation_and_Business_Process_Change_Case_Study_of_a_Pharmaceutical_Company) (Fuente: Miguel Bentué)
+- **Ciber y [Pennsylvania Turnpike Commission](https://www.paturnpike.com/)**: [Documents suggest Turnpike wasted millions on computer system](https://archive.triblive.com/news/pennsylvania/documents-suggest-turnpike-wasted-millions-on-computer-system/#axzz3YhvFkQrV), [Wayferry Case Study: Pennsylvania Turnpike Commission's ERP project takes wrong turn](https://www.wayferry.com/blog/pennsylvania-turnpike-commission-s-erp-project-takes-wrong-turn) (Fuente: Miguel Bentué)
 
 ## 2006
 
@@ -245,6 +247,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **NetSuite y Kentwool**: [NetSuite socked with lawsuit by textile manufacturer](https://www.pcworld.com/article/2451980/netsuite-socked-with-lawsuit-by-textile-manufacturer.html) (Fuente: Alberto Mur)
 - **Ω failed to customize SAP R3**: [A Case Study in Chinese Failure in ERP Implementation](https://www.ajouronline.com/index.php/AJBM/article/view/1541) (Fuente: Adrián Casans)
 - **SAP y [Condado de Jefferson, Alabama](https://www.jeffco.us/)**: [County set to rip and replace troubled SAP software system](https://www.computerworld.com/article/2607172/county-set-to-rip-and-replace-troubled-sap-software-system.html) (Fuente: Ignacio Palacios)
+- **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**: [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.wayferry.com/blog/cubic-corporation-missing-roi) (Fuente: Miguel Bentué)
 
 ## 2015
 
