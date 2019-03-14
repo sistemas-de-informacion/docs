@@ -108,6 +108,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ## 2004
 
+- **Hewlett-Packard**: Fallo en una migración a un sistema de cadena de suministro y procesamiento de pedidos basado en aplicaciones de SAP AG que costo más de 160 millones de dólares. (https://www.computerworld.com/article/2565928/hp-s-cio-points-to-internal-issues-in-erp-project-snafus.html) (Fuente: Osmar De La Fuente Maicas)
 - **eMAG (nombre ficticio, EE.UU.) y Beta (nombre ficticio, Jordania)**: [Explaining ERP Failure in a Developing Country: A Jordanian Case Study](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:86510&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF) (Fuente: Gonzalo Robles)
 - **Oracle PeopleSoft y varias universidades americanas**: [University ERP: Big mess on Campus](http://www.cio.com/article/107706/University_ERP_Big_Mess_on_Campus) (Fuente: Alejandro Gálvez). En la Universidad de Massachusetts el componente que causó problemas fue un desarrollo personalizado denominado SPIRE utilizado para registrar alumnos en cursos.
 - **Oracle PeopleSoft y Avis** : [Avis bins PeopleSoft system after €45m IT failure](http://www.zdnet.com/article/avis-bins-peoplesoft-system-after-eur45m-it-failure/) (Fuente: Jesús Bintaned)
