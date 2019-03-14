@@ -28,7 +28,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **SAP y Dell Computers** : [Dell abandona la implementación de SAP a mitad por ser demasiado monolítico](https://books.google.es/books?id=sVS9AQAAQBAJ&pg=PA92&lpg=PA92&dq=dell+%22r/3%22&source=bl&ots=Zr4ks2k8C4&sig=NNppW0r0UnghiNS2sD3PZU0QQmU&hl=es&sa=X&ved=0ahUKEwi-7byQmZvLAhUEuRoKHQ9ZA_wQ6AEIMTAC#v=onepage&q=dell%20%22r%2F3%22&f=false) (Fuente: Beatriz Pérez)
 - **SAP y FoxMeyer Drugs** : [The FoxMeyer Drugs' Bankruptcy: Was it a Failure of ERP?](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1437&context=amcis1999) (Fuente: Pablo Piedrafita)
-- **Sun Systems and Natural Springs**: [ERP Implementation Gone Terribly Wrong: The Case of Natural Springs](www3.cis.gsu.edu/dtruex/courses/IB8710/Articles/ERP%20Implementation%20Gone%20Terribly%20Wrong-%20The%20Case%20of%20Natural%20Springs.pdf) (Fuente: Victor Fernández Melic)
+- **Sun Systems and Natural Springs**: [ERP Implementation Gone Terribly Wrong: The Case of Natural Springs](www3.cis.gsu.edu/dtruex/courses/IB8710/Articles/ERP%20Implementation%20Gone%20Terribly%20Wrong-%20The%20Case%20of%20Natural%20Springs.pdf) (Fuente: Víctor Fernández Melic)
 
 ## 1997
 
@@ -99,7 +99,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ## 2003
 
-- **eMAG ERP and Omega**: [Explaining ERP Failure in a Developing Country: A Jordanian Case Study](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=52&ved=2ahUKEwjX-eG2toHhAhUFNOwKHRXsAGg4MhAWMAF6BAgJEAI&url=https%3A%2F%2Fwww.research.manchester.ac.uk%2Fportal%2Ffiles%2F27662627%2FPOST-PEER-REVIEW-NON-PUBLISHERS.PDF&usg=AOvVaw1PUnOb0IDRR7v0tzZttz_b) (Fuente: Victor Fernández Melic)
+- **eMAG ERP and Omega**: [Explaining ERP Failure in a Developing Country: A Jordanian Case Study](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=52&ved=2ahUKEwjX-eG2toHhAhUFNOwKHRXsAGg4MhAWMAF6BAgJEAI&url=https%3A%2F%2Fwww.research.manchester.ac.uk%2Fportal%2Ffiles%2F27662627%2FPOST-PEER-REVIEW-NON-PUBLISHERS.PDF&usg=AOvVaw1PUnOb0IDRR7v0tzZttz_b) (Fuente: Víctor Fernández Melic)
 
 - **SAP y XYZ (nombre ficticio, diferente del caso 2002)**: [Learning from failed ERP implementation](http://www.apps2fusion.com/training_demo/ranu/erp_success_factors_ranu.pdf) (Fuente: Fernando Alegre)
 - **SAP y NASA (EE.UU.)**: [NASA systems: Houston, we have a problem](https://gcn.com/articles/2004/05/19/nasa-systems-houston-we-have-a-problem.aspx) (Fuente: Juan Vela)
