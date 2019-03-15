@@ -28,7 +28,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **SAP y Dell Computers** : [Dell abandona la implementación de SAP a mitad por ser demasiado monolítico](https://books.google.es/books?id=sVS9AQAAQBAJ&pg=PA92&lpg=PA92&dq=dell+%22r/3%22&source=bl&ots=Zr4ks2k8C4&sig=NNppW0r0UnghiNS2sD3PZU0QQmU&hl=es&sa=X&ved=0ahUKEwi-7byQmZvLAhUEuRoKHQ9ZA_wQ6AEIMTAC#v=onepage&q=dell%20%22r%2F3%22&f=false) (Fuente: Beatriz Pérez)
 - **SAP y FoxMeyer Drugs** : [The FoxMeyer Drugs' Bankruptcy: Was it a Failure of ERP?](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1437&context=amcis1999) (Fuente: Pablo Piedrafita)
-- **Sun Systems and Natural Springs**: [ERP Implementation Gone Terribly Wrong: The Case of Natural Springs](www3.cis.gsu.edu/dtruex/courses/IB8710/Articles/ERP%20Implementation%20Gone%20Terribly%20Wrong-%20The%20Case%20of%20Natural%20Springs.pdf) (Fuente: Víctor Fernández Melic)
+- **Sun Systems and Natural Springs**: [ERP Implementation Gone Terribly Wrong: The Case of Natural Springs](http://www3.cis.gsu.edu/dtruex/courses/IB8710/Articles/ERP%20Implementation%20Gone%20Terribly%20Wrong-%20The%20Case%20of%20Natural%20Springs.pdf) (Fuente: Víctor Fernández Melic)
 
 ## 1997
 
