@@ -6,9 +6,9 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ## 1990
 
-## 1991  
+## 1991
 
-## 1992  
+## 1992
 
 - **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/)**: [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
 - **[AMR Corp.](http://www.amrcaseinfo.com/)** y la joint venture formpada por **[Budget Rent A Car Corp.](https://www.budget.com/en/home)**, **[Hilton Hotels Corp.](http://www3.hilton.com/en/index.html)** y **[Marriott International Inc.](http://www.marriott.com/default.mi)**: [Companies Don't Learn From Previous IT Snafus](https://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html) (Fuente: Miguel Bolsa)
@@ -46,8 +46,9 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **Oracle y Oxford Health Plans Inc (EE.UU)**: [Companies Don't Learn From Previous IT Snafus](http://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html?page=2) (Fuente: Álvaro Gómez Muñoz)
 - **SAP y AeroGroup/Aerosoles**: [AeroGroup abandona  AFS y R/3](http://www.academia.edu/15433352/Tarea_Caso_de_estudio_a_desarrollar_Aerogroup_International) (Fuente: Hector Herrmann)
 - **SAP y Unisource Worldwide Inc. (EE.UU)**: [SAP installation scuttled. (Unisource Worldwide abandons nationwide implementation of SAP enterprise software) (Company Operations)](https://business.highbeam.com/137376/article-1G1-20210791/sap-installation-scuttled) (Fuente: Héctor Martínez Moreno)
-- **Movex y Beijing Dabao Cosmetics Co. (China)**: [Case study on failed implementation of ERP systems](http://www.academia.edu/28508065/CASE_STUDY_ON_FAILED_IMPLEMENTATION_OF_ERP_SYSTEMS) (Fuente: Jorge Blázquez 
+- **Movex y Beijing Dabao Cosmetics Co. (China)**: [Case study on failed implementation of ERP systems](http://www.academia.edu/28508065/CASE_STUDY_ON_FAILED_IMPLEMENTATION_OF_ERP_SYSTEMS) (Fuente: Jorge Blázquez)
 - **PeopleSoft y la Universidad de Indiana** : [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
+- **ERP desconocido y Applied Materials** : [ERP LECTURE 1 LEARNINGS](https://es.scribd.com/presentation/149512631/ERP-Ppt-Lecture1) , [Handbook of Research on Enterprise Systems](https://books.google.es/books?id=4rZf-Jt93ioC&pg=PT116&lpg=PT116&dq=Applied+Materials++%E2%80%93+overwhelmed+by+the+organizationalchanges+involved&source=bl&ots=2sFDRnA-tJ&sig=ACfU3U0KmC-105qPc1AHyiU6oePHj9VH_w&hl=es&sa=X&ved=2ahUKEwjvjLCWvoLhAhUk-YUKHUZPB3kQ6AEwAXoECAIQAQ#v=onepage&q=Applied%20Materials%20%20%E2%80%93%20overwhelmed%20by%20the%20organizationalchanges%20involved&f=false)(Fuente: Israel Solanas)
 
 ## 1999
 
@@ -62,7 +63,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Allied Waste Industries Inc. (EE.UU)**: [Trash Haulers Dump SAP Software; Firms Seek Cheaper, Easier Choices](https://www.wsj.com/articles/SB928875842177974323) (Fuente: Héctor Martínez Moreno)
 - **ERP desconocido y Mobile One**: Mención en  [The Enterprise Resource Planning Decade: Lessons Learned and Issues for the future](https://books.google.es/books?id=XHTt1mYJYPgC&pg=PA140&lpg=PA140&dq=Allied+Waste+Industries+erp+failure&source=bl&ots=BXqitsy8M1&sig=kwFuYxTBi0c4B6hxkNsQb7Min1U&hl=es&sa=X&ved=0ahUKEwj-_6O09NjZAhWLvxQKHbolCXMQ6AEINTAC#v=onepage&q=Allied%20Waste%20Industries%20erp%20failure&f=false) (Fuente: Héctor Martínez Moreno)
 
-## 2000
+## 2000
 
 - **Baan y Dexter Axle (EE.UU.):** [DEXTER AXLE COMPANY v. BAAN USA INC](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) (Fuente: Guillermo Azón)
 - **Intentia AB y CosmeticCo (nombre ficticio, China)**: [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
@@ -122,6 +123,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **ERP no identificado (tier 1, desarrollado fuera de China) y D (nombre ficticio, material oficina, China)**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
 - **ERP no identificado (tier 1, desarrollado fuera de China) y E (nombre ficticio, empresa minera, China**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
 - **ERP desconocido y [NYE (nombre ficticio)]**: [Case Analysis – IS and ERP Usage in NYE](http://eprints.whiterose.ac.uk/79147/2/WRRO_79147.pdf) (Fuente: Víctor Rodríguez)
+- **BaaN ERP y [Cairo and Alexandria Stock Exchange (CASE) and Capital Market Authority (CMA)]**: [ICT Acceptance, Investment and Organization](https://books.google.es/books?id=mL10BxzzsPkC&pg=PA91&lpg=PA91&dq=erp+fail+egypt&source=bl&ots=PUqKj2kmxO&sig=ACfU3U3jxCe4WAlwnQqEhLM0OEvBzky3CQ&hl=es&sa=X&ved=2ahUKEwij_62-tILhAhVECxoKHVELB9w4ChDoATACegQIARAB#v=onepage&q=erp%20fail%20egypt&f=false) (Fuente: Israel Solanas)
 
 ## 2005
 
@@ -150,6 +152,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Distrito Escolar de Los Ángeles (EE.UU.)**: [LA school district and Deloitte in $18m failure settlement](http://www.zdnet.com/article/la-school-district-and-deloitte-in-18m-failure-settlement/) (Fuente: Alejandro Guiu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
 - **ERP A y ERP B en empresas 3 y 4 (nombres ficticios)**: [ERP implementation at SMEs: analysis of five Canadian cases](http://www.emeraldinsight.com/doi/abs/10.1108/01443570910925343) (Fuente : Eduardo Navarro)
 - **Ross Systems ERP y Woolf Enterprises**: [Customer alleges broken pledges, lies in ERP software suit](https://www.computerworld.com/article/2510613/technology-law-regulation/customer-alleges-broken-pledges--lies-in-erp-software-suit.html) (Fuente : Alberto Mur)
+- **SAP R/3 4.5 y Avison and Malaurent**: [Erp Introduction in China: Analysing Cultural Problems Using Structuration Theory.](https://www.researchgate.net/publication/221228971_Erp_Introduction_in_China_Analysing_Cultural_Problems_Using_Structuration_Theory) (Fuente: Israel Solanas)
 
 ## 2008
 
@@ -213,6 +216,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Kentuky's Goverment**: [Auditor: state's HR software system has series of material](https://www.computerworld.com/article/2501737/auditor--state-s-hr-software-system-has-series-of--material-weaknesses-.html) (Fuente: David Ubide).
 - **SAP y Deloitte Consulting (California)** : [County Alleges SAP, Deloitte Comprometido en Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés)
 - **EPICOR y Whaley (Lexingtor)** : [Epicor demandó por presunto fracaso del proyecto ERP](https://www.pcworld.com/article/237939/article.html) (Fuente: Paula Lardiés)
+- **SAP y Banco Columbia (Argentina)** : [Crónica de un fracaso: implementación ERP SAP de USD 30 Millones](https://www.evaluandoerp.com/cronica-de-un-fracaso-implementacion-erp-sap-de-usd-30-millones/) (Fuente: Israel Solanas)
 
 ## 2012
 
@@ -248,6 +252,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **Ω failed to customize SAP R3**: [A Case Study in Chinese Failure in ERP Implementation](https://www.ajouronline.com/index.php/AJBM/article/view/1541) (Fuente: Adrián Casans)
 - **SAP y [Condado de Jefferson, Alabama](https://www.jeffco.us/)**: [County set to rip and replace troubled SAP software system](https://www.computerworld.com/article/2607172/county-set-to-rip-and-replace-troubled-sap-software-system.html) (Fuente: Ignacio Palacios)
 - **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**: [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.wayferry.com/blog/cubic-corporation-missing-roi) (Fuente: Miguel Bentué)
+- **SAP R/2 y [Dow Chemical Company](https://www.dow.com/en-us)**: [Dow Chemical CIO Says Another 8-Year ERP Project Is Unimaginable](https://blogs.wsj.com/cio/2015/11/30/dow-chemical-cio-says-another-8-year-erp-project-is-unimaginable/), [ERP Project Failures](http://www.synergy-software.com/blog/?p=4978) (Fuente: Israel Solanas)
 
 ## 2015
 
@@ -279,7 +284,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **SAP y [Lidl](https://www.lidl.es/es/index.htm)**: [Lidl cancels SAP introduction having sunk €500 million into it](https://www.consultancy.uk/news/18243/lidl-cancels-sap-introduction-having-sunk-500-million-into-it) (Fuente: Miguel López)
 - **Oracle y Worth & Company**: [Oracle sued for $4.5m after ERP system delivery date 'moved from 2015 to 2016, then 2017, then... er, never'](https://www.theregister.co.uk/2019/02/21/biz_sues_oracle/) (Fuente: Íñigo Úriz)
-- **SAP S/4HANA y [Haribo] (https://www.haribo.com/esES/pagina-de-inicio.html)**: [Haribo can't bear SAP S/4HANA implementation](https://searchsap.techtarget.com/feature/Haribo-cant-bear-SAP-S-4HANA-implementation) (Fuente: Carlos Allo), [Lessons from the SAP Transformation Problems at Haribo](https://www.thirdstage-consulting.com/lessons-from-the-sap-transformation-problems-at-haribo/) (Fuente: Carlos Allo)
+- **SAP S/4HANA y [Haribo](https://www.haribo.com/esES/pagina-de-inicio.html)**: [Haribo can't bear SAP S/4HANA implementation](https://searchsap.techtarget.com/feature/Haribo-cant-bear-SAP-S-4HANA-implementation) (Fuente: Carlos Allo), [Lessons from the SAP Transformation Problems at Haribo](https://www.thirdstage-consulting.com/lessons-from-the-sap-transformation-problems-at-haribo/) (Fuente: Carlos Allo)
 
 ## 2019
+
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf))  (Fuente: Carlos Allo)
