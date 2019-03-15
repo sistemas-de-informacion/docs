@@ -2,7 +2,13 @@
 
 Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "inventa" el término ERP en abril de 1990](http://www.sciencedirect.com/science/article/pii/S0272696306001355)). El objetivo de la lista es sólo para que sirva de consulta para alumnos. La fecha asignada a cada caso corresponde normalmente con el año de la instalación del sistema.
 
-[1990](#1990), [1991](#1991), [1992](#1992), [1993](#1993), [1994](#1994), [1995](#1995), [1996](#1996), [1997](#1997), [1998](#1998), [2001](#2001), [2002](#2002), [2003](#2003), [2004](#2004), [2005](#2005), [2006](#2006), [2007](#2007), [2008](#2008), [2009](#2009), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2016](#2016), [2017](#2017), [2018](#2018), [2019](#2019)
+[1988](#1988), [1989](#1989), [1990](#1990), [1991](#1991), [1992](#1992), [1993](#1993), [1994](#1994), [1995](#1995), [1996](#1996), [1997](#1997), [1998](#1998), [2001](#2001), [2002](#2002), [2003](#2003), [2004](#2004), [2005](#2005), [2006](#2006), [2007](#2007), [2008](#2008), [2009](#2009), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2016](#2016), [2017](#2017), [2018](#2018), [2019](#2019)
+
+## 1988
+
+- **La empresa Spang´s fracasa su ERP** : [Spang´s invirtió una gran cantidad de dinero en un ERP fallido (Pag 243)](https://books.google.es/books?id=ldJFAAAAYAAJ&pg=PA187&lpg=PA187&dq=erp+failure+1995&source=bl&ots=FkTtNGFzBj&sig=ACfU3U2Zkgvs0KvtnGyFSUL4hVKlv2CJig&hl=es&sa=X&ved=2ahUKEwi74vX25IThAhX_A2MBHbCqAyEQ6AEwBnoECAgQAQ#v=onepage&q=erp%20failure%201995&f=false) (Fuente: Gregorio Largo Mayor)
+
+## 1989
 
 ## 1990
 
@@ -48,6 +54,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Unisource Worldwide Inc. (EE.UU)**: [SAP installation scuttled. (Unisource Worldwide abandons nationwide implementation of SAP enterprise software) (Company Operations)](https://business.highbeam.com/137376/article-1G1-20210791/sap-installation-scuttled) (Fuente: Héctor Martínez Moreno)
 - **Movex y Beijing Dabao Cosmetics Co. (China)**: [Case study on failed implementation of ERP systems](http://www.academia.edu/28508065/CASE_STUDY_ON_FAILED_IMPLEMENTATION_OF_ERP_SYSTEMS) (Fuente: Jorge Blázquez 
 - **PeopleSoft y la Universidad de Indiana** : [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
+- **El sistema de asistencia social del Estado de Florida** : [Pierde mas de 260 millones en sobre cargos, año indeterminado](https://www.streetdirectory.com/travel_guide/137436/enterprise_information_systems/a_recipe_and_ingredients_for_erp_failure.html) (Fuente: Gregorio Largo Mayor)
 
 ## 1999
 
@@ -226,6 +233,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **ERP desconocida y RBS (Royal Bank of Scoltand)**: [RBS Bank joins the IT failures ‘Hall of Shame’](https://www.enterpriseirregulars.com/50387/rbs-bank-joins-it-failures-hall-shame/) (Fuente: Oscar Potrony)
 - **Dynamics AX system y [Avanade](https://www.avanade.com/es-es)**: [Avanade sued over alleged ERP project failure](https://www.computerworld.com/article/2494380/data-center/avanade-sued-over-alleged-erp-project-failure.html) (Fuente: David Sáez)
 - **ERP desconocido y empresa gubernamental de EEUU**: [Lessons learned from a government ERP failure](https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/PANCONUS/P121121L.pdf) (Fuente: David Sáez)
+- **Norfolk Southern Corp.**: [113 millones en la integración de un sistema que no sale bien](https://www.streetdirectory.com/travel_guide/137436/enterprise_information_systems/a_recipe_and_ingredients_for_erp_failure.html) **Para saber mas sobre la empresa**: [Se intento integrar con un programa SAP](https://www.1edisource.com/norfolk-southern-implementation-changes/) (Fuente: Gregorio Largo Mayor)
 
 ## 2013
 
