@@ -289,3 +289,4 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 ## 2019
 
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf))  (Fuente: Carlos Allo)
+- **ERP desconocido y [Dogi](http://www.dogi.es/)**: [El grupo Dogi de Nextil sufre perdidas en ventas por su nuevo ERP](https://www.modaes.es/empresa/el-dueno-de-dogi-crece-un-167-en-2018-pero-engorda-sus-perdidas-por-la-reestructuracion.html)(Fuente: Alejandro Adell)
