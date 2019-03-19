@@ -99,8 +99,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ## 2003
 
-- **eMAG ERP and Omega**: [Explaining ERP Failure in a Developing Country: A Jordanian Case Study](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=52&ved=2ahUKEwjX-eG2toHhAhUFNOwKHRXsAGg4MhAWMAF6BAgJEAI&url=https%3A%2F%2Fwww.research.manchester.ac.uk%2Fportal%2Ffiles%2F27662627%2FPOST-PEER-REVIEW-NON-PUBLISHERS.PDF&usg=AOvVaw1PUnOb0IDRR7v0tzZttz_b) (Fuente: Víctor Fernández Melic)
-
 - **SAP y XYZ (nombre ficticio, diferente del caso 2002)**: [Learning from failed ERP implementation](http://www.apps2fusion.com/training_demo/ranu/erp_success_factors_ranu.pdf) (Fuente: Fernando Alegre)
 - **SAP y NASA (EE.UU.)**: [NASA systems: Houston, we have a problem](https://gcn.com/articles/2004/05/19/nasa-systems-houston-we-have-a-problem.aspx) (Fuente: Juan Vela)
 - **SAP e ICI**: [ICI pays price for side-effects of IT project](http://www.computerweekly.com/feature/ICI-pays-price-for-side-effects-of-IT-project) (Fuente: Darío Sánchez)
