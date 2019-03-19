@@ -6,8 +6,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ## 1988
 
-- **La empresa Spang´s fracasa su ERP** : [Spang´s invirtió una gran cantidad de dinero en un ERP fallido (Pag 243)](https://books.google.es/books?id=ldJFAAAAYAAJ&pg=PA187&lpg=PA187&dq=erp+failure+1995&source=bl&ots=FkTtNGFzBj&sig=ACfU3U2Zkgvs0KvtnGyFSUL4hVKlv2CJig&hl=es&sa=X&ved=2ahUKEwi74vX25IThAhX_A2MBHbCqAyEQ6AEwBnoECAgQAQ#v=onepage&q=erp%20failure%201995&f=false) (Fuente: Gregorio Largo Mayor)
-
 ## 1989
 
 ## 1990
@@ -54,7 +52,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Unisource Worldwide Inc. (EE.UU)**: [SAP installation scuttled. (Unisource Worldwide abandons nationwide implementation of SAP enterprise software) (Company Operations)](https://business.highbeam.com/137376/article-1G1-20210791/sap-installation-scuttled) (Fuente: Héctor Martínez Moreno)
 - **Movex y Beijing Dabao Cosmetics Co. (China)**: [Case study on failed implementation of ERP systems](http://www.academia.edu/28508065/CASE_STUDY_ON_FAILED_IMPLEMENTATION_OF_ERP_SYSTEMS) (Fuente: Jorge Blázquez)
 - **PeopleSoft y la Universidad de Indiana** : [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
-- **El sistema de asistencia social del Estado de Florida** : [Pierde mas de 260 millones en sobre cargos, año indeterminado](https://www.streetdirectory.com/travel_guide/137436/enterprise_information_systems/a_recipe_and_ingredients_for_erp_failure.html) (Fuente: Gregorio Largo Mayor)
 - **ERP desconocido y Applied Materials** : [ERP LECTURE 1 LEARNINGS](https://es.scribd.com/presentation/149512631/ERP-Ppt-Lecture1) , [Handbook of Research on Enterprise Systems](https://books.google.es/books?id=4rZf-Jt93ioC&pg=PT116&lpg=PT116&dq=Applied+Materials++%E2%80%93+overwhelmed+by+the+organizationalchanges+involved&source=bl&ots=2sFDRnA-tJ&sig=ACfU3U0KmC-105qPc1AHyiU6oePHj9VH_w&hl=es&sa=X&ved=2ahUKEwjvjLCWvoLhAhUk-YUKHUZPB3kQ6AEwAXoECAIQAQ#v=onepage&q=Applied%20Materials%20%20%E2%80%93%20overwhelmed%20by%20the%20organizationalchanges%20involved&f=false)(Fuente: Israel Solanas)
 
 ## 1999
@@ -69,6 +66,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y [Bang & Olufsen](https://www.bang-olufsen.com/es)** : [Bang & Olufsen complains of SAP implementation](https://www.computerworld.com.au/article/24734/bang_olufsen_complains_sap_implementation/) (Fuente: Celia Langa)
 - **SAP y Allied Waste Industries Inc. (EE.UU)**: [Trash Haulers Dump SAP Software; Firms Seek Cheaper, Easier Choices](https://www.wsj.com/articles/SB928875842177974323) (Fuente: Héctor Martínez Moreno)
 - **ERP desconocido y Mobile One**: Mención en  [The Enterprise Resource Planning Decade: Lessons Learned and Issues for the future](https://books.google.es/books?id=XHTt1mYJYPgC&pg=PA140&lpg=PA140&dq=Allied+Waste+Industries+erp+failure&source=bl&ots=BXqitsy8M1&sig=kwFuYxTBi0c4B6hxkNsQb7Min1U&hl=es&sa=X&ved=0ahUKEwj-_6O09NjZAhWLvxQKHbolCXMQ6AEINTAC#v=onepage&q=Allied%20Waste%20Industries%20erp%20failure&f=false) (Fuente: Héctor Martínez Moreno)
+- **ERP desconocido y Norfolk Southern Corp.**: [Systems integration with merger target Consolidated Rail Corp.](https://books.google.es/books?id=EtwRJJ9BI90C&pg=PT73#v=onepage&q&f=false)  (Fuente: Gregorio Largo Mayor)
 
 ## 2000
 
@@ -239,7 +237,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **ERP desconocida y RBS (Royal Bank of Scoltand)**: [RBS Bank joins the IT failures ‘Hall of Shame’](https://www.enterpriseirregulars.com/50387/rbs-bank-joins-it-failures-hall-shame/) (Fuente: Oscar Potrony)
 - **Dynamics AX system y [Avanade](https://www.avanade.com/es-es)**: [Avanade sued over alleged ERP project failure](https://www.computerworld.com/article/2494380/data-center/avanade-sued-over-alleged-erp-project-failure.html) (Fuente: David Sáez)
 - **ERP desconocido y empresa gubernamental de EEUU**: [Lessons learned from a government ERP failure](https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/PANCONUS/P121121L.pdf) (Fuente: David Sáez)
-- **Norfolk Southern Corp.**: [113 millones en la integración de un sistema que no sale bien](https://www.streetdirectory.com/travel_guide/137436/enterprise_information_systems/a_recipe_and_ingredients_for_erp_failure.html) **Para saber mas sobre la empresa**: [Se intento integrar con un programa SAP](https://www.1edisource.com/norfolk-southern-implementation-changes/) (Fuente: Gregorio Largo Mayor)
 
 ## 2013
 
