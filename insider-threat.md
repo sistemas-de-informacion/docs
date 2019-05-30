@@ -236,7 +236,7 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Fuente**: Diego Gálvez, completado por Miguel Bentué
   * **Descripción**: La NASA, debido a un grave error en la seguridad del borrado de información de los discos duros, puso a la venta al público 10 computadores a los que no se le formatearon los discos duros con información confidencial relativa al transbordador espacial y otros programas. Este fallo fue debido a que realizaron varias violaciones en las prácticas de seguridad de TI (tecnologías de la información) de la NASA.
   * **Estrategia**: La NASA confió demasiado en su sistema de borrado y no se preocupó de comprobarlo manualmente de que el sistema había formateado los discos duros con total éxito. Por tanto, una buena estrategía, y con un poco de sentido común, es haber asignado a un empleado comprobar si los computadores estaban limpios 100%, o haberles pasado más de un programa de limpieza por si alguno de los anteriores hubiera dejado rastros.
-  * **Solución**: En cuanto a las soluciones hay varias alternativas, se podrían cifrar los datos sensibles previamente de la NASA para evitar posibles sucesos como éste con el HRMS de [Peoplesoft](https://docs.oracle.com/cd/E40044_01/psft/acrobat/hcm92hhat-b0313.pdf) o externalizar el servicio de borrado a empresas como, por ejemplo, [Ontrack](https://www.ontrack.com/es/servicios/destruccion-de-datos/servicios-de-verificacion).
+  * **Solución**: En cuanto a las soluciones hay varias alternativas, se podría externalizar el servicio de borrado a empresas como, por ejemplo, [Ontrack](https://www.ontrack.com/es/servicios/destruccion-de-datos/servicios-de-verificacion).
 
 **2012**
 
