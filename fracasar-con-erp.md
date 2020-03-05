@@ -472,6 +472,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **SAP y [Lidl](https://www.lidl.es/es/index.htm)**: [Lidl cancels SAP introduction having sunk €500 million into it](https://www.consultancy.uk/news/18243/lidl-cancels-sap-introduction-having-sunk-500-million-into-it) (Fuente: Miguel López)
 
+- **SAP y [Revlon](https://es.wikipedia.org/wiki/Revlon)**: [How Revlon got sued by its own shareholders because of a failed SAP implementation](https://medium.com/@henricodolfing/case-study-how-revlon-got-sued-by-its-own-shareholders-because-of-a-failed-sap-implementation-58b66f1267fa) (Fuente: Luis García Garcés)
+
 ### 2019
 
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf)) (Fuente: Carlos Allo)
