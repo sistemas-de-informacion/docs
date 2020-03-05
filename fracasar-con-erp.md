@@ -476,6 +476,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf)) (Fuente: Carlos Allo)
 
+- **SAP y [LeasePlan](https://www.leaseplan.com/)**: [LeasePlan abandonne un projet SAP à 100 millions de dollars](https://www.lemondeinformatique.fr/actualites/lire-leaseplan-abandonne-un-projet-sap-a-100-millions-de-dollars-76980.html) ([Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million)) (Fuente: Fernando Bercedo)
+
 ## Década de 2020
 
 ### 2020
