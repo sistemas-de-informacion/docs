@@ -354,6 +354,11 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **SAP y Banco Columbia (Argentina)** : [Crónica de un fracaso: implementación ERP SAP de USD 30 Millones](https://www.evaluandoerp.com/cronica-de-un-fracaso-implementacion-erp-sap-de-usd-30-millones/) (Fuente: Israel Solanas)
 
+- **SAP y Ciudad de [Anchorage](https://es.wikipedia.org/wiki/Anchorage) (Alaska)**: 
+Instalación comenzó en 2011.
+[SAP Offers the City of Anchorage Alaska 85% Discount on ERP Software](https://upperedge.com/sap/sap-offers-the-city-of-anchorage-alaska-85-discount-on-erp-software/) (2015)
+[Anchorage SAP software upgrade continues to drain Anchorage funds](https://www.ktuu.com/content/news/Anchorage-SAP-software-upgrade-continues-to-drain-486787101.html) (2018),  (Fuente: Luis García Garcés)
+
 - **SAP y Deloitte Consulting (California)** : [County Alleges SAP, Deloitte Comprometido en Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés)
 
 - **SAP y Kentuky's Goverment**: [Auditor: state's HR software system has series of material](https://www.computerworld.com/article/2501737/auditor--state-s-hr-software-system-has-series-of--material-weaknesses-.html) (Fuente: David Ubide).
