@@ -469,6 +469,14 @@ Instalación comenzó en 2011.
 
 - **SAP y [MillerCoors](https://www.millercoors.com/)**: [MillerCoors sues HCL Tech for $100 million over failure to implement ERP project](http://www.zdnet.com/article/millercoors-sues-hcl-tech-for-100-million-over-failure-to-implement-erp-project/) (Fuente: Víctor Lafaja) [MillerCoors files $100M suit against HCL for flawed SAP implementation](https://upperedge.com/sap/millercoors-files-100m-suit-hcl-flawed-sap-implementation-know-like-know/) (Fuente: Pedro Tamargo)
 
+- **SAP y [Revlon](https://revlon.com)**: 
+Instalación en 2017. Problemas en 2018.
+[Revlon failed to fulfil product shipments of approximately "$64m" of net sales because of problems with an SAP ERP implementation](https://www.nasdaq.com/press-release/revlon-alert%3A-rosen-law-firm-first-file-securities-class-action-lawsuit-against)
+([Revlon Report](https://investors.revlon.com/news-releases/news-release-details/revlon-reports-second-quarter-2018-results)) (Fuente: Naval Alcalá)
+[How Revlon got sued by its own shareholders because of a failed SAP implementation](https://medium.com/@henricodolfing/case-study-how-revlon-got-sued-by-its-own-shareholders-because-of-a-failed-sap-implementation-58b66f1267fa) (Fuente: Pedro Tamargo)
+[Lessons from Revlon’s SAP Implementation Disaster](https://www.thirdstage-consulting.com/lessons-from-revlons-sap-implementation-disaster/) (Fuente: Antonio Lecina)
+[What was the Real Story with the Revlon S/4 HANA failure?] (https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López)
+
 - **SAP y [Under Armour](https://www.underarmour.com/)**: [Under Armour’s SAP implementation issues contribute to disappointing quarter](https://explorewms.com/under-armour-sap-implementation.html), [Under Armour Links Sales Decline to Software Upgrade](https://blogs.wsj.com/cio/2017/10/31/under-armour-links-sales-decline-to-software-upgrade/) (Fuente: Enrique Palacín), [Under Armour faces losses after ERP update](https://www.supplychaindive.com/news/under-armour-losses-ERP-update-supply-chain-disruption/510078/) (Hector Herrmann)
 
 ### 2018
@@ -481,11 +489,6 @@ Instalación comenzó en 2011.
 
 - **SAP y [Lidl](https://www.lidl.es/es/index.htm)**: [Lidl cancels SAP introduction having sunk €500 million into it](https://www.consultancy.uk/news/18243/lidl-cancels-sap-introduction-having-sunk-500-million-into-it) (Fuente: Miguel López)
 
-- **SAP y [Revlon](https://revlon.com)**: [Revlon failed to fulfil product shipments of approximately "$64m" of net sales because of problems with an SAP ERP implementation](https://www.nasdaq.com/press-release/revlon-alert%3A-rosen-law-firm-first-file-securities-class-action-lawsuit-against)
-([Revlon Report](https://investors.revlon.com/news-releases/news-release-details/revlon-reports-second-quarter-2018-results)) (Fuente: Naval Alcalá)
-[How Revlon got sued by its own shareholders because of a failed SAP implementation](https://medium.com/@henricodolfing/case-study-how-revlon-got-sued-by-its-own-shareholders-because-of-a-failed-sap-implementation-58b66f1267fa) (Fuente: Pedro Tamargo)
-[Lessons from Revlon’s SAP Implementation Disaster](https://www.thirdstage-consulting.com/lessons-from-revlons-sap-implementation-disaster/) (Fuente: Antonio Lecina)
-
 ### 2019
 
 - **SAP y [LeasePlan](https://www.leaseplan.com/es-es/)**: [Failed SAP implementation costs LeasePlan €100 million
@@ -496,5 +499,3 @@ Instalación comenzó en 2011.
 ## Década de 2020
 
 ### 2020
-
-* **2017-2019 SAP y [Devlon](https://www.revloninc.com/)** : [What was the Real Story with the Revlon S/4 HANA failure?] (https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López)
