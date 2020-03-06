@@ -92,7 +92,7 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **SAP y [Hershey's](http://www.hersheys.com/)**: [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.academia.edu/12467188/A_Case_Study_on_Hersheys_ERP_Implementation_Failure_The_Importance_of_Testing_and_Scheduling) (Fuente: Andrés Julián y Miguel López), [ERP Implementation Failure at Hershey Foods Corporation](https://edisciplinas.usp.br/pluginfile.php/4055166/mod_resource/content/1/Estudo%20de%20Caso%201.pdf) (Fuente: Yolanda Sánchez).
 
-- **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
+- **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles) [Article of Asian Journal of Business and Management] (https://ajouronline.com/index.php/AJBM/article/view/1541/868) (Fuente: Marta López)
 
 - **SAP y Whirpool**: [SAP: Whirlpool's rush to go live led to shipping snafus](http://www.computerworld.com.au/article/101068/sap_whirlpool_rush_led_shipping_snafus/) (Fuente: Alejandro Guiu)
 
