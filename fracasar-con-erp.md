@@ -201,7 +201,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **Oracle y Saudi Telecom (Arabia Saudí)**: [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
 
-- **SAP y [HP](http://www.hp.com/)**: [When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán) y [ERP implementation failure at HP](http://astro.temple.edu/~wurban/Case%20Studies/HP's%20ERP%20Failure.pdf) (Fuente: Santiago Morón). El último tiene formato de caso.
+- **SAP y [HP](http://www.hp.com/)**: [When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán) y [ERP implementation failure at HP](http://astro.temple.edu/~wurban/Case%20Studies/HP's%20ERP%20Failure.pdf) (Fuente: Santiago Morón). El último tiene formato de caso. [ERP Project implementation failure in HP](https://es.slideshare.net/GunjanKalita/erp-project-implementation-failure-in-hp)(Fuente: Marta López). El enlace de Santiago no funciona.
 
 ### 2005
 
