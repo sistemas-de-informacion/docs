@@ -121,6 +121,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **SAP y [Volkswagen](https://www.volkswagen.es/es.html)**: [ERP Problems Put Brakes On Volkswagen Parts Shipments](https://www.computerworld.com/article/2597195/erp-problems-put-brakes-on-volkswagen-parts-shipments.html) (Fuente: Celia Langa)
 
+- **ERP ficticio y [CosmeticCo,PharmaCo, ElectricCo, FurnitureCo, and StoneCo (Pseudonimos)](--)**: [ERP implementation failures in China: Case studies with implications for ERP vendors](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.937.3947&rep=rep1&type=pdf) (Fuente: Fernando Bercedo)
+
 ### 2001
 
 - **HPT(nombre ficticio) y Vicro Communications**: [The Relation Between BPR and ERP Systems: A failed project](http://www.cs.jyu.fi/el/itke50_03/Artikkelit/The%20Relation%20Between%20BPR%20and%20ERP%20Systems_%20A%20Failed%20Project%20IT5656_XZXCZQ282V.pdf) (Fuente: Andrés Soldevilla)
@@ -248,6 +250,9 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **SAP y Distrito Escolar de Los Ángeles (EE.UU.)**: [LA school district and Deloitte in $18m failure settlement](http://www.zdnet.com/article/la-school-district-and-deloitte-in-18m-failure-settlement/) (Fuente: Alejandro Guiu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
 
 - **SAP y [Waste Management](http://www.wm.com/index.jsp)**: [SAP fires back at Waste Management](http://www.cio.com/article/443864/SAP_Fires_Back_At_Waste_Management) (Fuente: Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo )
+
+- **Lawson Software y [Nonprofit](--)**: [Nonprofit Sues Lawson Over Alleged ERP Failure](https://www.cio.com/article/2425363/nonprofit-sues-lawson-over-alleged-erp-failure.html) ( Fuente: Fernando Bercedo )
+
 
 ### 2008
 
@@ -476,7 +481,13 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf)) (Fuente: Carlos Allo)
 
-- **SAP y [LeasePlan](https://www.leaseplan.com/)**: [LeasePlan abandonne un projet SAP à 100 millions de dollars](https://www.lemondeinformatique.fr/actualites/lire-leaseplan-abandonne-un-projet-sap-a-100-millions-de-dollars-76980.html) ([Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million)) (Fuente: Fernando Bercedo)
+- **SAP y [LeasePlan](https://www.leaseplan.com/)**: [Case Study 10: LeasePlan Paid $100 Million for a SAP System That Never Went Live](https://www.henricodolfing.com/2020/01/project-failure-case-study-leaseplan-sap.html) ([Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million)) (Fuente: Fernando Bercedo)
+
+- **SAP y [QLD Health's](--)**: [Qld Health's new SAP ERP wobbles in week one](https://www.itnews.com.au/news/qld-healths-new-sap-erp-wobbles-in-week-one-529400) ([Qld Health's new SAP ERP system draws scrutiny](https://www.itnews.com.au/news/qld-healths-new-sap-erp-system-draws-scrutiny-537814)) (Fuente: Fernando Bercedo)
+
+
+ERP implementation failures in China: Case studies with implications for ERP vendors
+
 
 ## Década de 2020
 
