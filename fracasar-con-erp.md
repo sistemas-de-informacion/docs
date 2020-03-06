@@ -459,7 +459,7 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **SAP y Ayuntamiento de Auckland (Nueva Zelanda)**: [Auckland Council's NewCore SAP project heads for the finish line](https://www.reseller.co.nz/article/619905/auckland-council-newcore-sap-project-heads-finish-line/) (Fuente: David Ubide)
 
-- **SAP y [MillerCoors](https://www.millercoors.com/)**: [MillerCoors sues HCL Tech for $100 million over failure to implement ERP project](http://www.zdnet.com/article/millercoors-sues-hcl-tech-for-100-million-over-failure-to-implement-erp-project/) (Fuente: Víctor Lafaja)
+- **SAP y [MillerCoors](https://www.millercoors.com/)**: [MillerCoors sues HCL Tech for $100 million over failure to implement ERP project](http://www.zdnet.com/article/millercoors-sues-hcl-tech-for-100-million-over-failure-to-implement-erp-project/) (Fuente: Víctor Lafaja) [MillerCoors files $100M suit against HCL for flawed SAP implementation](https://upperedge.com/sap/millercoors-files-100m-suit-hcl-flawed-sap-implementation-know-like-know/) (Fuente: Pedro Tamargo)
 
 - **SAP y [Under Armour](https://www.underarmour.com/)**: [Under Armour’s SAP implementation issues contribute to disappointing quarter](https://explorewms.com/under-armour-sap-implementation.html), [Under Armour Links Sales Decline to Software Upgrade](https://blogs.wsj.com/cio/2017/10/31/under-armour-links-sales-decline-to-software-upgrade/) (Fuente: Enrique Palacín), [Under Armour faces losses after ERP update](https://www.supplychaindive.com/news/under-armour-losses-ERP-update-supply-chain-disruption/510078/) (Hector Herrmann)
 
@@ -472,6 +472,8 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 - **SAP y [Haribo](https://www.haribo.com/esES/pagina-de-inicio.html)**: [Haribo can't bear SAP S/4HANA implementation](https://searchsap.techtarget.com/feature/Haribo-cant-bear-SAP-S-4HANA-implementation) (Fuente: Carlos Allo), [Lessons from the SAP Transformation Problems at Haribo](https://www.thirdstage-consulting.com/lessons-from-the-sap-transformation-problems-at-haribo/) (Fuente: Carlos Allo)
 
 - **SAP y [Lidl](https://www.lidl.es/es/index.htm)**: [Lidl cancels SAP introduction having sunk €500 million into it](https://www.consultancy.uk/news/18243/lidl-cancels-sap-introduction-having-sunk-500-million-into-it) (Fuente: Miguel López)
+
+- **SAP y [Revlon](https://www.revlon.com/)**: [How Revlon got sued by its own shareholders because of a failed SAP implementation](https://medium.com/@henricodolfing/case-study-how-revlon-got-sued-by-its-own-shareholders-because-of-a-failed-sap-implementation-58b66f1267fa) (Fuente: Pedro Tamargo)
 
 ### 2019
 
