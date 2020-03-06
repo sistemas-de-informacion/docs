@@ -473,14 +473,13 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **SAP y [Lidl](https://www.lidl.es/es/index.htm)**: [Lidl cancels SAP introduction having sunk €500 million into it](https://www.consultancy.uk/news/18243/lidl-cancels-sap-introduction-having-sunk-500-million-into-it) (Fuente: Miguel López)
 
-- **SAP y [Revlon](https://www.revlon.com/)**: [How Revlon got sued by its own shareholders because of a failed SAP implementation](https://medium.com/@henricodolfing/case-study-how-revlon-got-sued-by-its-own-shareholders-because-of-a-failed-sap-implementation-58b66f1267fa) (Fuente: Pedro Tamargo)
+- **SAP y [Revlon](https://revlon.com)**: [Revlon failed to fulfil product shipments of approximately "$64m" of net sales because of problems with an SAP ERP implementation](https://www.nasdaq.com/press-release/revlon-alert%3A-rosen-law-firm-first-file-securities-class-action-lawsuit-against)
+([Revlon Report](https://investors.revlon.com/news-releases/news-release-details/revlon-reports-second-quarter-2018-results)) (Fuente: Naval Alcalá)
+[How Revlon got sued by its own shareholders because of a failed SAP implementation](https://medium.com/@henricodolfing/case-study-how-revlon-got-sued-by-its-own-shareholders-because-of-a-failed-sap-implementation-58b66f1267fa) (Fuente: Pedro Tamargo)
 
 ### 2019
 
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf)) (Fuente: Carlos Allo)
-
-
-- **SAP y [Revlon](https://revlon.com)**: [Revlon failed to fulfil product shipments of approximately "$64m" of net sales because of problems with an SAP ERP implementation](https://www.nasdaq.com/press-release/revlon-alert%3A-rosen-law-firm-first-file-securities-class-action-lawsuit-against) ([Revlon Report](https://investors.revlon.com/news-releases/news-release-details/revlon-reports-second-quarter-2018-results)) (Fuente: Naval Alcalá)
 
 ## Década de 2020
 
