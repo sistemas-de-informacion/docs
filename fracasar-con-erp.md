@@ -299,6 +299,8 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **SAP y [Shane Co](http://www.shaneco.com/)**: [Shane Company: Lessons Learned From an ERP Implementation Failure](http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/) (Fuente: Alejandro Bean), [Shane says SAP costs helped cause jeweler’s decline](https://www.computerworld.com/article/2530405/it-careers/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html) (Fuente: Iván Escuín)
 
+- **ERPs desconocidos y [UK Council of Research](https://www.ukri.org/)**: [65 per cent overspend in the project (study made by NAO)](https://www.nao.org.uk/wp-content/uploads/2011/10/n10121459.pdf) (Fuente: Javier Ortega), 
+
 ## Década de 2010
 
 ### 2010
