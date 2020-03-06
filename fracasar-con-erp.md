@@ -480,6 +480,9 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 ### 2019
 
+- **SAP y [LeasePlan](https://www.leaseplan.com/es-es/)**: [Failed SAP implementation costs LeasePlan €100 million
+](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) (Fuente: Félix García)
+
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf)) (Fuente: Carlos Allo)
 
 ## Década de 2020
