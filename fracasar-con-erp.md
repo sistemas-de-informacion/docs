@@ -496,3 +496,5 @@ Instalación comenzó en 2011.
 ## Década de 2020
 
 ### 2020
+
+* **2017-2019 SAP y [Devlon](https://www.revloninc.com/)** : [What was the Real Story with the Revlon S/4 HANA failure?] (https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López)
