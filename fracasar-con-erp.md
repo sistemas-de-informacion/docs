@@ -114,7 +114,7 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **Oracle y [Tri-Valley Growers](http://ageconsearch.umn.edu/bitstream/56923/2/SextonTVG.pdf)**: [Cooperative sues Oracle over integration debacle](http://www.computerworld.com/article/2592888/it-management/cooperative-sues-oracle-over-integration-debacle.html) (Fuente: Raul Piracés)
 
-- **Oracle y la Universidad de Cambridge (RU)**: [Cambridge may sue Oracle, KPMG for failed system](http://www.hks.harvard.edu/m-rcbg/ethiopia/Publications/Cambridge%20may%20sue%20Oracle,%20KPMG%20for%20failed%20system.pdf) (Fuente: Beatriz Franco)
+- **Oracle y la Universidad de Cambridge (RU)**: [CAPSA and its implementation] (https://www.admin.cam.ac.uk/reporter/2001-02/weekly/5861/1.html) (Fuente: Alex Sanz)
 
 - **Oracle y King County University (EE.UU.)**: [King County ready to restart ERP effort](http://www.computerworld.com/article/2557409/enterprise-resource-planning/king-county-ready-to-restart-erp-effort.html) (Fuente: Victor Beltrán)
 
