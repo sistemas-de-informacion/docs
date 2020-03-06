@@ -53,7 +53,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 ### 1998
 
 - **Baan y AML (Egipto)**: [ERP Customization Failure: Institutionalized Accounting Practices,
-Power Relations and Market Forces](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.426.5108&rep=rep1&type=pdf) (Fuente: Alejandro Solanas)
+Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (Fuente: Alejandro Solanas)
 
 - **ERP desconocido y Applied Materials** : [ERP LECTURE 1 LEARNINGS](https://es.scribd.com/presentation/149512631/ERP-Ppt-Lecture1) , [Handbook of Research on Enterprise Systems](https://books.google.es/books?id=4rZf-Jt93ioC&pg=PT116&lpg=PT116&dq=Applied+Materials++%E2%80%93+overwhelmed+by+the+organizationalchanges+involved&source=bl&ots=2sFDRnA-tJ&sig=ACfU3U0KmC-105qPc1AHyiU6oePHj9VH_w&hl=es&sa=X&ved=2ahUKEwjvjLCWvoLhAhUk-YUKHUZPB3kQ6AEwAXoECAIQAQ#v=onepage&q=Applied%20Materials%20%20%E2%80%93%20overwhelmed%20by%20the%20organizationalchanges%20involved&f=false)(Fuente: Israel Solanas)
 
