@@ -399,6 +399,8 @@ Instalación comenzó en 2011.
 
 - **SAP y NPower (UK)**: [Npower's SAP billing fiasco still making a dent on profits](http://www.computerworlduk.com/news/it-vendors/npowers-billing-fiasco-will-be-resolved-in-two-months-3517010/) (Fuente: Alejandro Guiu)
 
+- **H.B.Fuller (EE.UU)**: [H.B.Fuller wins case against Accenture](http://www.startribune.com/h-b-fuller-wins-case-against-accenture/347256802/) (Fuente: Ramón Jarauta)
+
 ### 2013
 
 - **Microsoft Dynamics y [ScanSource](http://www.scansource.com/en)** : [Another Year, Another ERP Lawsuit: Accenture/Microsoft Joint-Venture Sued for Bait-and-Switch Tactics](http://spectrum.ieee.org/riskfactor/computing/it/another-year-another-erp-lawsuit-accenturemicrosoft-jointventure-sued-for-baitandswitch-tactics) (Fuente: Julián Liaño)
@@ -417,6 +419,10 @@ Instalación comenzó en 2011.
 - **SAP y una gran organización (Sudáfrica)**: [Learning From a Failed ERP implementation: The Case of a Large South African Organization](https://www.researchgate.net/publication/269928636_Learning_From_a_Failed_ERP_implementation_The_Case_of_a_Large_South_African_Organization) (Fuente: Jorge Blázquez Hernández)
 
 - **Varios contratistas y Department of Health and Human Services (EE.UU.)**: [Millions lost by ERP System in Government](https://freebalance.com/uncategorized/millions-lost-by-erp-system-in-government/) (Fuente: Íñigo Úriz)
+
+- **Sacramento City Schools (EE.UU.)**: [Like taking candy from a baby: Sacramento Schools claim workday took advantage of them and file suit](https://upperedge.com/workday/like-taking-candy-from-a-baby-sacramento-schools-claim-workday-took-advantage-of-them-and-file-suit/) (Fuente: Ramón Jarauta)
+
+- **Los Angeles Department of Water and Power (EE.UU) **: [DWP billing problems blamed on inexperienced managers and consultants](https://www.dailynews.com/2014/11/18/dwp-billing-problems-blamed-on-inexperienced-managers-and-consultants-report-says/) (Fuente: Ramón Jarauta)
 
 ### 2014
 
@@ -443,6 +449,8 @@ Instalación comenzó en 2011.
 - **Siebel CRM y [Vodafone(UK)](https://www.vodafone.co.uk/)**: [Vodafone’s £4.6m CRM fine – when IT projects attack](https://diginomica.com/2016/10/26/vodafones-4-6m-customer-service-fine-when-it-projects-attack/) (Fuente: Marta Blanco).
 
 - **SAP y Woolworth (Australia)** : [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
+
+- **Co-Op Insurance (UK)** : [Co-Op Insurance sues IBM for breach of contract](https://upperedge.com/ibm/co-op-insurance-sues-ibm-for-breach-of-contract/) (Fuente: Ramón Jarauta)
 
 ### 2016
 
