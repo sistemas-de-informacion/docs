@@ -24,7 +24,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ### 1993
 
-- **Empresa consultora y [Greyhound Lines](https://www.greyhound.com/)**: [Greyhound Seeks Salvation in a Strategic Reservation System](https://nanopdf.com/download/greyhound-seeks-salvation-in-a-strategic-reservation-system_pdf) (Fuente: Miguel Bolsa)
+- **Empresa consultora y [Greyhound Lines](https://www.greyhound.com/)**: [How Greyhound Lines re-engineered itself right into a deep hole](http://business.baylor.edu/Charles_Davis/courses/acc5317/articles/toms1094.htm)
 
 - **SAP y Comp Group (nombre ficticio)**: [Al-Mashari, M., & Al-Mudimigh, A. (2003). ERP implementation: Lessons from a case study. Information Technology & People, 16(1), 21.](https://pdfs.semanticscholar.org/608a/1a36f5059f59cc5bed3bfeaca1a12b3cf033.pdf) (Fuente: Eduardo Navarro y Yolanda Sánchez).
 
