@@ -497,6 +497,8 @@ Instalación en 2017. Problemas en 2018.
 
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf)) (Fuente: Carlos Allo)
 
+- **SAP y [Revlon](https://www.revlon.com/)**: [Revlon shares slide 6.9% after report of material weakness in financial controls](https://www.marketwatch.com/story/revlon-shares-slide-65-after-report-of-material-weakness-in-financial-controls-2019-03-19)  (Fuente: Javier Ortega)
+
 ## Década de 2020
 
 ### 2020
