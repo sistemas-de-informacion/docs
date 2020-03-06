@@ -24,7 +24,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ### 1993
 
-- **Empresa consultora y [Greyhound Lines](https://www.greyhound.com/)**: [Greyhound Seeks Salvation in a Strategic Reservation System](https://fenix.tecnico.ulisboa.pt/downloadFile/3779571477675/Caso-Final-Greyhound) (Fuente: Miguel Bolsa)
+- **Empresa consultora y [Greyhound Lines](https://www.greyhound.com/)**: [How Greyhound Lines re-engineered itself right into a deep hole](http://business.baylor.edu/Charles_Davis/courses/acc5317/articles/toms1094.htm)
 
 - **SAP y Comp Group (nombre ficticio)**: [Al-Mashari, M., & Al-Mudimigh, A. (2003). ERP implementation: Lessons from a case study. Information Technology & People, 16(1), 21.](https://pdfs.semanticscholar.org/608a/1a36f5059f59cc5bed3bfeaca1a12b3cf033.pdf) (Fuente: Eduardo Navarro y Yolanda Sánchez).
 
@@ -52,7 +52,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ### 1998
 
-- **Baan y AML (Egipto)**: [ERP Customization Failure](https://core.ac.uk/download/files/14/334101.pdf) (Fuente: Alejandro Solanas)
+- **Baan y AML (Egipto)**: [ERP Customization Failure: Institutionalized Accounting Practices,
+Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (Fuente: Alejandro Solanas)
 
 - **ERP desconocido y Applied Materials** : [ERP LECTURE 1 LEARNINGS](https://es.scribd.com/presentation/149512631/ERP-Ppt-Lecture1) , [Handbook of Research on Enterprise Systems](https://books.google.es/books?id=4rZf-Jt93ioC&pg=PT116&lpg=PT116&dq=Applied+Materials++%E2%80%93+overwhelmed+by+the+organizationalchanges+involved&source=bl&ots=2sFDRnA-tJ&sig=ACfU3U0KmC-105qPc1AHyiU6oePHj9VH_w&hl=es&sa=X&ved=2ahUKEwjvjLCWvoLhAhUk-YUKHUZPB3kQ6AEwAXoECAIQAQ#v=onepage&q=Applied%20Materials%20%20%E2%80%93%20overwhelmed%20by%20the%20organizationalchanges%20involved&f=false)(Fuente: Israel Solanas)
 
@@ -475,6 +476,9 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 ### 2019
 
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf)) (Fuente: Carlos Allo)
+
+
+- **SAP y [Revlon](https://revlon.com)**: [Revlon failed to fulfil product shipments of approximately "$64m" of net sales because of problems with an SAP ERP implementation](https://www.nasdaq.com/press-release/revlon-alert%3A-rosen-law-firm-first-file-securities-class-action-lawsuit-against) ([Revlon Report](https://investors.revlon.com/news-releases/news-release-details/revlon-reports-second-quarter-2018-results)) (Fuente: Naval Alcalá)
 
 ## Década de 2020
 
