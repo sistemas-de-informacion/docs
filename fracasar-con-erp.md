@@ -109,6 +109,11 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **Baan y Dexter Axle (EE.UU.):** [DEXTER AXLE COMPANY v. BAAN USA INC](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) (Fuente: Guillermo Azón)
 
+- **EDS y [British Sky Broadcasting (BSkyB)](https://corporate.sky.com/)**:
+El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un coste 5 veces mayor. 
+[BSkyB and EDS settle IT dispute for £318 million](http://www.out-law.com/page-11089) (Fuente: Jorge Beamud)
+[British Sky Broadcasting (BSkyB) (Catalogue of Catastrophe)](http://calleam.com/WTPF/?p=5420) (Fuente: Eduardo Gimeno)
+
 - **i2 y Nike**: [Nike Rebounds and Why Nike Recovered from its Supply Chain Disaster](http://www.cio.com/article/2439601/supply-chain-management/nike-rebounds--how--and-why--nike-recovered-from-its-supply-chain-disaster.html)  (Fuente: Adrián Gañán, corregido por Rubén Moreno) . Página con información ampliada del tema: [Nike Case Study Analysis: ERP System Failure](https://myassignmenthelp.com/free-samples/nike-case-study-analysis-erp-system-failure) ( Fuente : Adrián Crespo )
 
 - **Intentia AB y CosmeticCo (nombre ficticio, China)**: [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
@@ -148,8 +153,6 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 ### 2002
 
 - **Adage y Raskas Foods**: [Case Study #1 : Failled implementation at Raskas Foods Inc](http://slideplayer.com/slide/7414624/) (Fuente : Laura Calderón)
-
-- **EDS y [British Sky Broadcasting](https://corporate.sky.com/)**: [Sky's CRM plans were too vague to blame us, says EDS](http://www.computerworlduk.com/news/it-management/skys-crm-plans-were-too-vague-to-blame-us-says-eds-5867/) (Fuente: Catalin Dumitrache) y [BSkyB and EDS settle IT dispute for £318 million](http://www.out-law.com/page-11089) (Fuente: Jorge Beamud)
 
 - **ERP desconocido y alguna embotelladora americana**: [ERP implementation failure: a case study](http://docplayer.net/6768854-Erp-implementation-failure-a-case-study.html) (Fuente: Sandra Campos, actualizada por Beatriz Pérez)
 
@@ -404,6 +407,10 @@ Instalación comenzó en 2011.
 
 - **SAP y NPower (UK)**: [Npower's SAP billing fiasco still making a dent on profits](http://www.computerworlduk.com/news/it-vendors/npowers-billing-fiasco-will-be-resolved-in-two-months-3517010/) (Fuente: Alejandro Guiu)
 
+- **SAP y H.B.Fuller**: 
+El proyecto *Project One* valorado en 60M$ se inicia en 2012 y cuando se despliega en 2014 causa 20M$ de pérdidas directas. 
+[H.B. Fuller wins case against Accenture](http://www.startribune.com/h-b-fuller-wins-case-against-accenture/347256802/) (Fuente: Eduardo Gimeno)
+
 ### 2013
 
 - **Microsoft Dynamics y [ScanSource](http://www.scansource.com/en)** : [Another Year, Another ERP Lawsuit: Accenture/Microsoft Joint-Venture Sued for Bait-and-Switch Tactics](http://spectrum.ieee.org/riskfactor/computing/it/another-year-another-erp-lawsuit-accenturemicrosoft-jointventure-sued-for-baitandswitch-tactics) (Fuente: Julián Liaño)
@@ -423,6 +430,11 @@ Instalación comenzó en 2011.
 
 - **Varios contratistas y Department of Health and Human Services (EE.UU.)**: [Millions lost by ERP System in Government](https://freebalance.com/uncategorized/millions-lost-by-erp-system-in-government/) (Fuente: Íñigo Úriz)
 
+- **SAP y Sacramento City Schools**:
+La instalación estaba prevista entre agosto de 2014 y octubre de 2015. 
+Los sucesivos retrasos y que el proyecto no pasara el 70% de las pruebas de aceptación hicieron que el proyecto se abandonara en noviembre de 2016.
+[Like Taking Candy from a Baby: Sacramento Schools Claim Workday Took Advantage of Them and File Suit](https://upperedge.com/workday/like-taking-candy-from-a-baby-sacramento-schools-claim-workday-took-advantage-of-them-and-file-suit/) (Fuente: Eduardo Gimeno)
+
 ### 2014
 
 - **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**: [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.wayferry.com/blog/cubic-corporation-missing-roi) (Fuente: Miguel Bentué)
@@ -436,6 +448,11 @@ Instalación comenzó en 2011.
 - **SAP y [Dow Chemical Company](https://www.dow.com/en-us)**: [Dow Chemical CIO Says Another 8-Year ERP Project Is Unimaginable](https://blogs.wsj.com/cio/2015/11/30/dow-chemical-cio-says-another-8-year-erp-project-is-unimaginable/), [ERP Project Failures](http://www.synergy-software.com/blog/?p=4978) (Fuente: Israel Solanas)
 
 - **SAP Y Ω (China)**: [A Case Study in Chinese Failure in ERP Implementation](https://www.ajouronline.com/index.php/AJBM/article/view/1541) (Fuente: Adrián Casans)
+
+- **SAP y Southeast Power Group Inc**: 
+El proyecto comenzó en 2014 con un plazo de despliegue en 1 año. 
+El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróficos. 
+[For one company, an ERP project failure is now a court battle](https://searcherp.techtarget.com/news/252477642/For-one-company-an-ERP-project-failure-is-now-a-court-battle) (Fuente: Eduardo Gimeno)
 
 ### 2015
 
