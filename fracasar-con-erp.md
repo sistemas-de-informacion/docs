@@ -70,8 +70,11 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 - **SAP y ElectricCo (nombre ficticio, China)**: [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
 
 - **SAP y FurnitureCo (nombre ficticio, China)**: [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
+
 - **SAP y Grainger (EE.UU)**: [ERP woes cut Grainger profits](http://www.computerworld.com/article/2593478/erp-woes-cut-grainger-profits.html) (Fuente : Catalin Dumitrache)
-- **SAP y Unisource Worldwide Inc. (EE.UU)**: [SAP installation scuttled. (Unisource Worldwide abandons nationwide implementation of SAP enterprise software) (Company Operations)](https://business.highbeam.com/137376/article-1G1-20210791/sap-installation-scuttled) (Fuente: Héctor Martínez Moreno)
+
+- **SAP y Unisource Worldwide Inc. (EE.UU)**: [Critical issues affecting an ERP implementation](http://carl.sandiego.edu/gba573/critical_issues_affecting_an_erp.htm) (Fuente: Alex Sanz)
+
 - **SAP y Water Corporation (nombre ficticio)**: [Issues in implementing ERP: A case study](https://www.researchgate.net/publication/222653996_Issues_in_implementing_ERP_A_case_study) (Fuente: Javier Tello, corregido por Fernando Alegre)
 
 ### 1999
@@ -90,7 +93,9 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **SAP y Dow Corning Corporation**  [Business Processes and Information Technology](http://dspace.mit.edu/bitstream/handle/1721.1/2652/SWP-3951-37733560-CISR-298.pdf), que explica por qué abandonan una inversión de 500 M$ en SAP R/2, [Transforming the Organization](http://dspace.mit.edu/bitstream/handle/1721.1/2750/SWP-4073-43797558-CISR-305.pdf) (Fuente: Marta Frías), caso que describe la migración de SAP R/2 a SAP R/3.
 
-- **SAP y [Hershey's](http://www.hersheys.com/)**: [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.academia.edu/12467188/A_Case_Study_on_Hersheys_ERP_Implementation_Failure_The_Importance_of_Testing_and_Scheduling) (Fuente: Andrés Julián y Miguel López), [ERP Implementation Failure at Hershey Foods Corporation](https://edisciplinas.usp.br/pluginfile.php/4055166/mod_resource/content/1/Estudo%20de%20Caso%201.pdf) (Fuente: Yolanda Sánchez).
+- **SAP y [Hershey's](http://www.hersheys.com/)**: 
+[A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.academia.edu/12467188/A_Case_Study_on_Hersheys_ERP_Implementation_Failure_The_Importance_of_Testing_and_Scheduling) (Fuente: Andrés Julián y Miguel López),
+[ERP Implementation Failure at Hershey Foods Corporation](https://edisciplinas.usp.br/pluginfile.php/4055166/mod_resource/content/1/Estudo%20de%20Caso%201.pdf) (Fuente: Yolanda Sánchez).
 
 - **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 
@@ -114,7 +119,7 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **Oracle y [Tri-Valley Growers](http://ageconsearch.umn.edu/bitstream/56923/2/SextonTVG.pdf)**: [Cooperative sues Oracle over integration debacle](http://www.computerworld.com/article/2592888/it-management/cooperative-sues-oracle-over-integration-debacle.html) (Fuente: Raul Piracés)
 
-- **Oracle y la Universidad de Cambridge (RU)**: [Cambridge may sue Oracle, KPMG for failed system](http://www.hks.harvard.edu/m-rcbg/ethiopia/Publications/Cambridge%20may%20sue%20Oracle,%20KPMG%20for%20failed%20system.pdf) (Fuente: Beatriz Franco)
+- **Oracle y la Universidad de Cambridge (RU)**: [CAPSA and its implementation] (https://www.admin.cam.ac.uk/reporter/2001-02/weekly/5861/1.html) (Fuente: Alex Sanz)
 
 - **Oracle y King County University (EE.UU.)**: [King County ready to restart ERP effort](http://www.computerworld.com/article/2557409/enterprise-resource-planning/king-county-ready-to-restart-erp-effort.html) (Fuente: Victor Beltrán)
 
@@ -494,9 +499,11 @@ Instalación en 2017. Problemas en 2018.
 
 - **SAP y [LeasePlan](https://www.leaseplan.com/es-es/)**: [Failed SAP implementation costs LeasePlan €100 million
 ](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) (Fuente: Félix García)
+[The Hidden S/4 HANNA Failure at LeasePlan] (https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz)
 
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf)) (Fuente: Carlos Allo)
 
+ 
 ## Década de 2020
 
 ### 2020
