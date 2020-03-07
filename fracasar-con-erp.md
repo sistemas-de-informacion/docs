@@ -426,6 +426,10 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 
 - **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**: [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.wayferry.com/blog/cubic-corporation-missing-roi) (Fuente: Miguel Bentué)
 
+- **IBM y Co-Op Insurance (UK)** :
+El proyecto debía estar listo para el 2015. Tras 15 meses de retraso acabaron en los tribunales. 
+[Co-Op Insurance sues IBM for breach of contract](https://upperedge.com/ibm/co-op-insurance-sues-ibm-for-breach-of-contract/) (Fuente: Ramón Jarauta)
+
 - **NetSuite y Kentwool**: [NetSuite socked with lawsuit by textile manufacturer](https://www.pcworld.com/article/2451980/netsuite-socked-with-lawsuit-by-textile-manufacturer.html) (Fuente: Alberto Mur)
 
 - **SAP, Oracle y TomorrowNow**: [Oracle, SAP settle long-running TomorrowNow lawsuit](http://www.reuters.com/article/us-oracle-sap-se-settlement-idUSKCN0IX2RJ20141113) (Fuente: Alfonso Delgado)
@@ -447,8 +451,6 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 - **Siebel CRM y [Vodafone(UK)](https://www.vodafone.co.uk/)**: [Vodafone’s £4.6m CRM fine – when IT projects attack](https://diginomica.com/2016/10/26/vodafones-4-6m-customer-service-fine-when-it-projects-attack/) (Fuente: Marta Blanco).
 
 - **SAP y Woolworth (Australia)** : [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
-
-- **Co-Op Insurance (UK)** : [Co-Op Insurance sues IBM for breach of contract](https://upperedge.com/ibm/co-op-insurance-sues-ibm-for-breach-of-contract/) (Fuente: Ramón Jarauta)
 
 ### 2016
 
