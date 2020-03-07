@@ -70,8 +70,11 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 - **SAP y ElectricCo (nombre ficticio, China)**: [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
 
 - **SAP y FurnitureCo (nombre ficticio, China)**: [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
+
 - **SAP y Grainger (EE.UU)**: [ERP woes cut Grainger profits](http://www.computerworld.com/article/2593478/erp-woes-cut-grainger-profits.html) (Fuente : Catalin Dumitrache)
-- **SAP y Unisource Worldwide Inc. (EE.UU)**: [CRITICAL ISSUES AFFECTING AN ERP IMPLEMENTATION](http://carl.sandiego.edu/gba573/critical_issues_affecting_an_erp.htm) (Fuente: Alex Sanz)
+
+- **SAP y Unisource Worldwide Inc. (EE.UU)**: [Critical issues affecting an ERP implementation](http://carl.sandiego.edu/gba573/critical_issues_affecting_an_erp.htm) (Fuente: Alex Sanz)
+
 - **SAP y Water Corporation (nombre ficticio)**: [Issues in implementing ERP: A case study](https://www.researchgate.net/publication/222653996_Issues_in_implementing_ERP_A_case_study) (Fuente: Javier Tello, corregido por Fernando Alegre)
 
 ### 1999
