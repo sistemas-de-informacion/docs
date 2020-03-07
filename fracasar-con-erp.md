@@ -418,9 +418,9 @@ Instalación comenzó en 2011.
 
 - **Varios contratistas y Department of Health and Human Services (EE.UU.)**: [Millions lost by ERP System in Government](https://freebalance.com/uncategorized/millions-lost-by-erp-system-in-government/) (Fuente: Íñigo Úriz)
 
-- **Sacramento City Schools (EE.UU.)**: [Like taking candy from a baby: Sacramento Schools claim workday took advantage of them and file suit](https://upperedge.com/workday/like-taking-candy-from-a-baby-sacramento-schools-claim-workday-took-advantage-of-them-and-file-suit/) (Fuente: Ramón Jarauta)
-
-- **Los Angeles Department of Water and Power (EE.UU) **: [DWP billing problems blamed on inexperienced managers and consultants](https://www.dailynews.com/2014/11/18/dwp-billing-problems-blamed-on-inexperienced-managers-and-consultants-report-says/) (Fuente: Ramón Jarauta)
+- **Price Waterhouse Cooper(implementador) y Los Angeles Department of Water and Power(DWP) (EE.UU)**: 
+Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas.
+[DWP billing problems blamed on inexperienced managers and consultants](https://www.dailynews.com/2014/11/18/dwp-billing-problems-blamed-on-inexperienced-managers-and-consultants-report-says/) (Fuente: Ramón Jarauta)
 
 ### 2014
 
