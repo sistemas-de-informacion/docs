@@ -104,6 +104,11 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **Baan y Dexter Axle (EE.UU.):** [DEXTER AXLE COMPANY v. BAAN USA INC](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) (Fuente: Guillermo Azón)
 
+- **EDS y [British Sky Broadcasting (BSkyB)](https://corporate.sky.com/)**:
+El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un coste 5 veces mayor. 
+[BSkyB and EDS settle IT dispute for £318 million](http://www.out-law.com/page-11089) (Fuente: Jorge Beamud)
+[British Sky Broadcasting (BSkyB) (Catalogue of Catastrophe)](http://calleam.com/WTPF/?p=5420) (Fuente: Eduardo Gimeno)
+
 - **i2 y Nike**: [Nike Rebounds and Why Nike Recovered from its Supply Chain Disaster](http://www.cio.com/article/2439601/supply-chain-management/nike-rebounds--how--and-why--nike-recovered-from-its-supply-chain-disaster.html)  (Fuente: Adrián Gañán, corregido por Rubén Moreno) . Página con información ampliada del tema: [Nike Case Study Analysis: ERP System Failure](https://myassignmenthelp.com/free-samples/nike-case-study-analysis-erp-system-failure) ( Fuente : Adrián Crespo )
 
 - **Intentia AB y CosmeticCo (nombre ficticio, China)**: [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
@@ -143,8 +148,6 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 ### 2002
 
 - **Adage y Raskas Foods**: [Case Study #1 : Failled implementation at Raskas Foods Inc](http://slideplayer.com/slide/7414624/) (Fuente : Laura Calderón)
-
-- **EDS y [British Sky Broadcasting](https://corporate.sky.com/)**: [Sky's CRM plans were too vague to blame us, says EDS](http://www.computerworlduk.com/news/it-management/skys-crm-plans-were-too-vague-to-blame-us-says-eds-5867/) (Fuente: Catalin Dumitrache) y [BSkyB and EDS settle IT dispute for £318 million](http://www.out-law.com/page-11089) (Fuente: Jorge Beamud)
 
 - **ERP desconocido y alguna embotelladora americana**: [ERP implementation failure: a case study](http://docplayer.net/6768854-Erp-implementation-failure-a-case-study.html) (Fuente: Sandra Campos, actualizada por Beatriz Pérez)
 
@@ -328,9 +331,6 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 [New York City Department of Investigation CityTime Investigation: Lessons Learned & Recommendations to Improve New York City’s Management of Large Information Technology Contracts ](https://www1.nyc.gov/assets/doi/reports/pdf/2014/2014-07-25-Pr13citytime.pdf)(Fuente: Juan José Tambo Tambo)
 
 - **Unisys y el estado de [Idaho](http://www.idaho.gov/)**: [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) (Fuente: Óscar Murillo)
-
-- **Sky CRM Project y BSkyB**: [Why do projects fail? - British Sky Broadcasting (BSkyB)](http://calleam.com/WTPF/?p=5420) (Fuente: Eduardo Gimeno)
-
 
 ### 2011
 
