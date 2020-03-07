@@ -428,16 +428,24 @@ El proyecto *Project One* valorado en 60M$ se inicia en 2012 y cuando se desplie
 
 - **SAP y una gran organización (Sudáfrica)**: [Learning From a Failed ERP implementation: The Case of a Large South African Organization](https://www.researchgate.net/publication/269928636_Learning_From_a_Failed_ERP_implementation_The_Case_of_a_Large_South_African_Organization) (Fuente: Jorge Blázquez Hernández)
 
-- **Varios contratistas y Department of Health and Human Services (EE.UU.)**: [Millions lost by ERP System in Government](https://freebalance.com/uncategorized/millions-lost-by-erp-system-in-government/) (Fuente: Íñigo Úriz)
-
 - **SAP y Sacramento City Schools**:
 La instalación estaba prevista entre agosto de 2014 y octubre de 2015. 
 Los sucesivos retrasos y que el proyecto no pasara el 70% de las pruebas de aceptación hicieron que el proyecto se abandonara en noviembre de 2016.
 [Like Taking Candy from a Baby: Sacramento Schools Claim Workday Took Advantage of Them and File Suit](https://upperedge.com/workday/like-taking-candy-from-a-baby-sacramento-schools-claim-workday-took-advantage-of-them-and-file-suit/) (Fuente: Eduardo Gimeno)
 
+- **Varios contratistas y Department of Health and Human Services (EE.UU.)**: [Millions lost by ERP System in Government](https://freebalance.com/uncategorized/millions-lost-by-erp-system-in-government/) (Fuente: Íñigo Úriz)
+
+- **Price Waterhouse Cooper(implementador) y Los Angeles Department of Water and Power(DWP) (EE.UU)**: 
+Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas.
+[DWP billing problems blamed on inexperienced managers and consultants](https://www.dailynews.com/2014/11/18/dwp-billing-problems-blamed-on-inexperienced-managers-and-consultants-report-says/) (Fuente: Ramón Jarauta)
+
 ### 2014
 
 - **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**: [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.wayferry.com/blog/cubic-corporation-missing-roi) (Fuente: Miguel Bentué)
+
+- **IBM y Co-Op Insurance (UK)** :
+El proyecto debía estar listo para el 2015. Tras 15 meses de retraso acabaron en los tribunales. 
+[Co-Op Insurance sues IBM for breach of contract](https://upperedge.com/ibm/co-op-insurance-sues-ibm-for-breach-of-contract/) (Fuente: Ramón Jarauta)
 
 - **NetSuite y Kentwool**: [NetSuite socked with lawsuit by textile manufacturer](https://www.pcworld.com/article/2451980/netsuite-socked-with-lawsuit-by-textile-manufacturer.html) (Fuente: Alberto Mur)
 
@@ -520,7 +528,6 @@ Instalación en 2017. Problemas en 2018.
 
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf)) (Fuente: Carlos Allo)
 
- 
 ## Década de 2020
 
 ### 2020
