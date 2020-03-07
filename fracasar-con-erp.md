@@ -424,7 +424,10 @@ El proyecto *Project One* valorado en 60M$ se inicia en 2012 y cuando se desplie
 
 - **Varios contratistas y Department of Health and Human Services (EE.UU.)**: [Millions lost by ERP System in Government](https://freebalance.com/uncategorized/millions-lost-by-erp-system-in-government/) (Fuente: Íñigo Úriz)
 
-- **SAP y Sacramento City Schools**: [Like Taking Candy from a Baby: Sacramento Schools Claim Workday Took Advantage of Them and File Suit](https://upperedge.com/workday/like-taking-candy-from-a-baby-sacramento-schools-claim-workday-took-advantage-of-them-and-file-suit/) (Fuente: Eduardo Gimeno)
+- **SAP y Sacramento City Schools**:
+La instalación estaba prevista entre agosto de 2014 y octubre de 2015. 
+Los sucesivos retrasos y que el proyecto no pasara el 70% de las pruebas de aceptación hicieron que el proyecto se abandonara en noviembre de 2016.
+[Like Taking Candy from a Baby: Sacramento Schools Claim Workday Took Advantage of Them and File Suit](https://upperedge.com/workday/like-taking-candy-from-a-baby-sacramento-schools-claim-workday-took-advantage-of-them-and-file-suit/) (Fuente: Eduardo Gimeno)
 
 ### 2014
 
