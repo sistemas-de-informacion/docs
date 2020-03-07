@@ -401,7 +401,9 @@ Instalación comenzó en 2011.
 
 - **SAP y NPower (UK)**: [Npower's SAP billing fiasco still making a dent on profits](http://www.computerworlduk.com/news/it-vendors/npowers-billing-fiasco-will-be-resolved-in-two-months-3517010/) (Fuente: Alejandro Guiu)
 
-- **SAP y H.B.Fuller**: [H.B. Fuller wins case against Accenture](http://www.startribune.com/h-b-fuller-wins-case-against-accenture/347256802/) (Fuente: Eduardo Gimeno)
+- **SAP y H.B.Fuller**: 
+El proyecto *Project One* valorado en 60M$ se inicia en 2012 y cuando se despliega en 2014 causa 20M$ de pérdidas directas. 
+[H.B. Fuller wins case against Accenture](http://www.startribune.com/h-b-fuller-wins-case-against-accenture/347256802/) (Fuente: Eduardo Gimeno)
 
 ### 2013
 
