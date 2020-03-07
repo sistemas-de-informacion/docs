@@ -443,6 +443,11 @@ Los sucesivos retrasos y que el proyecto no pasara el 70% de las pruebas de acep
 
 - **SAP Y Ω (China)**: [A Case Study in Chinese Failure in ERP Implementation](https://www.ajouronline.com/index.php/AJBM/article/view/1541) (Fuente: Adrián Casans)
 
+- **SAP y Southeast Power Group Inc**: 
+El proyecto comenzó en 2014 con un plazo de despliegue en 1 año. 
+El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróficos. 
+[For one company, an ERP project failure is now a court battle](https://searcherp.techtarget.com/news/252477642/For-one-company-an-ERP-project-failure-is-now-a-court-battle) (Fuente: Eduardo Gimeno)
+
 ### 2015
 
 - **IBM y el [Ministry of Community and Social Services](https://www.mcss.gov.on.ca/en/mcss/) de Ontario**: [Breach of Contract: Ontario vs. IBM](http://www.petrillolaw.com/breach-of-contract-ontario-vs-ibm/), [Ontario government, IBM smacked for bungled software project](https://www.itworldcanada.com/article/ontario-government-ibm-smacked-for-bungled-software-project/379060) (Fuente: Enrique Palacín)
@@ -500,8 +505,6 @@ Instalación en 2017. Problemas en 2018.
 - **SAP y [Haribo](https://www.haribo.com/esES/pagina-de-inicio.html)**: [Haribo can't bear SAP S/4HANA implementation](https://searchsap.techtarget.com/feature/Haribo-cant-bear-SAP-S-4HANA-implementation) (Fuente: Carlos Allo), [Lessons from the SAP Transformation Problems at Haribo](https://www.thirdstage-consulting.com/lessons-from-the-sap-transformation-problems-at-haribo/) (Fuente: Carlos Allo)
 
 - **SAP y [Lidl](https://www.lidl.es/es/index.htm)**: [Lidl cancels SAP introduction having sunk €500 million into it](https://www.consultancy.uk/news/18243/lidl-cancels-sap-introduction-having-sunk-500-million-into-it) (Fuente: Miguel López)
-
-- **SAP y Southeast Power Group Inc**: [For one company, an ERP project failure is now a court battle](https://searcherp.techtarget.com/news/252477642/For-one-company-an-ERP-project-failure-is-now-a-court-battle) (Fuente: Eduardo Gimeno)
 
 ### 2019
 
