@@ -213,6 +213,8 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **SAP y [HP](http://www.hp.com/)**:
 [When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán)
 
+- **PeopleSoft and Brazilian Siderurgical Industry**: [The enterprise resource planning applied to the area of logistics: A case of failure](https://www.researchgate.net/publication/265301992_THE_ENTERPRISE_RESOURCE_PLANNING_APPLIED_TO_THE_AREA_OF_LOGISTICS_A_CASE_OF_FAILURE) (Fuente: Alberto Calvo)
+
 ### 2005
 
 - **Ciber y [Pennsylvania Turnpike Commission](https://www.paturnpike.com/)**: [Documents suggest Turnpike wasted millions on computer system](https://archive.triblive.com/news/pennsylvania/documents-suggest-turnpike-wasted-millions-on-computer-system/#axzz3YhvFkQrV), [Wayferry Case Study: Pennsylvania Turnpike Commission's ERP project takes wrong turn](https://www.wayferry.com/blog/pennsylvania-turnpike-commission-s-erp-project-takes-wrong-turn) (Fuente: Miguel Bentué)
@@ -290,6 +292,8 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **SAP, Logo, Mincom, Qlink e Industrias Iranies**: [Identification and classification of ERP critical failure factors in Iranian industries. Amin Amid, Morteza Moalagh,Ahad Zare Ravasan](http://dx.doi.org/10.1016/j.is.2011.10.010) (Fuente: Eduardo Navarro)
 
 - **SAP/Oracle y TomorrowNow**: [No more Tomorrows for TomorrowNow](http://www.cio.com/article/2434837/enterprise-software/sap--oracle-software-support-from-tomorrownow-to-end.html) (Fuente: David Puente) no es un caso de fracaso de una implementación pero si un buen culebrón con varios implicados.
+
+- **ERP desconocido y empresa noruega**: [ERP Implementation in an SME: A Failure Case](https://www.researchgate.net/publication/300162456_ERP_Implementation_in_an_SME_A_Failure_Case) (Fuente: Alberto Calvo)
 
 ### 2009
 
