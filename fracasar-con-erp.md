@@ -307,6 +307,10 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 
 - **SAP y [Shane Co](http://www.shaneco.com/)**: [Shane Company: Lessons Learned From an ERP Implementation Failure](http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/) (Fuente: Alejandro Bean), [Shane says SAP costs helped cause jeweler’s decline](https://www.computerworld.com/article/2530405/it-careers/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html) (Fuente: Iván Escuín)
 
+- **Fujitsu y [UK Council of Research](https://www.ukri.org/)**: 
+65% extra en costes y casi dos años de retraso.
+[Shared services in the Research Councils](https://www.nao.org.uk/wp-content/uploads/2011/10/n10121459.pdf) (Fuente: Javier Ortega) 
+
 ## Década de 2010
 
 ### 2010
@@ -435,6 +439,10 @@ Los sucesivos retrasos y que el proyecto no pasara el 70% de las pruebas de acep
 
 - **Varios contratistas y Department of Health and Human Services (EE.UU.)**: [Millions lost by ERP System in Government](https://freebalance.com/uncategorized/millions-lost-by-erp-system-in-government/) (Fuente: Íñigo Úriz)
 
+- **SupERP (anonimizado) y Building Blocks Inc. (anonimizado)**: 
+Un caso de estudio descrito por uno de los participantes en el juicio.
+[Legal Truth and Consequences for a Failed ERP Implementation](https://books.google.es/books?id=aISBfN1GZY0C&pg=PA47&lpg=PA47&dq=Cases+on+Emerging+Information+Technology+Research+and+Applications+%22building+blocks%22&source=bl&ots=LUWhr1RvhR&sig=ACfU3U3JmdmtJ-ei4gmiqSV6KPznWJry6A&hl=es&sa=X&ved=2ahUKEwin5KeDjI3oAhV_DGMBHXdoA6EQ6AEwAXoECAkQAQ#v=onepage&q=Cases%20on%20Emerging%20Information%20Technology%20Research%20and%20Applications%20%22building%20blocks%22&f=false) (Fuente: Javier Ortega)
+
 - **Price Waterhouse Cooper(implementador) y Los Angeles Department of Water and Power(DWP) (EE.UU)**: 
 Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas.
 [DWP billing problems blamed on inexperienced managers and consultants](https://www.dailynews.com/2014/11/18/dwp-billing-problems-blamed-on-inexperienced-managers-and-consultants-report-says/) (Fuente: Ramón Jarauta)
@@ -466,6 +474,7 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 
 - **IBM y el [Ministry of Community and Social Services](https://www.mcss.gov.on.ca/en/mcss/) de Ontario**: [Breach of Contract: Ontario vs. IBM](http://www.petrillolaw.com/breach-of-contract-ontario-vs-ibm/), [Ontario government, IBM smacked for bungled software project](https://www.itworldcanada.com/article/ontario-government-ibm-smacked-for-bungled-software-project/379060) (Fuente: Enrique Palacín)
 
+
 - **Oracle, Siebel CRM y [Select Comfort](https://www.sleepnumber.com/)** : [Losing Sleep at Select Comfort - ERP Implementation is a Nightmare](https://www.linkedin.com/pulse/losing-sleep-select-comfort-erp-implementation-nightmare-belden) (Fuente: Pablo Piedrafita)
 
 - **SAP y [Stallergenes-Greer](http://www.stallergenesgreer.com/)**: [L'échec du projet SAP fait vaciller les comptes de Stallergenes](http://www.lemondeinformatique.fr/actualites/lire-l-echec-du-projet-sap-fait-vaciller-les-comptes-de-stallergenes-65770.html) (Fuente: David Abián)
@@ -478,7 +487,12 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 
 - **ERP desconocido y PG&E**: [Pacific Gas and Electric Database Exposed](https://mackeeper.com/blog/post/231-pacific-gas-and-electric-database-exposed) (Fuente: Alberto Mur)
 
-- **IBM y la ciudad de Phoenix**: [Who should shoulder the blame for Phoenix fiasco?](http://www.cbc.ca/news/canada/ottawa/phoenix-payroll-problems-ibm-1.3770947), [IBM contract cost for failure-plagued Phoenix payroll system jumped to total $185M](http://www.cbc.ca/news/canada/ottawa/phoenix-ibm-contract-union-pay-government-1.4295827)(Fuente: Enrique Palacín)
+- **Oracle PeopleSoft, IBM (implementador) y Public Services and Procurement Canada (PSPC)**: 
+Las personalizaciones hacen imposible migrar de la versión 9.1 a la versión 9.2 de PeopleSoft.
+En 2019 aún están planificando cómo hacerla.
+[Who should shoulder the blame for Phoenix fiasco?](http://www.cbc.ca/news/canada/ottawa/phoenix-payroll-problems-ibm-1.3770947)
+[IBM contract cost for failure-plagued Phoenix payroll system jumped to total $185M](http://www.cbc.ca/news/canada/ottawa/phoenix-ibm-contract-union-pay-government-1.4295827)(Fuente: Enrique Palacín)
+[Upgrade of troubled Phoenix could risk yet more payroll snafus for public servants](https://www.nationalobserver.com/2019/04/03/news/upgrade-troubled-phoenix-could-risk-yet-more-payroll-snafus-public-servants) (Fuente: Javier Ortega)
 
 - **Oracle & Beximco Pharma**: [An assessment to Identify Causes of ERP Implementation Failure and to Predict its Success: A Case Study on Beximco Pharmaceuticals Limited](https://www.researchgate.net/publication/303100797_An_Assessment_to_Identify_Causes_of_ERP_Implementation_Failure_and_to_Predict_Its_Success_A_Case_Study_on_Beximco_Pharmaceuticals_Limited) (Fuente: David Ubide)
 
