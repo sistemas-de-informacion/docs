@@ -114,7 +114,9 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 [BSkyB and EDS settle IT dispute for £318 million](http://www.out-law.com/page-11089) (Fuente: Jorge Beamud)
 [British Sky Broadcasting (BSkyB) (Catalogue of Catastrophe)](http://calleam.com/WTPF/?p=5420) (Fuente: Eduardo Gimeno)
 
-- **i2 y Nike**: [Nike Rebounds and Why Nike Recovered from its Supply Chain Disaster](http://www.cio.com/article/2439601/supply-chain-management/nike-rebounds--how--and-why--nike-recovered-from-its-supply-chain-disaster.html)  (Fuente: Adrián Gañán, corregido por Rubén Moreno) . Página con información ampliada del tema: [Nike Case Study Analysis: ERP System Failure](https://myassignmenthelp.com/free-samples/nike-case-study-analysis-erp-system-failure) ( Fuente : Adrián Crespo )
+- **i2 y Nike**: 
+[Nike Rebounds and Why Nike Recovered from its Supply Chain Disaster](http://www.cio.com/article/2439601/supply-chain-management/nike-rebounds--how--and-why--nike-recovered-from-its-supply-chain-disaster.html)  (Fuente: Adrián Gañán, corregido por Rubén Moreno). 
+Página con información ampliada del tema: [Nike Case Study Analysis: ERP System Failure](https://myassignmenthelp.com/free-samples/nike-case-study-analysis-erp-system-failure) ( Fuente : Adrián Crespo )
 
 - **Intentia AB y CosmeticCo (nombre ficticio, China)**: [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
 
@@ -392,6 +394,11 @@ Instalación comenzó en 2011.
 
 - **SAP y Kentuky's Goverment**: [Auditor: state's HR software system has series of material](https://www.computerworld.com/article/2501737/auditor--state-s-hr-software-system-has-series-of--material-weaknesses-.html) (Fuente: David Ubide).
 
+- **SAP y [Lidl](https://www.lidl.es/es/index.htm)**: 
+Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a su viejo sistema.  
+[Lidl cancels SAP introduction having sunk €500 million into it](https://www.consultancy.uk/news/18243/lidl-cancels-sap-introduction-having-sunk-500-million-into-it) (Fuente: Miguel López) 
+[Lidl SAP main problems, why it fails?](https://www.thirdstage-consulting.com/lessons-from-an-sap-failure-at-lidl/) (Fuente: Jorge Rambla Gonzalez)
+
 - **SAP y empresa del sector petrolífero (Turkey)**: [Evidence from the Oil and Gas Sector](https://www.uni-obuda.hu/journal/Mishra_Mishra_30.pdf) (Fuente: Javier Plano).
 
 - **SAP y Victorian Orden of Nurses (Canada)**: [VON struggles to reimburse nurses with pay problems](http://www.cbc.ca/news/canada/von-struggles-to-reimburse-nurses-with-pay-problems-1.1097943) (Fuente: Guillermo Robles) y [SAP-IBM payroll system woes fouled up nurses' pay](http://www.computerworld.com/article/2510412/enterprise-applications/sap-ibm-payroll-system-woes-fouled-up-nurses--pay.html) (Fuente: Nerea Torres)
@@ -428,6 +435,11 @@ Instalación comenzó en 2011.
 El proyecto *Project One* valorado en 60M$ se inicia en 2012 y cuando se despliega en 2014 causa 20M$ de pérdidas directas. 
 [H.B. Fuller wins case against Accenture](http://www.startribune.com/h-b-fuller-wins-case-against-accenture/347256802/) (Fuente: Eduardo Gimeno)
 
+- **SAP y Target Canada (Canada)**: 
+Mala calidad de datos, problemas de suministros derivados y TPV con problemas llevan a la quiebra a una cadena de tiendas en dos años.
+[The Last Days of Target. The untold tale of Target Canada’s difficult birth, tough life and brutal death](http://www.canadianbusiness.com/the-last-days-of-target-canada/) (Fuente: Marta Blanco) 
+[Case study target canada failure](https://www.henricodolfing.com/2019/09/case-study-target-canada-failure.html) (Fuente: Jorge Rambla Gonzalez)
+
 ### 2013
 
 - **Microsoft Dynamics y [ScanSource](http://www.scansource.com/en)** : [Another Year, Another ERP Lawsuit: Accenture/Microsoft Joint-Venture Sued for Bait-and-Switch Tactics](http://spectrum.ieee.org/riskfactor/computing/it/another-year-another-erp-lawsuit-accenturemicrosoft-jointventure-sued-for-baitandswitch-tactics) (Fuente: Julián Liaño)
@@ -435,7 +447,6 @@ El proyecto *Project One* valorado en 60M$ se inicia en 2012 y cuando se desplie
 - **SAP y [Avon](http://www.avon.com/)**: [Avon's Failed SAP Implementation A Perfect Example Of The Enterprise IT Revolution](http://www.forbes.com/sites/benkepes/2013/12/17/avons-failed-sap-implementation-a-perfect-example-of-enterprise-it-revolution/) (Fuente: Beatriz Aguas) [Inside Avon's Failed Order-Management Project](http://www.informationweek.com/software/information-management/inside-avons-failed-order-management-project/d/d-id/1113100) (Fuente: Pablo Piedrafita)
 
 - **SAP y el [Banco do Brasil](https://es.wikipedia.org/wiki/Banco_do_Brasil)**: [Projeto SAP no BB subiu no telhado?](http://www.baguete.com.br/noticias/07/01/2014/projeto-sap-no-bb-subiu-no-telhado) (Fuente: David Abián)
-- **Target y SAP (Canada)**: [The Last Days of Target. The untold tale of Target Canada’s difficult birth, tough life and brutal death](http://www.canadianbusiness.com/the-last-days-of-target-canada/) (Fuente: Marta Blanco)
 
 - **SAP y el estado de [California](http://www.ca.gov/)**: [California sues SAP over failed payroll software project](http://www.computerworld.com/s/article/9244287/California_sues_SAP_over_failed_payroll_software_project) (Fuente: Sergio Josa) [California payroll: Another failure waiting to happen?](http://www.zdnet.com/article/california-payroll-another-failure-waiting-to-happen/) (Fuente: Guillermo Sesé)
 
@@ -550,8 +561,6 @@ Instalación en 2017. Problemas en 2018.
 - **Oracle y Worth & Company**: [Oracle sued for $4.5m after ERP system delivery date 'moved from 2015 to 2016, then 2017, then... er, never'](https://www.theregister.co.uk/2019/02/21/biz_sues_oracle/) (Fuente: Íñigo Úriz)
 
 - **SAP y [Haribo](https://www.haribo.com/esES/pagina-de-inicio.html)**: [Haribo can't bear SAP S/4HANA implementation](https://searchsap.techtarget.com/feature/Haribo-cant-bear-SAP-S-4HANA-implementation) (Fuente: Carlos Allo), [Lessons from the SAP Transformation Problems at Haribo](https://www.thirdstage-consulting.com/lessons-from-the-sap-transformation-problems-at-haribo/) (Fuente: Carlos Allo)
-
-- **SAP y [Lidl](https://www.lidl.es/es/index.htm)**: [Lidl cancels SAP introduction having sunk €500 million into it](https://www.consultancy.uk/news/18243/lidl-cancels-sap-introduction-having-sunk-500-million-into-it) (Fuente: Miguel López)
 
 ### 2019
 
