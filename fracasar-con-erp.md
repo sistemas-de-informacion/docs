@@ -457,7 +457,11 @@ Un caso de estudio descrito por uno de los participantes en el juicio.
 
 - **ERP desconocido y PG&E**: [Pacific Gas and Electric Database Exposed](https://mackeeper.com/blog/post/231-pacific-gas-and-electric-database-exposed) (Fuente: Alberto Mur)
 
-- **IBM y Canada (Phoenix payroll solution)**: [Who should shoulder the blame for Phoenix fiasco?](http://www.cbc.ca/news/canada/ottawa/phoenix-payroll-problems-ibm-1.3770947), [IBM contract cost for failure-plagued Phoenix payroll system jumped to total $185M](http://www.cbc.ca/news/canada/ottawa/phoenix-ibm-contract-union-pay-government-1.4295827)(Fuente: Enrique Palacín)
+- **Oracle PeopleSoft, IBM (implementador) y Public Services and Procurement Canada (PSPC)**: 
+Las personalizaciones hacen imposible migrar de la versión 9.1 a la versión 9.2 de PeopleSoft.
+En 2019 aún están planificando cómo hacerla.
+[Who should shoulder the blame for Phoenix fiasco?](http://www.cbc.ca/news/canada/ottawa/phoenix-payroll-problems-ibm-1.3770947)
+[IBM contract cost for failure-plagued Phoenix payroll system jumped to total $185M](http://www.cbc.ca/news/canada/ottawa/phoenix-ibm-contract-union-pay-government-1.4295827)(Fuente: Enrique Palacín)
 [Upgrade of troubled Phoenix could risk yet more payroll snafus for public servants](https://www.nationalobserver.com/2019/04/03/news/upgrade-troubled-phoenix-could-risk-yet-more-payroll-snafus-public-servants) (Fuente: Javier Ortega)
 
 - **Oracle & Beximco Pharma**: [An assessment to Identify Causes of ERP Implementation Failure and to Predict its Success: A Case Study on Beximco Pharmaceuticals Limited](https://www.researchgate.net/publication/303100797_An_Assessment_to_Identify_Causes_of_ERP_Implementation_Failure_and_to_Predict_Its_Success_A_Case_Study_on_Beximco_Pharmaceuticals_Limited) (Fuente: David Ubide)
