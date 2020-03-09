@@ -290,7 +290,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 
 - **SAP y Levi Strauss**: [Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz)
 
-- **SAP y [Select Confort](http://www.sleepnumber.com/)**: [SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas), [Select Comfort puts big SAP project into sleep mode](http://www.computerworld.com/article/2529907/it-industry/select-comfort-puts-big-sap-project-into-sleep-mode.html) (Fuente: Christian Moreno)
+- **SAP y [Select Confort](http://www.sleepnumber.com/)**: [SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas), [Select Comfort puts big SAP project into sleep mode](http://www.computerworld.com/article/2529907/it-industry/select-comfort-puts-big-sap-project-into-sleep-mode.html) (Fuente: Christian Moreno), [Sleepless nights for select comfort - Rough ERP go-live leads to 25% hit on stock price](https://upperedge.com/erp-program-management/sleepless-nights-for-select-comfort-rough-erp-go-live-leads-to-25-hit-on-stock-price/) (Fuente: David Alloza)
 
 - **SAP, Logo, Mincom, Qlink e Industrias Iranies**: [Identification and classification of ERP critical failure factors in Iranian industries. Amin Amid, Morteza Moalagh,Ahad Zare Ravasan](http://dx.doi.org/10.1016/j.is.2011.10.010) (Fuente: Eduardo Navarro)
 
@@ -419,6 +419,8 @@ Instalación comenzó en 2011.
 - **SAP y H.B.Fuller**: 
 El proyecto *Project One* valorado en 60M$ se inicia en 2012 y cuando se despliega en 2014 causa 20M$ de pérdidas directas. 
 [H.B. Fuller wins case against Accenture](http://www.startribune.com/h-b-fuller-wins-case-against-accenture/347256802/) (Fuente: Eduardo Gimeno)
+
+- **Oracle y Cover Oregon (Programa del Estado de Oregón para implementar el intercambio de atención médica obligatorio a nivel federal)** : [Case Study: $250 Million Failure, Who Are You Going To Sue?](https://ecaminc.com/index.php/blog/item/353-case-study-cover-oregon-oregon-state-and-oracle) (Fuente: David Alloza)
 
 ### 2013
 
