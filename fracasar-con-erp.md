@@ -96,6 +96,7 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 - **SAP y [Hershey's](http://www.hersheys.com/)**: 
 [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.academia.edu/12467188/A_Case_Study_on_Hersheys_ERP_Implementation_Failure_The_Importance_of_Testing_and_Scheduling) (Fuente: Andrés Julián y Miguel López),
 [ERP Implementation Failure at Hershey Foods Corporation](https://edisciplinas.usp.br/pluginfile.php/4055166/mod_resource/content/1/Estudo%20de%20Caso%201.pdf) (Fuente: Yolanda Sánchez).
+Hershey intentó cambiar sus sistemas legados a SAP R/3 en 30 meses, en vez de en los 48 que le recomendaban[Overview – Hershey’s ERP Implementation Failure](https://www.pemeco.com/a-case-study-on-hersheys-erp-implementation-failure-the-importance-of-testing-and-scheduling/)(Fuente: Adrián Francisco)
 
 - **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 
