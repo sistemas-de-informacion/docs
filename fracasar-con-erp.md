@@ -422,7 +422,9 @@ Instalación comenzó en 2011.
 
 - **Varios contratistas y Department of Health and Human Services (EE.UU.)**: [Millions lost by ERP System in Government](https://freebalance.com/uncategorized/millions-lost-by-erp-system-in-government/) (Fuente: Íñigo Úriz)
 
-- **SupERP (ficticio) y Building Blocks Inc. (Case study)**: [Cases on Emerging Information Technology Research and Applications](https://www.researchgate.net/publication/280101817_Cases_on_Emerging_Information_Technology_Research_and_Applications) (Fuente: Javier Ortega)
+- **SupERP (anonimizado) y Building Blocks Inc. (anonimizado)**: 
+Un caso de estudio descrito por uno de los participantes en el juicio.
+[Legal Truth and Consequences for a Failed ERP Implementation](https://books.google.es/books?id=aISBfN1GZY0C&pg=PA47&lpg=PA47&dq=Cases+on+Emerging+Information+Technology+Research+and+Applications+%22building+blocks%22&source=bl&ots=LUWhr1RvhR&sig=ACfU3U3JmdmtJ-ei4gmiqSV6KPznWJry6A&hl=es&sa=X&ved=2ahUKEwin5KeDjI3oAhV_DGMBHXdoA6EQ6AEwAXoECAkQAQ#v=onepage&q=Cases%20on%20Emerging%20Information%20Technology%20Research%20and%20Applications%20%22building%20blocks%22&f=false) (Fuente: Javier Ortega)
 
 ### 2014
 
