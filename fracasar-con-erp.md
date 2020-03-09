@@ -241,6 +241,10 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 
 - **Infor y Scientific Components**: [ERP train wrecks, failures and lawsuits](https://www.enterpriseirregulars.com/31515/erp-train-wrecks-failures-and-lawsuits/) (Fuente: Oscar Potrony) Mención breve del caso en una tabla de fracasos.
 
+- **Lawson y [Public Health Foundation Enterprises] (PHFE)**:
+PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP sino varios programas sueltos. 
+[Nonprofit Sues Lawson Over Alleged ERP Failure](https://www.cio.com/article/2425363/nonprofit-sues-lawson-over-alleged-erp-failure.html) (Fuente: Fernando Bercedo)
+
 - **SAP y Portland City (Oregon)**: [Oregon SAP project wracked by leadership woes](http://www.computerworld.com/article/2514125/enterprise-applications/oregon-sap-project-wracked-by-leadership-woes.html) (Fuente: Pablo Lanaspa)
 
 - **SAP y Shane (EE.UU)**: [Shane Company: Lessons Learned From an ERP Implementation Failure](http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/) (Fuente: Andrés Soldevilla)
@@ -258,6 +262,7 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **SAP y Distrito Escolar de Los Ángeles (EE.UU.)**: [LA school district and Deloitte in $18m failure settlement](http://www.zdnet.com/article/la-school-district-and-deloitte-in-18m-failure-settlement/) (Fuente: Alejandro Guiu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
 
 - **SAP y [Waste Management](http://www.wm.com/index.jsp)**: [SAP fires back at Waste Management](http://www.cio.com/article/443864/SAP_Fires_Back_At_Waste_Management) (Fuente: Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo )
+
 
 ### 2008
 
@@ -502,6 +507,12 @@ En 2019 aún están planificando cómo hacerla.
 
 - **SAP y Woolworths (Australia)**: [Anatomy of an IT disaster or how Woolies spent $200 million on SAP](http://www.afr.com/brand/chanticleer/anatomy-of-an-it-disaster-or-how-woolies-spent-200-million-on-sap-20160609-gpfowf), [Australia’s Woolworths stabilises IT systems after “worrisome time”](https://diginomica.com/2016/08/29/australias-woolworths-stabilises-it-systems-after-worrisome-time/) (Fuente: Marta Blanco)
 
+- **SAP y [LeasePlan](https://www.leaseplan.com/es-es/)**: 
+Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
+[Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) (Fuente: Félix García)
+[The Hidden S/4 HANNA Failure at LeasePlan] (https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz)
+[Case Study 10: LeasePlan Paid $100 Million for a SAP System That Never Went Live](https://www.henricodolfing.com/2020/01/project-failure-case-study-leaseplan-sap.html) (Fuente: Fernando Bercedo) 
+
 ### 2017
 
 - **ERP desconocido y Oriola (Finlandia)**: [An ERP system failure has crippled a major Finnish pharmaceutical](https://nordic.businessinsider.com/an-erp-system-failure-has-crippled-a-major-finnish-pharmaceutical-2017-9), [Oriola Corporation’s third quarter result impacted by distribution disruptions in Finland](http://www.oriola.com/publications/stock-exchange-releases/2017/oriola-corporations-third-quarter-result-impacted-by-distribution-disruptions-in-finlan/) (Fuente: Marta Blanco)
@@ -541,6 +552,11 @@ Instalación en 2017. Problemas en 2018.
 [The Hidden S/4 HANNA Failure at LeasePlan] (https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz)
 
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf)) (Fuente: Carlos Allo)
+
+- **SAP yQLD Health's**:
+Reemplazo fallido de SAP R/3 por SAP S/4 tras gastar 135M$.
+[Qld Health's new SAP ERP wobbles in week one](https://www.itnews.com.au/news/qld-healths-new-sap-erp-wobbles-in-week-one-529400)
+[Qld Health's new SAP ERP system draws scrutiny](https://www.itnews.com.au/news/qld-healths-new-sap-erp-system-draws-scrutiny-537814) (Fuente: Fernando Bercedo)
 
 ## Década de 2020
 
