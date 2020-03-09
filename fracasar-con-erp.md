@@ -532,6 +532,9 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 [The Hidden S/4 HANNA Failure at LeasePlan] (https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz)
 [Case Study 10: LeasePlan Paid $100 Million for a SAP System That Never Went Live](https://www.henricodolfing.com/2020/01/project-failure-case-study-leaseplan-sap.html) (Fuente: Fernando Bercedo) 
 
+- **Onsystec S.A. y Agroxven (Ecuador)**: [Infección con ransomware en el servidor de base de datos del sistema Onsystec ERP](https://dialnet.unirioja.es/servlet/articulo?codigo=6065450) (Fuente: Alejandro Piedrafita)
+
+
 ### 2017
 
 - **ERP desconocido y Oriola (Finlandia)**: [An ERP system failure has crippled a major Finnish pharmaceutical](https://nordic.businessinsider.com/an-erp-system-failure-has-crippled-a-major-finnish-pharmaceutical-2017-9), [Oriola Corporation’s third quarter result impacted by distribution disruptions in Finland](http://www.oriola.com/publications/stock-exchange-releases/2017/oriola-corporations-third-quarter-result-impacted-by-distribution-disruptions-in-finlan/) (Fuente: Marta Blanco)
