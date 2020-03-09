@@ -213,7 +213,9 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **SAP y [HP](http://www.hp.com/)**:
 [When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán)
 
-- **PeopleSoft and Brazilian Siderurgical Industry**: [The enterprise resource planning applied to the area of logistics: A case of failure](https://www.researchgate.net/publication/265301992_THE_ENTERPRISE_RESOURCE_PLANNING_APPLIED_TO_THE_AREA_OF_LOGISTICS_A_CASE_OF_FAILURE) (Fuente: Alberto Calvo)
+- **PeopleSoft y Companhia Siderurgica de Tubarao (CST) (Brasil)**:
+Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
+[The enterprise resource planning applied to the area of logistics: A case of failure](https://www.researchgate.net/publication/265301992_THE_ENTERPRISE_RESOURCE_PLANNING_APPLIED_TO_THE_AREA_OF_LOGISTICS_A_CASE_OF_FAILURE) (Fuente: Alberto Calvo)
 
 ### 2005
 
@@ -293,7 +295,9 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 
 - **SAP/Oracle y TomorrowNow**: [No more Tomorrows for TomorrowNow](http://www.cio.com/article/2434837/enterprise-software/sap--oracle-software-support-from-tomorrownow-to-end.html) (Fuente: David Puente) no es un caso de fracaso de una implementación pero si un buen culebrón con varios implicados.
 
-- **ERP desconocido y empresa noruega**: [ERP Implementation in an SME: A Failure Case](https://www.researchgate.net/publication/300162456_ERP_Implementation_in_an_SME_A_Failure_Case) (Fuente: Alberto Calvo)
+- **ERP desconocido y empresa noruega**: 
+Una implementación en PYME abaca con los mismos fallos que en una gran empresa. 
+[ERP Implementation in an SME: A Failure Case](https://www.researchgate.net/publication/300162456_ERP_Implementation_in_an_SME_A_Failure_Case) (Fuente: Alberto Calvo)
 
 ### 2009
 
