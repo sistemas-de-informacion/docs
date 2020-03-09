@@ -232,7 +232,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **Infor y Scientific Components**: [ERP train wrecks, failures and lawsuits](https://www.enterpriseirregulars.com/31515/erp-train-wrecks-failures-and-lawsuits/) (Fuente: Oscar Potrony) Mención breve del caso en una tabla de fracasos.
 
 - **Lawson y [Public Health Foundation Enterprises] (PHFE)**:
-PHFE paga cerca de 1M$ para descubrir 2 años despuñes que no ha comprado un ERP sino varios programas sueltos. 
+PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP sino varios programas sueltos. 
 [Nonprofit Sues Lawson Over Alleged ERP Failure](https://www.cio.com/article/2425363/nonprofit-sues-lawson-over-alleged-erp-failure.html) (Fuente: Fernando Bercedo)
 
 - **SAP y Portland City (Oregon)**: [Oregon SAP project wracked by leadership woes](http://www.computerworld.com/article/2514125/enterprise-applications/oregon-sap-project-wracked-by-leadership-woes.html) (Fuente: Pablo Lanaspa)
