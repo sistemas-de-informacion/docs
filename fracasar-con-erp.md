@@ -121,8 +121,6 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **SAP y [Volkswagen](https://www.volkswagen.es/es.html)**: [ERP Problems Put Brakes On Volkswagen Parts Shipments](https://www.computerworld.com/article/2597195/erp-problems-put-brakes-on-volkswagen-parts-shipments.html) (Fuente: Celia Langa)
 
-- **ERP ficticio y [CosmeticCo,PharmaCo, ElectricCo, FurnitureCo, and StoneCo (Pseudonimos)](--)**: [ERP implementation failures in China: Case studies with implications for ERP vendors](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.937.3947&rep=rep1&type=pdf) (Fuente: Fernando Bercedo)
-
 ### 2001
 
 - **HPT(nombre ficticio) y Vicro Communications**: [The Relation Between BPR and ERP Systems: A failed project](http://www.cs.jyu.fi/el/itke50_03/Artikkelit/The%20Relation%20Between%20BPR%20and%20ERP%20Systems_%20A%20Failed%20Project%20IT5656_XZXCZQ282V.pdf) (Fuente: Andrés Soldevilla)
