@@ -213,7 +213,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **Oracle y Saudi Telecom (Arabia Saudí)**: [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
 
 - **SAP y [HP](http://www.hp.com/)**:
-[When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán)
+[When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán)[Learning from failure: 3 ERP disasters every adopter should understand](https://accenterp.com/manufacturing/learning-from-failure-3-erp-disasters-every-adopter-should-understand/) (Fuente: Adrián Francisco)[ERP Project: Implementation Failure in HP](https://es.slideshare.net/GunjanKalita/erp-project-implementation-failure-in-hp) (Fuente: Adrián Francisco)[ERP Implementation Failure at HP](http://michelewake.blogspot.com/2016/03/erp-implementation-failure-at-hp.html) (Fuente: Adrián Francisco)
 
 - **PeopleSoft y Companhia Siderurgica de Tubarao (CST) (Brasil)**:
 Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
