@@ -42,6 +42,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **Sun Systems and Natural Springs**: [ERP Implementation Gone Terribly Wrong: The Case of Natural Springs](http://www3.cis.gsu.edu/dtruex/courses/IB8710/Articles/ERP%20Implementation%20Gone%20Terribly%20Wrong-%20The%20Case%20of%20Natural%20Springs.pdf) (Fuente: Víctor Fernández Melic)
 
+
+
 ### 1997
 
 - **Baan y [Snap-On](https://www.snapon.com/EN)**:[Top 10 Corporate Information Technology Failures](http://images.techhive.com/downloads/idge/imported/article/ctw/2000/10/30/44nfailchart.pdf) (Fuente: Miguel Bolsa)
@@ -49,6 +51,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **PeopleSoft y Cleveland State University:** [University hits PeopleSoft with $510M lawsuit](https://www.computerworld.com/article/2564202/technology-law-regulation/university-hits-peoplesoft-with--510m-lawsuit.html) (Fuente: Manuel Herrero, Actualizado por: David Sáez)
 
 - **PeopleSoft (implementador Deloitte & Touche) y W.L. Gore & Associates (marca Gore-Tex):** [Will the real Donald Duck please stand up?](http://www.uwosh.edu/faculty_staff/wresch/ERPgore.htm) (Fuente: Manuel Herrero, ampliado por Alejandro Solanas)
+
+- **SAP y BRP** : (https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1067&=&context=icis1997&=&sei-redir=1&referer=https%253A%252F%252Fscholar.google.es%252Fscholar%253Fq%253Derp%252Bimplementation%252Bfailure%252Bcases%2526hl%253Des%2526as_sdt%253D0%25252C5%2526as_vis%253D1%2526as_ylo%253D1990%2526as_yhi%253D1997#search=%22erp%20implementation%20failure%20cases%22) (Fuente: José Navarro Merino)
 
 ### 1998
 
