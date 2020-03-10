@@ -171,6 +171,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **SAP, PeopleSoft and Oracle y [Walt Disney Corporation](https://thewaltdisneycompany.com/)**: [Disney keeps global SAP roll-out on track by making local executives responsible](http://www.computerweekly.com/feature/Disney-keeps-global-SAP-roll-out-on-track-by-making-local-executives-responsible) (Fuente: Adrián Ibáñez)
 
+- **Alpha Holdings y eMAG**: [Explaining ERP failure in a developing country: a Jordanian case study](https://www.emerald.com/insight/content/doi/10.1108/17410391011019741/full/html) (Fuente: Jorge Fernández)
+
 ### 2004
 
 - **CRM no identificado y AT&T**: [AT&T Wireless: Failed CRM upgrade cost $100 million in lost revenues](https://it.toolbox.com/blogs/mrallen1/at-t-wireless-failed-crm-upgrade-cost-100-million-in-lost-revenues-041904), [Project Management: AT&T Wireless Self-Destructs](https://www.cio.com/article/2439700/project-management/project-management--at-t-wireless-self-destructs.html) (Fuente: Jorge Blázquez Hernández)
