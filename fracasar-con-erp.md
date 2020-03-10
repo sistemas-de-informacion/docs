@@ -470,6 +470,7 @@ Un caso de estudio descrito por uno de los participantes en el juicio.
 - **Price Waterhouse Cooper(implementador) y Los Angeles Department of Water and Power(DWP) (EE.UU)**: 
 Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas.
 [DWP billing problems blamed on inexperienced managers and consultants](https://www.dailynews.com/2014/11/18/dwp-billing-problems-blamed-on-inexperienced-managers-and-consultants-report-says/) (Fuente: Ramón Jarauta)
+- **Por qué fallo la implementación de SAP en AVON**: Un proyecto de USD 125 millones para el uso del ERP SAP. (https://www.evaluandoerp.com/por-que-fallo-la-implementacion-de-avon/) (Fuente: José Navarro Merino)
 
 ### 2014
 
