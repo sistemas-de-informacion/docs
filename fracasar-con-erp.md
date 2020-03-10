@@ -357,6 +357,8 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 - **Unisys y el estado de [Idaho](http://www.idaho.gov/)**: [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) (Fuente: Óscar Murillo)
 
+- **Wipro hand $75M to National Grid US after botched SAP upgrade**:  [Pair settle out of court over failed project that cost utility firm hundreds of millions] (https://www.theregister.co.uk/2018/08/06/botched_sap_implementation_national_grid_wipro_settlement_75m/) (Fuente: José Navarro)
+
 ### 2011
 
 - **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
