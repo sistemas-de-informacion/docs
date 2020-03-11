@@ -450,7 +450,7 @@ Mala calidad de datos, problemas de suministros derivados y TPV con problemas ll
 
 - **SAP y el estado de [California](http://www.ca.gov/)**: [California sues SAP over failed payroll software project](http://www.computerworld.com/s/article/9244287/California_sues_SAP_over_failed_payroll_software_project) (Fuente: Sergio Josa) [California payroll: Another failure waiting to happen?](http://www.zdnet.com/article/california-payroll-another-failure-waiting-to-happen/) (Fuente: Guillermo Sesé)
 
-- **SAP (instalado por IBM) y [DHL](http://www.dhl.com/)**: [L’échec d’un projet SAP coûte 345 millions d’euros à DHL](http://www.silicon.fr/echec-projet-sap-coute-345-millions-euros-dhl-131307.html) (Fuente: David Abián)
+- **SAP (instalado por IBM) y [DHL](http://www.dhl.com/)**: [L’échec d’un projet SAP coûte 345 millions d’euros à DHL](http://www.silicon.fr/echec-projet-sap-coute-345-millions-euros-dhl-131307.html) (Fuente: David Abián) [DHL writes off $A518m on SAP Upgrade](https://sclaa.com.au/dhl-writes-off-a518m-on-sap-upgrade/) (Fuente: Sergio García Esteban)
 
 - **SAP y [Fujitsu](http://www.fujitsu.com/es/)**: [Another big SAP project hits the rocks in Oz](https://www.theregister.co.uk/2013/08/28/another_big_sap_project_hits_the_rocks_in_oz/) (Fuente: Ignacio Palacios)
 
