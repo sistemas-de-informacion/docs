@@ -227,7 +227,10 @@ Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
 
 - **SAIC y FBI (EE.UU.)**: [Anatomy of an IT disaster: How the FBI blew it](http://www.infoworld.com/article/2672020/application-development/anatomy-of-an-it-disaster--how-the-fbi-blew-it.html) (Fuente: Santiago Morón)
 
-- **SAP y AUSA**: [Bird & Bird team wins landmark case on IT litigation before Spanish Supreme Court](http://www.twobirds.com/en/news/press-releases/2013/spain/bb-team-wins-landmark-case-on-it-litigation-before-spanish-supreme-court) (Fuente: Alejandro Gálvez) - [Enlace a la sentencia original](http://estaticos.expansion.com/estaticas/documentos/juridico/sentencias/2009/sentencia_vitoria.pdf) (Fuente: Sandra Campos) [Actualización: el primer link está caído, adjunto información acerca del caso entre Ausa y Capgemini por la implementación fallida de SAP](http://www.legaltoday.com/informacion-juridica/jurisprudencia/civil/sentencia-del-juzgado-de-1-instancia-de-vitoria-n-5-de-20-enero-2009)
+- **SAP, Capgeimini (integrador) y AUSA**: 
+Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por Capgemini.
+[Sentencia](http://www.legaltoday.com/informacion-juridica/jurisprudencia/civil/sentencia-del-juzgado-de-1-instancia-de-vitoria-n-5-de-20-enero-2009) (Fuente: Alejandro Ruiz)
+- **SAP, Capgeimini (integrador) y AUSA**: [Sentencia](http://www.legaltoday.com/informacion-juridica/jurisprudencia/civil/sentencia-del-juzgado-de-1-instancia-de-vitoria-n-5-de-20-enero-2009) (Fuente: Alejandro Ruiz)
 
 - **SAP y ejercito Francés**: [America and France: Two countries united by failed military payroll](http://ahmedsuniverse.blogspot.com.es/2014/03/america-and-france-two-countries-united.html) (Fuente: Guillermo Azon)
 
@@ -562,7 +565,9 @@ Instalación en 2017. Problemas en 2018.
 
 - **SAP y [Haribo](https://www.haribo.com/esES/pagina-de-inicio.html)**: [Haribo can't bear SAP S/4HANA implementation](https://searchsap.techtarget.com/feature/Haribo-cant-bear-SAP-S-4HANA-implementation) (Fuente: Carlos Allo), [Lessons from the SAP Transformation Problems at Haribo](https://www.thirdstage-consulting.com/lessons-from-the-sap-transformation-problems-at-haribo/) (Fuente: Carlos Allo)
 
-- ** ERP y Arabia Saudí**: [Cuáles son las claves para el fracaso de cualquier ERP en Arabia Saudí](http://docsdrive.com/pdfs/medwelljournals/ibm/2018/10-22.pdf)(Fuente: Alejandro Ruiz)
+- **ERP y Arabia Saudí**:
+[Cuáles son las claves para el fracaso de cualquier ERP en Arabia Saudí](http://docsdrive.com/pdfs/medwelljournals/ibm/2018/10-22.pdf)(Fuente: Alejandro Ruiz)
+
 ### 2019
 
 - **SAP y [LeasePlan](https://www.leaseplan.com/es-es/)**: [Failed SAP implementation costs LeasePlan €100 million
