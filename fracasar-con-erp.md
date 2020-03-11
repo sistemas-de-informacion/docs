@@ -405,7 +405,7 @@ Instalación comenzó en 2011.
 [SAP Offers the City of Anchorage Alaska 85% Discount on ERP Software](https://upperedge.com/sap/sap-offers-the-city-of-anchorage-alaska-85-discount-on-erp-software/) (2015)
 [Anchorage SAP software upgrade continues to drain Anchorage funds](https://www.ktuu.com/content/news/Anchorage-SAP-software-upgrade-continues-to-drain-486787101.html) (2018),  (Fuente: Luis García Garcés)
 
-- **SAP y Deloitte Consulting (California)** : [County Alleges SAP, Deloitte Comprometido en Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés)
+- **SAP y Deloitte Consulting (California)** : [County Alleges SAP, Deloitte Comprometido por crimen organizado](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés), [Deloitte hit with $30M lawsuit over ERP project](https://www.computerworld.com/article/2518518/deloitte-hit-with--30m-lawsuit-over-erp-project.html) (Fuente: Daniel Royo), [Marin County v. Deloitte: Learn from this ERP Implementation Failure to Drive Success](https://www.pemeco.com/marin-county-v-deloitte-learn-from-this-erp-implementation-failure-to-drive-success/) (Fuente: Daniel Royo)
 
 - **SAP (instalado por IBM) y [DHL](http://www.dhl.com/)**: 
 Tras 1000M$ de inversión, entrar en go-live en 2013, el sistema fue desmantelado y retirado en 2015 
