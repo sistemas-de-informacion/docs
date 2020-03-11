@@ -59,7 +59,7 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **MOVEX y Beijing Dabao Cosmetics Co. (China)**: [Case study on failed implementation of ERP systems](http://www.academia.edu/28508065/CASE_STUDY_ON_FAILED_IMPLEMENTATION_OF_ERP_SYSTEMS) (Fuente: Jorge Blázquez)
 
-- **Oracle y [ABC Corporation](http://www.abcgroupindia.com/) (India)**: [Case Study - Learning from failure](http://shodhganga.inflibnet.ac.in/bitstream/10603/9902/9/09_chapter%204.pdf) (Fuente: Andrés Julián) (https://www.researchgate.net/publication/257980583_ERP_System_Implementation_Evidence_from_FMCG_Sector) (Fuente: Raúl Logroño)
+- **Oracle y [ABC Corporation](http://www.abcgroupindia.com/) (India)**: [Case Study - Learning from failure](http://shodhganga.inflibnet.ac.in/bitstream/10603/9902/9/09_chapter%204.pdf) (Fuente: Andrés Julián) [ERP System Implementation: Evidence from FMCG Sector](https://www.researchgate.net/publication/257980583_ERP_System_Implementation_Evidence_from_FMCG_Sector) (Fuente: Raúl Logroño)
 
 - **Oracle y Oxford Health Plans Inc (EE.UU)**: [Companies Don't Learn From Previous IT Snafus](http://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html?page=2) (Fuente: Álvaro Gómez Muñoz)
 
