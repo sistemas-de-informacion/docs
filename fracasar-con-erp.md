@@ -356,6 +356,11 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **SAP y Deloitte Consulting (California)** : [County Alleges SAP, Deloitte Comprometido en Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés)
 
+- **SAP (instalado por IBM) y [DHL](http://www.dhl.com/)**: 
+Tras 1000M$ de inversión, entrar en go-live en 2013, el sistema fue desmantelado y retirado en 2015 
+[L’échec d’un projet SAP coûte 345 millions d’euros à DHL](http://www.silicon.fr/echec-projet-sap-coute-345-millions-euros-dhl-131307.html) (Fuente: David Abián)
+[Getting I.T. Right: What forwarders can learn from DHL’s struggle](https://aircargoworld.com/allposts/getting-i-t-right-what-forwarders-can-learn-from-dhls-struggle/) (Fuente: Antonio Lecina)
+
 - **SAP y Kentuky's Goverment**: [Auditor: state's HR software system has series of material](https://www.computerworld.com/article/2501737/auditor--state-s-hr-software-system-has-series-of--material-weaknesses-.html) (Fuente: David Ubide).
 
 - **SAP y empresa del sector petrolífero (Turkey)**: [Evidence from the Oil and Gas Sector](https://www.uni-obuda.hu/journal/Mishra_Mishra_30.pdf) (Fuente: Javier Plano).
@@ -397,11 +402,9 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 - **SAP y [Avon](http://www.avon.com/)**: [Avon's Failed SAP Implementation A Perfect Example Of The Enterprise IT Revolution](http://www.forbes.com/sites/benkepes/2013/12/17/avons-failed-sap-implementation-a-perfect-example-of-enterprise-it-revolution/) (Fuente: Beatriz Aguas) [Inside Avon's Failed Order-Management Project](http://www.informationweek.com/software/information-management/inside-avons-failed-order-management-project/d/d-id/1113100) (Fuente: Pablo Piedrafita)
 
 - **SAP y el [Banco do Brasil](https://es.wikipedia.org/wiki/Banco_do_Brasil)**: [Projeto SAP no BB subiu no telhado?](http://www.baguete.com.br/noticias/07/01/2014/projeto-sap-no-bb-subiu-no-telhado) (Fuente: David Abián)
-- **Target y SAP (Canada)**: [The Last Days of Target. The untold tale of Target Canada’s difficult birth, tough life and brutal death](http://www.canadianbusiness.com/the-last-days-of-target-canada/) (Fuente: Marta Blanco), [Case Study 7: The $2.5 Billion Cross-Border Expansion Mistake by Target] https://www.henricodolfing.com/2019/09/case-study-target-canada-failure.html (Fuente: Antonio Lecina)
+- **Target y SAP (Canada)**: [The Last Days of Target. The untold tale of Target Canada’s difficult birth, tough life and brutal death](http://www.canadianbusiness.com/the-last-days-of-target-canada/) (Fuente: Marta Blanco)
 
 - **SAP y el estado de [California](http://www.ca.gov/)**: [California sues SAP over failed payroll software project](http://www.computerworld.com/s/article/9244287/California_sues_SAP_over_failed_payroll_software_project) (Fuente: Sergio Josa) [California payroll: Another failure waiting to happen?](http://www.zdnet.com/article/california-payroll-another-failure-waiting-to-happen/) (Fuente: Guillermo Sesé)
-
-- **SAP (instalado por IBM) y [DHL](http://www.dhl.com/)**: [L’échec d’un projet SAP coûte 345 millions d’euros à DHL](http://www.silicon.fr/echec-projet-sap-coute-345-millions-euros-dhl-131307.html) (Fuente: David Abián), [Getting I.T. Right: What forwarders can learn from DHL’s struggle] https://aircargoworld.com/allposts/getting-i-t-right-what-forwarders-can-learn-from-dhls-struggle/ (Fuente: Antonio Lecina)
 
 - **SAP y [Fujitsu](http://www.fujitsu.com/es/)**: [Another big SAP project hits the rocks in Oz](https://www.theregister.co.uk/2013/08/28/another_big_sap_project_hits_the_rocks_in_oz/) (Fuente: Ignacio Palacios)
 
