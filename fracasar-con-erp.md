@@ -532,4 +532,3 @@ Instalación en 2017. Problemas en 2018.
 
 ### 2020
 
-- **Sap
