@@ -209,6 +209,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **PeopleSoft y [University of Massachusetts-Amherst](https://www.umass.edu/)**: [UMass-Amherst bedeviled by PeopleSoft portal crash](https://www.computerworld.com/article/2566229/enterprise-applications/umass-amherst-bedeviled-by-peoplesoft-portal-crash.html) (Fuente: Adrián Ibáñez)
 
 - **Oracle y [Ford](http://corporate.ford.com)**: [Ford Abandons Oracle Procurement System](http://www.computerworld.com/article/2565732/enterprise-resource-planning/ford-abandons-oracle-procurement-system.html) (Fuente: Sergio Andrés)
+	[Everest: Failure in Information Technology project at Ford Motor Company](https://www.360dissertations.in/wp-content/uploads/2013/sample-coursework.pdf) (Fuente: Alejandro Piedrafita)
 
 - **Oracle y Saudi Telecom (Arabia Saudí)**: [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
 
@@ -531,8 +532,6 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 [Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) (Fuente: Félix García)
 [The Hidden S/4 HANNA Failure at LeasePlan] (https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz)
 [Case Study 10: LeasePlan Paid $100 Million for a SAP System That Never Went Live](https://www.henricodolfing.com/2020/01/project-failure-case-study-leaseplan-sap.html) (Fuente: Fernando Bercedo) 
-
-- **Onsystec S.A. y Agroxven (Ecuador)**: [Infección con ransomware en el servidor de base de datos del sistema Onsystec ERP](https://dialnet.unirioja.es/servlet/articulo?codigo=6065450) (Fuente: Alejandro Piedrafita)
 
 
 ### 2017
