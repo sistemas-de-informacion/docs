@@ -154,6 +154,8 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **SAP y [WHSmith](https://www.whsmith.co.uk/)**: [Supplier sues consultant over failed WHSmith SAP roll-out](http://www.computerweekly.com/news/2240042682/Supplier-sues-consultant-over-failed-WHSmith-SAP-roll-out) (Fuente: Celia Langa)
 
+- **SAP y KuDrink**: (https://ieeexplore.ieee.org/abstract/document/4439890) (Fuente: Sergio García-Campero)
+
 ### 2002
 
 - **Adage y Raskas Foods**: [Case Study #1 : Failled implementation at Raskas Foods Inc](http://slideplayer.com/slide/7414624/) (Fuente : Laura Calderón)
