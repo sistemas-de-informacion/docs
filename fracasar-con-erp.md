@@ -296,7 +296,9 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 
 - **SAP y Levi Strauss**: [Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz)
 
-- **SAP y [Select Confort](http://www.sleepnumber.com/)**: [SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas), [Select Comfort puts big SAP project into sleep mode](http://www.computerworld.com/article/2529907/it-industry/select-comfort-puts-big-sap-project-into-sleep-mode.html) (Fuente: Christian Moreno)
+- **SAP y [Select Confort](http://www.sleepnumber.com/)**: 
+[SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas)
+[Select Comfort puts big SAP project into sleep mode](http://www.computerworld.com/article/2529907/it-industry/select-comfort-puts-big-sap-project-into-sleep-mode.html) (Fuente: Christian Moreno)
 
 - **SAP, Logo, Mincom, Qlink e Industrias Iranies**: [Identification and classification of ERP critical failure factors in Iranian industries. Amin Amid, Morteza Moalagh,Ahad Zare Ravasan](http://dx.doi.org/10.1016/j.is.2011.10.010) (Fuente: Eduardo Navarro)
 
@@ -425,6 +427,10 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 
 - **Oracle PeopleSoft, Ciber y HTC**: [Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) (Fuente: Alberto Mur)
 
+- **Oracle y Estado de Oregon (EE.UU.)** : 
+Un año de desarrollo, 35M$ y un año después del go-live (2014) se siguen haciendo los procesos en papel. 
+[Case Study: $250 Million Failure, Who Are You Going To Sue?](https://ecaminc.com/index.php/blog/item/353-case-study-cover-oregon-oregon-state-and-oracle) (Fuente: David Alloza)
+
 - **SAP (instalado por IBM) y [Bridgestone](http://www.bridgestone.com/)**: [PR finger pointing: IBM and Bridgestone wrangle over failed ERP](http://www.zdnet.com/article/pr-finger-pointing-ibm-and-bridgestone-wrangle-over-failed-erp/) (Fuente : Diego Sánchez)
 
 - **SAP y National Grid (EE.UU)**: [Cost of troubled SAP project will skyrocket to nearly $1 billion, audit says](http://www.computerworld.com/article/2691661/enterprise-software/cost-of-troubled-sap-project-will-skyrocket-to-nearly-1-billion-audit-says.html) (Fuente : Manuel Herrero)
@@ -498,8 +504,9 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 
 - **IBM y el [Ministry of Community and Social Services](https://www.mcss.gov.on.ca/en/mcss/) de Ontario**: [Breach of Contract: Ontario vs. IBM](http://www.petrillolaw.com/breach-of-contract-ontario-vs-ibm/), [Ontario government, IBM smacked for bungled software project](https://www.itworldcanada.com/article/ontario-government-ibm-smacked-for-bungled-software-project/379060) (Fuente: Enrique Palacín)
 
-
-- **Oracle, Siebel CRM y [Select Comfort](https://www.sleepnumber.com/)** : [Losing Sleep at Select Comfort - ERP Implementation is a Nightmare](https://www.linkedin.com/pulse/losing-sleep-select-comfort-erp-implementation-nightmare-belden) (Fuente: Pablo Piedrafita)
+- **Oracle, Siebel CRM y [Select Comfort](https://www.sleepnumber.com/)** : 
+Tras tener problemas en 2008 con SAP, Select Confort vuelve a tener problemas en un ERP go-live.
+[Losing Sleep at Select Comfort - ERP Implementation is a Nightmare](https://www.linkedin.com/pulse/losing-sleep-select-comfort-erp-implementation-nightmare-belden) (Fuente: Pablo Piedrafita)
 
 - **SAP y [Stallergenes-Greer](http://www.stallergenesgreer.com/)**: [L'échec du projet SAP fait vaciller les comptes de Stallergenes](http://www.lemondeinformatique.fr/actualites/lire-l-echec-du-projet-sap-fait-vaciller-les-comptes-de-stallergenes-65770.html) (Fuente: David Abián)
 
