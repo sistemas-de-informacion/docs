@@ -134,6 +134,8 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **SAP y [Volkswagen](https://www.volkswagen.es/es.html)**: [ERP Problems Put Brakes On Volkswagen Parts Shipments](https://www.computerworld.com/article/2597195/erp-problems-put-brakes-on-volkswagen-parts-shipments.html) (Fuente: Celia Langa)
 
+- **SAP y [Petsmart](https://www.petsmart.com/)**: [An installation of SAP AG's retail software completed last year by Petsmart Inc. created problems that were "far more than we anticipated"](https://www.computerworld.com/article/2589123/petsmart-ceo--sap-project--far-more--difficult-than-expected.html) (Fuente: Samuel Ballonga)
+
 ### 2001
 
 - **HPT(nombre ficticio) y Vicro Communications**: [The Relation Between BPR and ERP Systems: A failed project](http://www.cs.jyu.fi/el/itke50_03/Artikkelit/The%20Relation%20Between%20BPR%20and%20ERP%20Systems_%20A%20Failed%20Project%20IT5656_XZXCZQ282V.pdf) (Fuente: Andrés Soldevilla)
@@ -483,6 +485,8 @@ Un caso de estudio descrito por uno de los participantes en el juicio.
 - **Price Waterhouse Cooper(implementador) y Los Angeles Department of Water and Power(DWP) (EE.UU)**: 
 Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas.
 [DWP billing problems blamed on inexperienced managers and consultants](https://www.dailynews.com/2014/11/18/dwp-billing-problems-blamed-on-inexperienced-managers-and-consultants-report-says/) (Fuente: Ramón Jarauta)
+
+- **SAP y [BMW](https://www.bmw.es/es/index.html)**: [BMW Owners Vent Anger at Months-Long Wait for Spare Parts relating to a SAP Warehouse implementation in which IBM was also involved.](https://www.bloomberg.com/news/articles/2013-08-27/bmw-owners-vent-anger-at-months-long-wait-for-spare-parts) (Fuente: Samuel Ballonga)
 
 ### 2014
 
