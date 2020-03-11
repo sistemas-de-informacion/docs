@@ -230,7 +230,6 @@ Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
 - **SAP, Capgeimini (integrador) y AUSA**: 
 Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por Capgemini.
 [Sentencia](http://www.legaltoday.com/informacion-juridica/jurisprudencia/civil/sentencia-del-juzgado-de-1-instancia-de-vitoria-n-5-de-20-enero-2009) (Fuente: Alejandro Ruiz)
-- **SAP, Capgeimini (integrador) y AUSA**: [Sentencia](http://www.legaltoday.com/informacion-juridica/jurisprudencia/civil/sentencia-del-juzgado-de-1-instancia-de-vitoria-n-5-de-20-enero-2009) (Fuente: Alejandro Ruiz)
 
 - **SAP y ejercito Francés**: [America and France: Two countries united by failed military payroll](http://ahmedsuniverse.blogspot.com.es/2014/03/america-and-france-two-countries-united.html) (Fuente: Guillermo Azon)
 
