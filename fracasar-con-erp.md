@@ -307,7 +307,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 
 - **SAP y la Ciudad de París**: [SAP Migration Caused Paris Legacy Architecture Clash](https://www.cio.com/article/2434903/enterprise-software/sap-migration-caused-paris-legacy-architecture-clash.html) (Fuente: Gonzalo Torrecillas)
 
-- **SAP y Levi Strauss**: [Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz)
+- **SAP y Levi Strauss**: [Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz) - Análisis del fracaso y solución implementada (con Oracle ERP) [Levi Strauss & Co. and the ERP Failure Essay](https://ivypanda.com/essays/levi-strauss-co-and-the-erp-failure/) (Fuente: Sergio García Esteban)
 
 - **SAP y [Select Confort](http://www.sleepnumber.com/)**: 
 [SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas)
