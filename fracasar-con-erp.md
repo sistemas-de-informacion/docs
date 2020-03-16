@@ -585,8 +585,6 @@ Reemplazo fallido de SAP R/3 por SAP S/4 tras gastar 135M$.
 [Qld Health's new SAP ERP wobbles in week one](https://www.itnews.com.au/news/qld-healths-new-sap-erp-wobbles-in-week-one-529400)
 [Qld Health's new SAP ERP system draws scrutiny](https://www.itnews.com.au/news/qld-healths-new-sap-erp-system-draws-scrutiny-537814) (Fuente: Fernando Bercedo)
 
-- **ERP y PT. Toyota Astra Motor**: [Critical Failure Factors in Enterprise Resource Planning (ERP) Implementation: Case Study of PT.Toyota Astra Motor Indonesia](https://ieeexplore.ieee.org/abstract/document/8985720) (Fuente: Alejandro Piedrafita)
-
 ## Década de 2020
 
 ### 2020
