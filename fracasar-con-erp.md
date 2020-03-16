@@ -224,6 +224,13 @@ La instalación de un ERP causa pérdidas 5 veces mayores que su coste.
 [When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán)
 [ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López)
 
+- **SAP, Deloitte (implementador) y el condado de [Marin](http://www.marincounty.org/) en California**:
+El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el Condado de Marin está tan harto del proyecto que demanda a Deloitte por 30M$ utilizando una ley que se aplica contra actividades de crimen organizado (Ley RICO).
+[Understanding Marin County's $30 million ERP failure](http://www.zdnet.com/blog/projectfailures/understanding-marin-countys-30-million-erp-failure/10678) (Fuente: Alejandro Gálvez) 
+[Marin County settles legal claims against Deloitte, SAP over software project](http://www.computerworld.com/article/2494092/government-it/marin-county-settles-legal-claims-against-deloitte--sap-over-software-project.html) (Fuente: Andrea Alexendry)
+[County Alleges SAP, Deloitte Engaged in Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés), 
+[Deloitte hit with $30M lawsuit over ERP project](https://www.computerworld.com/article/2518518/deloitte-hit-with--30m-lawsuit-over-erp-project.html) (Fuente: Daniel Royo)
+
 - **PeopleSoft y Companhia Siderurgica de Tubarao (CST) (Brasil)**:
 Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
 [The enterprise resource planning applied to the area of logistics: A case of failure](https://www.researchgate.net/publication/265301992_THE_ENTERPRISE_RESOURCE_PLANNING_APPLIED_TO_THE_AREA_OF_LOGISTICS_A_CASE_OF_FAILURE) (Fuente: Alberto Calvo)
@@ -357,8 +364,6 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 - **SAP y el condado de Dorset (RU)**: [Dorset County Council computer problems continue](http://www.dorsetecho.co.uk/news/8625142.Dorset_County_Council_computer_problems_continue/?ref=mr) (Fuente Alvaro Juan)
 
-- **SAP y el condado de [Marin](http://www.marincounty.org/) en California**: [Understanding Marin County's $30 million ERP failure](http://www.zdnet.com/blog/projectfailures/understanding-marin-countys-30-million-erp-failure/10678) (Fuente: Alejandro Gálvez) [Marin County settles legal claims against Deloitte, SAP over software project](http://www.computerworld.com/article/2494092/government-it/marin-county-settles-legal-claims-against-deloitte--sap-over-software-project.html) (Fuente: Andrea Alexendry)
-
 - **SAP (software), Axon (implementador) y la ciudad de [San Diego](https://www.sandiego.gov/)**: [SAP System Issue Blamed for Delayed San Diego Audit](http://www.pcworld.com/article/211197/article.html) (Fuente: Sergio Josa) y [San Diego fires Axon over ERP implementation problems](http://www.zdnet.com/article/san-diego-fires-axon-over-erp-implementation-problems/) (Fuente: Catalin Dumitrache)
 
 - **SAP y [Lumber Liquidators](http://www.lumberliquidators.com/ll/home)**: [What Was the Cause of the SAP Failure at Lumber Liquidators?](http://panorama-consulting.com/what-was-the-cause-of-the-sap-failure-at-lumber-liquidators/) (Fuente: Diego Sánchez) [Understanding Lumber Liquidators' ERP failure](http://www.zdnet.com/article/understanding-lumber-liquidators-erp-failure/) (Fuente: Diego Gálvez)
@@ -404,8 +409,6 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 Instalación comenzó en 2011.
 [SAP Offers the City of Anchorage Alaska 85% Discount on ERP Software](https://upperedge.com/sap/sap-offers-the-city-of-anchorage-alaska-85-discount-on-erp-software/) (2015)
 [Anchorage SAP software upgrade continues to drain Anchorage funds](https://www.ktuu.com/content/news/Anchorage-SAP-software-upgrade-continues-to-drain-486787101.html) (2018),  (Fuente: Luis García Garcés)
-
-- **SAP y Deloitte Consulting (California)** : [County Alleges SAP, Deloitte Comprometido en Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés)
 
 - **SAP (instalado por IBM) y [DHL](http://www.dhl.com/)**: 
 Tras 1000M$ de inversión, entrar en go-live en 2013, el sistema fue desmantelado y retirado en 2015 
