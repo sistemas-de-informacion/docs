@@ -95,6 +95,11 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **OneWorld y Evans Industries Inc.**: [J.D. Edwards user wins nearly $2M over ERP rollout gone bad](http://www.computerworld.com/article/2573740/enterprise-resource-planning/j-d--edwards-user-wins-nearly--2m-over-erp-rollout-gone-bad.html) (Fuente: David Abián)
 
+- **Oracle y [Ford](http://corporate.ford.com)**: 
+El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
+[Ford Abandons Oracle Procurement System](http://www.computerworld.com/article/2565732/enterprise-resource-planning/ford-abandons-oracle-procurement-system.html) (Fuente: Sergio Andrés)
+[Everest: Failure in Information Technology project at Ford Motor Company](https://www.360dissertations.in/wp-content/uploads/2013/sample-coursework.pdf) (Fuente: Alejandro Piedrafita)
+
 - **SAP y [Bang & Olufsen](https://www.bang-olufsen.com/es)** : [Bang & Olufsen complains of SAP implementation](https://www.computerworld.com.au/article/24734/bang_olufsen_complains_sap_implementation/) (Fuente: Celia Langa)
 
 - **SAP y Dow Corning Corporation**  [Business Processes and Information Technology](http://dspace.mit.edu/bitstream/handle/1721.1/2652/SWP-3951-37733560-CISR-298.pdf), que explica por qué abandonan una inversión de 500 M$ en SAP R/2, [Transforming the Organization](http://dspace.mit.edu/bitstream/handle/1721.1/2750/SWP-4073-43797558-CISR-305.pdf) (Fuente: Marta Frías), caso que describe la migración de SAP R/2 a SAP R/3.
@@ -213,9 +218,6 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **PeopleSoft y [University of Indiana](https://www.iu.edu/)**: [Indiana University suffers during PeopleSoft rollout](https://www.computerworld.com/article/2567014/enterprise-applications/indiana-university-suffers-during-peoplesoft-rollout.html) (Fuente: Miguel Bolsa)
 
 - **PeopleSoft y [University of Massachusetts-Amherst](https://www.umass.edu/)**: [UMass-Amherst bedeviled by PeopleSoft portal crash](https://www.computerworld.com/article/2566229/enterprise-applications/umass-amherst-bedeviled-by-peoplesoft-portal-crash.html) (Fuente: Adrián Ibáñez)
-
-- **Oracle y [Ford](http://corporate.ford.com)**: [Ford Abandons Oracle Procurement System](http://www.computerworld.com/article/2565732/enterprise-resource-planning/ford-abandons-oracle-procurement-system.html) (Fuente: Sergio Andrés)
-	[Everest: Failure in Information Technology project at Ford Motor Company](https://www.360dissertations.in/wp-content/uploads/2013/sample-coursework.pdf) (Fuente: Alejandro Piedrafita)
 
 - **Oracle y Saudi Telecom (Arabia Saudí)**: [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
 
