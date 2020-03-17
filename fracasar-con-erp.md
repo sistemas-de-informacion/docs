@@ -50,8 +50,10 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **PeopleSoft (implementador Deloitte & Touche) y W.L. Gore & Associates (marca Gore-Tex):** [Will the real Donald Duck please stand up?](http://www.uwosh.edu/faculty_staff/wresch/ERPgore.htm) (Fuente: Manuel Herrero, ampliado por Alejandro Solanas)
 
-- **SAP y Nestlé**
-[ERP Implementation at Nestlé] (https://www.uwosh.edu/faculty_staff/wresch/ERPNestle.htm)(Fuente: Marta López)
+- **SAP y Nestlé:**
+Una implementación con exitos y fracasos que se completó en 2003.
+[Nestlé's Enterprise Resource Planning (ERP) Odyssey](https://www.cio.com/article/2440821/nestl--s-enterprise-resource-planning--erp--odyssey.html) (Fuente: Alejandro Piedrafita),
+[ERP Implementation at Nestlé](https://www.uwosh.edu/faculty_staff/wresch/ERPNestle.htm)(Fuente: Marta López),
 
 ### 1998
 
@@ -91,6 +93,11 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 - **MOVEX y StoneCo (China)**: [ERP implementation failures in China: Case studies with implications for ERP vendors](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.6344&rep=rep1&type=pdf) (Fuente: Álvaro Gómez Muñoz)
 
 - **OneWorld y Evans Industries Inc.**: [J.D. Edwards user wins nearly $2M over ERP rollout gone bad](http://www.computerworld.com/article/2573740/enterprise-resource-planning/j-d--edwards-user-wins-nearly--2m-over-erp-rollout-gone-bad.html) (Fuente: David Abián)
+
+- **Oracle y [Ford](http://corporate.ford.com)**: 
+El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
+[Ford Abandons Oracle Procurement System](http://www.computerworld.com/article/2565732/enterprise-resource-planning/ford-abandons-oracle-procurement-system.html) (Fuente: Sergio Andrés)
+[Everest: Failure in Information Technology project at Ford Motor Company](https://www.360dissertations.in/wp-content/uploads/2013/sample-coursework.pdf) (Fuente: Alejandro Piedrafita)
 
 - **SAP y [Bang & Olufsen](https://www.bang-olufsen.com/es)** : [Bang & Olufsen complains of SAP implementation](https://www.computerworld.com.au/article/24734/bang_olufsen_complains_sap_implementation/) (Fuente: Celia Langa)
 
@@ -214,8 +221,6 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **PeopleSoft y [University of Indiana](https://www.iu.edu/)**: [Indiana University suffers during PeopleSoft rollout](https://www.computerworld.com/article/2567014/enterprise-applications/indiana-university-suffers-during-peoplesoft-rollout.html) (Fuente: Miguel Bolsa)
 
 - **PeopleSoft y [University of Massachusetts-Amherst](https://www.umass.edu/)**: [UMass-Amherst bedeviled by PeopleSoft portal crash](https://www.computerworld.com/article/2566229/enterprise-applications/umass-amherst-bedeviled-by-peoplesoft-portal-crash.html) (Fuente: Adrián Ibáñez)
-
-- **Oracle y [Ford](http://corporate.ford.com)**: [Ford Abandons Oracle Procurement System](http://www.computerworld.com/article/2565732/enterprise-resource-planning/ford-abandons-oracle-procurement-system.html) (Fuente: Sergio Andrés)
 
 - **Oracle y Saudi Telecom (Arabia Saudí)**: [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
 
@@ -560,6 +565,7 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 [Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) (Fuente: Félix García)
 [The Hidden S/4 HANNA Failure at LeasePlan] (https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz)
 [Case Study 10: LeasePlan Paid $100 Million for a SAP System That Never Went Live](https://www.henricodolfing.com/2020/01/project-failure-case-study-leaseplan-sap.html) (Fuente: Fernando Bercedo) 
+
 
 ### 2017
 
