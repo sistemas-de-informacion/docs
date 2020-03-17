@@ -36,6 +36,10 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ### 1996
 
+- **Oracle y [ABC Corporation](http://www.abcgroupindia.com/) (India)**:
+El proyecto se abandona en 1998 por los retrasos y costes crecientes. Se retoma otra vez a partir del año 2000 con mejor rendimiento.
+[Case Study - Learning from failure](http://shodhganga.inflibnet.ac.in/bitstream/10603/9902/9/09_chapter%204.pdf) (Fuente: Andrés Julián) 
+
 - **SAP y Dell Computers** : [Dell abandona la implementación de SAP a mitad por ser demasiado monolítico](https://books.google.es/books?id=sVS9AQAAQBAJ&pg=PA92&lpg=PA92&dq=dell+%22r/3%22&source=bl&ots=Zr4ks2k8C4&sig=NNppW0r0UnghiNS2sD3PZU0QQmU&hl=es&sa=X&ved=0ahUKEwi-7byQmZvLAhUEuRoKHQ9ZA_wQ6AEIMTAC#v=onepage&q=dell%20%22r%2F3%22&f=false) (Fuente: Beatriz Pérez)
 
 - **SAP y FoxMeyer Drugs** : [The FoxMeyer Drugs' Bankruptcy: Was it a Failure of ERP?](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1437&context=amcis1999) (Fuente: Pablo Piedrafita)
@@ -58,8 +62,6 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 - **ERP desconocido y Applied Materials** : [ERP LECTURE 1 LEARNINGS](https://es.scribd.com/presentation/149512631/ERP-Ppt-Lecture1) , [Handbook of Research on Enterprise Systems](https://books.google.es/books?id=4rZf-Jt93ioC&pg=PT116&lpg=PT116&dq=Applied+Materials++%E2%80%93+overwhelmed+by+the+organizationalchanges+involved&source=bl&ots=2sFDRnA-tJ&sig=ACfU3U0KmC-105qPc1AHyiU6oePHj9VH_w&hl=es&sa=X&ved=2ahUKEwjvjLCWvoLhAhUk-YUKHUZPB3kQ6AEwAXoECAIQAQ#v=onepage&q=Applied%20Materials%20%20%E2%80%93%20overwhelmed%20by%20the%20organizationalchanges%20involved&f=false)(Fuente: Israel Solanas)
 
 - **MOVEX y Beijing Dabao Cosmetics Co. (China)**: [Case study on failed implementation of ERP systems](http://www.academia.edu/28508065/CASE_STUDY_ON_FAILED_IMPLEMENTATION_OF_ERP_SYSTEMS) (Fuente: Jorge Blázquez)
-
-- **Oracle y [ABC Corporation](http://www.abcgroupindia.com/) (India)**: [Case Study - Learning from failure](http://shodhganga.inflibnet.ac.in/bitstream/10603/9902/9/09_chapter%204.pdf) (Fuente: Andrés Julián) [ERP System Implementation: Evidence from FMCG Sector](https://www.researchgate.net/publication/257980583_ERP_System_Implementation_Evidence_from_FMCG_Sector) (Fuente: Raúl Logroño)
 
 - **Oracle y Oxford Health Plans Inc (EE.UU)**: [Companies Don't Learn From Previous IT Snafus](http://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html?page=2) (Fuente: Álvaro Gómez Muñoz)
 
