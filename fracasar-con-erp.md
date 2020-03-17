@@ -55,7 +55,6 @@ Una implementación con exitos y fracasos que se completó en 2003.
 [Nestlé's Enterprise Resource Planning (ERP) Odyssey](https://www.cio.com/article/2440821/nestl--s-enterprise-resource-planning--erp--odyssey.html) (Fuente: Alejandro Piedrafita),
 [ERP Implementation at Nestlé](https://www.uwosh.edu/faculty_staff/wresch/ERPNestle.htm)(Fuente: Marta López),
 
-
 ### 1998
 
 - **Baan y AML (Egipto)**: [ERP Customization Failure: Institutionalized Accounting Practices,
@@ -141,9 +140,11 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **Oracle y King County University (EE.UU.)**: [King County ready to restart ERP effort](http://www.computerworld.com/article/2557409/enterprise-resource-planning/king-county-ready-to-restart-erp-effort.html) (Fuente: Victor Beltrán)
 
-- **SAP y Nestlé**: [Nestlé's Enterprise Resource Planning (ERP) Odyssey](http://www.cio.com/article/2440821/enterprise-resource-planning/nestl--s-enterprise-resource-planning--erp--odyssey.html) (Fuente: Daniel Cabrera)
+- **SAP y Nestlé**: [Nestlé's Enterprise Resource Planning (ERP) Odyssey](http://www.cio.com/article/2440821/enterprise-resource-planning/nestl--s-enterprise-resource-planning--erp--odyssey.html) (Fuente: Daniel Cabrera) 
 
-- **SAP y [Volkswagen](https://www.volkswagen.es/es.html)**: [ERP Problems Put Brakes On Volkswagen Parts Shipments](https://www.computerworld.com/article/2597195/erp-problems-put-brakes-on-volkswagen-parts-shipments.html) (Fuente: Celia Langa)
+- **SAP y [Volkswagen](https://www.volkswagen.es/es.html)**: [ERP Problems Put Brakes On Volkswagen Parts Shipments](https://www.computerworld.com/article/2597195/erp-problems-put-brakes-on-volkswagen-parts-shipments.html) (Fuente: Celia Langa) 
+
+- **SAP y [Petsmart](https://www.petsmart.com/)**: [An installation of SAP AG's retail software completed last year by Petsmart Inc. created problems that were "far more than we anticipated"](https://www.computerworld.com/article/2589123/petsmart-ceo--sap-project--far-more--difficult-than-expected.html) (Fuente: Samuel Ballonga)
 
 ### 2001
 
@@ -162,6 +163,8 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **SAP y una empresa china**: [A Case Study in Chinese Failure in ERP Implementation](http://ajouronline.com/index.php/AJBM/article/view/1541) (Fuente:Andrés Soldevilla)
 
 - **SAP y [WHSmith](https://www.whsmith.co.uk/)**: [Supplier sues consultant over failed WHSmith SAP roll-out](http://www.computerweekly.com/news/2240042682/Supplier-sues-consultant-over-failed-WHSmith-SAP-roll-out) (Fuente: Celia Langa)
+
+- **SAP y KuDrink**: (https://ieeexplore.ieee.org/abstract/document/4439890) (Fuente: Sergio García-Campero)
 
 ### 2002
 
@@ -222,7 +225,16 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **Oracle y Saudi Telecom (Arabia Saudí)**: [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
 
 - **SAP y [HP](http://www.hp.com/)**:
-[When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán)
+La instalación de un ERP causa pérdidas 5 veces mayores que su coste.
+[When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán)
+[ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López)
+
+- **SAP, Deloitte (implementador) y el condado de [Marin](http://www.marincounty.org/) en California**:
+El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el Condado de Marin está tan harto del proyecto que demanda a Deloitte por 30M$ utilizando una ley que se aplica contra actividades de crimen organizado (Ley RICO).
+[Understanding Marin County's $30 million ERP failure](http://www.zdnet.com/blog/projectfailures/understanding-marin-countys-30-million-erp-failure/10678) (Fuente: Alejandro Gálvez) 
+[Marin County settles legal claims against Deloitte, SAP over software project](http://www.computerworld.com/article/2494092/government-it/marin-county-settles-legal-claims-against-deloitte--sap-over-software-project.html) (Fuente: Andrea Alexendry)
+[County Alleges SAP, Deloitte Engaged in Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés), 
+[Deloitte hit with $30M lawsuit over ERP project](https://www.computerworld.com/article/2518518/deloitte-hit-with--30m-lawsuit-over-erp-project.html) (Fuente: Daniel Royo)
 
 - **PeopleSoft y Companhia Siderurgica de Tubarao (CST) (Brasil)**:
 Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
@@ -236,7 +248,9 @@ Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
 
 - **SAIC y FBI (EE.UU.)**: [Anatomy of an IT disaster: How the FBI blew it](http://www.infoworld.com/article/2672020/application-development/anatomy-of-an-it-disaster--how-the-fbi-blew-it.html) (Fuente: Santiago Morón)
 
-- **SAP y AUSA**: [Bird & Bird team wins landmark case on IT litigation before Spanish Supreme Court](http://www.twobirds.com/en/news/press-releases/2013/spain/bb-team-wins-landmark-case-on-it-litigation-before-spanish-supreme-court) (Fuente: Alejandro Gálvez) - [Enlace a la sentencia original](http://estaticos.expansion.com/estaticas/documentos/juridico/sentencias/2009/sentencia_vitoria.pdf) (Fuente: Sandra Campos)
+- **SAP, Capgeimini (integrador) y AUSA**: 
+Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por Capgemini.
+[Sentencia](http://www.legaltoday.com/informacion-juridica/jurisprudencia/civil/sentencia-del-juzgado-de-1-instancia-de-vitoria-n-5-de-20-enero-2009) (Fuente: Alejandro Ruiz)
 
 - **SAP y ejercito Francés**: [America and France: Two countries united by failed military payroll](http://ahmedsuniverse.blogspot.com.es/2014/03/america-and-france-two-countries-united.html) (Fuente: Guillermo Azon)
 
@@ -245,6 +259,8 @@ Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
 - **SAP y [PLIVA](http://www.pliva.com/)(caso ficticio)**: [ERP System Implementation: Case Study of a Pharmaceutical Company](https://www.researchgate.net/publication/220066116_ERP_System_Implementation_and_Business_Process_Change_Case_Study_of_a_Pharmaceutical_Company) (Fuente: Miguel Bentué)
 
 - **SAP y [US Navy](http://www.navy.mil/)**:  [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez)
+
+- **ERP desconocido y Alpha, Beta, Gamma, Delta (desconocidas)**:  [ Critical Failure Factors in ERP Implementation ](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1152&context=pacis2005) (Fuente: Irene Fumanal Lacoma)
 
 ### 2006
 
@@ -305,7 +321,9 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 
 - **SAP y Levi Strauss**: [Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz)
 
-- **SAP y [Select Confort](http://www.sleepnumber.com/)**: [SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas), [Select Comfort puts big SAP project into sleep mode](http://www.computerworld.com/article/2529907/it-industry/select-comfort-puts-big-sap-project-into-sleep-mode.html) (Fuente: Christian Moreno)
+- **SAP y [Select Confort](http://www.sleepnumber.com/)**: 
+[SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas)
+[Select Comfort puts big SAP project into sleep mode](http://www.computerworld.com/article/2529907/it-industry/select-comfort-puts-big-sap-project-into-sleep-mode.html) (Fuente: Christian Moreno)
 
 - **SAP, Logo, Mincom, Qlink e Industrias Iranies**: [Identification and classification of ERP critical failure factors in Iranian industries. Amin Amid, Morteza Moalagh,Ahad Zare Ravasan](http://dx.doi.org/10.1016/j.is.2011.10.010) (Fuente: Eduardo Navarro)
 
@@ -350,8 +368,6 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 - **Oracle PeopleSoft y [Washington State University](https://wsu.edu/)**: [Oracle software glitch mars semester's start for university, students](http://www.computerworld.com/article/2491510/enterprise-resource-planning/oracle-software-glitch-mars-semester-s-start-for-university--students.html) (Fuente: Alejandro Ramón).
 
 - **SAP y el condado de Dorset (RU)**: [Dorset County Council computer problems continue](http://www.dorsetecho.co.uk/news/8625142.Dorset_County_Council_computer_problems_continue/?ref=mr) (Fuente Alvaro Juan)
-
-- **SAP y el condado de [Marin](http://www.marincounty.org/) en California**: [Understanding Marin County's $30 million ERP failure](http://www.zdnet.com/blog/projectfailures/understanding-marin-countys-30-million-erp-failure/10678) (Fuente: Alejandro Gálvez) [Marin County settles legal claims against Deloitte, SAP over software project](http://www.computerworld.com/article/2494092/government-it/marin-county-settles-legal-claims-against-deloitte--sap-over-software-project.html) (Fuente: Andrea Alexendry)
 
 - **SAP (software), Axon (implementador) y la ciudad de [San Diego](https://www.sandiego.gov/)**: [SAP System Issue Blamed for Delayed San Diego Audit](http://www.pcworld.com/article/211197/article.html) (Fuente: Sergio Josa) y [San Diego fires Axon over ERP implementation problems](http://www.zdnet.com/article/san-diego-fires-axon-over-erp-implementation-problems/) (Fuente: Catalin Dumitrache)
 
@@ -399,7 +415,10 @@ Instalación comenzó en 2011.
 [SAP Offers the City of Anchorage Alaska 85% Discount on ERP Software](https://upperedge.com/sap/sap-offers-the-city-of-anchorage-alaska-85-discount-on-erp-software/) (2015)
 [Anchorage SAP software upgrade continues to drain Anchorage funds](https://www.ktuu.com/content/news/Anchorage-SAP-software-upgrade-continues-to-drain-486787101.html) (2018),  (Fuente: Luis García Garcés)
 
-- **SAP y Deloitte Consulting (California)** : [County Alleges SAP, Deloitte Comprometido en Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés)
+- **SAP (instalado por IBM) y [DHL](http://www.dhl.com/)**: 
+Tras 1000M$ de inversión, entrar en go-live en 2013, el sistema fue desmantelado y retirado en 2015 
+[L’échec d’un projet SAP coûte 345 millions d’euros à DHL](http://www.silicon.fr/echec-projet-sap-coute-345-millions-euros-dhl-131307.html) (Fuente: David Abián)
+[Getting I.T. Right: What forwarders can learn from DHL’s struggle](https://aircargoworld.com/allposts/getting-i-t-right-what-forwarders-can-learn-from-dhls-struggle/) (Fuente: Antonio Lecina)
 
 - **SAP y Kentuky's Goverment**: [Auditor: state's HR software system has series of material](https://www.computerworld.com/article/2501737/auditor--state-s-hr-software-system-has-series-of--material-weaknesses-.html) (Fuente: David Ubide).
 
@@ -434,6 +453,10 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 
 - **Oracle PeopleSoft, Ciber y HTC**: [Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) (Fuente: Alberto Mur)
 
+- **Oracle y Estado de Oregon (EE.UU.)** : 
+Un año de desarrollo, 35M$ y un año después del go-live (2014) se siguen haciendo los procesos en papel. 
+[Case Study: $250 Million Failure, Who Are You Going To Sue?](https://ecaminc.com/index.php/blog/item/353-case-study-cover-oregon-oregon-state-and-oracle) (Fuente: David Alloza)
+
 - **SAP (instalado por IBM) y [Bridgestone](http://www.bridgestone.com/)**: [PR finger pointing: IBM and Bridgestone wrangle over failed ERP](http://www.zdnet.com/article/pr-finger-pointing-ibm-and-bridgestone-wrangle-over-failed-erp/) (Fuente : Diego Sánchez)
 
 - **SAP y National Grid (EE.UU)**: [Cost of troubled SAP project will skyrocket to nearly $1 billion, audit says](http://www.computerworld.com/article/2691661/enterprise-software/cost-of-troubled-sap-project-will-skyrocket-to-nearly-1-billion-audit-says.html) (Fuente : Manuel Herrero)
@@ -459,8 +482,6 @@ Mala calidad de datos, problemas de suministros derivados y TPV con problemas ll
 
 - **SAP y el estado de [California](http://www.ca.gov/)**: [California sues SAP over failed payroll software project](http://www.computerworld.com/s/article/9244287/California_sues_SAP_over_failed_payroll_software_project) (Fuente: Sergio Josa) [California payroll: Another failure waiting to happen?](http://www.zdnet.com/article/california-payroll-another-failure-waiting-to-happen/) (Fuente: Guillermo Sesé)
 
-- **SAP (instalado por IBM) y [DHL](http://www.dhl.com/)**: [L’échec d’un projet SAP coûte 345 millions d’euros à DHL](http://www.silicon.fr/echec-projet-sap-coute-345-millions-euros-dhl-131307.html) (Fuente: David Abián)
-
 - **SAP y [Fujitsu](http://www.fujitsu.com/es/)**: [Another big SAP project hits the rocks in Oz](https://www.theregister.co.uk/2013/08/28/another_big_sap_project_hits_the_rocks_in_oz/) (Fuente: Ignacio Palacios)
 
 - **SAP y una gran organización (Sudáfrica)**: [Learning From a Failed ERP implementation: The Case of a Large South African Organization](https://www.researchgate.net/publication/269928636_Learning_From_a_Failed_ERP_implementation_The_Case_of_a_Large_South_African_Organization) (Fuente: Jorge Blázquez Hernández)
@@ -479,6 +500,8 @@ Un caso de estudio descrito por uno de los participantes en el juicio.
 - **Price Waterhouse Cooper(implementador) y Los Angeles Department of Water and Power(DWP) (EE.UU)**: 
 Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas.
 [DWP billing problems blamed on inexperienced managers and consultants](https://www.dailynews.com/2014/11/18/dwp-billing-problems-blamed-on-inexperienced-managers-and-consultants-report-says/) (Fuente: Ramón Jarauta)
+
+- **SAP y [BMW](https://www.bmw.es/es/index.html)**: [BMW Owners Vent Anger at Months-Long Wait for Spare Parts relating to a SAP Warehouse implementation in which IBM was also involved.](https://www.bloomberg.com/news/articles/2013-08-27/bmw-owners-vent-anger-at-months-long-wait-for-spare-parts) (Fuente: Samuel Ballonga)
 
 ### 2014
 
@@ -507,8 +530,9 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 
 - **IBM y el [Ministry of Community and Social Services](https://www.mcss.gov.on.ca/en/mcss/) de Ontario**: [Breach of Contract: Ontario vs. IBM](http://www.petrillolaw.com/breach-of-contract-ontario-vs-ibm/), [Ontario government, IBM smacked for bungled software project](https://www.itworldcanada.com/article/ontario-government-ibm-smacked-for-bungled-software-project/379060) (Fuente: Enrique Palacín)
 
-
-- **Oracle, Siebel CRM y [Select Comfort](https://www.sleepnumber.com/)** : [Losing Sleep at Select Comfort - ERP Implementation is a Nightmare](https://www.linkedin.com/pulse/losing-sleep-select-comfort-erp-implementation-nightmare-belden) (Fuente: Pablo Piedrafita)
+- **Oracle, Siebel CRM y [Select Comfort](https://www.sleepnumber.com/)** : 
+Tras tener problemas en 2008 con SAP, Select Confort vuelve a tener problemas en un ERP go-live.
+[Losing Sleep at Select Comfort - ERP Implementation is a Nightmare](https://www.linkedin.com/pulse/losing-sleep-select-comfort-erp-implementation-nightmare-belden) (Fuente: Pablo Piedrafita)
 
 - **SAP y [Stallergenes-Greer](http://www.stallergenesgreer.com/)**: [L'échec du projet SAP fait vaciller les comptes de Stallergenes](http://www.lemondeinformatique.fr/actualites/lire-l-echec-du-projet-sap-fait-vaciller-les-comptes-de-stallergenes-65770.html) (Fuente: David Abián)
 
@@ -526,6 +550,7 @@ En 2019 aún están planificando cómo hacerla.
 [Who should shoulder the blame for Phoenix fiasco?](http://www.cbc.ca/news/canada/ottawa/phoenix-payroll-problems-ibm-1.3770947)
 [IBM contract cost for failure-plagued Phoenix payroll system jumped to total $185M](http://www.cbc.ca/news/canada/ottawa/phoenix-ibm-contract-union-pay-government-1.4295827)(Fuente: Enrique Palacín)
 [Upgrade of troubled Phoenix could risk yet more payroll snafus for public servants](https://www.nationalobserver.com/2019/04/03/news/upgrade-troubled-phoenix-could-risk-yet-more-payroll-snafus-public-servants) (Fuente: Javier Ortega)
+Cómo el 25% de los funcionarios de Canadá sufrieron errores en sus nóminas. [ANATOMY OF AN ERP PAYROLL FAILURE](https://freebalance.com/public-financial-management/anatomy-of-an-erp-payroll-failure/)(Fuente: Adrián Francisco)
 
 - **Oracle & Beximco Pharma**: [An assessment to Identify Causes of ERP Implementation Failure and to Predict its Success: A Case Study on Beximco Pharmaceuticals Limited](https://www.researchgate.net/publication/303100797_An_Assessment_to_Identify_Causes_of_ERP_Implementation_Failure_and_to_Predict_Its_Success_A_Case_Study_on_Beximco_Pharmaceuticals_Limited) (Fuente: David Ubide)
 
@@ -571,6 +596,9 @@ Instalación en 2017. Problemas en 2018.
 - **Oracle y Worth & Company**: [Oracle sued for $4.5m after ERP system delivery date 'moved from 2015 to 2016, then 2017, then... er, never'](https://www.theregister.co.uk/2019/02/21/biz_sues_oracle/) (Fuente: Íñigo Úriz)
 
 - **SAP y [Haribo](https://www.haribo.com/esES/pagina-de-inicio.html)**: [Haribo can't bear SAP S/4HANA implementation](https://searchsap.techtarget.com/feature/Haribo-cant-bear-SAP-S-4HANA-implementation) (Fuente: Carlos Allo), [Lessons from the SAP Transformation Problems at Haribo](https://www.thirdstage-consulting.com/lessons-from-the-sap-transformation-problems-at-haribo/) (Fuente: Carlos Allo)
+
+- **ERP y Arabia Saudí**:
+[Cuáles son las claves para el fracaso de cualquier ERP en Arabia Saudí](http://docsdrive.com/pdfs/medwelljournals/ibm/2018/10-22.pdf)(Fuente: Alejandro Ruiz)
 
 ### 2019
 
