@@ -539,7 +539,7 @@ Tras tener problemas en 2008 con SAP, Select Confort vuelve a tener problemas en
 
 - **Siebel CRM y [Vodafone(UK)](https://www.vodafone.co.uk/)**: [Vodafone’s £4.6m CRM fine – when IT projects attack](https://diginomica.com/2016/10/26/vodafones-4-6m-customer-service-fine-when-it-projects-attack/) (Fuente: Marta Blanco).
 
-- **SAP y Woolworth (Australia)** : [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
+- **SAP y Woolworth (Australia)** : [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés) [Woolworths looks to fix IT basics off the back of AU$1.2b loss] (https://www.zdnet.com/article/woolworths-looks-to-fix-it-basics-off-the-back-of-au1-2b-loss/) (Fuente: Paula Ejarque)
 
 ### 2016
 
