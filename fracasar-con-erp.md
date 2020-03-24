@@ -604,7 +604,7 @@ Instalación en 2017. Problemas en 2018.
 - **ERP y Arabia Saudí**:
 [Cuáles son las claves para el fracaso de cualquier ERP en Arabia Saudí](http://docsdrive.com/pdfs/medwelljournals/ibm/2018/10-22.pdf)(Fuente: Alejandro Ruiz)
 
-- **ERP SAP BO(Business One):**[Ante un proyecto que podríamos decir adolecía de cierta metodología de Ingeniaría de Software y buenas prácticas en la implantación](https://leyesytecnologia.com/peritaje-de-sap-bo-business-one-razones-de-un-fracaso-de-implantacion/)
+- **ERP SAP BO(Business One):**[Ante un proyecto que podríamos decir adolecía de cierta metodología de Ingeniaría de Software y buenas prácticas en la implantación](https://leyesytecnologia.com/peritaje-de-sap-bo-business-one-razones-de-un-fracaso-de-implantacion/)(Fuente: Raúl Logroño)
 
 ### 2019
 
