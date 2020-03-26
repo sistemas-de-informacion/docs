@@ -196,6 +196,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **SAP, PeopleSoft and Oracle y [Walt Disney Corporation](https://thewaltdisneycompany.com/)**: [Disney keeps global SAP roll-out on track by making local executives responsible](http://www.computerweekly.com/feature/Disney-keeps-global-SAP-roll-out-on-track-by-making-local-executives-responsible) (Fuente: Adrián Ibáñez)
 
+- **eMAG ERP y Alpha Holdings (Jordania)**: [Explaining ERP Failure in Developing Countries: A Jordanian Case Study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3477359) (Fuente: Sergio García Esteban)
 
 ### 2004
 
