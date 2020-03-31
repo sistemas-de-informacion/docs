@@ -593,6 +593,9 @@ Instalación en 2017. Problemas en 2018.
 
 - **SAP y [Under Armour](https://www.underarmour.com/)**: [Under Armour’s SAP implementation issues contribute to disappointing quarter](https://explorewms.com/under-armour-sap-implementation.html), [Under Armour Links Sales Decline to Software Upgrade](https://blogs.wsj.com/cio/2017/10/31/under-armour-links-sales-decline-to-software-upgrade/) (Fuente: Enrique Palacín), [Under Armour faces losses after ERP update](https://www.supplychaindive.com/news/under-armour-losses-ERP-update-supply-chain-disruption/510078/) (Hector Herrmann)
 
+- **Oracle y [BBSI](https://mybbsi.com/)**: [How BBSI Blew Millions on an Oracle Cloud Solution
+](https://www.henricodolfing.com/2020/03/project-failure-case-study-bbsi-oracle.html) (Fuente: Sergio García Esteban)
+
 ### 2018
 
 - **ERP desconocido y [Dogi](http://www.dogi.es/)**: [El grupo Dogi de Nextil sufre perdidas en ventas por su nuevo ERP](https://www.modaes.es/empresa/el-dueno-de-dogi-crece-un-167-en-2018-pero-engorda-sus-perdidas-por-la-reestructuracion.html)(Fuente: Alejandro Adell)
