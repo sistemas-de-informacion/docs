@@ -461,7 +461,9 @@ Un año de desarrollo, 35M$ y un año después del go-live (2014) se siguen haci
 
 - **SAP (instalado por IBM) y [Bridgestone](http://www.bridgestone.com/)**: [PR finger pointing: IBM and Bridgestone wrangle over failed ERP](http://www.zdnet.com/article/pr-finger-pointing-ibm-and-bridgestone-wrangle-over-failed-erp/) (Fuente : Diego Sánchez)
 
-- **SAP y National Grid (EE.UU)**: [Cost of troubled SAP project will skyrocket to nearly $1 billion, audit says](http://www.computerworld.com/article/2691661/enterprise-software/cost-of-troubled-sap-project-will-skyrocket-to-nearly-1-billion-audit-says.html) (Fuente : Manuel Herrero) [Case Study 3: How a Screwed-Up SAP Implementation Almost Brought Down National Grid](https://www.henricodolfing.com/2019/04/case-study-sap-wipro-national-grid.html) (Fuente : Jorge Fernandez)
+- **SAP y National Grid (EE.UU)**:
+[Cost of troubled SAP project will skyrocket to nearly $1 billion, audit says](http://www.computerworld.com/article/2691661/enterprise-software/cost-of-troubled-sap-project-will-skyrocket-to-nearly-1-billion-audit-says.html) (Fuente : Manuel Herrero)
+[Case Study 3: How a Screwed-Up SAP Implementation Almost Brought Down National Grid](https://www.henricodolfing.com/2019/04/case-study-sap-wipro-national-grid.html) (Fuente : Jorge Fernandez, José Navarro)
 
 - **SAP y NPower (UK)**: [Npower's SAP billing fiasco still making a dent on profits](http://www.computerworlduk.com/news/it-vendors/npowers-billing-fiasco-will-be-resolved-in-two-months-3517010/) (Fuente: Alejandro Guiu)
 
