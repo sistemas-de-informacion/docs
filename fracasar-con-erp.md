@@ -42,6 +42,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **Sun Systems and Natural Springs**: [ERP Implementation Gone Terribly Wrong: The Case of Natural Springs](http://www3.cis.gsu.edu/dtruex/courses/IB8710/Articles/ERP%20Implementation%20Gone%20Terribly%20Wrong-%20The%20Case%20of%20Natural%20Springs.pdf) (Fuente: Víctor Fernández Melic)
 
+- **Oracle CPG y [Kellog](https://www.kelloggs.es/es_ES/home.html)**: [Oracle’s CPG Failures Teaches Valuable Lessons About ERP Integration](https://www.cio.com/article/2441154/oracle-s-cpg-failures-teaches-valuable-lessons-about-erp-integration.html) (Fuente: Samuel Ballonga)
+
 ### 1997
 
 - **Baan y [Snap-On](https://www.snapon.com/EN)**:[Top 10 Corporate Information Technology Failures](http://images.techhive.com/downloads/idge/imported/article/ctw/2000/10/30/44nfailchart.pdf) (Fuente: Miguel Bolsa)
@@ -241,6 +243,8 @@ El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el 
 - **PeopleSoft y Companhia Siderurgica de Tubarao (CST) (Brasil)**:
 Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
 [The enterprise resource planning applied to the area of logistics: A case of failure](https://www.researchgate.net/publication/265301992_THE_ENTERPRISE_RESOURCE_PLANNING_APPLIED_TO_THE_AREA_OF_LOGISTICS_A_CASE_OF_FAILURE) (Fuente: Alberto Calvo)
+
+- **SAP y una MRO Company**: [A Case Study of a Process Enhancement IT-Project In a Maintenance, Repair and Overhaul Company]( https://pdfs.semanticscholar.org/c6ee/5185ee5ed0295dd2a3242390689fc82972ff.pdf) (Fuente: Samuel Ballonga)
 
 ### 2005
 
@@ -629,6 +633,8 @@ Instalación en 2017. Problemas en 2018.
 Reemplazo fallido de SAP R/3 por SAP S/4 tras gastar 135M$.
 [Qld Health's new SAP ERP wobbles in week one](https://www.itnews.com.au/news/qld-healths-new-sap-erp-wobbles-in-week-one-529400)
 [Qld Health's new SAP ERP system draws scrutiny](https://www.itnews.com.au/news/qld-healths-new-sap-erp-system-draws-scrutiny-537814) (Fuente: Fernando Bercedo)
+
+- **SAP y BPC Bio Pharma Company (nombre alterado)**: [Case Study of SAP Implementation in a Corporation Network Plant](https://nestellassociates.com/wp-content/uploads/2019/07/Case-study-of-ERP-implementation.pdf) (Fuente: Samuel Ballonga)
 
 ## Década de 2020
 
