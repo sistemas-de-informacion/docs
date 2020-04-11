@@ -42,6 +42,10 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **Sun Systems and Natural Springs**: [ERP Implementation Gone Terribly Wrong: The Case of Natural Springs](http://www3.cis.gsu.edu/dtruex/courses/IB8710/Articles/ERP%20Implementation%20Gone%20Terribly%20Wrong-%20The%20Case%20of%20Natural%20Springs.pdf) (Fuente: Víctor Fernández Melic)
 
+- **Oracle CPG y [Kellog](https://www.kelloggs.es/es_ES/home.html)**: 
+Oracle saca Oracle CPG, un software que prometía integrar paquetes de software complejos de cuatro proveedores diferentes: el software ERP de Oracle, la gestión de activos empresariales de Indus, la gestión de la cadena de suministro de Manugistic y la gestión de pedidos de IMI en un todo sin fisuras. Kellog lo intentó implementar, pero en 3 años, parece que no lo consiguió.
+[Oracle’s CPG Failures Teaches Valuable Lessons About ERP Integration](https://www.cio.com/article/2441154/oracle-s-cpg-failures-teaches-valuable-lessons-about-erp-integration.html) (Fuente: Samuel Ballonga)
+
 ### 1997
 
 - **Baan y [Snap-On](https://www.snapon.com/EN)**:[Top 10 Corporate Information Technology Failures](http://images.techhive.com/downloads/idge/imported/article/ctw/2000/10/30/44nfailchart.pdf) (Fuente: Miguel Bolsa)
@@ -145,7 +149,8 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **SAP y [Volkswagen](https://www.volkswagen.es/es.html)**: [ERP Problems Put Brakes On Volkswagen Parts Shipments](https://www.computerworld.com/article/2597195/erp-problems-put-brakes-on-volkswagen-parts-shipments.html) (Fuente: Celia Langa)
 
-- **SAP y [Petsmart](https://www.petsmart.com/)**: [An installation of SAP AG's retail software completed last year by Petsmart Inc. created problems that were "far more than we anticipated"](https://www.computerworld.com/article/2589123/petsmart-ceo--sap-project--far-more--difficult-than-expected.html) (Fuente: Samuel Ballonga)
+- **SAP y [Petsmart](https://www.petsmart.com/)**:
+[An installation of SAP AG's retail software completed last year by Petsmart Inc. created problems that were "far more than we anticipated"](https://www.computerworld.com/article/2589123/petsmart-ceo--sap-project--far-more--difficult-than-expected.html) (Fuente: Samuel Ballonga)
 
 ### 2001
 
@@ -241,6 +246,10 @@ El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el 
 - **PeopleSoft y Companhia Siderurgica de Tubarao (CST) (Brasil)**:
 Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
 [The enterprise resource planning applied to the area of logistics: A case of failure](https://www.researchgate.net/publication/265301992_THE_ENTERPRISE_RESOURCE_PLANNING_APPLIED_TO_THE_AREA_OF_LOGISTICS_A_CASE_OF_FAILURE) (Fuente: Alberto Calvo)
+
+- **SAP y una MRO Company**:
+En este paper se hace un pequeño estudio de la implementación de SAP en esta compañía. Se explica que la implementación fue “exitosa” porque su calificación de rendimiento es 5.23 (página 4) lo que revela que no todo el potencial del proyecto fue aprovechado. Se explican los problemas que hubo, como, por ejemplo, las poca confianza y los requisitos poco claros del departamento de ingeniería.
+[A Case Study of a Process Enhancement IT-Project In a Maintenance, Repair and Overhaul Company](http://www.ccsenet.org/journal/index.php/ijbm/article/view/1476) (Fuente: Samuel Ballonga)
 
 ### 2005
 
@@ -629,6 +638,10 @@ Instalación en 2017. Problemas en 2018.
 Reemplazo fallido de SAP R/3 por SAP S/4 tras gastar 135M$.
 [Qld Health's new SAP ERP wobbles in week one](https://www.itnews.com.au/news/qld-healths-new-sap-erp-wobbles-in-week-one-529400)
 [Qld Health's new SAP ERP system draws scrutiny](https://www.itnews.com.au/news/qld-healths-new-sap-erp-system-draws-scrutiny-537814) (Fuente: Fernando Bercedo)
+
+- **SAP y BPC Bio Pharma Company (nombre alterado)**:
+Caso de estudio sobre la implementación de SAP en una empresa dedicada a producir vacunas y farmaceúticos. Se explican todas las dificultades y problemas que conllevo este cambio en la compañia y como los "trucos" que los empleados usaban con el antiguo sistema ya no funcionaban.
+[Case Study of SAP Implementation in a Corporation Network Plant](https://www.inderscienceonline.com/doi/abs/10.1504/IJSOM.2020.105270) (Fuente: Samuel Ballonga)
 
 ## Década de 2020
 
