@@ -54,6 +54,9 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 * [Ex-Apple executive jailed and fined for selling secrets](http://www.bbc.com/news/technology-30379825) (Fuente: Cristian Simón)
 * [Chesapeake alleges founder McClendon stole 'trade secrets' to start new firm](http://www.reuters.com/article/2015/02/17/us-chesapeake-mcclendon-lawsuit-utica-ex-idUSKBN0LL1FM20150217) (Fuente: Javier Murillo)
 * [Navy Civilian Engineer Pleads Guilty to attempted Espionage](https://www.fbi.gov/norfolk/press-releases/2015/navy-civilian-engineer-pleads-guilty-to-attempted-espionage) (Fuente: Victor Beltrán)
+* [Xu Jiaqiang, former IBM employee, sentenced for selling trade secrets](https://www.washingtontimes.com/news/2018/jan/19/former-ibm-employee-sentenced-selling-trade-secret/)
+  * **Fuente**: David Alloza Tejero
+  * **Descripción**: Xu Jiaqiang, un ex desarrollador de IBM fue sentenciado a 5 años de prisión por robar secretos comerciales relacionados con el software de la compañía durante su tiempo en IBM (del 2010 al 2014). Este empleado robó secretos tanto para su propio beneficio como para acabar beneficiando al gobierno chino.
 
 **2016**
 
