@@ -298,7 +298,8 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   **2020**
 
 * [Saboteo de envíos de suministros médicos en plena crisis del Covid-19 tras ser despedido](https://www.bankinfosecurity.com/prosecutors-insider-sabotaged-medical-equipment-shipments-a-14172)
-[Más información del caso. Dobbins ya estuvo sancionado por la empresa en los meses de agosto y diciembre de 2019](https://www.ajc.com/news/crime--law/fbi-scorned-gwinnett-healthcare-company-sabotaged-shipments-masks-gloves/pXIKyuomUtRC9TeOodgOYI/)
+
+[Más información del caso. Dobbins ya estuvo sancionado anteriormente](https://www.ajc.com/news/crime--law/fbi-scorned-gwinnett-healthcare-company-sabotaged-shipments-masks-gloves/pXIKyuomUtRC9TeOodgOYI/)
   * **Fuente**: Fernando Bercedo
   * **Descripción**: El ex vicepresidente de finanzas de una compañia de suministros médicos, Christopher Dobbins, acusado de piratear el sistema de la empresa creandose varias cuentas adicionales y sabotear el envío de dichos suministros en plena crisis del COVID-19 tras ser despedido.
   * **Estrategia**: Sabiendo que el empleado ya estuvo sancionado por problemas internos, se debería haber vigilado más el comportamiento de este. Del mismo modo se debería monitorizar acciones sospechosas de los usuarios, como por ejemplo modificar o eliminar gran cantidad de datos. Adicionalmente hacer un mejor control de acceso a los datos sensibles.
