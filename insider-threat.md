@@ -74,6 +74,11 @@ Los métodos que utilizó para acceder a los secretos de la empresa fueron: enga
   * **Estrategia**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, dando solo los estrictamente necesarios a cada empleado, e incluso cambiando la forma de autenticarse por algo más difícil de robar que una contraseña. Además, también se debería formar a los empleados (especialmente a los que tengan más privilegios de acceso) para que sean conscientes de que sus credenciales son importantes y que no deben compartirse con otros trabajadores. Otra medida necesaria sería la creación de un historial de acciones que puedan resultar sospechosas o poco habituales para cada empleado, de forma que se pudiera detectar actividad desleal o ilícita más fácil y sistemáticamente.
 En este caso particular, ya que aprovechó una visita guiada para obtener datos confidenciales, la empresa debería asegurarse de tener bajo control a los visitantes.
 
+* [Ex-agente de inteligencia filtra datos a medio de comunicación](https://www.cnet.com/news/nsa-leaker-reality-winner-sentenced-to-more-than-5-years-in-jail/)
+  * **Fuente**: Antonio Lecina
+  * **Descripción**: Reality Winner es una ex-especialista en inteligencia estadounidense la cual fue condena a más de 5 años de prisión por publicar diferentes informes clasificados de la Agencia de Seguridad Nacional al medio de comunicación The Intercept.
+  * **Estrategia**: Para controlar este tipo de filtraciones, se deberían de revisar y cointrolar los permisos que tienen los diferentes trabajadores, de modo que para acceder a datos clasificados, sea requerido unos privilegios de alto nivel. Además, se deberían de registrar los accesos a este tipo de datos, de modo que en todo momemnto se sepa quien ha accedido a esos datos.
+  
 ## Ladrones de datos
 
 **2005**
