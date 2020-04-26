@@ -197,6 +197,12 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**: A nivel informático, con un sistema de permisos basado en roles, que no hubiera permitido cambiar al empleado los desajustes originados en los parquímetros, habría permitido a la empresa observar estas irregularidades y detectar el fraude.
   * **Solución**: Como solución como se ha indicado en la estrategia, habría sido el uso de sistemas de permisos de acceso basados en roles (RBAC). Este sistema se puede aplicar directamente sobre la BBDD, el ERP o el acceso a aplicaciones utilizado en la empresa.
 
+**2018**
+
+* [A Chinese bank programmer discovered an ATM loophole that let him withdraw $1 million in cash](https://www.insider.com/huaxia-bank-qin-qisheng-found-atm-loophole-and-withdrew-1-million-2019-2)
+* **Fuente**: Irene Fumanal Lacoma
+* **Descripción**: Un programador software que trabajaba en el banco Huaxia Bank, retiró la cantidad de dinero equivalente a 1.03 millones de dólares americanos. Encontró una laguna en el sistema del banco, que no registraba bien las transacciones en cajeros automáticos realizados a media noche. Agregó unos scripts para que se realizará sin que la empresa se diera cuenta, e ingresaba el dinero en su propia cuenta. Cuando fue descubierto, justificó sus acciones diciendo que estaba poniendo a prueba el sistema. La empresa terminó creyéndole mientras que las autoridades abrieron una investigación.
+* **Estrategia**: En primer lugar, tener controlado a qué empleados se les da acceso a la información. Además, es importante tener bien testeado el sistema de registro de datos de las 24 horas del día y todas las transacciones realizadas, incluídos los cajeros automáticos en este caso.
 
 ## Desleales
 
