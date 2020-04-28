@@ -178,6 +178,14 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: El banco SunTrust envía un comunicado a 1.5 millones de clientes avisándoles de que sus datos personales han sido robados por un ex-empleado. Entre la información extraída se encuentran el nombre, la dirección, el número de teléfono y los saldos de las cuentas del cliente. No han sido robados los datos que corresponden a información de identificación personal, como serían el número de la seguridad social, número de cuenta, PIN, usuario, contraseña o información de la licencia de conducir.
   * **Estrategia**: Monitorear los accesos a la información de los clientes ayudaría a detectar si un único empleado consulta un número exageradamente alto de estos. Por otro lado, es muy importante eliminar los permisos de acceso, especialmente los relacionados con datos sensibles, a los empleados que abandonan la empresa.
   * **Solución**: Utilizar un software que permita monitorizar el acceso a determinada información, como [Forcepoint Insider Threat](https://www.forcepoint.com/es/product/data-insider-threat-protection/forcepoint-insider-threat) y el uso de cualquier sistema de información de tipo ERP en el que sólo haya que eliminar el usuario del empleado para revocarle todos los permisos cuando salga de la empresa, como [SAP S/4HANA](https://www.sap.com/spain/products/s4hana-erp.html).
+  
+**2019**
+
+* [A bank, an insider, and 2.7 million people’s data stolen](https://www.pandasecurity.com/mediacenter/news/dejsardins-insider-data-breach/)
+  * **Source**: Eduardo Gimeno
+  * **Description**: Towards the end of June of 2019, Desjardins Group, a Canadian bank and the largest federation of credit unions in North America, announced a data breach in the company. The breach affected around 2.7 million people and as many as 173.000 companies.
+  * **Strategy**: Desjardins imposed extra security measures, such as additional steps when confirming members’ identity. The company also contacted all of those affected by the breach, and offered the victims identity theft insurance, as well as a credit monitoring plan.
+  * **Solution**: A HRMS to check user's security settings and enables to enforce employer security like [Abra HRMS Data Access](http://help-hrms.na.sage.com/en-us/2015/web/Content/Reports/HR/AbraHRMSdataaccess.htm).
 
 ## Ladrones de dinero
 
