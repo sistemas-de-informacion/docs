@@ -38,7 +38,12 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 * [Soldier Receives 16-Year Sentence for Attempted Espionage](https://www.fbi.gov/news/stories/2013/april/soldier-receives-16-year-sentence-for-attempted-espionage) (Fuente: Manuel Herrero)
 * [Economic Espionage: Competing For Trade By Stealing Industrial Secrets](https://leb.fbi.gov/2013/october-november/economic-espionage-competing-for-trade-by-stealing-industrial-secrets) (Fuente: Jesús Bintaned)
-
+* [Submarine Data Leak](https://www.defensenews.com/naval/2016/08/26/submarine-data-leak-roils-three-governments/)
+  * **Fuente**: Ramón Jarauta
+  * **Descripción**: Un empleado descontento expuso detalles confidenciales sobre nuevos submarinos Scorpene de India en una compleja operación que involucró a múltiples gobiernos, empleados y contratistas. Según Defense News, se expusieron unas 24,000 páginas de información clasificada. La noticia relata que un empleado despedido eligió copiar datos en un disco, enviarlos por correo y, finalmente, compartirlos con un periodista.
+  * **Estrategia**: La compañía debe comunicar al empleado las consecuencias que tendría si llegase a compremeter información confidencial. Por otro lado, una buena estretegia sería que cada empleado que acceda a éste tipo de información deba autenticarse, quedando de ésta forma registrado cada acción que haga.
+  * **Solución**: Una solución podría ser ForcePoint (https://www.forcepoint.com/es/product/insider-threat). Entre sus funciones se encuentra la monitorización de las acciones que realizan los usuarios.
+  
 **2014**
 
 * [NASA tightens security in response to an insider threat](http://www.darkreading.com/risk-management/nasa-tightens-security-in-response-to-insider-threat/d/d-id/1109196) (Fuente: Juan Vela)
