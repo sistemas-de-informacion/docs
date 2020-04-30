@@ -185,7 +185,8 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
 **2019**
 * [Security researcher pleads guilty to hacking into Microsoft and Nintendo](https://www.theverge.com/2019/3/28/18286027/microsoft-nintendo-vtech-security-hack-breach-researcher-guilty)
 	* **Fuente**: Alejandro Ruiz Sumelzo
-	* Descripción
+	* **Descripción**: Un investigador de seguridad de 24 años evitó la prisión al admitir el hackeo de los servidores de Microsoft y Nintendo, unido al robo de información confidencial.
+	* **Estrategia**: Este empleado había obtenido acceso a un servidor de Microsoft utilizando un nombre de usuario interno y una contraseña, y luego cargó un shell web para acceder de forma remota a la red de Microsoft libremente durante al menos tres semanas. Asimismo, ejecutó varios shells que le permitieron buscar a través de la red de Microsoft, cargar archivos y descargar datos.
 
 ## Ladrones de dinero
 
