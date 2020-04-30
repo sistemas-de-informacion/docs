@@ -11,7 +11,9 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 **2007**
 
-* [DuPont Data Theft Shows Insider Risks](http://www.computerworld.com/article/2553109/security0/dupont-data-theft-shows-insider-risks.html)
+* [DuPont Data Theft Shows Insider Risks](http://www.computerworld.com/article/2553109/security0/dupont-data-theft-shows-insider-risks.html)[Enlace caído](https://www.crn.com/news/security/197006655/massive-insider-breach-at-dupont.htm) (Fuente: Alejandro Ruiz)
+* **Descripción**: Un empleado descargó 22,000 documentos confidenciales y vió 16,706 más en la biblioteca electrónica de DuPont, lo que lo convirtió en el usuario más activo en la base de datos de la empresa, según los fiscales. 
+* **Estrategia**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, unido a un buen sistema de monitorización y alarmas en la base de datos que permita obtener y avisar si el número de lecturas y escrituras de un determinado usuario está siendo mayor al esperado.
 
 **2008**
 
