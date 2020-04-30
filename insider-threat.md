@@ -367,3 +367,15 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
 * **Fuente**: Sergio Andrés
 * **Descripción**: En 2015 el grupo de hackers Impact Team toma el control de todos los sistemas de Avid Life Media (matriz de Ashley Madison) y exige el cierre de la  web Ashley Madison, por estar en desacuerdo con su forma de lucrarse. Se publican 10Gb de datos, principalmente sobre clientes y 20Gb con documentos internos y e-mails de su presidente N. Biderman. La empresa no tuvo que compensar a sus usuarios, gracias a su politica de uso, aunque se estima que el coste económico de este ataque supera con creces los 140 millones. N. Biderman renuncio 8 dias despues de la segunda filtración.
 * **Estrategia**: Para evitar este tipo de ataques se debe tener un Sistema de Gestión de Seguridad de la Información debidamente implementado, (AVM no lo tenía, y sus directivos lo sabian). Se debería monitorizar el acceso a la base de datos, especialmente cuando se realizan consultas que no son habituales en el sistema. La red tambien debe estar protegida para evitar que se pueda acceder a los sistemas de la empresa desde el exterior (el grupo de hackers afirma que les fue sumamente sencillo acceder).
+
+##Covid-19
+
+**2020**
+
+* [Remote Access Makes a Comeback: 3 Security Challenges in the Wake of COVID-19](https://www.darkreading.com/endpoint/remote-access-makes-a-comeback-4-security-challenges-in-the-wake-of-covid-19/a/d-id/1337558)
+* **Fuente**: Alejandro Ruiz
+* **Descripción**: A medida que las empresas apoyan a más empleados que trabajan desde casa, los equipos de seguridad deben tener la tecnología adecuada para evitar un bajo rendimiento y garantizar un acceso seguro.
+* **Estrategia**: Los tres puntos en los que se ha reforzado la seguridad del acceso remoto en varias compañías han sido:
+					- Elegir el producto de acceso remoto adecuado, contestando las siguientes cuatro preguntas: ¿Quién es el usuario y cuál es su función laboral? ¿Qué tipo de dispositivo se está utilizando y quién es el propietario? ¿A qué tipo de aplicaciones y datos necesitan los usuarios acceder? y ¿Dónde se encuentra el usuario?
+					- Evaluar los riesgos de utilizar el dispositivo electrónico personal de cada empleado.
+					- Desarrollar una política de trabajo remoto utilizable.
