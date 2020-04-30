@@ -13,7 +13,8 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 * [DuPont Data Theft Shows Insider Risks](http://www.computerworld.com/article/2553109/security0/dupont-data-theft-shows-insider-risks.html)[Enlace caído](https://www.crn.com/news/security/197006655/massive-insider-breach-at-dupont.htm) (Fuente: Alejandro Ruiz)
 * **Descripción**: Un empleado descargó 22,000 documentos confidenciales y vió 16,706 más en la biblioteca electrónica de DuPont, lo que lo convirtió en el usuario más activo en la base de datos de la empresa, según los fiscales. 
-* **Estrategia**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, unido a un buen sistema de monitorización y alarmas en la base de datos que permita obtener y avisar si el número de lecturas y escrituras de un determinado usuario está siendo mayor al esperado.
+* **Estrategia**: Usó sus credenciales para la consulta y descarga de multitud de información de la empresa.
+* **Solución**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, unido a un buen sistema de monitorización y alarmas en la base de datos que permita obtener y avisar si el número de lecturas y escrituras de un determinado usuario está siendo mayor al esperado.
 
 **2008**
 
@@ -180,6 +181,11 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: El banco SunTrust envía un comunicado a 1.5 millones de clientes avisándoles de que sus datos personales han sido robados por un ex-empleado. Entre la información extraída se encuentran el nombre, la dirección, el número de teléfono y los saldos de las cuentas del cliente. No han sido robados los datos que corresponden a información de identificación personal, como serían el número de la seguridad social, número de cuenta, PIN, usuario, contraseña o información de la licencia de conducir.
   * **Estrategia**: Monitorear los accesos a la información de los clientes ayudaría a detectar si un único empleado consulta un número exageradamente alto de estos. Por otro lado, es muy importante eliminar los permisos de acceso, especialmente los relacionados con datos sensibles, a los empleados que abandonan la empresa.
   * **Solución**: Utilizar un software que permita monitorizar el acceso a determinada información, como [Forcepoint Insider Threat](https://www.forcepoint.com/es/product/data-insider-threat-protection/forcepoint-insider-threat) y el uso de cualquier sistema de información de tipo ERP en el que sólo haya que eliminar el usuario del empleado para revocarle todos los permisos cuando salga de la empresa, como [SAP S/4HANA](https://www.sap.com/spain/products/s4hana-erp.html).
+
+**2019**
+* [Security researcher pleads guilty to hacking into Microsoft and Nintendo](https://www.theverge.com/2019/3/28/18286027/microsoft-nintendo-vtech-security-hack-breach-researcher-guilty)
+	* **Fuente**: Alejandro Ruiz Sumelzo
+	* Descripción
 
 ## Ladrones de dinero
 
