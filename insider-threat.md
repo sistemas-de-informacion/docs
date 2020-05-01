@@ -158,6 +158,12 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**: Limitar el acceso a los usuarios, pudiendo acceder únicamente a lo necesario para su trabajo.
   * **Solucion**: Irónicamente, Sage tiene tutoriales de cómo gestionar los permisos en sus distintas aplicaciones. Bastaría con que aplicara esos pasos internamente (http://soporte.sage.es/etiquetas/permisos/) y revisase periódicamente la actividad de los empleados con acceso a datos sensibles.
   
+* [Infección con ransomware en el servidor de base de datos del sistema Onsystec ERP](https://dialnet.unirioja.es/servlet/articulo?codigo=6065450)
+  * **Fuente**: Alejandro Piedrafita Barrantes
+  * **Descripcion**: Infección en un servidor de base de datos con Windows Server por un ransomware (CTB Locker) impide a la empresa realizar tanto operaciones como transacciones, detiene la base de datos y aplica un cifrado desconocido en todos los archivos, pidiendo posteriormente un rescate por los mismos. Este software malicioso estuvo durante mucho tiempo en el equipo, monitorizando información para detectar el momento exacto en el que podría llegar a ser más lucrativo un ataque.
+  * **Estrategia**: Inicialmente, permitir únicamente a personal cualificado acceder a datos de riesgo además de instalar un software que ayude a prevenir y tratar este tipo de software malicioso. Posteriormente (una vez infectado el servidor) contactar con personal altamente cualificado capaz de gestionar la situación. Lo que se intentó fue respaldar los archivos y datos, formatear el disco y reinstalar el sistema operativo. Esta medida fue un fracaso ya que los archivos guardados se encontraban encriptados.
+  * **Solucion**: Para prevenir: adquirir algún tipo de software anti-malware como SpyHunter (https://www.spyhunter.com/ ). A la hora de desencriptar los datos una vez infectado el servidor, habría que buscar un descifrador como el que proporciona Kaspersky (https://noransom.kaspersky.com/es/ )
+  
 **2017**
 
 * [Lawsuit filled in Flowers Hospital identity theft](http://www.dothaneagle.com/news/crime_court/lawsuit-against-flowers-hospital-over-theft-of-personal-information-attains/article_f89c75f0-0da9-11e7-823c-ef3a46dcb4a3.html)
