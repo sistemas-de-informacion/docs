@@ -54,9 +54,11 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 * [Ex-Apple executive jailed and fined for selling secrets](http://www.bbc.com/news/technology-30379825) (Fuente: Cristian Simón)
 * [Chesapeake alleges founder McClendon stole 'trade secrets' to start new firm](http://www.reuters.com/article/2015/02/17/us-chesapeake-mcclendon-lawsuit-utica-ex-idUSKBN0LL1FM20150217) (Fuente: Javier Murillo)
 * [Navy Civilian Engineer Pleads Guilty to attempted Espionage](https://www.fbi.gov/norfolk/press-releases/2015/navy-civilian-engineer-pleads-guilty-to-attempted-espionage) (Fuente: Victor Beltrán)
-* [Xu Jiaqiang, former IBM employee, sentenced for selling trade secrets](https://www.washingtontimes.com/news/2018/jan/19/former-ibm-employee-sentenced-selling-trade-secret/)
-  * **Fuente**: David Alloza Tejero
-  * **Descripción**: Xu Jiaqiang, un ex desarrollador de IBM fue detenido en 2015 y sentenciado en 2018 a 5 años de prisión por robar código fuente de un sistema de ficheros en el que trabajaba en IBM (del 2010 al 2014). Xu Jiaqiang se declaró cumplable de robot de secretos y espionaje económico.
+* [Ex-IBM employee from China gets five years prison for stealing code](https://www.reuters.com/article/us-ibm-crime-china/ex-ibm-employee-from-china-gets-five-years-prison-for-stealing-code-idUSKBN1F82P9)
+  * **Fuente**: Samuel Ballonga
+  * **Descripción**: Jiaqiang Xu trabajó como ingeniero de software para IBM en China deade el año 2010 hasta el año 2014. En diciembre de 2015 fue arrestado tras una reunión con un oficial encubierto en la que las autoridades dicen que fue grabado diciendo que había utilizado código propiedad de IBM para crear software que vender a clientes.
+  * **Estrategia**: Instalar en la empresa unos sistemas (servidores de desarrollo) que se encuentren en una red interna sin acceso a internet de forma que no pueda haber una conexión con el exterior con la que pueda producirse el robo de código, en los que se realicen las tareas relacionadas con la manipulación de código propietario a la empresa. Estos sistemas deben almacenar todo tipo de logs que puedan responder claramente a las preguntas de qué, cuándo, dónde, cómo y por qué se ha accedido a ese código. También deben incluir una autentificación por parte del empleado, de forma que cada uno solo pueda acceder al código que necesita y no a todo ello.
+  * **Solución**: [Openhrms](https://www.openhrms.com/) es un sistema HRMS que funciona como una base de datos centralizada. El jefe de los empleados junto con el departamento de RRHH deben almacenar en la base de datos los permisos que tiene cada empleado en los sistemas mencionados anteriormente. Utilizando este HRMS se establecen los permisos, que se almacenan en la base de datos del software, y los sistemas de desarrollo la consultan para comprobar si el empleado tiene acceso a la parte del código que pide ver.
 
 **2016**
 
