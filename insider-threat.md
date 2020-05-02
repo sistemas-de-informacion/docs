@@ -226,6 +226,12 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
 
 * [Elliott Greenleaf, Stevens & Lee Settle Hacking Suit](http://www.law360.com/articles/370760/elliott-greenleaf-stevens-lee-settle-hacking-suit) (Fuente: Rubén Gabás)
 
+**2017**
+
+* [Facebook engineer abuse data access to stalk a women](https://www.theguardian.com/technology/2018/may/02/facebook-engineer-fired-alleged-stalker-tinder)
+  * **Fuente**: Raúl Logroño
+  * **Descripcion**: Facebook despidió a un ingeniero de seguridad después de que fue acusado de acosar a las mujeres en línea posiblemente abusando de su "acceso privilegiado" a los datos. Facebook intervino una vez que Jackie Stokes, fundador de la compañía de ciberseguridad Spyglass Security, [publicó en Twitter los detalles del caso](https://www.nbcnews.com/tech/social-media/facebook-investigating-claim-engineer-used-access-stalk-women-n870526). 
+  
 ## Despistados y descuidos
 
 **2008**
