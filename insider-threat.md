@@ -320,6 +320,12 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**: Para evitar accesos de ex-empleados, mantener un estricto proceso de altas y bajas de los empleados con el fin de controlar las cuentas de estos, y restringir los accesos seria de gran utilidad. Mantener el control de todas las cuentas activas, los usuarios activos y los accesos permitidos a cada uno, monitorizando cada uno de los accesos.
   * **Solución**: Un SIEM como [McAfee Enterprise Security Manager](https://www.mcafee.com/enterprise/es-es/products/enterprise-security-manager.html)
 
+* [Siemens Contractor Sentenced for Writing 'Logic Bombs'](https://www.justice.gov/usao-wdpa/pr/siemens-contract-employee-gets-jail-time-intentionally-damaging-computers)
+  * **Fuente**:Luis García
+  * **Descripción** Un empleado de Siemens fue sentenciado seis meses de prisión y a pagar 7.500 dólares por escribir código malicioso en el software que provocaba su incorrecto funcionamiento. Posteriormente Siemens le asignaba el trabajo de arreglar estos problemas, sin saber que el los habia causado a proposito.
+  * **Estrategia** Para evitar tener a empleados causando saboteando el código por el simple hecho de desconocer que estan haciendo, lo mejor sería monitorizar sus actividades y llevar un control de su trabajo de su progreso.
+  * **Solución** Un software que permita a los distintos grupos de empleados reflejar qué actividades estan realizando y su progreso. Como por ejemplo [Workzone](https://www.workzone.com/product-tour/project-dashboard/) 
+
 **2015**
 
 * [Germanwings Shows Need for Hunting Insider Threats](http://blogs.wsj.com/riskandcompliance/2015/04/07/the-morning-risk-report-germanwings-shows-need-for-hunting-insider-threats-2-newsletter-draft/) (2015, Fuente: Raúl Piracés)
@@ -419,6 +425,14 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Fuente**: Sergio Andrés
   * **Descripción**: En 2015 el grupo de hackers Impact Team toma el control de todos los sistemas de Avid Life Media (matriz de Ashley Madison) y exige el cierre de la  web Ashley Madison, por estar en desacuerdo con su forma de lucrarse. Se publican 10Gb de datos, principalmente sobre clientes y 20Gb con documentos internos y e-mails de su presidente N. Biderman. La empresa no tuvo que compensar a sus usuarios, gracias a su politica de uso, aunque se estima que el coste económico de este ataque supera con creces los 140 millones. N. Biderman renuncio 8 dias despues de la segunda filtración.
   * **Estrategia**: Para evitar este tipo de ataques se debe tener un Sistema de Gestión de Seguridad de la Información debidamente implementado, (AVM no lo tenía, y sus directivos lo sabian). Se debería monitorizar el acceso a la base de datos, especialmente cuando se realizan consultas que no son habituales en el sistema. La red tambien debe estar protegida para evitar que se pueda acceder a los sistemas de la empresa desde el exterior (el grupo de hackers afirma que les fue sumamente sencillo acceder).
+
+**2017**
+
+* [IT plonker stuffed 'destructive' logic bomb into US Army servers in contract revenge attack](https://www.theregister.co.uk/2017/09/22/it_contractor_logic_bombed_army_payroll/)
+  * **Fuente**: Luis García
+  * **Descripción**: Un contratista de IT introdujo malware de forma intencionada en los sistemas de pago del ejército de los Estado Unidos después de que sus empleados perdieran el contrato para suministrar tecnología para el ejército. Los militares estiman que estos daños suponen unos costes de 2,6 millones de dólares.
+  * **Estrategia**: Controlar los permisos de los trabajadores, en este caso una vez se ha terminado el contrato y deberían quitarles los permisos ya que han dejado de ser sus trabajadores.
+  * **Solución**: Es necesario un software de control de permisos para los usuarios. Para ello puede utilizarse el módulo de recursos humanos del ERP que esten utilizando, ya que este módulo gestiona las contrataciones y la finalización de contratos. También podría utilizar un software específico de control de permisos en empresas.
 
 ## Incitar corrupción en terceros
 
