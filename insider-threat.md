@@ -224,7 +224,8 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
 
 * [Facebook engineer abuse data access to stalk a women](https://www.theguardian.com/technology/2018/may/02/facebook-engineer-fired-alleged-stalker-tinder)
   * **Fuente**: Raúl Logroño
-  * **Descripcion**: En 2017 Jackie Stokes publico una captura en la que se veia como uno de los ingenieros de seguridad de Facebook mostraba evidencia de que habia accedido a datos privados de una mujer, para acosrla. No de ella, sino de otro chica. Esto causo gran controversia en UUEE, y mas tarde el empleado de Facebook fue despedido.
+  * **Descripcion**: Facebook despidió a un ingeniero de seguridad después de que fue acusado de acosar a las mujeres en línea posiblemente abusando de su "acceso privilegiado" a los datos. Facebook intervino una vez que Jackie Stokes, fundador de la compañía de ciberseguridad Spyglass Security, [publicó en Twitter los detalles del caso](https://www.nbcnews.com/tech/social-media/facebook-investigating-claim-engineer-used-access-stalk-women-n870526). 
+  
 ## Despistados y descuidos
 
 **2008**
