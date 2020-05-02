@@ -227,6 +227,10 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**: A nivel informático, con un sistema de permisos basado en roles, que no hubiera permitido cambiar al empleado los desajustes originados en los parquímetros, habría permitido a la empresa observar estas irregularidades y detectar el fraude.
   * **Solución**: Como solución como se ha indicado en la estrategia, habría sido el uso de sistemas de permisos de acceso basados en roles (RBAC). Este sistema se puede aplicar directamente sobre la BBDD, el ERP o el acceso a aplicaciones utilizado en la empresa.
 
+* [Wells Fargo reportó fraude interno por parte de empleados que crearon casi 2 millones de cuentas para sus clientes sin su conocimiento o consentimiento.](https://en.wikipedia.org/wiki/Wells_Fargo_account_fraud_scandal)
+  * **Fuente**: José Navarro Merino
+  * **Descripción**: Desde la gerencia se instó a los trabajadores a realizar aperturas de cuentas a través de la venta cruzada, lo que provocó la creación de millones de cuentas de ahorro falsas.
+
 **2018**
 
 * [A Chinese bank programmer discovered an ATM loophole that let him withdraw $1 million in cash](https://www.insider.com/huaxia-bank-qin-qisheng-found-atm-loophole-and-withdrew-1-million-2019-2)
