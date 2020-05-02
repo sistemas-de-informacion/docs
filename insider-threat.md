@@ -171,10 +171,9 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
    * **Descripción**: Jason Needham accedió durante dos años a los servidores de su antigua empresa debido a preservar el correo de un ex-compañero, pudiendo acceder a los planes de marketing, proyectos, estructuras contables y pudiendo ver las claves de acceso del sistema de intercambio de fichero, que se actualizaban regularmente pero se mandaban por correo. Durante los dos años, vió, copioó y descargo información valorada en 425000$.
    * **Estrategia**: Realizar una monitorización y logs del comportamiento de los usuarios en el sistema de intercambio de ficheros habría revelado las descargas realizadas por Jason Needham. Otra estrategia es no actualizar las credenciales por correo o ligar los equipos informáticos físicos al sistema de ficheros, evitando que se pueda acceder a este desde ordenadores externos.
    
-* [Robo de datos personales por parte de un ex-empleado de Coca-cola](https://
-www.bleepingcomputer.com/news/security/coca-cola-suffers-breach-at-the-hands-of-former-employee/)
+* [Robo de datos personales por parte de un ex-empleado de Coca-cola](https://www.bleepingcomputer.com/news/security/coca-cola-suffers-breach-at-the-hands-of-former-employee/)
    * **Fuente:** Pedro Tamargo Allué
-   * **Descripcion:** Un ex-empleado de una empresa subsidiara de Coca-cola roba un disco duro con datos personales de alrededor de 8000 trabajadores de la organización. Como resultado de este robo de datos se filtró información que permitía identificar a los trabajadores.
+   * **Descripcion:** Un ex-empleado de una empresa subsidiara de Coca-cola roba datos personales de alrededor de 8000 trabajadores de la organización. Como resultado de este robo de datos se filtró información que permitía identificar a los trabajadores.
    * **Estrategia:** Como estrategia para la detección de este incidente, se podrían haber monitorizado los accesos a los datos personales de los trabajadores de esta entidad, haciendo un registro de quién consulta dichos datos.
    * **Solución:** Un software comercial que permite llevar a cabo esta estrategia es [*Imperva SecureSphere Database Access Monitoring*](https://www.imperva.com/resources/datasheets/DS-SecureSphere-DAM-and-DBF_Mar2018.pdf), una solución de la empresa *Imperva* que permite llevar a cabo la monitorización del acceso a los datos personales.
   
