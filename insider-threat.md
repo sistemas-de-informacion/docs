@@ -175,7 +175,7 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
    * **Fuente:** Pedro Tamargo Allué
    * **Descripcion:** Un ex-empleado de una empresa subsidiara de Coca-cola roba datos personales de alrededor de 8000 trabajadores de la organización. Como resultado de este robo de datos se filtró información que permitía identificar a los trabajadores.
    * **Estrategia:** Como estrategia para la detección de este incidente, se podrían haber monitorizado los accesos a los datos personales de los trabajadores de esta entidad, haciendo un registro de quién consulta dichos datos.
-   * **Solución:** Un software comercial que permite llevar a cabo esta estrategia es [*Imperva SecureSphere Database Access Monitoring*](https://www.imperva.com/resources/datasheets/DS-SecureSphere-DAM-and-DBF_Mar2018.pdf), una solución de la empresa *Imperva* que permite llevar a cabo la monitorización del acceso a los datos personales.
+   * **Solución:** Un software comercial que permite llevar a cabo esta estrategia es [*Imperva SecureSphere Database Access Monitoring*](https://www.imperva.com/resources/datasheets/DS-SecureSphere-DAM-and-DBF_Mar2018.pdf), una solución de la empresa *Imperva* que permite llevar a cabo la monitorización del acceso a los datos personales y que posee un [API para su integración](https://docs.imperva.com/bundle/cloud-application-security/page/apiv2/cloud-api.htm).
   
 **2018**
 
