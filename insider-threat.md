@@ -56,7 +56,7 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 * [Navy Civilian Engineer Pleads Guilty to attempted Espionage](https://www.fbi.gov/norfolk/press-releases/2015/navy-civilian-engineer-pleads-guilty-to-attempted-espionage) (Fuente: Victor Beltrán)
 * [Xu Jiaqiang, former IBM employee, sentenced for selling trade secrets](https://www.washingtontimes.com/news/2018/jan/19/former-ibm-employee-sentenced-selling-trade-secret/)
   * **Fuente**: David Alloza Tejero
-  * **Descripción**: Xu Jiaqiang, un ex desarrollador de IBM fue sentenciado a 5 años de prisión por robar secretos comerciales relacionados con el software de la compañía durante su tiempo en IBM (del 2010 al 2014). Este empleado robó secretos tanto para su propio beneficio como para acabar beneficiando al gobierno chino.
+  * **Descripción**: Xu Jiaqiang, un ex desarrollador de IBM fue detenido en 2015 y sentenciado en 2018 a 5 años de prisión por robar código fuente de un sistema de ficheros en el que trabajaba en IBM (del 2010 al 2014). Xu Jiaqiang se declaró cumplable de robot de secretos y espionaje económico.
 
 **2016**
 
