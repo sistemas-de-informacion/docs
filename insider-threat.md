@@ -282,14 +282,12 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: Un ex-empleado de Georgia-Pacific, empresa de la industria de Lignocelulosa, mantuvo sus cuentas de administrador tras ser despedido, y durante dos meses saboteó la producción de la empresa provocando daños por valor de 1,1 millones de dólares.
   * **Estrategia**: Para evitar accesos de ex-empleados, mantener un estricto proceso de altas y bajas de los empleados con el fin de controlar las cuentas de estos, y restringir los accesos seria de gran utilidad. Mantener el control de todas las cuentas activas, los usuarios activos y los accesos permitidos a cada uno, monitorizando cada uno de los accesos.
   * **Solución**: Un SIEM como [McAfee Enterprise Security Manager](https://www.mcafee.com/enterprise/es-es/products/enterprise-security-manager.html)
-  
+
 * [Siemens Contractor Sentenced for Writing 'Logic Bombs'](https://www.justice.gov/usao-wdpa/pr/siemens-contract-employee-gets-jail-time-intentionally-damaging-computers)
-* **Fuente**:Luis García
-* **Descripción** Un empleado de Siemens fue sentenciado seis meses de prisión y a pagar 7.500 dólares por escribir código malicioso en el software que provocaba su incorrecto funcionamiento. Posteriormente Siemens le asignaba el trabajo de arreglar estos problemas, sin saber que el los habia causado a proposito.
-* **Estrategia** Para evitar tener a empleados causando saboteando el código por el simple hecho de desconocer que estan haciendo, lo mejor sería monitorizar sus actividades y llevar un control de su trabajo de su progreso.
-* **Solución** Un software que permita a los distintos grupos de empleados reflejar qué actividades estan realizando y su progreso. Como por ejemplo [Workzone](https://www.workzone.com/product-tour/project-dashboard/) 
-
-
+  * **Fuente**:Luis García
+  * **Descripción** Un empleado de Siemens fue sentenciado seis meses de prisión y a pagar 7.500 dólares por escribir código malicioso en el software que provocaba su incorrecto funcionamiento. Posteriormente Siemens le asignaba el trabajo de arreglar estos problemas, sin saber que el los habia causado a proposito.
+  * **Estrategia** Para evitar tener a empleados causando saboteando el código por el simple hecho de desconocer que estan haciendo, lo mejor sería monitorizar sus actividades y llevar un control de su trabajo de su progreso.
+  * **Solución** Un software que permita a los distintos grupos de empleados reflejar qué actividades estan realizando y su progreso. Como por ejemplo [Workzone](https://www.workzone.com/product-tour/project-dashboard/) 
 
 **2015**
 
@@ -370,7 +368,7 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
 **2017**
 
 * [IT plonker stuffed 'destructive' logic bomb into US Army servers in contract revenge attack](https://www.theregister.co.uk/2017/09/22/it_contractor_logic_bombed_army_payroll/)
-* **Fuente**: Luis García
-* **Descripción**: Un contratista de IT introdujo malware de forma intencionada en los sistemas de pago del ejército de los Estado Unidos después de que sus empleados perdieran el contrato para suministrar tecnología para el ejército. Los militares estiman que estos daños suponen unos costes de 2,6 millones de dólares.
-* **Estrategia**: Controlar los permisos de los trabajadores, en este caso una vez se ha terminado el contrato y deberían quitarles los permisos ya que han dejado de ser sus trabajadores.
-* **Solución**: Es necesario un software de control de permisos para los usuarios. Para ello puede utilizarse el módulo de recursos humanos del ERP que esten utilizando, ya que este módulo gestiona las contrataciones y la finalización de contratos. También podría utilizar un software específico de control de permisos en empresas.
+  * **Fuente**: Luis García
+  * **Descripción**: Un contratista de IT introdujo malware de forma intencionada en los sistemas de pago del ejército de los Estado Unidos después de que sus empleados perdieran el contrato para suministrar tecnología para el ejército. Los militares estiman que estos daños suponen unos costes de 2,6 millones de dólares.
+  * **Estrategia**: Controlar los permisos de los trabajadores, en este caso una vez se ha terminado el contrato y deberían quitarles los permisos ya que han dejado de ser sus trabajadores.
+  * **Solución**: Es necesario un software de control de permisos para los usuarios. Para ello puede utilizarse el módulo de recursos humanos del ERP que esten utilizando, ya que este módulo gestiona las contrataciones y la finalización de contratos. También podría utilizar un software específico de control de permisos en empresas.
