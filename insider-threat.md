@@ -299,10 +299,16 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
 
 * [Elon Musk emails employees about ‘extensive and damaging sabotage’ by employee](https://www.cnbc.com/2018/06/18/elon-musk-email-employee-conducted-extensive-and-damaging-sabotage.html)
   * **Fuente**: Javier Ortega
-  * **Descripción**: Un trabajador de Tesla intenta sabotear la producción en la planta de produccion de Fremont en California. En la misma, hubo un fuego unos días antes de que se decubrieran las intenciones y el intento de modificación que había hecho el empleado al sistema operativo de la propia fábrica de Tesla. Este trabajador fue directamente despedido, y Elon Musk mandó un correo anunciándolo a los trabajadores de dicha planta. Las causas fueron un ascenso que el empleado no recibió.
+  * **Descripción**: Un trabajador de Tesla intentó sabotear la producción en la planta de produccion de Fremont en California. El sabotaje incluía la modificación del código del [Tesla Manufacturing Operating System](https://evannex.com/blogs/news/a-fascinating-look-inside-tesla-s-factory) con credenciales falsas que permitiría exportar información confidencial. Este trabajador fue directamente despedido, y Elon Musk mandó un correo anunciándolo a los trabajadores de dicha planta. Las causas fueron un ascenso que el empleado no recibió.
   * **Estrategia**: Tener un software que no sea accesible sin autenticación previa, y que requiera de un doble factor (visto bueno por dos personas) antes de ser modificado.
-  * **Solución**: Uso de monitorización de ficheros con programas como OSSEC y uso de forks en el propio código, y que una persona de rango superior al trabajador deba aprobarlo antes de realizar el cambio.
+  * **Solución**: Uso de monitorización de ficheros con programas como [OSSEC](https://www.ossec.net/) y uso de forks en el propio código, y que una persona de rango superior al trabajador deba aprobarlo antes de realizar el cambio.
   
+## Filtradores
+
+**2007**	
+
+* [El caso Falciani](http://www.elmundo.es/elmundo/2013/04/15/espana/1366054276.html) (Fuente: Daniel Pardo)
+
 **2010**
 
 * [After verdict, debate rages in Terry Childs case](http://www.computerworld.com/s/article/9110278/Update_City_IT_admin_pleads_innocent_to_network_tampering_charges)
