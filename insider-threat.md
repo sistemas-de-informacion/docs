@@ -54,6 +54,11 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 * [Ex-Apple executive jailed and fined for selling secrets](http://www.bbc.com/news/technology-30379825) (Fuente: Cristian Simón)
 * [Chesapeake alleges founder McClendon stole 'trade secrets' to start new firm](http://www.reuters.com/article/2015/02/17/us-chesapeake-mcclendon-lawsuit-utica-ex-idUSKBN0LL1FM20150217) (Fuente: Javier Murillo)
 * [Navy Civilian Engineer Pleads Guilty to attempted Espionage](https://www.fbi.gov/norfolk/press-releases/2015/navy-civilian-engineer-pleads-guilty-to-attempted-espionage) (Fuente: Victor Beltrán)
+* [Ex-IBM employee from China gets five years prison for stealing code](https://www.reuters.com/article/us-ibm-crime-china/ex-ibm-employee-from-china-gets-five-years-prison-for-stealing-code-idUSKBN1F82P9)
+  * **Fuente**: Samuel Ballonga
+  * **Descripción**: Jiaqiang Xu trabajó como ingeniero de software para IBM en China deade el año 2010 hasta el año 2014. En diciembre de 2015 fue arrestado tras una reunión con un oficial encubierto en la que las autoridades dicen que fue grabado diciendo que había utilizado código propiedad de IBM para crear software que vender a clientes.
+  * **Estrategia**: Instalar en la empresa unos sistemas (servidores de desarrollo) que se encuentren en una red interna sin acceso a internet de forma que no pueda haber una conexión con el exterior con la que pueda producirse el robo de código, en los que se realicen las tareas relacionadas con la manipulación de código propietario a la empresa. Estos sistemas deben almacenar todo tipo de logs que puedan responder claramente a las preguntas de qué, cuándo, dónde, cómo y por qué se ha accedido a ese código. También deben incluir una autentificación por parte del empleado, de forma que cada uno solo pueda acceder al código que necesita y no a todo ello.
+  * **Solución**: [Openhrms](https://www.openhrms.com/) es un sistema HRMS que funciona como una base de datos centralizada. El jefe de los empleados junto con el departamento de RRHH deben almacenar en la base de datos los permisos que tiene cada empleado en los sistemas mencionados anteriormente. Utilizando este HRMS se establecen los permisos, que se almacenan en la base de datos del software, y los sistemas de desarrollo la consultan para comprobar si el empleado tiene acceso a la parte del código que pide ver.
 
 **2016**
 
@@ -64,6 +69,7 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Solución**: A nivel de soluciones comerciales existen sistemas de monitorización de comportamientos extraños como [FortScale](https://fortscale.com/), [Alien Vault](https://www.alienvault.com/solutions/insider-threat-detection) o clouds con sistemas para prevenir filtrado de datos como [Avanan](https://www.avanan.com/data-leakage-prevention-cloud-security). AlienVault además soporta [integración con BambooHR a través de Bitium](https://www.bitium.com/alienvault-bamboo-hr-integration). Sin embargo, como se menciona antes, el desarrollo de un software propio para la detección de amenazas internas y para proteger de posibles filtraciones los datos sería posiblemente la única solución viable dado que además se desconoce el método con el que pudo llevarse los datos a su casa. ¿Pero quién soy yo para opinar sobre lo que tiene que hacer la mayor agencia de inteligencia del mundo?
   
 **2017**
+
 * [Uber crea una empresa falsa para robar secretos, según Google](https://elchapuzasinformatico.com/2017/05/uber-creo-una-empresa-falsa-robar-secretos-segun-google/)
   * **Fuente**: Adrián Casans
   * **Descripción**: Uber creó una empresa falsa para llegar a conocer cómo funcionaban los coches autónomos de Google e información secreta de la empresa.
@@ -73,7 +79,7 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 Los métodos que utilizó para acceder a los secretos de la empresa fueron: engañar a otros trabajadores, encargar tareas falsas para recopilar gran cantidad de datos, y tomar fotos de diagramas del sistema de la fábrica durante una visita guiada aunque no estuviera permitido.
   * **Estrategia**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, dando solo los estrictamente necesarios a cada empleado, e incluso cambiando la forma de autenticarse por algo más difícil de robar que una contraseña. Además, también se debería formar a los empleados (especialmente a los que tengan más privilegios de acceso) para que sean conscientes de que sus credenciales son importantes y que no deben compartirse con otros trabajadores. Otra medida necesaria sería la creación de un historial de acciones que puedan resultar sospechosas o poco habituales para cada empleado, de forma que se pudiera detectar actividad desleal o ilícita más fácil y sistemáticamente.
 En este caso particular, ya que aprovechó una visita guiada para obtener datos confidenciales, la empresa debería asegurarse de tener bajo control a los visitantes.
-
+  
 ## Ladrones de datos
 
 **2005**
@@ -170,7 +176,19 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
    * **Fuente**: Hector Herrmann
    * **Descripción**: Jason Needham accedió durante dos años a los servidores de su antigua empresa debido a preservar el correo de un ex-compañero, pudiendo acceder a los planes de marketing, proyectos, estructuras contables y pudiendo ver las claves de acceso del sistema de intercambio de fichero, que se actualizaban regularmente pero se mandaban por correo. Durante los dos años, vió, copioó y descargo información valorada en 425000$.
    * **Estrategia**: Realizar una monitorización y logs del comportamiento de los usuarios en el sistema de intercambio de ficheros habría revelado las descargas realizadas por Jason Needham. Otra estrategia es no actualizar las credenciales por correo o ligar los equipos informáticos físicos al sistema de ficheros, evitando que se pueda acceder a este desde ordenadores externos.
+   
+* [Robo de datos personales por parte de un ex-empleado de Coca-cola](https://www.bleepingcomputer.com/news/security/coca-cola-suffers-breach-at-the-hands-of-former-employee/)
+   * **Fuente:** Pedro Tamargo Allué
+   * **Descripcion:** Un ex-empleado de una empresa subsidiara de Coca-cola roba datos personales de alrededor de 8000 trabajadores de la organización. Como resultado de este robo de datos se filtró información que permitía identificar a los trabajadores.
+   * **Estrategia:** Como estrategia para la detección de este incidente, se podrían haber monitorizado los accesos a los datos personales de los trabajadores de esta entidad, haciendo un registro de quién consulta dichos datos.
+   * **Solución:** Un software comercial que permite llevar a cabo esta estrategia es [*Imperva SecureSphere Database Access Monitoring*](https://www.imperva.com/resources/datasheets/DS-SecureSphere-DAM-and-DBF_Mar2018.pdf), una solución de la empresa *Imperva* que permite llevar a cabo la monitorización del acceso a los datos personales y que posee un [API para su integración](https://docs.imperva.com/bundle/cloud-application-security/page/apiv2/cloud-api.htm).
   
+* [Inside the LaunchPoint Data Breach: Insider Threats](https://itsecuritycentral.teramind.co/2017/09/20/launchpoint-data-breach-insider-threats/)
+   * **Fuente**: Alex Sanz Pitarque
+   * **Descripción**: LaunchPoint es una empresa americana que provee servicios de corrdinación a empresas. Anthem, una empresa de seguros médicos que ya había sufrido un ataque interno en 2015 y que es cliente de LaunchPoint, tuvo una filtración causada por un trabajador de LaunchPoint de 18.580 datos de seguros médicos de miembros, que incluían número de seguridad social, identificador del segur médico, datos sobre la situación de salud,... Estos datos fueron enviados a la dirección personal del trabajador, tardando casi un año en descubrirse esta brecha de seguridad, y más tiempo en avisarse a la propia Anthem y los afectados.
+   * **Estrategia**: Limitar el acceso de los empleados a datos sensibles dentro de LaunchPoint, usar tecnologías de monitorización para conseguir esta limitación y conseguir logs de todo lo que ocurra (sobre todo transferencias de archivos muy grandes).
+   * **Solución**: La integración de un software como [ForcePoint](https://www.forcepoint.com/es) en el ERP de la empresa permite evitar la filtración de datos confidenciales, y que además permite integrar un firewall para dar más seguridad a la empresa.
+
 **2018**
 
 * [SunTrust Investigation Shows Continuing Threats Posed by Insiders](https://www.securitynow.com/author.asp?section_id=613&doc_id=742491)
@@ -178,6 +196,13 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: El banco SunTrust envía un comunicado a 1.5 millones de clientes avisándoles de que sus datos personales han sido robados por un ex-empleado. Entre la información extraída se encuentran el nombre, la dirección, el número de teléfono y los saldos de las cuentas del cliente. No han sido robados los datos que corresponden a información de identificación personal, como serían el número de la seguridad social, número de cuenta, PIN, usuario, contraseña o información de la licencia de conducir.
   * **Estrategia**: Monitorear los accesos a la información de los clientes ayudaría a detectar si un único empleado consulta un número exageradamente alto de estos. Por otro lado, es muy importante eliminar los permisos de acceso, especialmente los relacionados con datos sensibles, a los empleados que abandonan la empresa.
   * **Solución**: Utilizar un software que permita monitorizar el acceso a determinada información, como [Forcepoint Insider Threat](https://www.forcepoint.com/es/product/data-insider-threat-protection/forcepoint-insider-threat) y el uso de cualquier sistema de información de tipo ERP en el que sólo haya que eliminar el usuario del empleado para revocarle todos los permisos cuando salga de la empresa, como [SAP S/4HANA](https://www.sap.com/spain/products/s4hana-erp.html).
+
+**2019**
+
+* [Capital One Data Breach Compromises Data of Over 100 Million](https://www.nytimes.com/2019/07/29/business/capital-one-data-breach-hacked.html)
+  * **Fuente**: Alberto Calvo Rubió
+  * **Descripción**: Una software engineer de Amazon Web Services se aprovecha de un firewall de una aplicación web mal configurado para robar los datos de más de 100 millones de cuentas de clientes y sus tarjetas bancarias del banco Capital One. Tras realizar el crimen, publica el método que ha utilizado para hackear comentándolo con colegas por Slack y compartiéndolo en Github. Se estima que provocó perdidas a Capital One de 150 millones de dólares.
+
 
 ## Ladrones de dinero
 
@@ -197,6 +222,12 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**: A nivel informático, con un sistema de permisos basado en roles, que no hubiera permitido cambiar al empleado los desajustes originados en los parquímetros, habría permitido a la empresa observar estas irregularidades y detectar el fraude.
   * **Solución**: Como solución como se ha indicado en la estrategia, habría sido el uso de sistemas de permisos de acceso basados en roles (RBAC). Este sistema se puede aplicar directamente sobre la BBDD, el ERP o el acceso a aplicaciones utilizado en la empresa.
 
+**2018**
+
+* [A Chinese bank programmer discovered an ATM loophole that let him withdraw $1 million in cash](https://www.insider.com/huaxia-bank-qin-qisheng-found-atm-loophole-and-withdrew-1-million-2019-2)
+  * **Fuente**: Irene Fumanal Lacoma
+  * **Descripción**: Un programador software que trabajaba en el banco Huaxia Bank, retiró la cantidad de dinero equivalente a 1.03 millones de dólares americanos. Encontró una laguna en el sistema del banco, que no registraba bien las transacciones en cajeros automáticos realizados a media noche. Agregó unos scripts para que se realizará sin que la empresa se diera cuenta, e ingresaba el dinero en su propia cuenta. Cuando fue descubierto, justificó sus acciones diciendo que estaba poniendo a prueba el sistema. La empresa terminó creyéndole mientras que las autoridades abrieron una investigación.
+  * **Estrategia**: En primer lugar, tener controlado a qué empleados se les da acceso a la información. Además, es importante tener bien testeado el sistema de registro de datos de las 24 horas del día y todas las transacciones realizadas, incluídos los cajeros automáticos en este caso.
 
 ## Desleales
 
@@ -220,6 +251,12 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
 
 * [Elliott Greenleaf, Stevens & Lee Settle Hacking Suit](http://www.law360.com/articles/370760/elliott-greenleaf-stevens-lee-settle-hacking-suit) (Fuente: Rubén Gabás)
 
+**2017**
+
+* [Facebook engineer abuse data access to stalk a women](https://www.theguardian.com/technology/2018/may/02/facebook-engineer-fired-alleged-stalker-tinder)
+  * **Fuente**: Raúl Logroño
+  * **Descripcion**: Facebook despidió a un ingeniero de seguridad después de que fue acusado de acosar a las mujeres en línea posiblemente abusando de su "acceso privilegiado" a los datos. Facebook intervino una vez que Jackie Stokes, fundador de la compañía de ciberseguridad Spyglass Security, [publicó en Twitter los detalles del caso](https://www.nbcnews.com/tech/social-media/facebook-investigating-claim-engineer-used-access-stalk-women-n870526). 
+  
 ## Despistados y descuidos
 
 **2008**
@@ -300,10 +337,26 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: Cuatro hombres están acusados de atacar el servidor informático y destruir los datos de la empresa. De ellos dos eran ex-empleados mientras que, los otros dos continuaban trabajando en la misma y habían pedido hace cuatro meses el finiquito y una indemnización por despido; el dueño de la empresa no aceptó esta propuesta. 
   * **Estrategia**: Seleccionar a quien se conceden privilegios, especialmente para acceder y modificar información sensible, tener esta información  encriptada y en backup (al cual solo puedan acceder los empleados de más confianza), además de monitorizar y crear alarmas cuando se modifican o eliminan datos sensibles.
   * **Solución**: Uso de software que audita los ficheros .log como por ejemplo LogSentry (antes llamado Logcheck), el cual avisa cuando ocurre una incidencia. Por ejemplo cuando se introduce mal una contraseña o, en este caso cuando un antiguo empleado accede al sistema o cuando se borra una serie de datos concreta.
+  
+**2020**
 
+* [Saboteo de envíos de suministros médicos en plena crisis del Covid-19 tras ser despedido](https://www.bankinfosecurity.com/prosecutors-insider-sabotaged-medical-equipment-shipments-a-14172).
+  * **Fuente**: Fernando Bercedo
+  * **Descripción**: El ex vicepresidente de finanzas de una compañia de suministros médicos, Christopher Dobbins, acusado de piratear el sistema de la empresa creandose varias cuentas adicionales y sabotear el envío de dichos suministros en plena crisis del COVID-19 tras ser despedido. [Más información del caso. Dobbins ya estuvo sancionado anteriormente](https://www.ajc.com/news/crime--law/fbi-scorned-gwinnett-healthcare-company-sabotaged-shipments-masks-gloves/pXIKyuomUtRC9TeOodgOYI/)
+  * **Estrategia**: Sabiendo que el empleado ya estuvo sancionado por problemas internos, se debería haber vigilado más el comportamiento de este. Del mismo modo se debería monitorizar acciones sospechosas de los usuarios, como por ejemplo modificar o eliminar gran cantidad de datos. Adicionalmente hacer un mejor control de acceso a los datos sensibles.
+  * **Solución**: Un sistema SIEM como [Splunk Enterprise Security](https://www.splunk.com/en_us/software/enterprise-security.html) que combina el análisis de red, la gestión de registros y una excelente herramienta de análisis ya que tiene un [API de integración con terceros](https://www.splunk.com/view/SP-CAAABCC)
+
+**2018**
+
+* [Elon Musk emails employees about ‘extensive and damaging sabotage’ by employee](https://www.cnbc.com/2018/06/18/elon-musk-email-employee-conducted-extensive-and-damaging-sabotage.html)
+  * **Fuente**: Javier Ortega
+  * **Descripción**: Un trabajador de Tesla intentó sabotear la producción en la planta de produccion de Fremont en California. El sabotaje incluía la modificación del código del [Tesla Manufacturing Operating System](https://evannex.com/blogs/news/a-fascinating-look-inside-tesla-s-factory) con credenciales falsas que permitiría exportar información confidencial. Este trabajador fue directamente despedido, y Elon Musk mandó un correo anunciándolo a los trabajadores de dicha planta. Las causas fueron un ascenso que el empleado no recibió.
+  * **Estrategia**: Tener un software que no sea accesible sin autenticación previa, y que requiera de un doble factor (visto bueno por dos personas) antes de ser modificado.
+  * **Solución**: Uso de monitorización de ficheros con programas como [OSSEC](https://www.ossec.net/) y uso de forks en el propio código, y que una persona de rango superior al trabajador deba aprobarlo antes de realizar el cambio.
+  
 ## Filtradores
 
-**2007**
+**2007**	
 
 * [El caso Falciani](http://www.elmundo.es/elmundo/2013/04/15/espana/1366054276.html) (Fuente: Daniel Pardo)
 
@@ -329,9 +382,17 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
 
 * [Detenido un trabajador de TV3 por filtrar datos confidenciales de la empresa](http://www.elespanol.com/espana/20160311/108739431_0.html) (Fuente: Juana Mateo)
 
+**2017**
+
+* [Ex-agente de inteligencia filtra datos a medio de comunicación](https://www.cnet.com/news/nsa-leaker-reality-winner-sentenced-to-more-than-5-years-in-jail/)
+  * **Fuente**: Antonio Lecina
+  * **Descripción**: Reality Legiht Winner es una ex-especialista en inteligencia estadounidense arrestada en 2017 y condenada en 2018 a más de 5 años de prisión por publicar diferentes informes clasificados de la Agencia de Seguridad Nacional (NSA) al medio de comunicación *The Intercept*.
+  * **Estrategia**: Para controlar este tipo de filtraciones, se deberían de revisar y cointrolar los permisos que tienen los diferentes trabajadores, de modo que para acceder a datos clasificados, sea requerido unos privilegios de alto nivel. Además, se deberían de registrar los accesos a este tipo de datos, de modo que en todo momemnto se sepa quien ha accedido a esos datos.
+
 ## Vengativos
 
 **1996**
+
 * [Tim Lloyd elimina todos los programas de diseño y producción de Omega](http://edition.cnn.com/2000/TECH/computing/06/27/omega.files.idg/)
  * **Fuente**: Javier Plano Sanz
  * **Descripción**: 
@@ -361,9 +422,9 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
 **2015**
 
 * [Ashley Madison database stolen by lone female who worked for Avid Life Media](http://www.ibtimes.co.uk/john-mcafee-ashley-madison-database-stolen-by-lone-female-who-worked-avid-life-media-1516833) (Fuente: Ana Roig)
-* **Fuente**: Sergio Andrés
-* **Descripción**: En 2015 el grupo de hackers Impact Team toma el control de todos los sistemas de Avid Life Media (matriz de Ashley Madison) y exige el cierre de la  web Ashley Madison, por estar en desacuerdo con su forma de lucrarse. Se publican 10Gb de datos, principalmente sobre clientes y 20Gb con documentos internos y e-mails de su presidente N. Biderman. La empresa no tuvo que compensar a sus usuarios, gracias a su politica de uso, aunque se estima que el coste económico de este ataque supera con creces los 140 millones. N. Biderman renuncio 8 dias despues de la segunda filtración.
-* **Estrategia**: Para evitar este tipo de ataques se debe tener un Sistema de Gestión de Seguridad de la Información debidamente implementado, (AVM no lo tenía, y sus directivos lo sabian). Se debería monitorizar el acceso a la base de datos, especialmente cuando se realizan consultas que no son habituales en el sistema. La red tambien debe estar protegida para evitar que se pueda acceder a los sistemas de la empresa desde el exterior (el grupo de hackers afirma que les fue sumamente sencillo acceder).
+  * **Fuente**: Sergio Andrés
+  * **Descripción**: En 2015 el grupo de hackers Impact Team toma el control de todos los sistemas de Avid Life Media (matriz de Ashley Madison) y exige el cierre de la  web Ashley Madison, por estar en desacuerdo con su forma de lucrarse. Se publican 10Gb de datos, principalmente sobre clientes y 20Gb con documentos internos y e-mails de su presidente N. Biderman. La empresa no tuvo que compensar a sus usuarios, gracias a su politica de uso, aunque se estima que el coste económico de este ataque supera con creces los 140 millones. N. Biderman renuncio 8 dias despues de la segunda filtración.
+  * **Estrategia**: Para evitar este tipo de ataques se debe tener un Sistema de Gestión de Seguridad de la Información debidamente implementado, (AVM no lo tenía, y sus directivos lo sabian). Se debería monitorizar el acceso a la base de datos, especialmente cuando se realizan consultas que no son habituales en el sistema. La red tambien debe estar protegida para evitar que se pueda acceder a los sistemas de la empresa desde el exterior (el grupo de hackers afirma que les fue sumamente sencillo acceder).
 
 **2017**
 
@@ -372,3 +433,13 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Descripción**: Un contratista de IT introdujo malware de forma intencionada en los sistemas de pago del ejército de los Estado Unidos después de que sus empleados perdieran el contrato para suministrar tecnología para el ejército. Los militares estiman que estos daños suponen unos costes de 2,6 millones de dólares.
   * **Estrategia**: Controlar los permisos de los trabajadores, en este caso una vez se ha terminado el contrato y deberían quitarles los permisos ya que han dejado de ser sus trabajadores.
   * **Solución**: Es necesario un software de control de permisos para los usuarios. Para ello puede utilizarse el módulo de recursos humanos del ERP que esten utilizando, ya que este módulo gestiona las contrataciones y la finalización de contratos. También podría utilizar un software específico de control de permisos en empresas.
+
+## Incitar corrupción en terceros
+
+**2019**
+
+* [Unaoil executives admit paying multimillion-dollar bribes](https://www.theguardian.com/uk-news/2019/oct/31/unaoil-executives-admit-paying-multimillion-dollar-bribes)
+  * **Fuente**: Marta López Izquierdo
+  * **Descripción**: La empresa energética Unaoil forma parte de un caso de corrupción de dimensión global durante 17 años (de 1999 a 2016). La empresa estaría involucrada en el pago de sobornos a funcionarios de las estatales petroleras de Medio Oriente, para beneficiar a compañías occidentales, como Samsung, Hyundai,  Halliburton y Rolls Royce.
+  * **Estrategia**: Resulta complicado evitar la arrogancia del hombre y su búsqueda de dinero y de poder, pero se puede intentar limitarla guardando información de todas las acciones tomadas por la empresa, dónde más de una persona pueda consultarlos. Además, se debería comprobar el alto riesgo de soborno en los países en los que se hacen negocios (ver [Transparency International](https://www.transparency.org/)). Se deberán llevar registros claros y mantenerlos actualizados (donde se incluya todos los pagos, transacciones...), accediendo a ellos de manera transparente. Para eso, requerirá de un ERP que destaque en las finanzas, gestión documental y transacciones. Como, por ejemplo, Dynamics 365 Business Central.
+  * **Solución**: Un módulo de HRMS que permite la gestión central, recuperación y digitalización de documentos es [Document Capture](https://www.continia.com/es/soluciones-para-nav-business-central-on-premises/document-capture/), que viene integrado con Dynamics 365 Business. Además, permite acceder a los documentos desde cualquier lugar.
