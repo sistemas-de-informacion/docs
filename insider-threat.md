@@ -64,6 +64,7 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Solución**: A nivel de soluciones comerciales existen sistemas de monitorización de comportamientos extraños como [FortScale](https://fortscale.com/), [Alien Vault](https://www.alienvault.com/solutions/insider-threat-detection) o clouds con sistemas para prevenir filtrado de datos como [Avanan](https://www.avanan.com/data-leakage-prevention-cloud-security). AlienVault además soporta [integración con BambooHR a través de Bitium](https://www.bitium.com/alienvault-bamboo-hr-integration). Sin embargo, como se menciona antes, el desarrollo de un software propio para la detección de amenazas internas y para proteger de posibles filtraciones los datos sería posiblemente la única solución viable dado que además se desconoce el método con el que pudo llevarse los datos a su casa. ¿Pero quién soy yo para opinar sobre lo que tiene que hacer la mayor agencia de inteligencia del mundo?
   
 **2017**
+
 * [Uber crea una empresa falsa para robar secretos, según Google](https://elchapuzasinformatico.com/2017/05/uber-creo-una-empresa-falsa-robar-secretos-segun-google/)
   * **Fuente**: Adrián Casans
   * **Descripción**: Uber creó una empresa falsa para llegar a conocer cómo funcionaban los coches autónomos de Google e información secreta de la empresa.
@@ -73,11 +74,6 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 Los métodos que utilizó para acceder a los secretos de la empresa fueron: engañar a otros trabajadores, encargar tareas falsas para recopilar gran cantidad de datos, y tomar fotos de diagramas del sistema de la fábrica durante una visita guiada aunque no estuviera permitido.
   * **Estrategia**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, dando solo los estrictamente necesarios a cada empleado, e incluso cambiando la forma de autenticarse por algo más difícil de robar que una contraseña. Además, también se debería formar a los empleados (especialmente a los que tengan más privilegios de acceso) para que sean conscientes de que sus credenciales son importantes y que no deben compartirse con otros trabajadores. Otra medida necesaria sería la creación de un historial de acciones que puedan resultar sospechosas o poco habituales para cada empleado, de forma que se pudiera detectar actividad desleal o ilícita más fácil y sistemáticamente.
 En este caso particular, ya que aprovechó una visita guiada para obtener datos confidenciales, la empresa debería asegurarse de tener bajo control a los visitantes.
-
-* [Ex-agente de inteligencia filtra datos a medio de comunicación](https://www.cnet.com/news/nsa-leaker-reality-winner-sentenced-to-more-than-5-years-in-jail/)
-  * **Fuente**: Antonio Lecina
-  * **Descripción**: Reality Winner es una ex-especialista en inteligencia estadounidense la cual fue condena a más de 5 años de prisión por publicar diferentes informes clasificados de la Agencia de Seguridad Nacional al medio de comunicación The Intercept.
-  * **Estrategia**: Para controlar este tipo de filtraciones, se deberían de revisar y cointrolar los permisos que tienen los diferentes trabajadores, de modo que para acceder a datos clasificados, sea requerido unos privilegios de alto nivel. Además, se deberían de registrar los accesos a este tipo de datos, de modo que en todo momemnto se sepa quien ha accedido a esos datos.
   
 ## Ladrones de datos
 
@@ -328,9 +324,17 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
 
 * [Detenido un trabajador de TV3 por filtrar datos confidenciales de la empresa](http://www.elespanol.com/espana/20160311/108739431_0.html) (Fuente: Juana Mateo)
 
+**2017**
+
+* [Ex-agente de inteligencia filtra datos a medio de comunicación](https://www.cnet.com/news/nsa-leaker-reality-winner-sentenced-to-more-than-5-years-in-jail/)
+  * **Fuente**: Antonio Lecina
+  * **Descripción**: Reality Legiht Winner es una ex-especialista en inteligencia estadounidense arrestada en 2017 y condenada en 2018 a más de 5 años de prisión por publicar diferentes informes clasificados de la Agencia de Seguridad Nacional (NSA) al medio de comunicación *The Intercept*.
+  * **Estrategia**: Para controlar este tipo de filtraciones, se deberían de revisar y cointrolar los permisos que tienen los diferentes trabajadores, de modo que para acceder a datos clasificados, sea requerido unos privilegios de alto nivel. Además, se deberían de registrar los accesos a este tipo de datos, de modo que en todo momemnto se sepa quien ha accedido a esos datos.
+
 ## Vengativos
 
 **1996**
+
 * [Tim Lloyd elimina todos los programas de diseño y producción de Omega](http://edition.cnn.com/2000/TECH/computing/06/27/omega.files.idg/)
  * **Fuente**: Javier Plano Sanz
  * **Descripción**: 
