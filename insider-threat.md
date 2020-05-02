@@ -301,7 +301,7 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Fuente**: Javier Ortega
   * **Descripción**: Un trabajador de Tesla intentó sabotear la producción en la planta de produccion de Fremont en California. El sabotaje incluía la modificación del código del [Tesla Manufacturing Operating System](https://evannex.com/blogs/news/a-fascinating-look-inside-tesla-s-factory) con credenciales falsas que permitiría exportar información confidencial. Este trabajador fue directamente despedido, y Elon Musk mandó un correo anunciándolo a los trabajadores de dicha planta. Las causas fueron un ascenso que el empleado no recibió.
   * **Estrategia**: Tener un software que no sea accesible sin autenticación previa, y que requiera de un doble factor (visto bueno por dos personas) antes de ser modificado.
-  * **Solución**: Uso de monitorización de ficheros con programas como [OSSEC](https://www.ossec.net/) y uso de forks en el propio código, y que una persona de rango superior al trabajador deba aprobarlo antes de realizar el cambio.
+  * **Solución**: Uso de monitorización de ficheros con SAP Solution Manager, con un PKI que indique el cambio en el fichero, o con el Solution Packager de Dynamics 365 que deja hacer control de versiones.
   
 ## Filtradores
 
