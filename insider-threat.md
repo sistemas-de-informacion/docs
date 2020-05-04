@@ -184,7 +184,7 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
 * [Un banco, un insider, y 2.7 millones de datos robados](https://www.pandasecurity.com/mediacenter/news/dejsardins-insider-data-breach/)
   * **Fuente**: Eduardo Gimeno
   * **Descripción**: Hacia finales de Junio de 2019, Desjardins Group, un banco canadiense y la federación de cooperativas de crédito más grande de Norte América, anunció una brecha en los datos de la compañía. La brecha afectó aproximadamente a 2.7 millones de personas y a 173.000 compañías.
-  * **Estrategía**: Mejorar la seguirdad relativa al acceso a los datos críticos, limitando al máximo posible quién puede acceder. Además mejorar los métodos de acceso, sobre todo a la hora de confirmar la identidad de quién está accediendo. Registrar cada acceso que se realiza para tener constancia de quién y en qué momento.
+  * **Estrategia**: Mejorar la seguirdad relativa al acceso a los datos críticos, limitando al máximo posible quién puede acceder. Además mejorar los métodos de acceso, sobre todo a la hora de confirmar la identidad de quién está accediendo. Registrar cada acceso que se realiza para tener constancia de quién y en qué momento.
   * **Solución**: Un HRMS para verificar la configuración de seguridad del empleado y que permita que está se cumpla como [Abra HRMS Data Access](http://help-hrms.na.sage.com/en-us/2015/web/Content/Reports/HR/AbraHRMSdataaccess.htm).
 
 ## Ladrones de dinero
