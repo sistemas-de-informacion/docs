@@ -181,11 +181,11 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   
 **2019**
 
-* [A bank, an insider, and 2.7 million people’s data stolen](https://www.pandasecurity.com/mediacenter/news/dejsardins-insider-data-breach/)
-  * **Source**: Eduardo Gimeno
-  * **Description**: Towards the end of June of 2019, Desjardins Group, a Canadian bank and the largest federation of credit unions in North America, announced a data breach in the company. The breach affected around 2.7 million people and as many as 173.000 companies.
-  * **Strategy**: Desjardins imposed extra security measures, such as additional steps when confirming members’ identity. The company also contacted all of those affected by the breach, and offered the victims identity theft insurance, as well as a credit monitoring plan.
-  * **Solution**: A HRMS to check user's security settings and enables to enforce employer security like [Abra HRMS Data Access](http://help-hrms.na.sage.com/en-us/2015/web/Content/Reports/HR/AbraHRMSdataaccess.htm).
+* [Un banco, un insider, y 2.7 millones de datos robados](https://www.pandasecurity.com/mediacenter/news/dejsardins-insider-data-breach/)
+  * **Fuente**: Eduardo Gimeno
+  * **Descripción**: Hacia finales de Junio de 2019, Desjardins Group, un banco canadiense y la federación de cooperativas de crédito más grande de Norte América, anunció una brecha en los datos de la compañía. La brecha afectó aproximadamente a 2.7 millones de personas y a 173.000 compañías.
+  * **Estrategía**: Mejorar la seguirdad relativa al acceso a los datos críticos, limitando al máximo posible quién puede acceder. Además mejorar los métodos de acceso, sobre todo a la hora de confirmar la identidad de quién está accediendo. Registrar cada acceso que se realiza para tener constancia de quién y en qué momento.
+  * **Solución**: Un HRMS para verificar la configuración de seguridad del empleado y que permita que está se cumpla como [Abra HRMS Data Access](http://help-hrms.na.sage.com/en-us/2015/web/Content/Reports/HR/AbraHRMSdataaccess.htm).
 
 ## Ladrones de dinero
 
