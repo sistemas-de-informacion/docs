@@ -114,6 +114,23 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**: Determinar el comportamiento de los empleados mediante el monitoreo del acceso a la información personal de los clientes. Así, controlando el número de accesos que se realizan a la información se puede averiguar si está pasando algo.
   * **Solución**: El software [Veriato Recon](https://www.veriato.com/products/veriato-recon).
 
+**2012**
+
+* [Dropbox hack leads to leaking of 68m user passwords on the internet](https://www.infostream.cc/more-security-features-for-dropbox-following-hack/)
+  * **Fuente**: Naval Alcalá
+  * **Descripción**: La popular empresa de almacenamiento en la nube Dropbox fue víctima de un robo masivo de datos, con más de 68 millones de direcciones de correo electrónico y contraseñas de usuarios filtrándose en Internet.
+El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colección de direcciones de correo electrónico de los usuarios había sido robada, no informó que las contraseñas también habían sido robadas.
+
+     El hacker pudo perpetrar este ataque al obtener un documento interno que contenía todas las direcciones de correo electrónico y contraseñas de los usuarios de Dropbox. Basándose en esta información, Dropbox observó que el hackeo fue perpetrado por un **empleado interno**.
+
+  * **Estrategia**: Al ser un ataque realizado por un empleado interno, éste resulta muy difícil de controlar ya que se encuentra el enemigo dentro de casa, sin embargo se hace patente que hubiera sido necesario realizar un mayor control de los privilegios que tienen los empleados, así como no facilitar el acceso directo a los datos de los usuarios a más personal del estrictamente necesario para poder tener muy controlado quien dispone de ese acceso.
+  * **Solución**: Dropbox envió notificaciones a todos sus usuarios que no habían cambiado sus contraseñas desde 2012. La compañía tenía alrededor de 100 millones de clientes en ese momento, lo que significa que el volcado de datos representa más de dos tercios de sus cuentas de usuario. [The Guardian](https://www.theguardian.com/technology/2016/aug/31/dropbox-hack-passwords-68m-data-breach)
+  
+      Además se incluyeron procedimientos para permitir a los usuarios la oportunidad de consultar el historial de inicio de sesión relacionado con su cuenta.
+  
+      Sin embargo esta no sería la solución más acertada ya que se podrían seguir accediendo a esas cuentas, la idea hubiera sido bloquearlas hasta que el usuario tuviera que mediante su correo electrónico volver a activar la cuenta; además se avisó muy tarde de la incidencia por lo que los usuarios seguían siendo muy vulnerables a correos fraudulentos.
+  
+
 **2013**
 
 * [Woodland Heights Medical Center Employee Stole 450 Patient Records](http://www.ktre.com/story/30704770/woodland-heights-employee-investigated-for-stealing-450-patients-info)
