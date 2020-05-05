@@ -194,6 +194,10 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
    * **Estrategia**: Limitar el acceso de los empleados a datos sensibles dentro de LaunchPoint, usar tecnologías de monitorización para conseguir esta limitación y conseguir logs de todo lo que ocurra (sobre todo transferencias de archivos muy grandes).
    * **Solución**: La integración de un software como [ForcePoint](https://www.forcepoint.com/es) en el ERP de la empresa permite evitar la filtración de datos confidenciales, y que además permite integrar un firewall para dar más seguridad a la empresa.
 
+* [Cyber Attack on McDonald’s app leaks info of 2.2 million users](https://www.cybersecurity-insiders.com/cyber-attack-on-mcdonalds-app-leaks-info-of-2-2-million-users/)
+   * **Fuente**: Daniel Royo Idoype
+   * **Descripción**: Fallible (empresa de ciber seguridad) anunció que un grupo de hackersrobaron en 2017 la información de 2'2 millones de usuarios de la aplicación McDelivery de McDonald's en India, incluyéndose en esta información nombres, correos, direcciones de domicilio y enlaces a redes sociales, entre otros.
+
 **2018**
 
 * [SunTrust Investigation Shows Continuing Threats Posed by Insiders](https://www.securitynow.com/author.asp?section_id=613&doc_id=742491)
