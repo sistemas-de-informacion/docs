@@ -11,7 +11,11 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 **2007**
 
-* [DuPont Data Theft Shows Insider Risks](http://www.computerworld.com/article/2553109/security0/dupont-data-theft-shows-insider-risks.html)
+* [Massive Insider Breach At DuPont](https://www.crn.com/news/security/197006655/massive-insider-breach-at-dupont.htm)
+  * **Fuente:** Alejandro Ruiz Sumelzo
+  * **Descripción**: Gary Min descargó 22,000 documentos confidenciales y vió 16,706 más en la biblioteca electrónica de DuPont tras aceptar una oferta de un competidor, lo que lo convirtió en el usuario más activo en la base de datos de la empresa, según los fiscales. 
+  * **Estrategia**: Usó sus credenciales para la consulta y descarga de multitud de información de la empresa.
+  * **Solución**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, unido a un buen sistema de monitorización y alarmas en la base de datos que permita obtener y avisar si el número de lecturas y escrituras de un determinado usuario está siendo mayor al esperado.
 
 **2008**
 
@@ -217,6 +221,13 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: Una software engineer de Amazon Web Services se aprovecha de un firewall de una aplicación web mal configurado para robar los datos de más de 100 millones de cuentas de clientes y sus tarjetas bancarias del banco Capital One. Tras realizar el crimen, publica el método que ha utilizado para hackear comentándolo con colegas por Slack y compartiéndolo en Github. Se estima que provocó perdidas a Capital One de 150 millones de dólares.
 
 
+**2019**
+
+* [Security researcher pleads guilty to hacking into Microsoft and Nintendo](https://www.theverge.com/2019/3/28/18286027/microsoft-nintendo-vtech-security-hack-breach-researcher-guilty)
+  * **Fuente**: Alejandro Ruiz Sumelzo
+  * **Descripción**: Un investigador de seguridad de 24 años evitó la prisión al admitir el hackeo de los servidores de Microsoft y Nintendo, unido al robo de información confidencial.
+  * **Estrategia**: Este empleado había obtenido acceso a un servidor de Microsoft utilizando un nombre de usuario interno y una contraseña, y luego cargó un shell web para acceder de forma remota a la red de Microsoft libremente durante al menos tres semanas. Asimismo, ejecutó varios shells que le permitieron buscar a través de la red de Microsoft, cargar archivos y descargar datos.
+
 ## Ladrones de dinero
 
 **2015**
@@ -302,6 +313,16 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: El ministerio de Inmigración de Australia divulgó accidentalmente datos personales (número de pasaporte, datos de los visados, etc.) de todos los líderes del G20 a los organizadores de la Copa Asiática de fútbol. Esto fue debido a un error humano: se cree que un funcionario utilizó una función de autocompletado para el destinatario de un e-mail que contenía dichos datos, enviándolo al destinatario incorrecto.
   * **Estrategia**: Es difícil eliminar el error humano, pero con formación adecuada y siendo estrictos en la no violación de las políticas de empresa (como envío de e-mails personales con el correo de empresa), se puede minimizar la posibilidad de que éste ocurra. Por otra parte, se podría quitar el autocompletado, requerir de confirmación con todos los datos, o utilizar una solución de No Compartir, que desautoriza el acceso al fichero en caso de activarlo en algún momento. Para saber que hay que activar esta opción, sería una buena idea monitorizar las acciones de los empleados. Además, si lo que estaba realizando el empleado era una operación periódica, podría ser posible automatizarla.
   * **Solución**: Un módulo de HRMS habitual bastante aprovechable relacionado con la estrategia sería el de formación. El de [Peoplesoft](https://docs.oracle.com/cd/E40044_01/psft/acrobat/hcm92hhat-b0313.pdf), por ejemplo, es muy completo y permite gestionar todo el proceso a un nível de detalle muy alto.
+
+**2020**
+
+* [Remote Access Makes a Comeback: 3 Security Challenges in the Wake of COVID-19](https://www.darkreading.com/endpoint/remote-access-makes-a-comeback-4-security-challenges-in-the-wake-of-covid-19/a/d-id/1337558)
+  * **Fuente**: Alejandro Ruiz
+  * **Descripción**: A medida que las empresas apoyan a más empleados que trabajan desde casa, los equipos de seguridad deben tener la tecnología adecuada para evitar un bajo rendimiento y garantizar un acceso seguro.
+  * **Estrategia**: Los tres puntos en los que se ha reforzado la seguridad del acceso remoto en varias compañías han sido:
+    - Elegir el producto de acceso remoto adecuado, contestando las siguientes cuatro preguntas: ¿Quién es el usuario y cuál es su función laboral? ¿Qué tipo de dispositivo se está utilizando y quién es el propietario? ¿A qué tipo de aplicaciones y datos necesitan los usuarios acceder? y ¿Dónde se encuentra el usuario?
+    - Evaluar los riesgos de utilizar el dispositivo electrónico personal de cada empleado.
+    - Desarrollar una política de trabajo remoto utilizable.
 
 ## Saboteadores
 
