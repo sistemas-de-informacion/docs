@@ -11,10 +11,11 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 **2007**
 
-* [DuPont Data Theft Shows Insider Risks](http://www.computerworld.com/article/2553109/security0/dupont-data-theft-shows-insider-risks.html)[Enlace caído](https://www.crn.com/news/security/197006655/massive-insider-breach-at-dupont.htm) (Fuente: Alejandro Ruiz)
-* **Descripción**: Un empleado descargó 22,000 documentos confidenciales y vió 16,706 más en la biblioteca electrónica de DuPont, lo que lo convirtió en el usuario más activo en la base de datos de la empresa, según los fiscales. 
-* **Estrategia**: Usó sus credenciales para la consulta y descarga de multitud de información de la empresa.
-* **Solución**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, unido a un buen sistema de monitorización y alarmas en la base de datos que permita obtener y avisar si el número de lecturas y escrituras de un determinado usuario está siendo mayor al esperado.
+* [Massive Insider Breach At DuPont](https://www.crn.com/news/security/197006655/massive-insider-breach-at-dupont.htm)
+  * **Fuente:** Alejandro Ruiz Sumelzo
+  * **Descripción**: Gary Min descargó 22,000 documentos confidenciales y vió 16,706 más en la biblioteca electrónica de DuPont tras aceptar una oferta de un competidor, lo que lo convirtió en el usuario más activo en la base de datos de la empresa, según los fiscales. 
+  * **Estrategia**: Usó sus credenciales para la consulta y descarga de multitud de información de la empresa.
+  * **Solución**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, unido a un buen sistema de monitorización y alarmas en la base de datos que permita obtener y avisar si el número de lecturas y escrituras de un determinado usuario está siendo mayor al esperado.
 
 **2008**
 
@@ -67,6 +68,7 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Solución**: A nivel de soluciones comerciales existen sistemas de monitorización de comportamientos extraños como [FortScale](https://fortscale.com/), [Alien Vault](https://www.alienvault.com/solutions/insider-threat-detection) o clouds con sistemas para prevenir filtrado de datos como [Avanan](https://www.avanan.com/data-leakage-prevention-cloud-security). AlienVault además soporta [integración con BambooHR a través de Bitium](https://www.bitium.com/alienvault-bamboo-hr-integration). Sin embargo, como se menciona antes, el desarrollo de un software propio para la detección de amenazas internas y para proteger de posibles filtraciones los datos sería posiblemente la única solución viable dado que además se desconoce el método con el que pudo llevarse los datos a su casa. ¿Pero quién soy yo para opinar sobre lo que tiene que hacer la mayor agencia de inteligencia del mundo?
   
 **2017**
+
 * [Uber crea una empresa falsa para robar secretos, según Google](https://elchapuzasinformatico.com/2017/05/uber-creo-una-empresa-falsa-robar-secretos-segun-google/)
   * **Fuente**: Adrián Casans
   * **Descripción**: Uber creó una empresa falsa para llegar a conocer cómo funcionaban los coches autónomos de Google e información secreta de la empresa.
@@ -183,10 +185,11 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Solución**: Utilizar un software que permita monitorizar el acceso a determinada información, como [Forcepoint Insider Threat](https://www.forcepoint.com/es/product/data-insider-threat-protection/forcepoint-insider-threat) y el uso de cualquier sistema de información de tipo ERP en el que sólo haya que eliminar el usuario del empleado para revocarle todos los permisos cuando salga de la empresa, como [SAP S/4HANA](https://www.sap.com/spain/products/s4hana-erp.html).
 
 **2019**
+
 * [Security researcher pleads guilty to hacking into Microsoft and Nintendo](https://www.theverge.com/2019/3/28/18286027/microsoft-nintendo-vtech-security-hack-breach-researcher-guilty)
-	* **Fuente**: Alejandro Ruiz Sumelzo
-	* **Descripción**: Un investigador de seguridad de 24 años evitó la prisión al admitir el hackeo de los servidores de Microsoft y Nintendo, unido al robo de información confidencial.
-	* **Estrategia**: Este empleado había obtenido acceso a un servidor de Microsoft utilizando un nombre de usuario interno y una contraseña, y luego cargó un shell web para acceder de forma remota a la red de Microsoft libremente durante al menos tres semanas. Asimismo, ejecutó varios shells que le permitieron buscar a través de la red de Microsoft, cargar archivos y descargar datos.
+  * **Fuente**: Alejandro Ruiz Sumelzo
+  * **Descripción**: Un investigador de seguridad de 24 años evitó la prisión al admitir el hackeo de los servidores de Microsoft y Nintendo, unido al robo de información confidencial.
+  * **Estrategia**: Este empleado había obtenido acceso a un servidor de Microsoft utilizando un nombre de usuario interno y una contraseña, y luego cargó un shell web para acceder de forma remota a la red de Microsoft libremente durante al menos tres semanas. Asimismo, ejecutó varios shells que le permitieron buscar a través de la red de Microsoft, cargar archivos y descargar datos.
 
 ## Ladrones de dinero
 
@@ -205,7 +208,6 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: Un empleado de la empresa de parquímetros de Madrid, que se dedicaba a la recaudación de los mismos, sustituye la placa original por una placa pirata durante cortos periodos de tiempo, para que la recaudación realizada no quede registrada. Dejando un único rastro, que mostraba cómo la placa original dejaba de estar sincronizada, pero esta pequeña incidencia la solucionaba el propio técnico.
   * **Estrategia**: A nivel informático, con un sistema de permisos basado en roles, que no hubiera permitido cambiar al empleado los desajustes originados en los parquímetros, habría permitido a la empresa observar estas irregularidades y detectar el fraude.
   * **Solución**: Como solución como se ha indicado en la estrategia, habría sido el uso de sistemas de permisos de acceso basados en roles (RBAC). Este sistema se puede aplicar directamente sobre la BBDD, el ERP o el acceso a aplicaciones utilizado en la empresa.
-
 
 ## Desleales
 
@@ -257,6 +259,16 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: El ministerio de Inmigración de Australia divulgó accidentalmente datos personales (número de pasaporte, datos de los visados, etc.) de todos los líderes del G20 a los organizadores de la Copa Asiática de fútbol. Esto fue debido a un error humano: se cree que un funcionario utilizó una función de autocompletado para el destinatario de un e-mail que contenía dichos datos, enviándolo al destinatario incorrecto.
   * **Estrategia**: Es difícil eliminar el error humano, pero con formación adecuada y siendo estrictos en la no violación de las políticas de empresa (como envío de e-mails personales con el correo de empresa), se puede minimizar la posibilidad de que éste ocurra. Por otra parte, se podría quitar el autocompletado, requerir de confirmación con todos los datos, o utilizar una solución de No Compartir, que desautoriza el acceso al fichero en caso de activarlo en algún momento. Para saber que hay que activar esta opción, sería una buena idea monitorizar las acciones de los empleados. Además, si lo que estaba realizando el empleado era una operación periódica, podría ser posible automatizarla.
   * **Solución**: Un módulo de HRMS habitual bastante aprovechable relacionado con la estrategia sería el de formación. El de [Peoplesoft](https://docs.oracle.com/cd/E40044_01/psft/acrobat/hcm92hhat-b0313.pdf), por ejemplo, es muy completo y permite gestionar todo el proceso a un nível de detalle muy alto.
+
+**2020**
+
+* [Remote Access Makes a Comeback: 3 Security Challenges in the Wake of COVID-19](https://www.darkreading.com/endpoint/remote-access-makes-a-comeback-4-security-challenges-in-the-wake-of-covid-19/a/d-id/1337558)
+  * **Fuente**: Alejandro Ruiz
+  * **Descripción**: A medida que las empresas apoyan a más empleados que trabajan desde casa, los equipos de seguridad deben tener la tecnología adecuada para evitar un bajo rendimiento y garantizar un acceso seguro.
+  * **Estrategia**: Los tres puntos en los que se ha reforzado la seguridad del acceso remoto en varias compañías han sido:
+    - Elegir el producto de acceso remoto adecuado, contestando las siguientes cuatro preguntas: ¿Quién es el usuario y cuál es su función laboral? ¿Qué tipo de dispositivo se está utilizando y quién es el propietario? ¿A qué tipo de aplicaciones y datos necesitan los usuarios acceder? y ¿Dónde se encuentra el usuario?
+    - Evaluar los riesgos de utilizar el dispositivo electrónico personal de cada empleado.
+    - Desarrollar una política de trabajo remoto utilizable.
 
 ## Saboteadores
 
@@ -367,15 +379,3 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
 * **Fuente**: Sergio Andrés
 * **Descripción**: En 2015 el grupo de hackers Impact Team toma el control de todos los sistemas de Avid Life Media (matriz de Ashley Madison) y exige el cierre de la  web Ashley Madison, por estar en desacuerdo con su forma de lucrarse. Se publican 10Gb de datos, principalmente sobre clientes y 20Gb con documentos internos y e-mails de su presidente N. Biderman. La empresa no tuvo que compensar a sus usuarios, gracias a su politica de uso, aunque se estima que el coste económico de este ataque supera con creces los 140 millones. N. Biderman renuncio 8 dias despues de la segunda filtración.
 * **Estrategia**: Para evitar este tipo de ataques se debe tener un Sistema de Gestión de Seguridad de la Información debidamente implementado, (AVM no lo tenía, y sus directivos lo sabian). Se debería monitorizar el acceso a la base de datos, especialmente cuando se realizan consultas que no son habituales en el sistema. La red tambien debe estar protegida para evitar que se pueda acceder a los sistemas de la empresa desde el exterior (el grupo de hackers afirma que les fue sumamente sencillo acceder).
-
-##Covid-19
-
-**2020**
-
-* [Remote Access Makes a Comeback: 3 Security Challenges in the Wake of COVID-19](https://www.darkreading.com/endpoint/remote-access-makes-a-comeback-4-security-challenges-in-the-wake-of-covid-19/a/d-id/1337558)
-* **Fuente**: Alejandro Ruiz
-* **Descripción**: A medida que las empresas apoyan a más empleados que trabajan desde casa, los equipos de seguridad deben tener la tecnología adecuada para evitar un bajo rendimiento y garantizar un acceso seguro.
-* **Estrategia**: Los tres puntos en los que se ha reforzado la seguridad del acceso remoto en varias compañías han sido:
-					- Elegir el producto de acceso remoto adecuado, contestando las siguientes cuatro preguntas: ¿Quién es el usuario y cuál es su función laboral? ¿Qué tipo de dispositivo se está utilizando y quién es el propietario? ¿A qué tipo de aplicaciones y datos necesitan los usuarios acceder? y ¿Dónde se encuentra el usuario?
-					- Evaluar los riesgos de utilizar el dispositivo electrónico personal de cada empleado.
-					- Desarrollar una política de trabajo remoto utilizable.
