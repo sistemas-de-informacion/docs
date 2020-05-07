@@ -496,3 +496,10 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Descripción**: La empresa energética Unaoil forma parte de un caso de corrupción de dimensión global durante 17 años (de 1999 a 2016). La empresa estaría involucrada en el pago de sobornos a funcionarios de las estatales petroleras de Medio Oriente, para beneficiar a compañías occidentales, como Samsung, Hyundai,  Halliburton y Rolls Royce.
   * **Estrategia**: Resulta complicado evitar la arrogancia del hombre y su búsqueda de dinero y de poder, pero se puede intentar limitarla guardando información de todas las acciones tomadas por la empresa, dónde más de una persona pueda consultarlos. Además, se debería comprobar el alto riesgo de soborno en los países en los que se hacen negocios (ver [Transparency International](https://www.transparency.org/)). Se deberán llevar registros claros y mantenerlos actualizados (donde se incluya todos los pagos, transacciones...), accediendo a ellos de manera transparente. Para eso, requerirá de un ERP que destaque en las finanzas, gestión documental y transacciones. Como, por ejemplo, Dynamics 365 Business Central.
   * **Solución**: Un módulo de HRMS que permite la gestión central, recuperación y digitalización de documentos es [Document Capture](https://www.continia.com/es/soluciones-para-nav-business-central-on-premises/document-capture/), que viene integrado con Dynamics 365 Business. Además, permite acceder a los documentos desde cualquier lugar.
+
+**2020**
+
+* [Nintendo source code for N64, wii and gamecube leaked](https://www.bankinfosecurity.com/nintendo-source-code-for-n64-wii-gamecube-leaked-a-14220)
+  * **Fuente**: Jorge Rambla Gonzalez
+  * **Descripción**: Nintendo sufre uno de los mayores robos de su historia, al ser filtrados desde antiguos empleados los códigos fuentes de las consolas Nintendo64, wii y gamecube, asi como su descripción de hardware en VHDL.
+  * **Estrategía**: Prevenir el acceso de los empleados a los disntintos ficheros de código, de tal manera que nunca nadie tenga el total acceso a todos los ficheros. 
