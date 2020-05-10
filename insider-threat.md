@@ -502,4 +502,4 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
 * [Nintendo source code for N64, wii and gamecube leaked](https://www.bankinfosecurity.com/nintendo-source-code-for-n64-wii-gamecube-leaked-a-14220)
   * **Fuente**: Jorge Rambla Gonzalez
   * **Descripción**: Nintendo sufre uno de los mayores robos de su historia, al ser filtrados desde antiguos empleados los códigos fuentes de las consolas Nintendo64, wii y gamecube, asi como su descripción de hardware en VHDL.
-  * **Estrategía**: Prevenir el acceso de los empleados a los disntintos ficheros de código, de tal manera que nunca nadie tenga el total acceso a todos los ficheros. 
+  * **Estrategia**: Prevenir el acceso de los empleados a los distintos ficheros de código, de tal manera que nunca nadie tenga el total acceso a todos los ficheros. 
