@@ -29,6 +29,11 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 * [Former Microsoft Manager Accused of Confidential Data Theft](http://blog.alertsec.com/2011/02/former-microsoft-manager-accused-of-confidential-data-theft) (Fuente: Diego Grande) 
 * [Tres años de prisión por robar y revelar información de su empresa](http://www.expansion.com/2011/01/05/juridico/1294267832.html) (Fuente: Andrés Julian)
+* [Sinovel Wind Group found guilty of IP theft, fined $1.5 million](https://www.csoonline.com/article/3256305/sinovel-wind-group-found-guilty-of-ip-theft-valued-at-800-million.html)
+  * **Fuente**: Alejandro Piedrafita
+  * **Descripción**: Dejan Karabasevic, trabajador de AMSC Windtec GmbH, trabajó casi dos años junto con el director adjunto de I+D y el director de tecnología (Su Liying y Zhao Haichun) de la empresa Sinovel Wind Group revelando secretos sobre la tecnología LVRT (Low Voltage Ride Through). Dejan presentó su renuncia en marzo de 2011 pero continuó teniendo acceso a la red informática hasta su último día, en junio de ese año. Posteriormente, Sinovel le extendió un contrato de un año en el cual acordaba trabajar adaptando la propiedad intelectual de AMSC.
+  * **Estrategia**: En primer lugar, tratar con los empleados, conocer su estado y su grado de satisfacción con la empresa y con su trabajo (pues un trabajador que expresó su descontento siguió teniendo acceso a información confidencial hasta tres meses después). En cuanto a la detección de robo de datos, utilizar un DLP (software de prevención de pérdida de datos). De esta forma se podría haber identificado con antelación las intenciones del trabajador y evitado tales pérdidas (o al menos a tal escala).
+  * **Solución**: [SolarWinds](https://www.solarwinds.com/) software que previene la pérdida de información (tanto accidental como voluntaria). Dispone de diferentes aplicaciones que identifican y alertan sobre comportamientos sospechosos y posibles acciones que comprometan el sistema. Podría utilizarse por separado o integrarse con el módulo de HRMS.
 
 **2012**
 
