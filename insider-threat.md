@@ -4,6 +4,8 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 
 ## Ladrones de secretos
+**2003**
+* [Richard Fraser case in Nationwide: Insurance and Financial Services Company](https://books.google.es/books?id=HVMEzZFicOYC&pg=PA82&lpg=PA82&dq=fraser+vnationwide+insider&source=bl&ots=lEodZPj0zM&sig=ACfU3U0RmheHqGerkHkIXVvcLg65nOosNw&hl=es&sa=X&ved=2ahUKEwit7rXqvM3pAhXN6OAKHbCNDE8Q6AEwAHoECAYQAQ#v=onepage&q=fraser%20vnationwide%20insider&f=false) (Fuente: Sergio García-Campero)
 
 **2006**
 
