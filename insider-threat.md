@@ -5,15 +5,6 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 ## Ladrones de secretos
 
-**2003**
-* [Richard Fraser case in Nationwide: Insurance and Financial Services Company](https://books.google.es/books?id=HVMEzZFicOYC&pg=PA82&lpg=PA82&dq=fraser+vnationwide+insider&source=bl&ots=lEodZPj0zM&sig=ACfU3U0RmheHqGerkHkIXVvcLg65nOosNw&hl=es&sa=X&ved=2ahUKEwit7rXqvM3pAhXN6OAKHbCNDE8Q6AEwAHoECAYQAQ#v=onepage&q=fraser%20vnationwide%20insider&f=false) (Fuente: Sergio García-Campero)
-
-Se trata de un empleado que se aprovecha de su cargo en la empresa.
-
-* **Descripción**: Richard Fraser, un agente de seguros, fue despedido de su trabajo después de que se encontraran correos electrónicos en el servidor de archivos principal de la empresa Nationwide, donde se encontraban todos los mensajes de la empresa. Dichos mensajes exponían prácticas ilegales por parte de Fraser, lo que provocó su despido por "deslealtad a la empresa".
-
- * **Estrategia**: Para poder mitigar la amenaza se podría haber utilizado un sistema de información que monitorizase todo el trabajo de los empleados, con algún sistema de detección de palabras clave en el envío y recepción de mensajes y llamadas. Además, se debería haber establecido alguna protección para el acceso a los datos sensibles de la empresa por parte de los empleados.
-
 **2006**
 
 * [Maryland Man Sentenced for Stealing Secret Documents](https://www.fbi.gov/news/stories/2006/march/ford033106) (Fuente: Jorge Anoro)
@@ -307,6 +298,13 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 
 ## Desleales
 
+**2003**
+
+* [Richard Fraser case in Nationwide: Insurance and Financial Services Company](https://books.google.es/books?id=HVMEzZFicOYC&pg=PA82&lpg=PA82&dq=fraser+vnationwide+insider&source=bl&ots=lEodZPj0zM&sig=ACfU3U0RmheHqGerkHkIXVvcLg65nOosNw&hl=es&sa=X&ved=2ahUKEwit7rXqvM3pAhXN6OAKHbCNDE8Q6AEwAHoECAYQAQ#v=onepage&q=fraser%20vnationwide%20insider&f=false)
+  * **Fuente:** Sergio García-Campero.
+  * **Descripción**: Richard Fraser, un agente de seguros, fue despedido de su trabajo después de que se encontraran correos electrónicos en el servidor de archivos principal de la empresa Nationwide que exponían prácticas que Fraser consideraba ilegales por parte de Nationwide, lo que provocó su despido por "_deslealtad a la empresa_".
+  * **Estrategia**: Para poder mitigar la amenaza se podría haber utilizado un sistema de información que monitorizase todo el trabajo de los empleados, con algún sistema de detección de palabras clave en el envío y recepción de mensajes y llamadas. 
+  
 **2008**
 
 * [Former LendingTree Employee Caught Stealing Data](http://blog.leadcritic.com/lead-generation/featured/former-lendingtree-employee-caught-stealing-data)
