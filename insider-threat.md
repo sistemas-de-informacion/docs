@@ -406,6 +406,11 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 **2015**
 
 * [Germanwings Shows Need for Hunting Insider Threats](http://blogs.wsj.com/riskandcompliance/2015/04/07/the-morning-risk-report-germanwings-shows-need-for-hunting-insider-threats-2-newsletter-draft/) (2015, Fuente: Raúl Piracés)
+* [Rogue IT admin goes off the rails, shuts down Canadian train switches](https://www.theregister.co.uk/2018/02/14/rogue_it_admin_canadian_railway_switches/)
+  * **Fuente**:Jorge Fernandez
+  * **Descripción** Christopher Victor Grupe era administrador de sistemas de Canadian Pacific Railway y, tras ser suspendido temporalmente de sus labores por insubordinacion, a su vuelta fue despedido por la empresa pero, sin embargo, consiguió convencerles de que dejaba el empleo en vez de despedirle, devolviendo todas las pertenencias que le relacionaban con la empresa. Previamente a devolver las pertenencias, utilizó sus credenciales para acceder a los sistemas de la empresa y entre otras acciones, cambiar diversas contraseñas de los sistemas, para despues borrar toda la informacion y los logs que le relacionaban con la accion antes de entregar las pertenencias, con la consiguiente perdida de información, dado que obligo a la empresa a restaurar de fabrica sus equipos. 
+  * **Estrategia** Dado el puesto que ocupaba este empleado, se trata de un puesto en el cual se tiene acceso a una gran cantidad de informacion sensible de la empresa, es por ello que la empresa deberia de tener un sistema que permitiera limitar y manejar los permisos de acceso de determinados usuarios independientemente de su puesto a determinados recursos, y mas todavia cuando se conocia que habia dimitido, y la primera tarea que debieron de realizar era de retirar todos sus permisos. Por todo ello, a pesar de ser el administrador del sistema, no deberia tener acceso como empleado de la empresa al manejo total de los sistema de la empresa
+  * **Solución** Para realizar este manejo de permisos podria hacerse uso de un HRMS como [Oracle E-Business Suite](https://books.google.es/books?id=Jz0BCgAAQBAJ&pg=PA17&lpg=PA17&dq=hrms+for+controlling+sysadmin+users&source=bl&ots=K_dx4pyAB7&sig=ACfU3U3FkqQKJCgRkCjcUPvAgN5lpgevNQ&hl=es&sa=X&ved=2ahUKEwje0MSEnNXpAhUL5uAKHZWtDgkQ6AEwCnoECAoQAQ#v=onepage&q=hrms%20for%20controlling%20sysadmin%20users&f=false) 
 
 **2016**
 
