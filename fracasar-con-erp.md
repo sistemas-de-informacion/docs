@@ -646,3 +646,5 @@ Caso de estudio sobre la implementación de SAP en una empresa dedicada a produc
 ## Década de 2020
 
 ### 2020
+- **GamesWorkshop y Microsoft Dynamics**:
+[Tabletop battle-toys purveyor Games Workshop again warns of risks in Microsoft Dynamics 365 ERP project]https://www.theregister.com/2020/01/14/games_workshop_warns_of_risks_in_microsoft_dynamics_365_erp_project/
