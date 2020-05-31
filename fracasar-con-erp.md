@@ -522,6 +522,8 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 
 - **SAP y [BMW](https://www.bmw.es/es/index.html)**: [BMW Owners Vent Anger at Months-Long Wait for Spare Parts relating to a SAP Warehouse implementation in which IBM was also involved.](https://www.bloomberg.com/news/articles/2013-08-27/bmw-owners-vent-anger-at-months-long-wait-for-spare-parts) (Fuente: Samuel Ballonga)
 
+- **ERP desconocido y Target (Canada)**(https://www.bluelinkerp.com/blog/2016/02/12/target-canada-mistakes-made-from-a-software-perspective/)(Fuente: Víctor Hernández Fernández)
+
 ### 2014
 
 - **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**: [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.wayferry.com/blog/cubic-corporation-missing-roi) (Fuente: Miguel Bentué)
