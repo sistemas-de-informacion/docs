@@ -4,6 +4,9 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 
 ## Ladrones de secretos
+**2004**
+* [https://www.sfgate.com/business/article/Spy-conviction-upheld-for-Bay-Area-businessman-11125307.php](https://www.sfgate.com/business/article/Spy-conviction-upheld-for-Bay-Area-businessman-11125307.php) (Fuente: Adrian Garcia)
+  * **Descripcion**: Walter Liew contrata a dos ex-empleados de DuPont y consigue información confidencial que luego vende a empresas Chinas. Acaba siendo condenado en Estados Unidos.
 
 **2006**
 
