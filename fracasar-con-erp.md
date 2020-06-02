@@ -490,6 +490,7 @@ El proyecto *Project One* valorado en 60M$ se inicia en 2012 y cuando se desplie
 Mala calidad de datos, problemas de suministros derivados y TPV con problemas llevan a la quiebra a una cadena de tiendas en dos años.
 [The Last Days of Target. The untold tale of Target Canada’s difficult birth, tough life and brutal death](http://www.canadianbusiness.com/the-last-days-of-target-canada/) (Fuente: Marta Blanco)
 [Case study target canada failure](https://www.henricodolfing.com/2019/09/case-study-target-canada-failure.html) (Fuente: Jorge Rambla Gonzalez)
+[Target Canada: Mistakes Made from a Software Perspective](https://www.bluelinkerp.com/blog/2016/02/12/target-canada-mistakes-made-from-a-software-perspective/)(Fuente: Víctor Hernández Fernández)
 
 ### 2013
 

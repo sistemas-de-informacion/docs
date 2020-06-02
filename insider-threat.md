@@ -37,6 +37,10 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Descripción**: Dejan Karabasevic, trabajador de AMSC Windtec GmbH, trabajó casi dos años junto con el director adjunto de I+D y el director de tecnología (Su Liying y Zhao Haichun) de la empresa Sinovel Wind Group revelando secretos sobre la tecnología LVRT (Low Voltage Ride Through). Dejan presentó su renuncia en marzo de 2011 pero continuó teniendo acceso a la red informática hasta su último día, en junio de ese año. Posteriormente, Sinovel le extendió un contrato de un año en el cual acordaba trabajar adaptando la propiedad intelectual de AMSC.
   * **Estrategia**: En primer lugar, tratar con los empleados, conocer su estado y su grado de satisfacción con la empresa y con su trabajo (pues un trabajador que expresó su descontento siguió teniendo acceso a información confidencial hasta tres meses después). En cuanto a la detección de robo de datos, utilizar un DLP (software de prevención de pérdida de datos). De esta forma se podría haber identificado con antelación las intenciones del trabajador y evitado tales pérdidas (o al menos a tal escala).
   * **Solución**: [SolarWinds](https://www.solarwinds.com/) software que previene la pérdida de información (tanto accidental como voluntaria). Dispone de diferentes aplicaciones que identifican y alertan sobre comportamientos sospechosos y posibles acciones que comprometan el sistema. Podría utilizarse por separado o integrarse con el módulo de HRMS.
+  
+* [RSA SecurID breach began with spear phishing attack](https://searchsecurity.techtarget.com/news/1529523/RSA-SecurID-breach-began-with-spear-phishing-attack)
+   * **Fuente**: Víctor Hernández Fernández
+   * **Descripción**: En marzo de 2011, dos grupos de hackers que trabajan con un gobierno extranjero lanzaron ataques de phishing contra empleados de RSA, pretendiendo ser compañeros de trabajo y contactos de confianza. Cuando los empleados cayeron en los ataques, los piratas informáticos obtuvieron acceso y pudieron comprometer los tokens de autenticación SecureID.
 
 **2012**
 
