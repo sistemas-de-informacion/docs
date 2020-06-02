@@ -437,6 +437,12 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 
 **2018**
 
+* [Former IT Administrator Sentenced in Insider Threat Case](www.bankinfosecurity.com/former-administrator-sentenced-in-insider-threat-case-a-14358)
+  * **Fuente**: Paula Iglesias
+  * **Descripción**: Un ex administrador de TI de una compañía de distribución de productos de construcción con sede en Atlanta fue sentenciado a 18 meses en una prisión federal después de sabotear la empresa cambiando las contraseñas de los enrutadores y cerrando un servidor de comando crítico. Después de renunciar a su trabajo en julio de 2018, Charles E. Taylor, de Jacksonville, Arkansas, causó más de $ 800,000 en daños a su antigua empresa y tuvo que reemplazar varios enrutadores y reconstruir y restaurar su red informática interna.
+  * **Estrategia**: Además de seleccionar bien a las personas con privilegios de administrador y que van a trabajar con información sensible, es importante que antes de despedir a un administrador se cambien las contraseñas o se elimine su cuenta de administrador, porque nunca sabes quien te va a traicionar si siente que no tiene nada que perder, aunque te pienses que es una "persona de confianza".
+  * **Solución**: La herramienta [Workday](https://www.workday.com) es una solución de HCM que tiene una funcionalidad muy interesante, que es la función "Talento", con la que se puede conocer la situación en la que se encuentra el personal en la compañía, incluyendo saber quien se encuentra en riesgo de abandonarla. Esto unido a que permite ser conectada a software como Microsoft Azure, SAP o Oracle puede ser una posible solución.
+
 * [Elon Musk emails employees about ‘extensive and damaging sabotage’ by employee](https://www.cnbc.com/2018/06/18/elon-musk-email-employee-conducted-extensive-and-damaging-sabotage.html)
   * **Fuente**: Javier Ortega
   * **Descripción**: Un trabajador de Tesla intentó sabotear la producción en la planta de produccion de Fremont en California. El sabotaje incluía la modificación del código del [Tesla Manufacturing Operating System](https://evannex.com/blogs/news/a-fascinating-look-inside-tesla-s-factory) con credenciales falsas que permitiría exportar información confidencial. Este trabajador fue directamente despedido, y Elon Musk mandó un correo anunciándolo a los trabajadores de dicha planta. Las causas fueron un ascenso que el empleado no recibió.
