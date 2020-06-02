@@ -240,6 +240,12 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Monitorear los accesos a la información de los clientes ayudaría a detectar si un único empleado consulta un número exageradamente alto de estos. Por otro lado, es muy importante eliminar los permisos de acceso, especialmente los relacionados con datos sensibles, a los empleados que abandonan la empresa.
   * **Solución**: Utilizar un software que permita monitorizar el acceso a determinada información, como [Forcepoint Insider Threat](https://www.forcepoint.com/es/product/data-insider-threat-protection/forcepoint-insider-threat) y el uso de cualquier sistema de información de tipo ERP en el que sólo haya que eliminar el usuario del empleado para revocarle todos los permisos cuando salga de la empresa, como [SAP S/4HANA](https://www.sap.com/spain/products/s4hana-erp.html).
   
+* [Un exempleado es acusado de robar secretos de la tecnología de conducción autónoma de Apple](https://www.xataka.com/empresas-y-economia/caso-ex-empleado-acusado-robar-secretos-tecnologia-conduccion-autonoma-apple-que-ahora-ha-sido-detenido)
+  * **Fuente** Paula Ejarque Pascual
+  * **Descripción** Su nombre es Xiaolang Zhang y fue contratado por Apple  para trabajar en el desarrollo de la tecnológica de conducción autónoma. Sin embargo, fue acusado de robar información secreta para ofrecersela a una compañía china de la competencia, XMotors.
+  * **Estrategia** Zhang habría tenido acceso a la base de datos confidencial de la compañía, de dónde habría descargado archivos que contenían información confidencial, esto mientras se preparaba para renunciar y comenzar a trabajar para la competencia XMotors.
+  * **Solución** Aplicar políticas para el bloqueo de la descarga de archivos, sobre todo en caso de que se traten de servidores críticos con información sensible.
+  
 **2019**
 
 * [Un banco, un insider, y 2.7 millones de datos robados](https://www.pandasecurity.com/mediacenter/news/dejsardins-insider-data-breach/)
@@ -248,19 +254,13 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Mejorar la seguirdad relativa al acceso a los datos críticos, limitando al máximo posible quién puede acceder. Además mejorar los métodos de acceso, sobre todo a la hora de confirmar la identidad de quién está accediendo. Registrar cada acceso que se realiza para tener constancia de quién y en qué momento.
   * **Solución**: Un HRMS para verificar la configuración de seguridad del empleado y que permita que está se cumpla como [Abra HRMS Data Access](http://help-hrms.na.sage.com/en-us/2015/web/Content/Reports/HR/AbraHRMSdataaccess.htm).
 
-**2019**
-
 * [Capital One Data Breach Compromises Data of Over 100 Million](https://www.nytimes.com/2019/07/29/business/capital-one-data-breach-hacked.html)
   * **Fuente**: Alberto Calvo Rubió
   * **Descripción**: Una software engineer de Amazon Web Services se aprovecha de un firewall de una aplicación web mal configurado para robar los datos de más de 100 millones de cuentas de clientes y sus tarjetas bancarias del banco Capital One. Tras realizar el crimen, publica el método que ha utilizado para hackear comentándolo con colegas por Slack y compartiéndolo en Github. Se estima que provocó perdidas a Capital One de 150 millones de dólares.
   
-  **2019**
-
 * [Un empleado de Trend Micro robó y vendió datos de 68.000 de sus clientes](https://www.muycomputerpro.com/2019/11/07/trend-micro-robo-vendio-datos-clientes)
   * **Fuente**: Adrián Francisco Jiménez
   * **Descripción**: Un empleado de Trend Micro robó en Agosto de 2019 datos de 68000 clientes a partir de una base de datos de soporte técnico. Consiguió datos como el nombre, teléfono y dirección de correo electrónico, pero no datos financieros. La compañia califica el ataque como "fuente interna con malas intenciones que se implicó en una conspiración de infiltración premeditada para sortear nuestros sofisticados controles", y ya ha puesto el ataque en conocimiento de las autoridades competentes. Desde Trend Micro se dieron cuenta del ataque cuando empezaron a recibir noticias de clientes que se quejaban de que les llamaban desde Trend Micro (suplantando a la verdadera empresa) con el objetivo de robarles los datos financieros.
-
-**2019**
 
 * [Security researcher pleads guilty to hacking into Microsoft and Nintendo](https://www.theverge.com/2019/3/28/18286027/microsoft-nintendo-vtech-security-hack-breach-researcher-guilty)
   * **Fuente**: Alejandro Ruiz Sumelzo
