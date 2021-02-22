@@ -42,7 +42,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **Sun Systems and Natural Springs**: [ERP Implementation Gone Terribly Wrong: The Case of Natural Springs](http://www3.cis.gsu.edu/dtruex/courses/IB8710/Articles/ERP%20Implementation%20Gone%20Terribly%20Wrong-%20The%20Case%20of%20Natural%20Springs.pdf) (Fuente: Víctor Fernández Melic)
 
-- **Oracle CPG y [Kellog](https://www.kelloggs.es/es_ES/home.html)**: 
+- **Oracle CPG y [Kellog](https://www.kelloggs.es/es_ES/home.html)**:
 Oracle saca Oracle CPG, un software que prometía integrar paquetes de software complejos de cuatro proveedores diferentes: el software ERP de Oracle, la gestión de activos empresariales de Indus, la gestión de la cadena de suministro de Manugistic y la gestión de pedidos de IMI en un todo sin fisuras. Kellog lo intentó implementar, pero en 3 años, parece que no lo consiguió.
 [Oracle’s CPG Failures Teaches Valuable Lessons About ERP Integration](https://www.cio.com/article/2441154/oracle-s-cpg-failures-teaches-valuable-lessons-about-erp-integration.html) (Fuente: Samuel Ballonga)
 
@@ -179,9 +179,9 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **ERP desconocido y alguna embotelladora americana**: [ERP implementation failure: a case study](http://docplayer.net/6768854-Erp-implementation-failure-a-case-study.html) (Fuente: Sandra Campos, actualizada por Beatriz Pérez)
 
-- **ERP desconocido y [automobile manufacturer (empresa ficticia)]:** [ERP Adoption in China: Case One](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
+- **ERP desconocido y automobile manufacturer (empresa ficticia):** [ERP Adoption in China: Case One](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
 
-- **ERP desconocido y [material supplier (empresa ficticia)]:** [ERP Adoption in China: Case Two](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
+- **ERP desconocido y material supplier (empresa ficticia):** [ERP Adoption in China: Case Two](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
 
 - **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB)**: [The National Australia Bank and Corporate Culture](http://api.ning.com/files/ZkPg*VLW4CwSJNzE-y60auTqsjdkasKuzd8yPdwhLfgUTHDaf9bGaiQgRc*s9G*VMgYEXmR3iFeVEM2KXrEfAxuNp5JZIugg/JonesNABCorporateCulture105.pdf) (Fuente: Edgar Arnal)
 
@@ -207,7 +207,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **CRM no identificado y AT&T**: [AT&T Wireless: Failed CRM upgrade cost $100 million in lost revenues](https://it.toolbox.com/blogs/mrallen1/at-t-wireless-failed-crm-upgrade-cost-100-million-in-lost-revenues-041904), [Project Management: AT&T Wireless Self-Destructs](https://www.cio.com/article/2439700/project-management/project-management--at-t-wireless-self-destructs.html) (Fuente: Jorge Blázquez Hernández)
 
-- **Baan y [Cairo and Alexandria Stock Exchange (CASE) and Capital Market Authority (CMA)]**: [ICT Acceptance, Investment and Organization](https://books.google.es/books?id=mL10BxzzsPkC&pg=PA91&lpg=PA91&dq=erp+fail+egypt&source=bl&ots=PUqKj2kmxO&sig=ACfU3U3jxCe4WAlwnQqEhLM0OEvBzky3CQ&hl=es&sa=X&ved=2ahUKEwij_62-tILhAhVECxoKHVELB9w4ChDoATACegQIARAB#v=onepage&q=erp%20fail%20egypt&f=false) (Fuente: Israel Solanas)
+- **Baan y Cairo and Alexandria Stock Exchange (CASE) and Capital Market Authority (CMA)**: [ICT Acceptance, Investment and Organization](https://books.google.es/books?id=mL10BxzzsPkC&pg=PA91&lpg=PA91&dq=erp+fail+egypt&source=bl&ots=PUqKj2kmxO&sig=ACfU3U3jxCe4WAlwnQqEhLM0OEvBzky3CQ&hl=es&sa=X&ved=2ahUKEwij_62-tILhAhVECxoKHVELB9w4ChDoATACegQIARAB#v=onepage&q=erp%20fail%20egypt&f=false) (Fuente: Israel Solanas)
 
 - **eMAG (nombre ficticio, EE.UU.) y Beta (nombre ficticio, Jordania)**: [Explaining ERP Failure in a Developing Country: A Jordanian Case Study](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:86510&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF) (Fuente: Gonzalo Robles)
 
@@ -217,7 +217,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **ERP no identificado (tier 1, desarrollado fuera de China) y E (nombre ficticio, empresa minera, China**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
 
-- **ERP desconocido y [NYE (nombre ficticio)]**: [Case Analysis – IS and ERP Usage in NYE](http://eprints.whiterose.ac.uk/79147/2/WRRO_79147.pdf) (Fuente: Víctor Rodríguez)
+- **ERP desconocido y NYE (nombre ficticio)**: [Case Analysis – IS and ERP Usage in NYE](http://eprints.whiterose.ac.uk/79147/2/WRRO_79147.pdf) (Fuente: Víctor Rodríguez)
 
 - **ERP no identificado (tier 1, desarrollado fuera de China) y B (nombre ficticio, farmaceutica, China)**: [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
 
@@ -284,7 +284,7 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 
 - **Infor y Scientific Components**: [ERP train wrecks, failures and lawsuits](https://www.enterpriseirregulars.com/31515/erp-train-wrecks-failures-and-lawsuits/) (Fuente: Oscar Potrony) Mención breve del caso en una tabla de fracasos.
 
-- **Lawson y [Public Health Foundation Enterprises] (PHFE)**:
+- **Lawson y Public Health Foundation Enterprises (PHFE)**:
 PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP sino varios programas sueltos.
 [Nonprofit Sues Lawson Over Alleged ERP Failure](https://www.cio.com/article/2425363/nonprofit-sues-lawson-over-alleged-erp-failure.html) (Fuente: Fernando Bercedo)
 
@@ -306,11 +306,11 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 
 - **SAP y [Waste Management](http://www.wm.com/index.jsp)**: [SAP fires back at Waste Management](http://www.cio.com/article/443864/SAP_Fires_Back_At_Waste_Management) (Fuente: Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo )
 
-- **Oracle y Arizona State University (ASU)**: 
+- **Oracle y Arizona State University (ASU)**:
 El coste de la implementación fue sustancialmente por debajo del presupuesto, una rareza extrema en el mundo de las implementaciones de ERP. Sin embargo, esto se produce a expensas de la calidad, la usabilidad y la moral de los empleados de la ASU.
 [Bizarre ERP implementation experiment at Arizona State](https://www.zdnet.com/article/bizarre-erp-implementation-experiment-at-arizona-state/)
 [Bizarre Arizona State ERP: Article commenting the Oracles's case study](https://www.zdnet.com/article/updated-bizarre-arizona-state-erp-oracle-releases-case-study/) (Fuente: Paula Iglesias)
-[Oracle customer case study proclaiming the wonders of its implementation at Arizona State University (ASU)](https://es.slideshare.net/TimOrtiz/arizona-state-case-study) (Páginas 4-9) (Fuente: Paula Iglesias) 
+[Oracle customer case study proclaiming the wonders of its implementation at Arizona State University (ASU)](https://es.slideshare.net/TimOrtiz/arizona-state-case-study) (Páginas 4-9) (Fuente: Paula Iglesias)
 
 ### 2008
 
@@ -403,7 +403,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 - **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
 
-- **Computer Science Corporation y [NHS](http://www.nhs.uk/Pages/HomePage.aspx) (Reino Unido)**: [Government to scrap NPfIT NHS IT programme today](http://www.computerworlduk.com/news/it-business/government-to-scrap-npfit-nhs-it-programme-today-3305247/) (Fuente: Nerea Torres) y [Abandoned NHS IT system has cost £10bn so far](http://www.theguardian.com/society/2013/sep/18/nhs-records-system-10bn) (Fuente: Christian Simón, corregido Mario Navarro) y [Case Study - The National Programme for IT in the NHS](https://www.cl.cam.ac.uk/~rja14/Papers/npfit-mpp-2014-case-history.pdf) (Fuente: Víctor Lafaja)**
+- **Computer Science Corporation y [NHS](http://www.nhs.uk/Pages/HomePage.aspx) (Reino Unido)**: [Government to scrap NPfIT NHS IT programme today](http://www.computerworlduk.com/news/it-business/government-to-scrap-npfit-nhs-it-programme-today-3305247/) (Fuente: Nerea Torres) y [Abandoned NHS IT system has cost £10bn so far](http://www.theguardian.com/society/2013/sep/18/nhs-records-system-10bn) (Fuente: Christian Simón, corregido Mario Navarro) y [Case Study - The National Programme for IT in the NHS](https://www.cl.cam.ac.uk/~rja14/Papers/npfit-mpp-2014-case-history.pdf) (Fuente: Víctor Lafaja)
 
 - **EPICOR y [ParknPool](https://www.parknpool.com/)**: [Customer Sues Epicor After ERP Software Project Attempt Ends in 'big Mess'](http://www.pcworld.com/article/245151/customer_sues_epicor_after_erp_software_project_attempt_ends_in_big_mess.html)  (Fuente: Diego Grande)
 
@@ -558,11 +558,10 @@ Tras tener problemas en 2008 con SAP, Select Confort vuelve a tener problemas en
 
 - **Siebel CRM y [Vodafone(UK)](https://www.vodafone.co.uk/)**: [Vodafone’s £4.6m CRM fine – when IT projects attack](https://diginomica.com/2016/10/26/vodafones-4-6m-customer-service-fine-when-it-projects-attack/) (Fuente: Marta Blanco).
 
-- **SAP y Woolworth (Australia)** : 
+- **SAP y Woolworth (Australia)** :
 La sustitución de un ERP desarrollado internamente durante 30 años por SAP causa más problemas de los esperados.
 [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
-[Woolworths looks to fix IT basics off the back of AU$1.2b loss](https://www.zdnet.com/article/woolworths-looks-to-fix-it-basics-off-the-back-of-au1-2b-loss/)(Fuente: Paula Ejarque)
-
+[Woolworths looks to fix IT basics off the back of AU$1.2b loss](https://www.zdnet.com/article/woolworths-looks-to-fix-it-basics-off-the-back-of-au1-2b-loss/) (Fuente: Paula Ejarque)
 
 ### 2016
 
@@ -626,7 +625,7 @@ Instalación en 2017. Problemas en 2018.
 - **ERP y Arabia Saudí**:
 [Cuáles son las claves para el fracaso de cualquier ERP en Arabia Saudí](http://docsdrive.com/pdfs/medwelljournals/ibm/2018/10-22.pdf)(Fuente: Alejandro Ruiz)
 
-- **ERP SAP BO(Business One):**[Ante un proyecto que podríamos decir adolecía de cierta metodología de Ingeniaría de Software y buenas prácticas en la implantación](https://leyesytecnologia.com/peritaje-de-sap-bo-business-one-razones-de-un-fracaso-de-implantacion/)(Fuente: Raúl Logroño)
+- **ERP SAP BO(Business One):**[Ante un proyecto que podríamos decir adolecía de cierta metodología de Ingeniaría de Software y buenas prácticas en la implantación](https://leyesytecnologia.com/peritaje-de-sap-bo-business-one-razones-de-un-fracaso-de-implantacion/) (Fuente: Raúl Logroño)
 
 ### 2019
 
@@ -648,5 +647,6 @@ Caso de estudio sobre la implementación de SAP en una empresa dedicada a produc
 ## Década de 2020
 
 ### 2020
+
 - **GamesWorkshop y Microsoft Dynamics**:
 [Tabletop battle-toys purveyor Games Workshop again warns of risks in Microsoft Dynamics 365 ERP project](https://www.theregister.com/2020/01/14/games_workshop_warns_of_risks_in_microsoft_dynamics_365_erp_project/) (Fuente: Adrian Garcia)
