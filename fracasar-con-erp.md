@@ -21,6 +21,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **[AMR Corp.](http://www.amrcaseinfo.com/)** y la joint venture formpada por **[Budget Rent A Car Corp.](https://www.budget.com/en/home)**, **[Hilton Hotels Corp.](http://www3.hilton.com/en/index.html)** y **[Marriott International Inc.](http://www.marriott.com/default.mi)**: [Companies Don't Learn From Previous IT Snafus](https://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html) (Fuente: Miguel Bolsa)
 
 - **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/)**: [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
+[London Ambulance Service Software Failure] (http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/Report_London_Ambulance_Service-Jan2015.pdf) (Fuente: Lorena Mehavilla)
 
 ### 1993
 
@@ -109,7 +110,7 @@ El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 
 - **SAP y [Hershey's](http://www.hersheys.com/)**:
 [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.academia.edu/12467188/A_Case_Study_on_Hersheys_ERP_Implementation_Failure_The_Importance_of_Testing_and_Scheduling) (Fuente: Andrés Julián y Miguel López),
-[ERP Implementation Failure at Hershey Foods Corporation](https://edisciplinas.usp.br/pluginfile.php/4055166/mod_resource/content/1/Estudo%20de%20Caso%201.pdf) (Fuente: Yolanda Sánchez).
+[ERP Implementation Failure In Hershey's] (https://es.slideshare.net/purohit1323/erp-failure-implementation-failure-hershey-foods-corporation) (Fuente: Yolanda Sánchez,corregido por Lorena Mehavilla)
 
 - **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 
@@ -270,6 +271,7 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **SAP y [PLIVA](http://www.pliva.com/)(caso ficticio)**: [ERP System Implementation: Case Study of a Pharmaceutical Company](https://www.researchgate.net/publication/220066116_ERP_System_Implementation_and_Business_Process_Change_Case_Study_of_a_Pharmaceutical_Company) (Fuente: Miguel Bentué)
 
 - **SAP y [US Navy](http://www.navy.mil/)**:  [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez)
+[The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla)
 
 - **ERP desconocido y Alpha, Beta, Gamma, Delta (desconocidas)**:
 [Critical Failure Factors in ERP Implementation](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1152&context=pacis2005) (Fuente: Irene Fumanal Lacoma)
@@ -299,6 +301,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 - **Oracle y Philadephia (EE.UU)**: [Philly flushes Oracle out of water bill project](http://www.computerworld.com/article/2549303/government-it/philly-flushes-oracle-out-of-water-bill-project.html) siendo resuelto el problema en 2008 con un nuevo proveedor y [Philadelphia's 'Ocean' Finally in Full Flow](http://www.computerworld.com/article/2551756/government-it/philadelphia-s--ocean--finally-in-full-flow.html) (Fuente: Juan Vela)
 
 - **Ross Systems y Woolf Enterprises**: [Customer alleges broken pledges, lies in ERP software suit](https://www.computerworld.com/article/2510613/technology-law-regulation/customer-alleges-broken-pledges--lies-in-erp-software-suit.html) (Fuente : Alberto Mur)
+[Customer sues Ross Systems over lags in ERP software] (https://www.tahawultech.com/news/customer-sues-ross-systems-over-lags-in-erp-software/amp/) (Fuente:Lorena Mehavilla)
 
 - **SAP y Avison and Malaurent**: [Erp Introduction in China: Analysing Cultural Problems Using Structuration Theory.](https://www.researchgate.net/publication/221228971_Erp_Introduction_in_China_Analysing_Cultural_Problems_Using_Structuration_Theory) (Fuente: Israel Solanas)
 
@@ -491,6 +494,7 @@ Mala calidad de datos, problemas de suministros derivados y TPV con problemas ll
 [The Last Days of Target. The untold tale of Target Canada’s difficult birth, tough life and brutal death](http://www.canadianbusiness.com/the-last-days-of-target-canada/) (Fuente: Marta Blanco)
 [Case study target canada failure](https://www.henricodolfing.com/2019/09/case-study-target-canada-failure.html) (Fuente: Jorge Rambla Gonzalez)
 [Target Canada: Mistakes Made from a Software Perspective](https://www.bluelinkerp.com/blog/2016/02/12/target-canada-mistakes-made-from-a-software-perspective/)(Fuente: Víctor Hernández Fernández)
+[Why ERP Projects Fail in Canada - and How to Avoid the Same Fate] (https://www.essoft.com/blogs/post/why-erp-projects-fail-canada) (Fuente: Lorena Mehavilla)
 
 ### 2013
 
