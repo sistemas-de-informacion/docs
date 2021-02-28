@@ -563,6 +563,8 @@ La sustitución de un ERP desarrollado internamente durante 30 años por SAP cau
 [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
 [Woolworths looks to fix IT basics off the back of AU$1.2b loss](https://www.zdnet.com/article/woolworths-looks-to-fix-it-basics-off-the-back-of-au1-2b-loss/) (Fuente: Paula Ejarque)
 
+- **ERP desconocido y empresa encargada de embotellar refrescos (soft drink bottler)** : 
+
 ### 2016
 
 - **ERP desconocido y PG&E**: [Pacific Gas and Electric Database Exposed](https://mackeeper.com/blog/post/231-pacific-gas-and-electric-database-exposed) (Fuente: Alberto Mur)
