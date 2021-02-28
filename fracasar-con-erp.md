@@ -563,7 +563,7 @@ La sustitución de un ERP desarrollado internamente durante 30 años por SAP cau
 [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
 [Woolworths looks to fix IT basics off the back of AU$1.2b loss](https://www.zdnet.com/article/woolworths-looks-to-fix-it-basics-off-the-back-of-au1-2b-loss/) (Fuente: Paula Ejarque)
 
-- **ERP desconocido y empresa encargada de embotellar refrescos (soft drink bottler)** : [Cómo la falta de comunicación y de soporte acabaron condenando a una gran empresa dedicada al embotellado de refrescos](https://vdocuments.mx/erp-implementation-failure.html) (Fuente: Pablo Jordán)
+- **ERP desconocido y empresa encargada de embotellar refrescos (soft drink bottler)** : [Cómo la falta de comunicación y de soporte acabaron condenando a una gran empresa dedicada al embotellado de refrescos - Caso de estudio](https://vdocuments.mx/erp-implementation-failure.html) (Fuente: Pablo Jordán)
 
 ### 2016
 
@@ -628,6 +628,8 @@ Instalación en 2017. Problemas en 2018.
 [Cuáles son las claves para el fracaso de cualquier ERP en Arabia Saudí](http://docsdrive.com/pdfs/medwelljournals/ibm/2018/10-22.pdf)(Fuente: Alejandro Ruiz)
 
 - **ERP SAP BO(Business One):**[Ante un proyecto que podríamos decir adolecía de cierta metodología de Ingeniaría de Software y buenas prácticas en la implantación](https://leyesytecnologia.com/peritaje-de-sap-bo-business-one-razones-de-un-fracaso-de-implantacion/) (Fuente: Raúl Logroño)
+
+- **SAP y Diageo** : [Cómo la mala negociación de términos y condiciones puede acabar en juicio](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854) (Fuente: Pablo Jordán). [Más información](https://softwarenegotiation.com/sap-uk-ltd-v-diageo-great-britain-limited-ramifications-indirect-access-erp-license-agreements/)
 
 ### 2019
 
