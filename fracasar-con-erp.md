@@ -48,6 +48,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 Oracle saca Oracle CPG, un software que prometía integrar paquetes de software complejos de cuatro proveedores diferentes: el software ERP de Oracle, la gestión de activos empresariales de Indus, la gestión de la cadena de suministro de Manugistic y la gestión de pedidos de IMI en un todo sin fisuras. Kellog lo intentó implementar, pero en 3 años, parece que no lo consiguió.
 [Oracle’s CPG Failures Teaches Valuable Lessons About ERP Integration](https://www.cio.com/article/2441154/oracle-s-cpg-failures-teaches-valuable-lessons-about-erp-integration.html) (Fuente: Samuel Ballonga)
 
+- **Oracle y [American Trim](http://www.amtrim.com/)** : [United States Court of Appeals for the Sixth Circuit](https://www.casemine.com/judgement/us/5914b6ebadd7b0493477be57) (Fuente: Jaime Conchello)
+
 ### 1997
 
 - **Baan y [Snap-On](https://www.snapon.com/EN)**:[Top 10 Corporate Information Technology Failures](http://images.techhive.com/downloads/idge/imported/article/ctw/2000/10/30/44nfailchart.pdf) (Fuente: Miguel Bolsa)
@@ -174,6 +176,8 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **SAP y KuDrink**:
 [Rescuing Troubled Software Projects by Team Transformation: A Case Study With an ERP Project](https://ieeexplore.ieee.org/abstract/document/4439890) (Fuente: Sergio García-Campero)
+
+- **Libra y Gobierno del reino Unido** : [Courts Libra system 'is one of the worst IT projects ever seen'](https://www.computerweekly.com/news/2240049341/Courts-Libra-system-is-one-of-the-worst-IT-projects-ever-seen) (Fuente: Jaime Conchello)
 
 ### 2002
 
@@ -453,6 +457,8 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 
 - **SAP y [Woodward](http://www.woodward.com/) (EE.UU.)**: [ERP Software Woes Ding Aerospace Company's Profits](http://www.cio.com/article/2394117/enterprise-software/erp-software-woes-ding-aerospace-company-s-profits.html) (Fuente: Laura Calderón); el artículo no cita a SAP pero una investigación posterior revela que SAP era el ERP involucrado
 
+- **SAP y  [Lufkin Industries](https://lufkin.com/)** : [Court of Appeals of Texas](https://caselaw.findlaw.com/tx-court-of-appeals/1867628.html) (Fuente: Jaime Conchello)
+
 ### 2012
 
 - **Accenture (implementador) y el sistema de pensiones de California**: [California's $500M state pension software system wracked by backlogs](http://www.computerworld.com/article/2503300/cloud-computing/california-s--500m-state-pension-software-system-wracked-by-backlogs.html) (Fuente: Eduardo Criado)
@@ -594,6 +600,8 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 [Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) (Fuente: Félix García)
 [The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz)
 [Case Study 10: LeasePlan Paid $100 Million for a SAP System That Never Went Live](https://www.henricodolfing.com/2020/01/project-failure-case-study-leaseplan-sap.html) (Fuente: Fernando Bercedo)
+
+- **ERP desconocido y Alpha (nombre ficticio)**: [ERP Failure in Developing Countries: A Case Study in India](https://ieeexplore.ieee.org/abstract/document/7443222) (Fuente: Jaime Conchello)
 
 - **Oracle y Condado de Loudoun, Virginia**: Costes adicionales por valor de 2 millones de dólares para completar un proyecto abierto desde hace 5 años, buscando actualizar software de hace 20. [Troubled ERP Upgrades Gets $2M More, Supervisors seek a new vendor to complete third phase](https://loudounnow.com/2016/05/24/troubled-erp-upgrades-gets-2m-more-supervisors-seek-a-new-vendor-to-complete-third-phase/) (Fuente: Eduardo Sánchez)
 
