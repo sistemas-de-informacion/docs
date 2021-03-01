@@ -138,7 +138,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **JD Edwards y Edward Industries (EE.UU.)**: [J.D. Edwards user wins nearly $2M over ERP rollout gone bad](http://www.computerworld.com/article/2573740/enterprise-resource-planning/j-d--edwards-user-wins-nearly--2m-over-erp-rollout-gone-bad.html) (Fuente: Guillermo Azón)
 
-- **Oracle y [Tri-Valley Growers](http://ageconsearch.umn.edu/bitstream/56923/2/SextonTVG.pdf)**: [Cooperative sues Oracle over integration debacle](http://www.computerworld.com/article/2592888/it-management/cooperative-sues-oracle-over-integration-debacle.html) (Fuente: Raul Piracés)
+- **Oracle y [Tri-Valley Growers](http://ageconsearch.umn.edu/bitstream/56923/2/SextonTVG.pdf)**: [Cooperative sues Oracle over integration debacle](http://www.computerworld.com/article/2592888/it-management/cooperative-sues-oracle-over-integration-debacle.html) (Fuente: Raul Piracés) [Tri Valley Growers Sues Software Developer Oracle for Breach of Contract](https://www.foodonline.com/doc/tri-valley-growers-sues-software-developer-or-0001)(Fuente: Alejandro Magallón)
 
 - **Oracle y la Universidad de Cambridge (RU)**:
 [CAPSA and its implementation](https://www.admin.cam.ac.uk/reporter/2001-02/weekly/5861/1.html) (Fuente: Alex Sanz)
@@ -269,7 +269,7 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 
 - **SAP y [PLIVA](http://www.pliva.com/)(caso ficticio)**: [ERP System Implementation: Case Study of a Pharmaceutical Company](https://www.researchgate.net/publication/220066116_ERP_System_Implementation_and_Business_Process_Change_Case_Study_of_a_Pharmaceutical_Company) (Fuente: Miguel Bentué)
 
-- **SAP y [US Navy](http://www.navy.mil/)**:  [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez)
+- **SAP y [US Navy](http://www.navy.mil/)**:  [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez) [What went wrong? U.S. Airforce blows $1 billion on failed enterprise software](https://venturebeat.com/2012/11/15/enterprise-software-nosedive/) (Fuente: Alejandro Magallón)
 
 - **ERP desconocido y Alpha, Beta, Gamma, Delta (desconocidas)**:
 [Critical Failure Factors in ERP Implementation](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1152&context=pacis2005) (Fuente: Irene Fumanal Lacoma)
@@ -618,7 +618,7 @@ Instalación en 2017. Problemas en 2018.
 
 - **ERP desconocido y [Dogi](http://www.dogi.es/)**: [El grupo Dogi de Nextil sufre perdidas en ventas por su nuevo ERP](https://www.modaes.es/empresa/el-dueno-de-dogi-crece-un-167-en-2018-pero-engorda-sus-perdidas-por-la-reestructuracion.html)(Fuente: Alejandro Adell)
 
-- **Oracle y Worth & Company**: [Oracle sued for $4.5m after ERP system delivery date 'moved from 2015 to 2016, then 2017, then... er, never'](https://www.theregister.co.uk/2019/02/21/biz_sues_oracle/) (Fuente: Íñigo Úriz)
+- **Oracle y Worth & Company**: [Oracle sued for $4.5m after ERP system delivery date 'moved from 2015 to 2016, then 2017, then... er, never'](https://www.theregister.co.uk/2019/02/21/biz_sues_oracle/) (Fuente: Íñigo Úriz) [Lessons Learned from the Worth & Company ERP Failure](https://www.panorama-consulting.com/worth-company-erp-failure/) (Fuente: Alejandro Magallón)
 
 - **SAP y [Haribo](https://www.haribo.com/esES/pagina-de-inicio.html)**: [Haribo can't bear SAP S/4HANA implementation](https://searchsap.techtarget.com/feature/Haribo-cant-bear-SAP-S-4HANA-implementation) (Fuente: Carlos Allo), [Lessons from the SAP Transformation Problems at Haribo](https://www.thirdstage-consulting.com/lessons-from-the-sap-transformation-problems-at-haribo/) (Fuente: Carlos Allo)
 
