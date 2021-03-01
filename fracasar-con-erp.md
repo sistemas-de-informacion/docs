@@ -20,9 +20,9 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **[AMR Corp.](http://www.amrcaseinfo.com/)** y la joint venture formpada por **[Budget Rent A Car Corp.](https://www.budget.com/en/home)**, **[Hilton Hotels Corp.](http://www3.hilton.com/en/index.html)** y **[Marriott International Inc.](http://www.marriott.com/default.mi)**: [Companies Don't Learn From Previous IT Snafus](https://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html) (Fuente: Miguel Bolsa)
 
-- **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/)**: En el primer enlaca se encuentra el informe detallado del caso y en el segundo se encuentra un resumen de dicho informe que permite una fácil consulta
-[London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
-[London Ambulance Service Software Failure] (http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/Report_London_Ambulance_Service-Jan2015.pdf) (Fuente: Lorena Mehavilla)
+- **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/)**: En el primer enlace se encuentra el informe detallado del caso y en el segundo se encuentra un resumen de dicho informe que permite una fácil consulta
+[London Ambulance Service Software Failure Case](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
+[London Ambulance Service Software Failure Report](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/Report_London_Ambulance_Service-Jan2015.pdf) (Fuente: Lorena Mehavilla)
 
 ### 1993
 
@@ -111,7 +111,7 @@ El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 
 - **SAP y [Hershey's](http://www.hersheys.com/)**:
 [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.academia.edu/12467188/A_Case_Study_on_Hersheys_ERP_Implementation_Failure_The_Importance_of_Testing_and_Scheduling) (Fuente: Andrés Julián y Miguel López),
-[ERP Implementation Failure In Hershey's] (https://es.slideshare.net/purohit1323/erp-failure-implementation-failure-hershey-foods-corporation) (Fuente: Lorena Mehavilla)
+[ERP Implementation Failure In Hershey's](https://es.slideshare.net/purohit1323/erp-failure-implementation-failure-hershey-foods-corporation) (Fuente: Lorena Mehavilla)
 
 - **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 
@@ -185,9 +185,9 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **ERP desconocido y material supplier (empresa ficticia):** [ERP Adoption in China: Case Two](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
 
-- **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB)**: [The National Australia Bank and Corporate Culture](http://api.ning.com/files/ZkPg*VLW4CwSJNzE-y60auTqsjdkasKuzd8yPdwhLfgUTHDaf9bGaiQgRc*s9G*VMgYEXmR3iFeVEM2KXrEfAxuNp5JZIugg/JonesNABCorporateCulture105.pdf) (Fuente: Edgar Arnal)
+- **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB)**: [The National Australia Bank and Corporate Culture](https://www.academia.edu/24677287/Leadership_Culture_and_Employee_Deceit_the_case_of_the_National_Australia_Bank) (Fuente: Edgar Arnal, actualizado por Samuel Bonito)
 
-- **SAP y XYZ (nombre ficticio):** [A Case Study of ERP Implementation Issues](http://iceb.nccu.edu.tw/proceedings/2002/PDF/f119.pdf) (Fuente: Alejandro Guiu)
+- **SAP y XYZ (nombre ficticio):** [A Case Study of ERP Implementation Issues](https://core.ac.uk/download/pdf/326833174.pdf) (Fuente: Alejandro Guiu, actualizado por Samuel Bonito)
 
 ### 2003
 
@@ -255,7 +255,7 @@ En este paper se hace un pequeño estudio de la implementación de SAP en esta c
 
 ### 2005
 
-- **Ciber y [Pennsylvania Turnpike Commission](https://www.paturnpike.com/)**: [Documents suggest Turnpike wasted millions on computer system](https://archive.triblive.com/news/pennsylvania/documents-suggest-turnpike-wasted-millions-on-computer-system/#axzz3YhvFkQrV), [Wayferry Case Study: Pennsylvania Turnpike Commission's ERP project takes wrong turn](https://www.wayferry.com/blog/pennsylvania-turnpike-commission-s-erp-project-takes-wrong-turn) (Fuente: Miguel Bentué)
+- **Ciber y [Pennsylvania Turnpike Commission](https://www.paturnpike.com/)**: [Documents suggest Turnpike wasted millions on computer system](https://archive.triblive.com/news/pennsylvania/documents-suggest-turnpike-wasted-millions-on-computer-system/#axzz3YhvFkQrV), [Wayferry Case Study: Pennsylvania Turnpike Commission's ERP project takes wrong turn](https://www.cio.com/article/2917204/pennsylvania-turnpike-commission-on-an-enterprise-software-detour.html) (Fuente: Miguel Bentué, actualizado por Samuel Bonito)
 
 - **Project Edison y [estado de Tennessee](https://www.tn.gov/)**: [Tennessee's ERP Project Mess](http://spectrum.ieee.org/riskfactor/computing/it/tennessees-erp-project-mess) (Fuente: David Puente)
 
@@ -272,7 +272,7 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **SAP y [PLIVA](http://www.pliva.com/)(caso ficticio)**: [ERP System Implementation: Case Study of a Pharmaceutical Company](https://www.researchgate.net/publication/220066116_ERP_System_Implementation_and_Business_Process_Change_Case_Study_of_a_Pharmaceutical_Company) (Fuente: Miguel Bentué)
 
 - **SAP y [US Navy](http://www.navy.mil/)**:  [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez)
-Artículo que explica el fracaso del ERP y que incluye al final el informe del GAO[The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla)
+Artículo que explica el fracaso del ERP y que incluye al final el informe del GAO [The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla)
 
 - **ERP desconocido y Alpha, Beta, Gamma, Delta (desconocidas)**:
 [Critical Failure Factors in ERP Implementation](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1152&context=pacis2005) (Fuente: Irene Fumanal Lacoma)
@@ -416,7 +416,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 - **EPICOR y Whaley (Lexingtor)** : [Epicor demandó por presunto fracaso del proyecto ERP](https://www.pcworld.com/article/237939/article.html) (Fuente: Paula Lardiés)
 
-- **Lawson Software y [CareSource Management Group](https://www.caresource.com/)** : [Lawson ERP embroiled in a lawsuit with customers](http://digest.widgetjet.com/Lawson-ERP-embroiled-in-a-lawsuit-with-customers/) (Fuente: Óscar Murillo, actualizado por Jorge Anoro)
+- **Lawson Software y [CareSource Management Group](https://www.caresource.com/)** : [Lawson ERP embroiled in a lawsuit with customers](https://www.computerworld.com/article/2736691/lawson-software--customer-embroiled-in-erp-project-lawsuit.html) (Fuente: Óscar Murillo, actualizado por Samuel Bonito)
 
 - **Oracle y [Ansell](http://www.ansell.com/) (Australia)**: [ERP disaster costs Ansell millions](http://delimiter.com.au/2012/02/09/erp-disaster-costs-ansell-millions/) (Fuente: David Enjuanes)
 
@@ -494,7 +494,7 @@ Mala calidad de datos, problemas de suministros derivados y TPV con problemas ll
 [The Last Days of Target. The untold tale of Target Canada’s difficult birth, tough life and brutal death](http://www.canadianbusiness.com/the-last-days-of-target-canada/) (Fuente: Marta Blanco)
 [Case study target canada failure](https://www.henricodolfing.com/2019/09/case-study-target-canada-failure.html) (Fuente: Jorge Rambla Gonzalez)
 [Target Canada: Mistakes Made from a Software Perspective](https://www.bluelinkerp.com/blog/2016/02/12/target-canada-mistakes-made-from-a-software-perspective/)(Fuente: Víctor Hernández Fernández)
-[Why ERP Projects Fail in Canada - and How to Avoid the Same Fate] (https://www.essoft.com/blogs/post/why-erp-projects-fail-canada) (Fuente: Lorena Mehavilla)
+[Why ERP Projects Fail in Canada - and How to Avoid the Same Fate](https://www.essoft.com/blogs/post/why-erp-projects-fail-canada) (Fuente: Lorena Mehavilla)
 
 ### 2013
 
