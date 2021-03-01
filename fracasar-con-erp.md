@@ -109,7 +109,7 @@ El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 
 - **SAP y [Hershey's](http://www.hersheys.com/)**:
 [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.academia.edu/12467188/A_Case_Study_on_Hersheys_ERP_Implementation_Failure_The_Importance_of_Testing_and_Scheduling) (Fuente: Andrés Julián y Miguel López),
-[ERP Implementation Failure at Hershey Foods Corporation](https://edisciplinas.usp.br/pluginfile.php/4055166/mod_resource/content/1/Estudo%20de%20Caso%201.pdf) (Fuente: Yolanda Sánchez).
+[ERP Implementation Failure at Hershey Foods Corporation](https://kopisusa.com/wp-content/uploads/ERP_Implementation_Failure_Hershey_Foods.pdf) (Fuente: Yolanda Sánchez, actualizado por Samuel Bonito).
 
 - **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 
@@ -183,9 +183,9 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **ERP desconocido y material supplier (empresa ficticia):** [ERP Adoption in China: Case Two](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
 
-- **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB)**: [The National Australia Bank and Corporate Culture](http://api.ning.com/files/ZkPg*VLW4CwSJNzE-y60auTqsjdkasKuzd8yPdwhLfgUTHDaf9bGaiQgRc*s9G*VMgYEXmR3iFeVEM2KXrEfAxuNp5JZIugg/JonesNABCorporateCulture105.pdf) (Fuente: Edgar Arnal)
+- **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB)**: [The National Australia Bank and Corporate Culture](https://www.academia.edu/24677287/Leadership_Culture_and_Employee_Deceit_the_case_of_the_National_Australia_Bank) (Fuente: Edgar Arnal, actualizado por Samuel Bonito)
 
-- **SAP y XYZ (nombre ficticio):** [A Case Study of ERP Implementation Issues](http://iceb.nccu.edu.tw/proceedings/2002/PDF/f119.pdf) (Fuente: Alejandro Guiu)
+- **SAP y XYZ (nombre ficticio):** [A Case Study of ERP Implementation Issues](https://core.ac.uk/download/pdf/326833174.pdf) (Fuente: Alejandro Guiu, actualizado por Samuel Bonito)
 
 ### 2003
 
@@ -413,7 +413,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 - **EPICOR y Whaley (Lexingtor)** : [Epicor demandó por presunto fracaso del proyecto ERP](https://www.pcworld.com/article/237939/article.html) (Fuente: Paula Lardiés)
 
-- **Lawson Software y [CareSource Management Group](https://www.caresource.com/)** : [Lawson ERP embroiled in a lawsuit with customers](http://digest.widgetjet.com/Lawson-ERP-embroiled-in-a-lawsuit-with-customers/) (Fuente: Óscar Murillo, actualizado por Jorge Anoro)
+- **Lawson Software y [CareSource Management Group](https://www.caresource.com/)** : [Lawson ERP embroiled in a lawsuit with customers](https://www.computerworld.com/article/2736691/lawson-software--customer-embroiled-in-erp-project-lawsuit.html) (Fuente: Óscar Murillo, actualizado por Samuel Bonito)
 
 - **Oracle y [Ansell](http://www.ansell.com/) (Australia)**: [ERP disaster costs Ansell millions](http://delimiter.com.au/2012/02/09/erp-disaster-costs-ansell-millions/) (Fuente: David Enjuanes)
 
