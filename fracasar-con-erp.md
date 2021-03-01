@@ -525,7 +525,7 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 
 ### 2014
 
-- **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**: [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.wayferry.com/blog/cubic-corporation-missing-roi) (Fuente: Miguel Bentué)
+- **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**: [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.linkedin.com/pulse/wayferry-case-study-curious-cubic-corporation-missing-chris-doig/) (Fuente: Miguel Bentué, Actualizado por: Eduardo Sánchez)
 
 - **IBM y Co-Op Insurance (UK)** :
 El proyecto debía estar listo para el 2015. Tras 15 meses de retraso acabaron en los tribunales.
@@ -545,6 +545,8 @@ El proyecto debía estar listo para el 2015. Tras 15 meses de retraso acabaron e
 El proyecto comenzó en 2014 con un plazo de despliegue en 1 año.
 El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróficos.
 [For one company, an ERP project failure is now a court battle](https://searcherp.techtarget.com/news/252477642/For-one-company-an-ERP-project-failure-is-now-a-court-battle) (Fuente: Eduardo Gimeno)
+
+- **Steria y Ministerio de Justicia del Reino Unido**: Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocado gastos por valor de 56 millones de libras, tras lo cual el proyecto se ha trasladado a una empresa externa. [Steria, the MoJ and a £56 MILLION Shared Services write-off](https://www.theregister.com/2014/06/27/steria_the_moj_and_a_56m_shared_services_writeoff/) (Fuente: Eduardo Sánchez)
 
 ### 2015
 
@@ -588,6 +590,8 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 [Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) (Fuente: Félix García)
 [The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz)
 [Case Study 10: LeasePlan Paid $100 Million for a SAP System That Never Went Live](https://www.henricodolfing.com/2020/01/project-failure-case-study-leaseplan-sap.html) (Fuente: Fernando Bercedo)
+
+- **Oracle y Condado de Loudoun, Virginia**: Costes adicionales por valor de 2 millones de dólares para completar un proyecto abierto desde hace 5 años, buscando actualizar software de hace 20. [Troubled ERP Upgrades Gets $2M More, Supervisors seek a new vendor to complete third phase](https://loudounnow.com/2016/05/24/troubled-erp-upgrades-gets-2m-more-supervisors-seek-a-new-vendor-to-complete-third-phase/) (Fuente: Eduardo Sánchez)
 
 ### 2017
 
@@ -643,6 +647,10 @@ Reemplazo fallido de SAP R/3 por SAP S/4 tras gastar 135M$.
 - **SAP y BPC Bio Pharma Company (nombre alterado)**:
 Caso de estudio sobre la implementación de SAP en una empresa dedicada a producir vacunas y farmaceúticos. Se explican todas las dificultades y problemas que conllevo este cambio en la compañia y como los "trucos" que los empleados usaban con el antiguo sistema ya no funcionaban.
 [Case Study of SAP Implementation in a Corporation Network Plant](https://www.inderscienceonline.com/doi/abs/10.1504/IJSOM.2020.105270) (Fuente: Samuel Ballonga)
+
+- **SAP y Gobierno Regional de Wellington (Nueva Zelanda)**:
+Remplazo fallido de ERP de la empresa Unit4. Existen [registros](http://www.gwrc.govt.nz/assets/council-reports/Meeting_Documents/7585_Agenda_Finance,%20Risk%20and%20Assurance%20Committee,%2014%20August%202019,%20Order%20Paper%20-%20Incl%20PE%20minutes.pdf) que describen los riesgos de la implementación desde meses atrás.
+[Unit4 out as Wellington Regional Council's SAP replacement falters](https://www.reseller.co.nz/article/686332/former-ibm-hp-global-exec-neil-emerson-named-rackspace-relationship-chief/) (Fuente: Eduardo Sánchez)
 
 ## Década de 2020
 
