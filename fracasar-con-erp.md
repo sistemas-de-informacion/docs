@@ -449,7 +449,7 @@ Tras 1000M$ de inversión, entrar en go-live en 2013, el sistema fue desmantelad
 - **SAP y [Lidl](https://www.lidl.es/es/index.htm)**:
 Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a su viejo sistema.  
 [Lidl cancels SAP introduction having sunk €500 million into it](https://www.consultancy.uk/news/18243/lidl-cancels-sap-introduction-having-sunk-500-million-into-it) (Fuente: Miguel López)
-[Lidl SAP main problems, why it fails?](https://www.thirdstage-consulting.com/lessons-from-an-sap-failure-at-lidl/) (Fuente: Jorge Rambla Gonzalez)
+[Lidl SAP main problems, why it fails?](https://www.thirdstage-consulting.com/lessons-from-an-sap-failure-at-lidl/) (Fuente: Jorge Rambla Gonzalez) [Case Study 12: Lidl’s €500 Million SAP Debacle](https://www.henricodolfing.com/2020/05/case-study-lidl-sap-debacle.html) (Fuente: Javier Morón)
 
 - **SAP y empresa del sector petrolífero (Turkey)**: [Evidence from the Oil and Gas Sector](https://www.uni-obuda.hu/journal/Mishra_Mishra_30.pdf) (Fuente: Javier Plano).
 
@@ -670,6 +670,3 @@ Remplazo fallido de ERP de la empresa Unit4. Existen [registros](http://www.gwrc
 
 - **GamesWorkshop y Microsoft Dynamics**:
 [Tabletop battle-toys purveyor Games Workshop again warns of risks in Microsoft Dynamics 365 ERP project](https://www.theregister.com/2020/01/14/games_workshop_warns_of_risks_in_microsoft_dynamics_365_erp_project/) (Fuente: Adrian Garcia)
-
-- **LIDL y SAP**: 
-[Case Study 12: Lidl’s €500 Million SAP Debacle](https://www.henricodolfing.com/2020/05/case-study-lidl-sap-debacle.html)      (Fuente: Javier Morón)
