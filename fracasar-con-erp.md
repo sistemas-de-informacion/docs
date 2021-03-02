@@ -20,7 +20,9 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 - **[AMR Corp.](http://www.amrcaseinfo.com/)** y la joint venture formpada por **[Budget Rent A Car Corp.](https://www.budget.com/en/home)**, **[Hilton Hotels Corp.](http://www3.hilton.com/en/index.html)** y **[Marriott International Inc.](http://www.marriott.com/default.mi)**: [Companies Don't Learn From Previous IT Snafus](https://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html) (Fuente: Miguel Bolsa)
 
-- **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/)**: [London Ambulance Service Software Failure](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
+- **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/)**: En el primer enlace se encuentra el informe detallado del caso y en el segundo se encuentra un resumen de dicho informe que permite una fácil consulta
+[London Ambulance Service Software Failure Case](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
+[London Ambulance Service Software Failure Report](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/Report_London_Ambulance_Service-Jan2015.pdf) (Fuente: Lorena Mehavilla)
 
 ### 1993
 
@@ -45,6 +47,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 - **Oracle CPG y [Kellog](https://www.kelloggs.es/es_ES/home.html)**:
 Oracle saca Oracle CPG, un software que prometía integrar paquetes de software complejos de cuatro proveedores diferentes: el software ERP de Oracle, la gestión de activos empresariales de Indus, la gestión de la cadena de suministro de Manugistic y la gestión de pedidos de IMI en un todo sin fisuras. Kellog lo intentó implementar, pero en 3 años, parece que no lo consiguió.
 [Oracle’s CPG Failures Teaches Valuable Lessons About ERP Integration](https://www.cio.com/article/2441154/oracle-s-cpg-failures-teaches-valuable-lessons-about-erp-integration.html) (Fuente: Samuel Ballonga)
+
+- **Oracle y [American Trim](http://www.amtrim.com/)** : [United States Court of Appeals for the Sixth Circuit](https://www.casemine.com/judgement/us/5914b6ebadd7b0493477be57) (Fuente: Jaime Conchello)
 
 ### 1997
 
@@ -109,7 +113,7 @@ El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 
 - **SAP y [Hershey's](http://www.hersheys.com/)**:
 [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.academia.edu/12467188/A_Case_Study_on_Hersheys_ERP_Implementation_Failure_The_Importance_of_Testing_and_Scheduling) (Fuente: Andrés Julián y Miguel López),
-[ERP Implementation Failure at Hershey Foods Corporation](https://edisciplinas.usp.br/pluginfile.php/4055166/mod_resource/content/1/Estudo%20de%20Caso%201.pdf) (Fuente: Yolanda Sánchez).
+[ERP Implementation Failure In Hershey's](https://es.slideshare.net/purohit1323/erp-failure-implementation-failure-hershey-foods-corporation) (Fuente: Lorena Mehavilla)
 
 - **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 
@@ -173,6 +177,8 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **SAP y KuDrink**:
 [Rescuing Troubled Software Projects by Team Transformation: A Case Study With an ERP Project](https://ieeexplore.ieee.org/abstract/document/4439890) (Fuente: Sergio García-Campero)
 
+- **Libra y Gobierno del reino Unido** : [Courts Libra system 'is one of the worst IT projects ever seen'](https://www.computerweekly.com/news/2240049341/Courts-Libra-system-is-one-of-the-worst-IT-projects-ever-seen) (Fuente: Jaime Conchello)
+
 ### 2002
 
 - **Adage y Raskas Foods**: [Case Study #1 : Failled implementation at Raskas Foods Inc](http://slideplayer.com/slide/7414624/) (Fuente : Laura Calderón)
@@ -183,7 +189,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **ERP desconocido y material supplier (empresa ficticia):** [ERP Adoption in China: Case Two](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
 
-- **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB)**: [The National Australia Bank and Corporate Culture](https://www.academia.edu/24677287/Leadership_Culture_and_Employee_Deceit_the_case_of_the_National_Australia_Bank) (Fuente: Edgar Arnal, actualizado por Samuel Bonito)
+- **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB)**: [The National Australia Bank and Corporate Culture](https://www.academia.edu/24677287/Leadership_Culture_and_Employee_Deceit_the_case_of_the_National_Australia_Bank) (Fuente: Edgar Arnal, actualizado por Samuel Bonito)
 
 - **SAP y XYZ (nombre ficticio):** [A Case Study of ERP Implementation Issues](https://core.ac.uk/download/pdf/326833174.pdf) (Fuente: Alejandro Guiu, actualizado por Samuel Bonito)
 
@@ -269,7 +275,8 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 
 - **SAP y [PLIVA](http://www.pliva.com/)(caso ficticio)**: [ERP System Implementation: Case Study of a Pharmaceutical Company](https://www.researchgate.net/publication/220066116_ERP_System_Implementation_and_Business_Process_Change_Case_Study_of_a_Pharmaceutical_Company) (Fuente: Miguel Bentué)
 
-- **SAP y [US Navy](http://www.navy.mil/)**:  [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez) [What went wrong? U.S. Airforce blows $1 billion on failed enterprise software](https://venturebeat.com/2012/11/15/enterprise-software-nosedive/) (Fuente: Alejandro Magallón)
+- **SAP y [US Navy](http://www.navy.mil/)**:  [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez)
+Artículo que explica el fracaso del ERP y que incluye al final el informe del GAO [The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla)
 
 - **ERP desconocido y Alpha, Beta, Gamma, Delta (desconocidas)**:
 [Critical Failure Factors in ERP Implementation](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1152&context=pacis2005) (Fuente: Irene Fumanal Lacoma)
@@ -311,6 +318,9 @@ El coste de la implementación fue sustancialmente por debajo del presupuesto, u
 [Bizarre ERP implementation experiment at Arizona State](https://www.zdnet.com/article/bizarre-erp-implementation-experiment-at-arizona-state/)
 [Bizarre Arizona State ERP: Article commenting the Oracles's case study](https://www.zdnet.com/article/updated-bizarre-arizona-state-erp-oracle-releases-case-study/) (Fuente: Paula Iglesias)
 [Oracle customer case study proclaiming the wonders of its implementation at Arizona State University (ASU)](https://es.slideshare.net/TimOrtiz/arizona-state-case-study) (Páginas 4-9) (Fuente: Paula Iglesias)
+
+**SAP y una cadena de joyerías de Colorado:** 
+La cadena había contratado el proyecto por 8-11M$ pero terminó costando cerca de 36M$ y tardó más de 32 meses en instalarse, provocando además varios errores y dificultades operativas tras su instalación. [SAP Project Costs Cited in Jeweler's Bankruptcy Filing](https://www.cio.com/article/2431335/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html)(Fuente: Alejandro Magallón)
 
 ### 2008
 
@@ -413,7 +423,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 - **EPICOR y Whaley (Lexingtor)** : [Epicor demandó por presunto fracaso del proyecto ERP](https://www.pcworld.com/article/237939/article.html) (Fuente: Paula Lardiés)
 
-- **Lawson Software y [CareSource Management Group](https://www.caresource.com/)** : [Lawson ERP embroiled in a lawsuit with customers](https://www.computerworld.com/article/2736691/lawson-software--customer-embroiled-in-erp-project-lawsuit.html) (Fuente: Óscar Murillo, actualizado por Samuel Bonito)
+- **Lawson Software y [CareSource Management Group](https://www.caresource.com/)** : [Lawson ERP embroiled in a lawsuit with customers](https://www.computerworld.com/article/2736691/lawson-software--customer-embroiled-in-erp-project-lawsuit.html) (Fuente: Óscar Murillo, actualizado por Samuel Bonito)
 
 - **Oracle y [Ansell](http://www.ansell.com/) (Australia)**: [ERP disaster costs Ansell millions](http://delimiter.com.au/2012/02/09/erp-disaster-costs-ansell-millions/) (Fuente: David Enjuanes)
 
@@ -449,6 +459,8 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 - **SAP y Victorian Orden of Nurses (Canada)**: [VON struggles to reimburse nurses with pay problems](http://www.cbc.ca/news/canada/von-struggles-to-reimburse-nurses-with-pay-problems-1.1097943) (Fuente: Guillermo Robles) y [SAP-IBM payroll system woes fouled up nurses' pay](http://www.computerworld.com/article/2510412/enterprise-applications/sap-ibm-payroll-system-woes-fouled-up-nurses--pay.html) (Fuente: Nerea Torres)
 
 - **SAP y [Woodward](http://www.woodward.com/) (EE.UU.)**: [ERP Software Woes Ding Aerospace Company's Profits](http://www.cio.com/article/2394117/enterprise-software/erp-software-woes-ding-aerospace-company-s-profits.html) (Fuente: Laura Calderón); el artículo no cita a SAP pero una investigación posterior revela que SAP era el ERP involucrado
+
+- **SAP y  [Lufkin Industries](https://lufkin.com/)** : [Court of Appeals of Texas](https://caselaw.findlaw.com/tx-court-of-appeals/1867628.html) (Fuente: Jaime Conchello)
 
 ### 2012
 
@@ -491,6 +503,7 @@ Mala calidad de datos, problemas de suministros derivados y TPV con problemas ll
 [The Last Days of Target. The untold tale of Target Canada’s difficult birth, tough life and brutal death](http://www.canadianbusiness.com/the-last-days-of-target-canada/) (Fuente: Marta Blanco)
 [Case study target canada failure](https://www.henricodolfing.com/2019/09/case-study-target-canada-failure.html) (Fuente: Jorge Rambla Gonzalez)
 [Target Canada: Mistakes Made from a Software Perspective](https://www.bluelinkerp.com/blog/2016/02/12/target-canada-mistakes-made-from-a-software-perspective/)(Fuente: Víctor Hernández Fernández)
+[Why ERP Projects Fail in Canada - and How to Avoid the Same Fate](https://www.essoft.com/blogs/post/why-erp-projects-fail-canada) (Fuente: Lorena Mehavilla)
 
 ### 2013
 
@@ -525,7 +538,7 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 
 ### 2014
 
-- **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**: [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.wayferry.com/blog/cubic-corporation-missing-roi) (Fuente: Miguel Bentué)
+- **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**: [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.linkedin.com/pulse/wayferry-case-study-curious-cubic-corporation-missing-chris-doig/) (Fuente: Miguel Bentué, Actualizado por: Eduardo Sánchez)
 
 - **IBM y Co-Op Insurance (UK)** :
 El proyecto debía estar listo para el 2015. Tras 15 meses de retraso acabaron en los tribunales.
@@ -545,6 +558,8 @@ El proyecto debía estar listo para el 2015. Tras 15 meses de retraso acabaron e
 El proyecto comenzó en 2014 con un plazo de despliegue en 1 año.
 El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróficos.
 [For one company, an ERP project failure is now a court battle](https://searcherp.techtarget.com/news/252477642/For-one-company-an-ERP-project-failure-is-now-a-court-battle) (Fuente: Eduardo Gimeno)
+
+- **Steria y Ministerio de Justicia del Reino Unido**: Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocado gastos por valor de 56 millones de libras, tras lo cual el proyecto se ha trasladado a una empresa externa. [Steria, the MoJ and a £56 MILLION Shared Services write-off](https://www.theregister.com/2014/06/27/steria_the_moj_and_a_56m_shared_services_writeoff/) (Fuente: Eduardo Sánchez)
 
 ### 2015
 
@@ -589,6 +604,10 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 [The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz)
 [Case Study 10: LeasePlan Paid $100 Million for a SAP System That Never Went Live](https://www.henricodolfing.com/2020/01/project-failure-case-study-leaseplan-sap.html) (Fuente: Fernando Bercedo)
 
+- **ERP desconocido y Alpha (nombre ficticio)**: [ERP Failure in Developing Countries: A Case Study in India](https://ieeexplore.ieee.org/abstract/document/7443222) (Fuente: Jaime Conchello)
+
+- **Oracle y Condado de Loudoun, Virginia**: Costes adicionales por valor de 2 millones de dólares para completar un proyecto abierto desde hace 5 años, buscando actualizar software de hace 20. [Troubled ERP Upgrades Gets $2M More, Supervisors seek a new vendor to complete third phase](https://loudounnow.com/2016/05/24/troubled-erp-upgrades-gets-2m-more-supervisors-seek-a-new-vendor-to-complete-third-phase/) (Fuente: Eduardo Sánchez)
+
 ### 2017
 
 - **ERP desconocido y Oriola (Finlandia)**: [An ERP system failure has crippled a major Finnish pharmaceutical](https://nordic.businessinsider.com/an-erp-system-failure-has-crippled-a-major-finnish-pharmaceutical-2017-9), [Oriola Corporation’s third quarter result impacted by distribution disruptions in Finland](http://www.oriola.com/publications/stock-exchange-releases/2017/oriola-corporations-third-quarter-result-impacted-by-distribution-disruptions-in-finlan/) (Fuente: Marta Blanco)
@@ -627,6 +646,12 @@ Instalación en 2017. Problemas en 2018.
 
 - **ERP SAP BO(Business One):**[Ante un proyecto que podríamos decir adolecía de cierta metodología de Ingeniaría de Software y buenas prácticas en la implantación](https://leyesytecnologia.com/peritaje-de-sap-bo-business-one-razones-de-un-fracaso-de-implantacion/) (Fuente: Raúl Logroño)
 
+**ERP no especificado y una compañía de venta de productos metálicos:** 
+La compañía habría establecido en el contrato que el programa instalado debería poder rastrear las piezas de metal a través de los canales de distribución pero nunca llegaron a contar con dicha funcionalidad [Take a Wrong Turn with ERP and Wind up in Court](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854)(Fuente: Alejandro Magallón)
+
+**ERP no especificado y compañía de venta de productos electrónicos:** 
+La compañía habló con el distribuidor de ERP para gestionar las ventas de todo un día y el vendedor aseguró que se podían gestionar sin problema. El problema se dió porque el vendedor entendió las ventas a lo largo de las 24 horas del día cuando todas las transacciones se producían, normalmente, en un plazo de 4 horas. Esto llevó a la empresa a perder muchas ventas. [Take a Wrong Turn with ERP and Wind up in Court](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854)(Fuente: Alejandro Magallón)
+
 ### 2019
 
 - **SAP y [LeasePlan](https://www.leaseplan.com/es-es/)**:
@@ -643,6 +668,10 @@ Reemplazo fallido de SAP R/3 por SAP S/4 tras gastar 135M$.
 - **SAP y BPC Bio Pharma Company (nombre alterado)**:
 Caso de estudio sobre la implementación de SAP en una empresa dedicada a producir vacunas y farmaceúticos. Se explican todas las dificultades y problemas que conllevo este cambio en la compañia y como los "trucos" que los empleados usaban con el antiguo sistema ya no funcionaban.
 [Case Study of SAP Implementation in a Corporation Network Plant](https://www.inderscienceonline.com/doi/abs/10.1504/IJSOM.2020.105270) (Fuente: Samuel Ballonga)
+
+- **SAP y Gobierno Regional de Wellington (Nueva Zelanda)**:
+Remplazo fallido de ERP de la empresa Unit4. Existen [registros](http://www.gwrc.govt.nz/assets/council-reports/Meeting_Documents/7585_Agenda_Finance,%20Risk%20and%20Assurance%20Committee,%2014%20August%202019,%20Order%20Paper%20-%20Incl%20PE%20minutes.pdf) que describen los riesgos de la implementación desde meses atrás.
+[Unit4 out as Wellington Regional Council's SAP replacement falters](https://www.reseller.co.nz/article/686332/former-ibm-hp-global-exec-neil-emerson-named-rackspace-relationship-chief/) (Fuente: Eduardo Sánchez)
 
 ## Década de 2020
 
