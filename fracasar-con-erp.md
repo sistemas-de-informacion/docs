@@ -483,7 +483,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 Un año de desarrollo, 35M$ y un año después del go-live (2014) se siguen haciendo los procesos en papel.
 [Case Study: $250 Million Failure, Who Are You Going To Sue?](https://ecaminc.com/index.php/blog/item/353-case-study-cover-oregon-oregon-state-and-oracle) (Fuente: David Alloza)
 
-- **SAP (instalado por IBM) y [Bridgestone](http://www.bridgestone.com/)**: [PR finger pointing: IBM and Bridgestone wrangle over failed ERP](http://www.zdnet.com/article/pr-finger-pointing-ibm-and-bridgestone-wrangle-over-failed-erp/) (Fuente : Diego Sánchez)
+- **SAP (instalado por IBM) y [Bridgestone](http://www.bridgestone.com/)**: [PR finger pointing: IBM and Bridgestone wrangle over failed ERP](http://www.zdnet.com/article/pr-finger-pointing-ibm-and-bridgestone-wrangle-over-failed-erp/) (Fuente : Diego Sánchez) [Bridgestone Sues IBM for Fraud in $600 Million Lawsuit over Failed IT Implementation](https://spectrum.ieee.org/riskfactor/computing/it/bridgestone-sues-ibm-for-fraud-in-600-million-lawsuit-over-failed-it-implementation) (Fuente : Javier Morón)
 
 - **SAP y National Grid (EE.UU)**:
 [Cost of troubled SAP project will skyrocket to nearly $1 billion, audit says](http://www.computerworld.com/article/2691661/enterprise-software/cost-of-troubled-sap-project-will-skyrocket-to-nearly-1-billion-audit-says.html) (Fuente : Manuel Herrero)
