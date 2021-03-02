@@ -670,3 +670,7 @@ Remplazo fallido de ERP de la empresa Unit4. Existen [registros](http://www.gwrc
 
 - **GamesWorkshop y Microsoft Dynamics**:
 [Tabletop battle-toys purveyor Games Workshop again warns of risks in Microsoft Dynamics 365 ERP project](https://www.theregister.com/2020/01/14/games_workshop_warns_of_risks_in_microsoft_dynamics_365_erp_project/) (Fuente: Adrian Garcia)
+
+- **LIDL y SAP**: 
+[Case Study 12: Lidl’s €500 Million SAP Debacle]
+(https://www.henricodolfing.com/2020/05/case-study-lidl-sap-debacle.html) (Fuente: Javier Morón)
