@@ -650,7 +650,7 @@ Caso de estudio sobre la implementación de SAP en una empresa dedicada a produc
 
 - **SAP y Gobierno Regional de Wellington (Nueva Zelanda)**:
 Remplazo fallido de ERP de la empresa Unit4. Existen [registros](http://www.gwrc.govt.nz/assets/council-reports/Meeting_Documents/7585_Agenda_Finance,%20Risk%20and%20Assurance%20Committee,%2014%20August%202019,%20Order%20Paper%20-%20Incl%20PE%20minutes.pdf) que describen los riesgos de la implementación desde meses atrás.
-[Unit4 out as Wellington Regional Council's SAP replacement falters](https://www.reseller.co.nz/article/686332/former-ibm-hp-global-exec-neil-emerson-named-rackspace-relationship-chief/) (Fuente: Eduardo Sánchez)
+[Unit4 out as Wellington Regional Council's SAP replacement falters](https://www.reseller.co.nz/article/667430/unit4-wellington-regional-council-sap-replacement-falters/) (Fuente: Eduardo Sánchez)
 
 ## Década de 2020
 
