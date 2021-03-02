@@ -113,7 +113,7 @@ El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 
 - **SAP y [Hershey's](http://www.hersheys.com/)**:
 [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.academia.edu/12467188/A_Case_Study_on_Hersheys_ERP_Implementation_Failure_The_Importance_of_Testing_and_Scheduling) (Fuente: Andrés Julián y Miguel López),
-[ERP Implementation Failure In Hershey's](https://es.slideshare.net/purohit1323/erp-failure-implementation-failure-hershey-foods-corporation) (Fuente: Lorena Mehavilla), [https://www.slideshare.net/ChitrangadaRoy1/case-study-on-erp-successcadbury-and-failurehersheys](https://www.slideshare.net/ChitrangadaRoy1/case-study-on-erp-successcadbury-and-failurehersheys) (Fuente: Javier Morón)
+[ERP Implementation Failure In Hershey's](https://es.slideshare.net/purohit1323/erp-failure-implementation-failure-hershey-foods-corporation) (Fuente: Lorena Mehavilla), [Case study on ERP success(Cadbury) and failure (Hershey's)](https://www.slideshare.net/ChitrangadaRoy1/case-study-on-erp-successcadbury-and-failurehersheys) (Fuente: Javier Morón)
 
 - **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 
