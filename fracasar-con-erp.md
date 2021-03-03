@@ -142,7 +142,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **JD Edwards y Edward Industries (EE.UU.)**: [J.D. Edwards user wins nearly $2M over ERP rollout gone bad](http://www.computerworld.com/article/2573740/enterprise-resource-planning/j-d--edwards-user-wins-nearly--2m-over-erp-rollout-gone-bad.html) (Fuente: Guillermo Azón)
 
-- **Oracle y [Tri-Valley Growers](http://ageconsearch.umn.edu/bitstream/56923/2/SextonTVG.pdf)**: [Cooperative sues Oracle over integration debacle](http://www.computerworld.com/article/2592888/it-management/cooperative-sues-oracle-over-integration-debacle.html) (Fuente: Raul Piracés)
+- **Oracle y [Tri-Valley Growers](http://ageconsearch.umn.edu/bitstream/56923/2/SextonTVG.pdf)**: [Cooperative sues Oracle over integration debacle](http://www.computerworld.com/article/2592888/it-management/cooperative-sues-oracle-over-integration-debacle.html) (Fuente: Raul Piracés) [Tri Valley Growers Sues Software Developer Oracle for Breach of Contract](https://www.foodonline.com/doc/tri-valley-growers-sues-software-developer-or-0001)(Fuente: Alejandro Magallón)
 
 - **Oracle y la Universidad de Cambridge (RU)**:
 [CAPSA and its implementation](https://www.admin.cam.ac.uk/reporter/2001-02/weekly/5861/1.html) (Fuente: Alex Sanz)
@@ -320,6 +320,9 @@ El coste de la implementación fue sustancialmente por debajo del presupuesto, u
 [Bizarre ERP implementation experiment at Arizona State](https://www.zdnet.com/article/bizarre-erp-implementation-experiment-at-arizona-state/)
 [Bizarre Arizona State ERP: Article commenting the Oracles's case study](https://www.zdnet.com/article/updated-bizarre-arizona-state-erp-oracle-releases-case-study/) (Fuente: Paula Iglesias)
 [Oracle customer case study proclaiming the wonders of its implementation at Arizona State University (ASU)](https://es.slideshare.net/TimOrtiz/arizona-state-case-study) (Páginas 4-9) (Fuente: Paula Iglesias)
+
+**SAP y una cadena de joyerías de Colorado:** 
+La cadena había contratado el proyecto por 8-11M$ pero terminó costando cerca de 36M$ y tardó más de 32 meses en instalarse, provocando además varios errores y dificultades operativas tras su instalación. [SAP Project Costs Cited in Jeweler's Bankruptcy Filing](https://www.cio.com/article/2431335/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html)(Fuente: Alejandro Magallón)
 
 ### 2008
 
@@ -638,7 +641,7 @@ Instalación en 2017. Problemas en 2018.
 
 - **ERP desconocido y [Dogi](http://www.dogi.es/)**: [El grupo Dogi de Nextil sufre perdidas en ventas por su nuevo ERP](https://www.modaes.es/empresa/el-dueno-de-dogi-crece-un-167-en-2018-pero-engorda-sus-perdidas-por-la-reestructuracion.html)(Fuente: Alejandro Adell)
 
-- **Oracle y Worth & Company**: [Oracle sued for $4.5m after ERP system delivery date 'moved from 2015 to 2016, then 2017, then... er, never'](https://www.theregister.co.uk/2019/02/21/biz_sues_oracle/) (Fuente: Íñigo Úriz)
+- **Oracle y Worth & Company**: [Oracle sued for $4.5m after ERP system delivery date 'moved from 2015 to 2016, then 2017, then... er, never'](https://www.theregister.co.uk/2019/02/21/biz_sues_oracle/) (Fuente: Íñigo Úriz) [Lessons Learned from the Worth & Company ERP Failure](https://www.panorama-consulting.com/worth-company-erp-failure/) (Fuente: Alejandro Magallón)
 
 - **SAP y [Haribo](https://www.haribo.com/esES/pagina-de-inicio.html)**: [Haribo can't bear SAP S/4HANA implementation](https://searchsap.techtarget.com/feature/Haribo-cant-bear-SAP-S-4HANA-implementation) (Fuente: Carlos Allo), [Lessons from the SAP Transformation Problems at Haribo](https://www.thirdstage-consulting.com/lessons-from-the-sap-transformation-problems-at-haribo/) (Fuente: Carlos Allo)
 
@@ -646,6 +649,12 @@ Instalación en 2017. Problemas en 2018.
 [Cuáles son las claves para el fracaso de cualquier ERP en Arabia Saudí](http://docsdrive.com/pdfs/medwelljournals/ibm/2018/10-22.pdf)(Fuente: Alejandro Ruiz)
 
 - **ERP SAP BO(Business One):**[Ante un proyecto que podríamos decir adolecía de cierta metodología de Ingeniaría de Software y buenas prácticas en la implantación](https://leyesytecnologia.com/peritaje-de-sap-bo-business-one-razones-de-un-fracaso-de-implantacion/) (Fuente: Raúl Logroño)
+
+**ERP no especificado y una compañía de venta de productos metálicos:** 
+La compañía habría establecido en el contrato que el programa instalado debería poder rastrear las piezas de metal a través de los canales de distribución pero nunca llegaron a contar con dicha funcionalidad [Take a Wrong Turn with ERP and Wind up in Court](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854)(Fuente: Alejandro Magallón)
+
+**ERP no especificado y compañía de venta de productos electrónicos:** 
+La compañía habló con el distribuidor de ERP para gestionar las ventas de todo un día y el vendedor aseguró que se podían gestionar sin problema. El problema se dió porque el vendedor entendió las ventas a lo largo de las 24 horas del día cuando todas las transacciones se producían, normalmente, en un plazo de 4 horas. Esto llevó a la empresa a perder muchas ventas. [Take a Wrong Turn with ERP and Wind up in Court](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854)(Fuente: Alejandro Magallón)
 
 ### 2019
 
