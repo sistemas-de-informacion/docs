@@ -52,7 +52,7 @@ Oracle saca Oracle CPG, un software que prometía integrar paquetes de software 
 
 ### 1997
 
-- **Baan y [Snap-On](https://www.snapon.com/EN)**:[Top 10 Corporate Information Technology Failures](http://images.techhive.com/downloads/idge/imported/article/ctw/2000/10/30/44nfailchart.pdf) (Fuente: Miguel Bolsa)
+- **Baan y [Snap-On](https://www.snapon.com/EN)**:[Top 10 Corporate Information Technology Failures](http://images.techhive.com/downloads/idge/imported/article/ctw/2000/10/30/44nfailchart.pdf) (Fuente: Miguel Bolsa) [Snap-on tools conversion Research Paper](https://ivypanda.com/essays/snap-on-tools-conversion/) (Fuente: Jesús Villacampa)
 
 - **PeopleSoft y Cleveland State University:** [University hits PeopleSoft with $510M lawsuit](https://www.computerworld.com/article/2564202/technology-law-regulation/university-hits-peoplesoft-with--510m-lawsuit.html) (Fuente: Manuel Herrero, Actualizado por: David Sáez)
 
@@ -90,6 +90,8 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **SAP y Water Corporation (nombre ficticio)**: [Issues in implementing ERP: A case study](https://www.researchgate.net/publication/222653996_Issues_in_implementing_ERP_A_case_study) (Fuente: Javier Tello, corregido por Fernando Alegre)
 
+- **GlobalLease y [Signal International](http://signalinternational.com.co/)**:[Signal International Case Study] (https://es.scribd.com/document/48224826/Signal-International-Case-Study) (Fuente: Jesús Villacampa)
+
 ### 1999
 
 - **Baan y Poolrite (Australia)**: [Manufacturer mends failed ERP project](http://www.computerworld.com.au/article/149421/manufacturer_mends_failed_erp_project/2) (Fuente: Álvaro Gómez Muñoz)
@@ -117,7 +119,7 @@ El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 
 - **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 
-- **SAP y Whirpool**: [SAP: Whirlpool's rush to go live led to shipping snafus](http://www.computerworld.com.au/article/101068/sap_whirlpool_rush_led_shipping_snafus/) (Fuente: Alejandro Guiu)
+- **SAP y Whirpool**: [SAP: Whirlpool's rush to go live led to shipping snafus](http://www.computerworld.com.au/article/101068/sap_whirlpool_rush_led_shipping_snafus/) (Fuente: Alejandro Guiu) [ Whirlpool Corporation Giving ERP a Spin](https://es.slideshare.net/ChristinaCecil/casestudy-2-60931954) (Fuente: Jesús Villacampa)
 
 - **SAP y Allied Waste Industries Inc. (EE.UU)**: [Trash Haulers Dump SAP Software; Firms Seek Cheaper, Easier Choices](https://www.wsj.com/articles/SB928875842177974323) (Fuente: Héctor Martínez Moreno)
 
