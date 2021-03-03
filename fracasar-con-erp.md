@@ -664,6 +664,9 @@ Caso de estudio sobre la implementación de SAP en una empresa dedicada a produc
 Remplazo fallido de ERP de la empresa Unit4. Existen [registros](http://www.gwrc.govt.nz/assets/council-reports/Meeting_Documents/7585_Agenda_Finance,%20Risk%20and%20Assurance%20Committee,%2014%20August%202019,%20Order%20Paper%20-%20Incl%20PE%20minutes.pdf) que describen los riesgos de la implementación desde meses atrás.
 [Unit4 out as Wellington Regional Council's SAP replacement falters](https://www.reseller.co.nz/article/686332/former-ibm-hp-global-exec-neil-emerson-named-rackspace-relationship-chief/) (Fuente: Eduardo Sánchez)
 
+- **SAP y Alliance Group (Nueva Zelanda)**:
+Cambio de ERP a Microsoft 365 en la empresa agrícola Alliance Group después de haber gastado 57M$ en SAP.  [Lexel rebuilds Alliance Group's workplace as $57M ERP upgrade proceeds](https://www.reseller.co.nz/article/683525/lexel-systems-takes-alliance-group-co-op-cloud-modern-workplace/) (Fuente: Fernando Navarro)
+
 ## Década de 2020
 
 ### 2020
