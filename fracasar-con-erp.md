@@ -1,4 +1,4 @@
-# ERP: Lista de fracasos
+#   ERP: Listas de fracasos
 
 Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "inventa" el término ERP en abril de 1990](http://www.sciencedirect.com/science/article/pii/S0272696306001355)). El objetivo de la lista es sólo para que sirva de consulta para alumnos. La fecha asignada a cada caso corresponde normalmente con el año de la instalación del sistema.
 
@@ -280,6 +280,8 @@ Artículo que explica el fracaso del ERP y que incluye al final el informe del G
 
 - **ERP desconocido y Alpha, Beta, Gamma, Delta (desconocidas)**:
 [Critical Failure Factors in ERP Implementation](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1152&context=pacis2005) (Fuente: Irene Fumanal Lacoma)
+
+- **ERP desconocido y empresas reales pero anónimas** : [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
 ### 2006
 
@@ -629,6 +631,8 @@ Instalación en 2017. Problemas en 2018.
 
 - **Oracle y [BBSI](https://mybbsi.com/)**: [How BBSI Blew Millions on an Oracle Cloud Solution
 ](https://www.henricodolfing.com/2020/03/project-failure-case-study-bbsi-oracle.html) (Fuente: Sergio García Esteban)
+
+- **SAP y Diageo** : [Cómo la mala negociación de términos y condiciones puede acabar en juicio](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854) (Fuente: Pablo Jordán). [Más información](https://softwarenegotiation.com/sap-uk-ltd-v-diageo-great-britain-limited-ramifications-indirect-access-erp-license-agreements/)
 
 ### 2018
 
