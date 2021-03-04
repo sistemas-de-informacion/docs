@@ -540,6 +540,8 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 
 - **SAP y [BMW](https://www.bmw.es/es/index.html)**: [BMW Owners Vent Anger at Months-Long Wait for Spare Parts relating to a SAP Warehouse implementation in which IBM was also involved.](https://www.bloomberg.com/news/articles/2013-08-27/bmw-owners-vent-anger-at-months-long-wait-for-spare-parts) (Fuente: Samuel Ballonga)
 
+- **ERP ficticio y ERP Partnership Formation Regulations** : [The Impact of ERP Partnership Formation Regulations on the Failure of ERP Implementations] (https://www.sciencedirect.com/science/article/pii/S0268401207000886?casa_token=9Umi_u_Yl2AAAAAA:Lrt25ZjpoSb4PbRFhs5nMrCSZYsYTZCUv_rVqZRmG_CtEr1_yFa372VJ9EU-Yf26GvELVFx5O9k) (Fuente: Marta Lampaya)
+
 ### 2014
 
 - **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**: [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.linkedin.com/pulse/wayferry-case-study-curious-cubic-corporation-missing-chris-doig/) (Fuente: Miguel Bentué, Actualizado por: Eduardo Sánchez)
