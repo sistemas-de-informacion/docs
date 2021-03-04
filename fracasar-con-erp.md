@@ -285,6 +285,8 @@ Artículo que explica el fracaso del ERP y que incluye al final el informe del G
 
 - **ERP desconocido y empresas reales pero anónimas** : [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
+- **SAP y el Condado de Marín**: [Implementación ERP SAP de USD 30 Millones](https://www.evaluandoerp.com/cronica-de-un-fracaso-implementacion-erp-sap-de-usd-30-millones/) (Fuente: Elena Romero de Tejada García)
+
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**: [Department of Homeland Security – Emerge2 Project – USA](http://calleam.com/WTPF/?p=1865) y [EMERGE2's failure sends DHS back to drawing board](https://fcw.com/articles/2006/03/30/emerge2s-failure-sends-dhs-back-to-drawing-board.aspx?admgarea=TC_Management) (Fuente: Daniel Cabrera)
@@ -363,6 +365,8 @@ La cadena había contratado el proyecto por 8-11M$ pero terminó costando cerca 
 - **ERP desconocido y empresa noruega**:
 Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 [ERP Implementation in an SME: A Failure Case](https://www.researchgate.net/publication/300162456_ERP_Implementation_in_an_SME_A_Failure_Case) (Fuente: Alberto Calvo)
+
+- **SAP y Waste Management** : [Fraude en un fracasado proyecto de ERP para Waste Management] (https://cioperu.pe/articulo/5798/el-erp-salio-mal-lecciones-de-fracasos/?p=2)  (Fuente: Elena Romero de Tejada García)
 
 ### 2009
 
@@ -581,6 +585,9 @@ Tras tener problemas en 2008 con SAP, Select Confort vuelve a tener problemas en
 La sustitución de un ERP desarrollado internamente durante 30 años por SAP causa más problemas de los esperados.
 [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
 [Woolworths looks to fix IT basics off the back of AU$1.2b loss](https://www.zdnet.com/article/woolworths-looks-to-fix-it-basics-off-the-back-of-au1-2b-loss/) (Fuente: Paula Ejarque)
+
+- **SAP y DLH**:
+  La compañía DLH pierde 345 millones euros en los primeros meses tras la implementación de SAP. [SAP niega ser culpable de los problemas de DLH](https://www.muycomputerpro.com/2015/12/01/sap-dhl), [DHL writes off $A518m on SAP Upgrade] (https://sclaa.com.au/dhl-writes-off-a518m-on-sap-upgrade/) (Fuente: Elena Romero de Tejada García)
 
 ### 2016
 
