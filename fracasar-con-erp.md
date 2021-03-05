@@ -122,6 +122,7 @@ El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 - **SAP y Whirpool**: [SAP: Whirlpool's rush to go live led to shipping snafus](http://www.computerworld.com.au/article/101068/sap_whirlpool_rush_led_shipping_snafus/) (Fuente: Alejandro Guiu) [ Whirlpool Corporation Giving ERP a Spin](https://es.slideshare.net/ChristinaCecil/casestudy-2-60931954) (Fuente: Jesús Villacampa)
 
 - **SAP y Allied Waste Industries Inc. (EE.UU)**: [Trash Haulers Dump SAP Software; Firms Seek Cheaper, Easier Choices](https://www.wsj.com/articles/SB928875842177974323) (Fuente: Héctor Martínez Moreno)
+- **SAP, Siebel, Manugistics y [Hershey foods] (https://www.thehersheycompany.com/en_us/home.html)**:[ ERPlmplementationFailureat HersheyFoodsCorporation] (https://kopisusa.com/wp-content/uploads/ERP_Implementation_Failure_Hershey_Foods.pdf) (Fuente: Diego García)
 
 ## Década de 2000
 
@@ -262,6 +263,7 @@ En este paper se hace un pequeño estudio de la implementación de SAP en esta c
 [A Case Study of a Process Enhancement IT-Project In a Maintenance, Repair and Overhaul Company](http://www.ccsenet.org/journal/index.php/ijbm/article/view/1476) (Fuente: Samuel Ballonga)
 
 - **ERP desconocido y Multi-national Electronics Components Manufacturing Company** : [Examining the ERP Implementation Process from a Failure Case](http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
+- **SAP y [HP] (https://www8.hp.com/es/es/home.html)** : [ERP Implementation failure at HP] (https://docplayer.net/9784751-Erp-implementation-failure-at-hp-presented-by-dinesh-shrishrimal.html) (Fuente: Diego García)
 
 ### 2005
 
@@ -288,6 +290,9 @@ Artículo que explica el fracaso del ERP y que incluye al final el informe del G
 [Critical Failure Factors in ERP Implementation](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1152&context=pacis2005) (Fuente: Irene Fumanal Lacoma)
 
 - **ERP desconocido y empresas reales pero anónimas** : [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
+- **ERP desconocido y empresas chinas** : [ERP implementation failures in China: Case studies with implications for ERP vendors] (https://www.researchgate.net/publication/223320477_ERP_implementation_failures_in_China_Case_studies_with_implications_for_ERP_vendors) (Fuente: Diego García)
+- **ERP desconocido y empresas pyme de Latinoamérica** :[El fracaso en la implementación de un ERP en Latinoamérica (Algunas de mis reflexiones )] (https://es.linkedin.com/pulse/el-fracaso-en-la-implementación-de-un-erp-algunas-mis-manuel-d%C3%ADaz) (Fuente: Diego García)
+
 
 ### 2006
 
