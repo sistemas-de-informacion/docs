@@ -388,7 +388,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 65% extra en costes y casi dos años de retraso.
 [Shared services in the Research Councils](https://www.nao.org.uk/wp-content/uploads/2011/10/n10121459.pdf) (Fuente: Javier Ortega)
 
-- **Avenade y [ScanSource]:** (https://www.scansource.com/en) [ScanSource Sues Avanade For Alleged Botched ERP Project] 50 M de euros y 3 años de implementación por un ERP que nunca se puso en funcionamiento (https://www.crn.com/news/channel-programs/240145447/scansource-sues-avanade-for-alleged-botched-erp-project.htm) (Fuente: Sofia Subias)
+- **Avenade y [ScanSource](https://www.scansource.com/en)**: 50 M de euros y 3 años de implementación por un ERP que nunca se puso en funcionamiento. [ScanSource Sues Avanade For Alleged Botched ERP Project](https://www.crn.com/news/channel-programs/240145447/scansource-sues-avanade-for-alleged-botched-erp-project.htm) (Fuente: Sofia Subias)
 
 ## Década de 2010
 
