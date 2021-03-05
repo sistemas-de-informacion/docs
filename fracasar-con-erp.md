@@ -261,8 +261,7 @@ Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
 En este paper se hace un pequeño estudio de la implementación de SAP en esta compañía. Se explica que la implementación fue “exitosa” porque su calificación de rendimiento es 5.23 (página 4) lo que revela que no todo el potencial del proyecto fue aprovechado. Se explican los problemas que hubo, como, por ejemplo, las poca confianza y los requisitos poco claros del departamento de ingeniería.
 [A Case Study of a Process Enhancement IT-Project In a Maintenance, Repair and Overhaul Company](http://www.ccsenet.org/journal/index.php/ijbm/article/view/1476) (Fuente: Samuel Ballonga)
 
-- **ERP desconocido y Multi-national Electronics Components Manufacturing Company** : [Examining the ERP Implementation Process from a Failure Case] (
-http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
+- **ERP desconocido y Multi-national Electronics Components Manufacturing Company** : [Examining the ERP Implementation Process from a Failure Case](http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
 
 ### 2005
 
@@ -388,6 +387,8 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 - **Fujitsu y [UK Council of Research](https://www.ukri.org/)**:
 65% extra en costes y casi dos años de retraso.
 [Shared services in the Research Councils](https://www.nao.org.uk/wp-content/uploads/2011/10/n10121459.pdf) (Fuente: Javier Ortega)
+
+- **Avenade y [ScanSource](https://www.scansource.com/en)**: 50 M de euros y 3 años de implementación por un ERP que nunca se puso en funcionamiento. [ScanSource Sues Avanade For Alleged Botched ERP Project](https://www.crn.com/news/channel-programs/240145447/scansource-sues-avanade-for-alleged-botched-erp-project.htm) (Fuente: Sofia Subias)
 
 ## Década de 2010
 
