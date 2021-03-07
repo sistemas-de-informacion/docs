@@ -114,8 +114,8 @@ El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 - **SAP y Dow Corning Corporation**  [Business Processes and Information Technology](http://dspace.mit.edu/bitstream/handle/1721.1/2652/SWP-3951-37733560-CISR-298.pdf), que explica por qué abandonan una inversión de 500 M$ en SAP R/2, [Transforming the Organization](http://dspace.mit.edu/bitstream/handle/1721.1/2750/SWP-4073-43797558-CISR-305.pdf) (Fuente: Marta Frías), caso que describe la migración de SAP R/2 a SAP R/3.
 
 - **SAP y [Hershey's](http://www.hersheys.com/)**:
-[A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.academia.edu/12467188/A_Case_Study_on_Hersheys_ERP_Implementation_Failure_The_Importance_of_Testing_and_Scheduling) (Fuente: Andrés Julián y Miguel López),
-[ERP Implementation Failure In Hershey's](https://es.slideshare.net/purohit1323/erp-failure-implementation-failure-hershey-foods-corporation) (Fuente: Lorena Mehavilla)
+[A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.academia.edu/12467188/A_Case_Study_on_Hersheys_ERP_Implementation_Failure_The_Importance_of_Testing_and_Scheduling) (Fuente: Andrés Julián y Miguel López), explica el fracaso del proyecto Enterprise21 iniciado a finales de 1996 debido al intento de implementar SAP en Hershey's en 2 años y medio frente a los 4 años que se recomendaban. 
+[ERP Implementation Failure In Hershey's](https://es.slideshare.net/purohit1323/erp-failure-implementation-failure-hershey-foods-corporation) (Fuente: Lorena Mehavilla), [Case study on ERP success (Cadbury) and failure (Hershey's)](https://www.slideshare.net/ChitrangadaRoy1/case-study-on-erp-successcadbury-and-failurehersheys) Comparativa del éxito de Cadbury frente al fracaso de Hershey's, ambas empresas de chocolate usando SAP como su ERP. (Fuente: Javier Morón)
 
 - **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 
@@ -417,7 +417,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 [NYC mayor demands $600M refund on software project](http://www.networkworld.com/article/2178831/applications/nyc-mayor-demands--600m-refund-on-software-project.html) (Fuente: Alejandro Bean)
 [New York City Department of Investigation CityTime Investigation: Lessons Learned & Recommendations to Improve New York City’s Management of Large Information Technology Contracts](https://www1.nyc.gov/assets/doi/reports/pdf/2014/2014-07-25-Pr13citytime.pdf)(Fuente: Juan José Tambo Tambo)
 
-- **Unisys y el estado de [Idaho](http://www.idaho.gov/)**: [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) (Fuente: Óscar Murillo)
+- **Unisys y el estado de [Idaho](http://www.idaho.gov/)**: [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) El fracaso de un proyecto iniciado en 2007, donde la falta de planificación y testing le cuesta millones al estado de Idaho. (Fuente: Óscar Murillo) [Auditors: ERP Software Woes Could Cost Idaho Millions](https://www.cio.com/article/2409660/auditors--erp-software-woes-could-cost-idaho-millions.html) (Fuente: Javier Morón)
 
 ### 2011
 
@@ -462,7 +462,7 @@ Tras 1000M$ de inversión, entrar en go-live en 2013, el sistema fue desmantelad
 - **SAP y [Lidl](https://www.lidl.es/es/index.htm)**:
 Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a su viejo sistema.  
 [Lidl cancels SAP introduction having sunk €500 million into it](https://www.consultancy.uk/news/18243/lidl-cancels-sap-introduction-having-sunk-500-million-into-it) (Fuente: Miguel López)
-[Lidl SAP main problems, why it fails?](https://www.thirdstage-consulting.com/lessons-from-an-sap-failure-at-lidl/) (Fuente: Jorge Rambla Gonzalez)
+[Lidl SAP main problems, why it fails?](https://www.thirdstage-consulting.com/lessons-from-an-sap-failure-at-lidl/) (Fuente: Jorge Rambla Gonzalez) [Case Study 12: Lidl’s €500 Million SAP Debacle](https://www.henricodolfing.com/2020/05/case-study-lidl-sap-debacle.html) En 2011, SAP ofrece una alternativa al antiguo sistema de Lidl "Wawi". En 2015 las tiendas y centros de Irlanda y Estados Unidos tenían ya implementada la nueva solución. En 2016 el proyecto eLWIS tiene ya integrados 30 sistemas de la antigua infraestructura. En 2018 Lidl toma la decisión de volver a su antiguo sistema y mejorarlo de cara al futuro con lo aprendido en la experiencia del proyecto de SAP. (Fuente: Javier Morón)
 
 - **SAP y empresa del sector petrolífero (Turkey)**: [Evidence from the Oil and Gas Sector](https://www.uni-obuda.hu/journal/Mishra_Mishra_30.pdf) (Fuente: Javier Plano).
 
@@ -496,7 +496,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 Un año de desarrollo, 35M$ y un año después del go-live (2014) se siguen haciendo los procesos en papel.
 [Case Study: $250 Million Failure, Who Are You Going To Sue?](https://ecaminc.com/index.php/blog/item/353-case-study-cover-oregon-oregon-state-and-oracle) (Fuente: David Alloza)
 
-- **SAP (instalado por IBM) y [Bridgestone](http://www.bridgestone.com/)**: [PR finger pointing: IBM and Bridgestone wrangle over failed ERP](http://www.zdnet.com/article/pr-finger-pointing-ibm-and-bridgestone-wrangle-over-failed-erp/) (Fuente : Diego Sánchez)
+- **SAP (instalado por IBM) y [Bridgestone](http://www.bridgestone.com/)**: [PR finger pointing: IBM and Bridgestone wrangle over failed ERP](http://www.zdnet.com/article/pr-finger-pointing-ibm-and-bridgestone-wrangle-over-failed-erp/) Tiempo después de que un proyecto de SAP saliese en enero de 2012, la empresa Bridgestone realiza una demanda judicial a IBM por valor de 600 millones de dolares americanos. (Fuente : Diego Sánchez) [Bridgestone Sues IBM for Fraud in $600 Million Lawsuit over Failed IT Implementation](https://spectrum.ieee.org/riskfactor/computing/it/bridgestone-sues-ibm-for-fraud-in-600-million-lawsuit-over-failed-it-implementation) (Fuente : Javier Morón)
 
 - **SAP y National Grid (EE.UU)**:
 [Cost of troubled SAP project will skyrocket to nearly $1 billion, audit says](http://www.computerworld.com/article/2691661/enterprise-software/cost-of-troubled-sap-project-will-skyrocket-to-nearly-1-billion-audit-says.html) (Fuente : Manuel Herrero)
@@ -669,8 +669,8 @@ La compañía habló con el distribuidor de ERP para gestionar las ventas de tod
 ### 2019
 
 - **SAP y [LeasePlan](https://www.leaseplan.com/es-es/)**:
-[Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) (Fuente: Félix García)
-[The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz)
+[Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) Un proyecto comenzado en 2017 por la empresa LeasePlan intenta consolidar en un proyecto de SAP a 35 sistemas en uno solo. Esto se transforma en una pérdida irreversible de 100 millones de euros y en la busqueda de una alternativa de IT para la empresa. (Fuente: Félix García)
+[The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz) [Case Study 10: LeasePlan Paid $100 Million for a SAP System That Never Went Live](https://www.henricodolfing.com/2020/01/project-failure-case-study-leaseplan-sap.html) (Fuente: Javier Morón)
 
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf)) (Fuente: Carlos Allo)
 
