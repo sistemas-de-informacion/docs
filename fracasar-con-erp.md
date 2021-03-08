@@ -66,7 +66,7 @@ Una implementación con exitos y fracasos que se completó en 2003.
 ### 1998
 
 - **Baan y AML (Egipto)**: [ERP Customization Failure: Institutionalized Accounting Practices,
-Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (Fuente: Alejandro Solanas)
+Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (Fuente: Alejandro Solanas) [Informe completo sobre el fallo en AML](https://www.researchgate.net/publication/49400157_ERP_Customization_Failure_Institutionalized_Accounting_Practices_Power_Relations_and_Market_Forces) (Fuente: José Félix Yagüe)
 
 - **ERP desconocido y Applied Materials** : [ERP LECTURE 1 LEARNINGS](https://es.scribd.com/presentation/149512631/ERP-Ppt-Lecture1) , [Handbook of Research on Enterprise Systems](https://books.google.es/books?id=4rZf-Jt93ioC&pg=PT116&lpg=PT116&dq=Applied+Materials++%E2%80%93+overwhelmed+by+the+organizationalchanges+involved&source=bl&ots=2sFDRnA-tJ&sig=ACfU3U0KmC-105qPc1AHyiU6oePHj9VH_w&hl=es&sa=X&ved=2ahUKEwjvjLCWvoLhAhUk-YUKHUZPB3kQ6AEwAXoECAIQAQ#v=onepage&q=Applied%20Materials%20%20%E2%80%93%20overwhelmed%20by%20the%20organizationalchanges%20involved&f=false)(Fuente: Israel Solanas)
 
@@ -419,6 +419,9 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 - **Unisys y el estado de [Idaho](http://www.idaho.gov/)**: [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) El fracaso de un proyecto iniciado en 2007, donde la falta de planificación y testing le cuesta millones al estado de Idaho. (Fuente: Óscar Murillo) [Auditors: ERP Software Woes Could Cost Idaho Millions](https://www.cio.com/article/2409660/auditors--erp-software-woes-could-cost-idaho-millions.html) (Fuente: Javier Morón)
 
+- **ERP y Empresas de Retail en India**
+[Informe que habla sobre los principales factores de fallo en la instalación de ERPs en India](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8B9A6A3D24D98344EDA5B1371EA48948?doi=10.1.1.463.4223&rep=rep1&type=pdf) (Fuente: José Félix Yagüe) 
+
 ### 2011
 
 - **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
@@ -665,6 +668,12 @@ La compañía habría establecido en el contrato que el programa instalado deber
 
 **ERP no especificado y compañía de venta de productos electrónicos:** 
 La compañía habló con el distribuidor de ERP para gestionar las ventas de todo un día y el vendedor aseguró que se podían gestionar sin problema. El problema se dió porque el vendedor entendió las ventas a lo largo de las 24 horas del día cuando todas las transacciones se producían, normalmente, en un plazo de 4 horas. Esto llevó a la empresa a perder muchas ventas. [Take a Wrong Turn with ERP and Wind up in Court](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854)(Fuente: Alejandro Magallón)
+
+- **Varios ERPs y PYMEs en Malasia**
+[Informe hablando sobre los fallos que se producen en las PYMEs de Malasia al integrar ERPs](http://docsdrive.com/pdfs/medwelljournals/ajit/2018/153-159.pdf) (Fuente: José Félix Yagüe)
+
+- **ERP y  PG&E**
+[Articulo sobre los fallos de PG&E al digitalizar su sistema](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) (Fuente: José Félix Yagüe)
 
 ### 2019
 
