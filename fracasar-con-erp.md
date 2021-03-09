@@ -92,6 +92,8 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **GlobalLease y [Signal International](http://signalinternational.com.co/)**:[Signal International Case Study] (https://es.scribd.com/document/48224826/Signal-International-Case-Study) (Fuente: Jesús Villacampa)
 
+- **SAP AG y la Marina de Estados Unidos**: La Marina de los Estados Unidos invirtió mil millones de dólares en cuatro proyectos piloto de ERP diferentes desde 1998, y los cuatro han fracasado. [Las cuatro instalaciones, que se basaron en el software SAP AG. resultó ser incompatible y redundante, y finalmente no cumplió con los requisitos de la Marina.] (https://www.360cloudsolutions.com/resources/top-six-erp-implementation-failures/) (Fuente: Marta Morales)
+
 ### 1999
 
 - **Baan y Poolrite (Australia)**: [Manufacturer mends failed ERP project](http://www.computerworld.com.au/article/149421/manufacturer_mends_failed_erp_project/2) (Fuente: Álvaro Gómez Muñoz)
