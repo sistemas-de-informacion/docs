@@ -92,6 +92,8 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **GlobalLease y [Signal International](http://signalinternational.com.co/)**:[Signal International Case Study] (https://es.scribd.com/document/48224826/Signal-International-Case-Study) (Fuente: Jesús Villacampa)
 
+- **SAP y la [US Navy](http://www.navy.mil/)**: La Marina de los Estados Unidos invirtió mil millones de dólares en cuatro proyectos piloto de ERP diferentes desde 1998, y los cuatro han fracasado: [Las cuatro instalaciones, que se basaron en el software SAP AG. resultó ser incompatible y redundante, y finalmente no cumplió con los requisitos de la Marina.](https://www.360cloudsolutions.com/resources/top-six-erp-implementation-failures/) (Fuente: Marta Morales), [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez) y [The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla)
+
 ### 1999
 
 - **Baan y Poolrite (Australia)**: [Manufacturer mends failed ERP project](http://www.computerworld.com.au/article/149421/manufacturer_mends_failed_erp_project/2) (Fuente: Álvaro Gómez Muñoz)
@@ -280,9 +282,6 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **SAP y Health Service Executive (HSE, Irlanda)**: [Irish agency halts work on two SAP application projects](http://www.computerworld.com/article/2558350/app-development/irish-agency-halts-work-on-two-sap-application-projects.html) (Fuente: Marta Frías)
 
 - **SAP y [PLIVA](http://www.pliva.com/)(caso ficticio)**: [ERP System Implementation: Case Study of a Pharmaceutical Company](https://www.researchgate.net/publication/220066116_ERP_System_Implementation_and_Business_Process_Change_Case_Study_of_a_Pharmaceutical_Company) (Fuente: Miguel Bentué)
-
-- **SAP y [US Navy](http://www.navy.mil/)**:  [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez)
-Artículo que explica el fracaso del ERP y que incluye al final el informe del GAO [The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla)
 
 - **ERP desconocido y Alpha, Beta, Gamma, Delta (desconocidas)**:
 [Critical Failure Factors in ERP Implementation](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1152&context=pacis2005) (Fuente: Irene Fumanal Lacoma)
