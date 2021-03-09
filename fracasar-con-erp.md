@@ -66,7 +66,7 @@ Una implementación con exitos y fracasos que se completó en 2003.
 ### 1998
 
 - **Baan y AML (Egipto)**: [ERP Customization Failure: Institutionalized Accounting Practices,
-Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (Fuente: Alejandro Solanas)
+Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (Fuente: Alejandro Solanas) [Informe completo sobre el fallo en AML](https://www.researchgate.net/publication/49400157_ERP_Customization_Failure_Institutionalized_Accounting_Practices_Power_Relations_and_Market_Forces) (Fuente: José Félix Yagüe)
 
 - **ERP desconocido y Applied Materials** : [ERP LECTURE 1 LEARNINGS](https://es.scribd.com/presentation/149512631/ERP-Ppt-Lecture1) , [Handbook of Research on Enterprise Systems](https://books.google.es/books?id=4rZf-Jt93ioC&pg=PT116&lpg=PT116&dq=Applied+Materials++%E2%80%93+overwhelmed+by+the+organizationalchanges+involved&source=bl&ots=2sFDRnA-tJ&sig=ACfU3U0KmC-105qPc1AHyiU6oePHj9VH_w&hl=es&sa=X&ved=2ahUKEwjvjLCWvoLhAhUk-YUKHUZPB3kQ6AEwAXoECAIQAQ#v=onepage&q=Applied%20Materials%20%20%E2%80%93%20overwhelmed%20by%20the%20organizationalchanges%20involved&f=false)(Fuente: Israel Solanas)
 
@@ -91,6 +91,8 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 - **SAP y Water Corporation (nombre ficticio)**: [Issues in implementing ERP: A case study](https://www.researchgate.net/publication/222653996_Issues_in_implementing_ERP_A_case_study) (Fuente: Javier Tello, corregido por Fernando Alegre)
 
 - **GlobalLease y [Signal International](http://signalinternational.com.co/)**:[Signal International Case Study] (https://es.scribd.com/document/48224826/Signal-International-Case-Study) (Fuente: Jesús Villacampa)
+
+- **SAP y la [US Navy](http://www.navy.mil/)**: La Marina de los Estados Unidos invirtió mil millones de dólares en cuatro proyectos piloto de ERP diferentes desde 1998, y los cuatro han fracasado: [Las cuatro instalaciones, que se basaron en el software SAP AG. resultó ser incompatible y redundante, y finalmente no cumplió con los requisitos de la Marina.](https://www.360cloudsolutions.com/resources/top-six-erp-implementation-failures/) (Fuente: Marta Morales), [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez) y [The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla)
 
 ### 1999
 
@@ -282,9 +284,6 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 
 - **SAP y [PLIVA](http://www.pliva.com/)(caso ficticio)**: [ERP System Implementation: Case Study of a Pharmaceutical Company](https://www.researchgate.net/publication/220066116_ERP_System_Implementation_and_Business_Process_Change_Case_Study_of_a_Pharmaceutical_Company) (Fuente: Miguel Bentué)
 
-- **SAP y [US Navy](http://www.navy.mil/)**:  [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez)
-Artículo que explica el fracaso del ERP y que incluye al final el informe del GAO [The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla)
-
 - **ERP desconocido y Alpha, Beta, Gamma, Delta (desconocidas)**:
 [Critical Failure Factors in ERP Implementation](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1152&context=pacis2005) (Fuente: Irene Fumanal Lacoma)
 
@@ -369,6 +368,8 @@ La cadena había contratado el proyecto por 8-11M$ pero terminó costando cerca 
 Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 [ERP Implementation in an SME: A Failure Case](https://www.researchgate.net/publication/300162456_ERP_Implementation_in_an_SME_A_Failure_Case) (Fuente: Alberto Calvo)
 
+- **ERP en general y SME en Malasia** [ERP Implementation Critical Failure Factors for Malaysia SME] (http://docsdrive.com/pdfs/medwelljournals/ajit/2018/153-159.pdf) (Fuente: Elena Romero de Tejada)
+
 ### 2009
 
 - **Epicor y Ferrazzoli (EE.UU.)**: [Ferazzoli Imports of New England Inc v. Epicor Software Corp](https://dockets.justia.com/docket/connecticut/ctdce/3:2009cv00668/85226/) (Fuente: Álvaro Juen)
@@ -418,7 +419,10 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 [NYC mayor demands $600M refund on software project](http://www.networkworld.com/article/2178831/applications/nyc-mayor-demands--600m-refund-on-software-project.html) (Fuente: Alejandro Bean)
 [New York City Department of Investigation CityTime Investigation: Lessons Learned & Recommendations to Improve New York City’s Management of Large Information Technology Contracts](https://www1.nyc.gov/assets/doi/reports/pdf/2014/2014-07-25-Pr13citytime.pdf)(Fuente: Juan José Tambo Tambo)
 
-- **Unisys y el estado de [Idaho](http://www.idaho.gov/)**: [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) (Fuente: Óscar Murillo)
+- **Unisys y el estado de [Idaho](http://www.idaho.gov/)**: [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) El fracaso de un proyecto iniciado en 2007, donde la falta de planificación y testing le cuesta millones al estado de Idaho. (Fuente: Óscar Murillo) [Auditors: ERP Software Woes Could Cost Idaho Millions](https://www.cio.com/article/2409660/auditors--erp-software-woes-could-cost-idaho-millions.html) (Fuente: Javier Morón)
+
+- **ERP y Empresas de Retail en India**
+[Informe que habla sobre los principales factores de fallo en la instalación de ERPs en India](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8B9A6A3D24D98344EDA5B1371EA48948?doi=10.1.1.463.4223&rep=rep1&type=pdf) (Fuente: José Félix Yagüe) 
 
 ### 2011
 
@@ -463,7 +467,7 @@ Tras 1000M$ de inversión, entrar en go-live en 2013, el sistema fue desmantelad
 - **SAP y [Lidl](https://www.lidl.es/es/index.htm)**:
 Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a su viejo sistema.  
 [Lidl cancels SAP introduction having sunk €500 million into it](https://www.consultancy.uk/news/18243/lidl-cancels-sap-introduction-having-sunk-500-million-into-it) (Fuente: Miguel López)
-[Lidl SAP main problems, why it fails?](https://www.thirdstage-consulting.com/lessons-from-an-sap-failure-at-lidl/) (Fuente: Jorge Rambla Gonzalez)
+[Lidl SAP main problems, why it fails?](https://www.thirdstage-consulting.com/lessons-from-an-sap-failure-at-lidl/) (Fuente: Jorge Rambla Gonzalez) [Case Study 12: Lidl’s €500 Million SAP Debacle](https://www.henricodolfing.com/2020/05/case-study-lidl-sap-debacle.html) En 2011, SAP ofrece una alternativa al antiguo sistema de Lidl "Wawi". En 2015 las tiendas y centros de Irlanda y Estados Unidos tenían ya implementada la nueva solución. En 2016 el proyecto eLWIS tiene ya integrados 30 sistemas de la antigua infraestructura. En 2018 Lidl toma la decisión de volver a su antiguo sistema y mejorarlo de cara al futuro con lo aprendido en la experiencia del proyecto de SAP. (Fuente: Javier Morón)
 
 - **SAP y empresa del sector petrolífero (Turkey)**: [Evidence from the Oil and Gas Sector](https://www.uni-obuda.hu/journal/Mishra_Mishra_30.pdf) (Fuente: Javier Plano).
 
@@ -487,7 +491,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 
 - **Microsoft Dynamics AX system y [Avanade](https://www.avanade.com/es-es)**: [Avanade sued over alleged ERP project failure](https://www.computerworld.com/article/2494380/data-center/avanade-sued-over-alleged-erp-project-failure.html) (Fuente: David Sáez)
 
-- **Oracle y [US Air Force](http://www.airforce.com/)**: [Billion dollar Oracle ERP project shot down by US Air Force](http://www.computing.co.uk/ctg/news/2225312/billion-dollar-oracle-erp-project-scrapped-by-us-air-force) (Fuente: Christian Simón) [Billion-Dollar Flop: Air Force Stumbles on Software Plan](http://www.nytimes.com/2012/12/09/technology/air-force-stumbles-over-software-modernization-project.html?pagewanted=all) (Fuente: Guilermo Sesé) [The U.S. Air Force Explains its $1 Billion ECSS Bonfire](http://spectrum.ieee.org/riskfactor/aerospace/military/the-us-air-force-explains-its-billion-ecss-bonfire) (Fuente: Pablo Piedrafita)
+- **Oracle y [US Air Force](http://www.airforce.com/)**:  El sistema ECSS fue un error de desarrollo que terminó después de gastar US $ 1.030 millones durante siete años y producir un sistema sin "*ninguna capacidad militar significativa*". [El proyecto comenzó en 2004 con intención de integrar unos 240 sistemas obsoletos de la Fuerza Aérea con un único sistema integrado de planificación de recursos empresariales (ERP) destinado a modernizar la cadena de suministro global del servicio.](https://spectrum.ieee.org/riskfactor/aerospace/military/the-us-air-force-explains-its-billion-ecss-bonfire) (Fuente: Marta Morales y Pablo Piedrafita) [Billion dollar Oracle ERP project shot down by US Air Force](http://www.computing.co.uk/ctg/news/2225312/billion-dollar-oracle-erp-project-scrapped-by-us-air-force) (Fuente: Christian Simón) [Billion-Dollar Flop: Air Force Stumbles on Software Plan](http://www.nytimes.com/2012/12/09/technology/air-force-stumbles-over-software-modernization-project.html?pagewanted=all) (Fuente: Guilermo Sesé)
 
 - **Oracle JD Edwards ERP y New Enterprise Stone & Lime Co**: [Oracle ERP Project Woes Force Construction Firm to Delay Financial Filing](http://www.cio.com/article/2395555/enterprise-resource-planning/oracle-erp-project-woes-force-construction-firm-to-delay-financial-fili.html) (Fuente : Manuel Herrero)
 
@@ -497,7 +501,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 Un año de desarrollo, 35M$ y un año después del go-live (2014) se siguen haciendo los procesos en papel.
 [Case Study: $250 Million Failure, Who Are You Going To Sue?](https://ecaminc.com/index.php/blog/item/353-case-study-cover-oregon-oregon-state-and-oracle) (Fuente: David Alloza)
 
-- **SAP (instalado por IBM) y [Bridgestone](http://www.bridgestone.com/)**: [PR finger pointing: IBM and Bridgestone wrangle over failed ERP](http://www.zdnet.com/article/pr-finger-pointing-ibm-and-bridgestone-wrangle-over-failed-erp/) (Fuente : Diego Sánchez)
+- **SAP (instalado por IBM) y [Bridgestone](http://www.bridgestone.com/)**: [PR finger pointing: IBM and Bridgestone wrangle over failed ERP](http://www.zdnet.com/article/pr-finger-pointing-ibm-and-bridgestone-wrangle-over-failed-erp/) Tiempo después de que un proyecto de SAP saliese en enero de 2012, la empresa Bridgestone realiza una demanda judicial a IBM por valor de 600 millones de dolares americanos. (Fuente : Diego Sánchez) [Bridgestone Sues IBM for Fraud in $600 Million Lawsuit over Failed IT Implementation](https://spectrum.ieee.org/riskfactor/computing/it/bridgestone-sues-ibm-for-fraud-in-600-million-lawsuit-over-failed-it-implementation) (Fuente : Javier Morón)
 
 - **SAP y National Grid (EE.UU)**:
 [Cost of troubled SAP project will skyrocket to nearly $1 billion, audit says](http://www.computerworld.com/article/2691661/enterprise-software/cost-of-troubled-sap-project-will-skyrocket-to-nearly-1-billion-audit-says.html) (Fuente : Manuel Herrero)
@@ -648,6 +652,8 @@ Instalación en 2017. Problemas en 2018.
 
 - **SAP y Diageo** : [Cómo la mala negociación de términos y condiciones puede acabar en juicio](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854) (Fuente: Pablo Jordán). [Más información](https://softwarenegotiation.com/sap-uk-ltd-v-diageo-great-britain-limited-ramifications-indirect-access-erp-license-agreements/)
 
+- **Accenture y Police Scottish Police Authority’s (SPA)**: [Sistema de gestión de información policial Policía de Escocia](https://calleam.com/WTPF/?p=9150) (Fuente: Elena Romero de Tejada)
+
 ### 2018
 
 - **ERP desconocido y [Dogi](http://www.dogi.es/)**: [El grupo Dogi de Nextil sufre perdidas en ventas por su nuevo ERP](https://www.modaes.es/empresa/el-dueno-de-dogi-crece-un-167-en-2018-pero-engorda-sus-perdidas-por-la-reestructuracion.html)(Fuente: Alejandro Adell)
@@ -667,11 +673,20 @@ La compañía habría establecido en el contrato que el programa instalado deber
 **ERP no especificado y compañía de venta de productos electrónicos:** 
 La compañía habló con el distribuidor de ERP para gestionar las ventas de todo un día y el vendedor aseguró que se podían gestionar sin problema. El problema se dió porque el vendedor entendió las ventas a lo largo de las 24 horas del día cuando todas las transacciones se producían, normalmente, en un plazo de 4 horas. Esto llevó a la empresa a perder muchas ventas. [Take a Wrong Turn with ERP and Wind up in Court](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854)(Fuente: Alejandro Magallón)
 
+- **Varios ERPs y PYMEs en Malasia**
+[Informe hablando sobre los fallos que se producen en las PYMEs de Malasia al integrar ERPs](http://docsdrive.com/pdfs/medwelljournals/ajit/2018/153-159.pdf) (Fuente: José Félix Yagüe)
+
+- **ERP y  PG&E**
+[Articulo sobre los fallos de PG&E al digitalizar su sistema](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) (Fuente: José Félix Yagüe)
+
+- **SAP y Lidl**:
+Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada. [Esto desencadenó una cadena de problemas de implementación] (https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Marta Morales)
+
 ### 2019
 
 - **SAP y [LeasePlan](https://www.leaseplan.com/es-es/)**:
-[Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) (Fuente: Félix García)
-[The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz)
+[Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) Un proyecto comenzado en 2017 por la empresa LeasePlan intenta consolidar en un proyecto de SAP a 35 sistemas en uno solo. Esto se transforma en una pérdida irreversible de 100 millones de euros y en la busqueda de una alternativa de IT para la empresa. (Fuente: Félix García)
+[The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz) [Case Study 10: LeasePlan Paid $100 Million for a SAP System That Never Went Live](https://www.henricodolfing.com/2020/01/project-failure-case-study-leaseplan-sap.html) (Fuente: Javier Morón)
 
 - **Oracle PeopleSoft y [Crawford & Company](https://www.crawco.com/)**: [US company sues Cognizant for breach of contract](https://timesofindia.indiatimes.com/business/india-business/us-co-sues-cognizant-for-breach-of-contract/articleshow/67985141.cms) ([Demanda Legal](https://media.bizj.us/view/img/11216159/crawford.pdf)) (Fuente: Carlos Allo)
 
@@ -690,6 +705,9 @@ Remplazo fallido de ERP de la empresa Unit4. Existen [registros](http://www.gwrc
 
 - **SAP y Alliance Group (Nueva Zelanda)**:
 Cambio de ERP a Microsoft 365 en la empresa agrícola Alliance Group después de haber gastado 57M$ en SAP.  [Lexel rebuilds Alliance Group's workplace as $57M ERP upgrade proceeds](https://www.reseller.co.nz/article/683525/lexel-systems-takes-alliance-group-co-op-cloud-modern-workplace/) (Fuente: Fernando Navarro)
+
+- **ERP desconocido y Adidas**:
+Adidas eligió un software de gestión de almacenes que no era compatible con el de sus proveedores, lo que supuso pérdidas de unos 40 millones de dólares. [Adidas Warehouse Meltdown: desastre de WMS](https://clearspider.net/blog/wms-disaster-adidas-warehouse-meltdown/) (Fuente: Marta Morales)
 
 ## Década de 2020
 
