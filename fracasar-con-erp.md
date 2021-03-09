@@ -518,6 +518,8 @@ Mala calidad de datos, problemas de suministros derivados y TPV con problemas ll
 [Target Canada: Mistakes Made from a Software Perspective](https://www.bluelinkerp.com/blog/2016/02/12/target-canada-mistakes-made-from-a-software-perspective/)(Fuente: Víctor Hernández Fernández)
 [Why ERP Projects Fail in Canada - and How to Avoid the Same Fate](https://www.essoft.com/blogs/post/why-erp-projects-fail-canada) (Fuente: Lorena Mehavilla)
 
+- **ERP desconocido y la Fuerza Aérea de Estados Unidos**: El sistema ECSS fue un error de desarrollo que terminó después de gastar US $ 1.030 millones durante siete años y producir un sistema sin " ninguna capacidad militar significativa". [El proyecto comenzó en 2004 con intención de integrar unos 240 sistemas obsoletos de la Fuerza Aérea con un único sistema integrado de planificación de recursos empresariales (ERP) destinado a modernizar la cadena de suministro global del servicio.] (https://spectrum.ieee.org/riskfactor/aerospace/military/the-us-air-force-explains-its-billion-ecss-bonfire) (Fuente: Marta Morales)
+
 ### 2013
 
 - **Microsoft Dynamics y [ScanSource](http://www.scansource.com/en)** : [Another Year, Another ERP Lawsuit: Accenture/Microsoft Joint-Venture Sued for Bait-and-Switch Tactics](http://spectrum.ieee.org/riskfactor/computing/it/another-year-another-erp-lawsuit-accenturemicrosoft-jointventure-sued-for-baitandswitch-tactics) (Fuente: Julián Liaño)
