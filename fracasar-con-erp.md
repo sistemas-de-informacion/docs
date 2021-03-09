@@ -647,7 +647,8 @@ Instalación en 2017. Problemas en 2018.
 ](https://www.henricodolfing.com/2020/03/project-failure-case-study-bbsi-oracle.html) (Fuente: Sergio García Esteban)
 
 - **SAP y Diageo** : [Cómo la mala negociación de términos y condiciones puede acabar en juicio](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854) (Fuente: Pablo Jordán). [Más información](https://softwarenegotiation.com/sap-uk-ltd-v-diageo-great-britain-limited-ramifications-indirect-access-erp-license-agreements/)
-- [Sistema de gestión de información policial Policía de Escocia](https://calleam.com/WTPF/?p=9150) (Fuente: Elena Romero de Tejada)
+
+- **Accenture y Police Scottish Police Authority’s (SPA)**: [Sistema de gestión de información policial Policía de Escocia](https://calleam.com/WTPF/?p=9150) (Fuente: Elena Romero de Tejada)
 
 ### 2018
 
