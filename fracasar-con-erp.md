@@ -368,7 +368,8 @@ La cadena había contratado el proyecto por 8-11M$ pero terminó costando cerca 
 Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 [ERP Implementation in an SME: A Failure Case](https://www.researchgate.net/publication/300162456_ERP_Implementation_in_an_SME_A_Failure_Case) (Fuente: Alberto Calvo)
 
-- **Malasya SME** [ERP Implementation Critical Failure Factors for Malasya SME] (http://docsdrive.com/pdfs/medwelljournals/ajit/2018/153-159.pdf) (Fuente: Elena Romero de Tejada)
+- **ERP en general y SME en Malasia** [ERP Implementation Critical Failure Factors for Malaysia SME] (http://docsdrive.com/pdfs/medwelljournals/ajit/2018/153-159.pdf) (Fuente: Elena Romero de Tejada)
+
 ### 2009
 
 - **Epicor y Ferrazzoli (EE.UU.)**: [Ferazzoli Imports of New England Inc v. Epicor Software Corp](https://dockets.justia.com/docket/connecticut/ctdce/3:2009cv00668/85226/) (Fuente: Álvaro Juen)
