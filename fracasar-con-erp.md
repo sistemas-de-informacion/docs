@@ -290,9 +290,6 @@ Artículo que explica el fracaso del ERP y que incluye al final el informe del G
 
 - **ERP desconocido y empresas reales pero anónimas** : [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
-- **ERP desconocido y empresas pyme de Latinoamérica** :[El fracaso en la implementación de un ERP en Latinoamérica (Algunas de mis reflexiones )] (https://es.linkedin.com/pulse/el-fracaso-en-la-implementación-de-un-erp-algunas-mis-manuel-d%C3%ADaz) (Fuente: Diego García)
-
-
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**: [Department of Homeland Security – Emerge2 Project – USA](http://calleam.com/WTPF/?p=1865) y [EMERGE2's failure sends DHS back to drawing board](https://fcw.com/articles/2006/03/30/emerge2s-failure-sends-dhs-back-to-drawing-board.aspx?admgarea=TC_Management) (Fuente: Daniel Cabrera)
