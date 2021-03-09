@@ -263,7 +263,6 @@ En este paper se hace un pequeño estudio de la implementación de SAP en esta c
 [A Case Study of a Process Enhancement IT-Project In a Maintenance, Repair and Overhaul Company](http://www.ccsenet.org/journal/index.php/ijbm/article/view/1476) (Fuente: Samuel Ballonga)
 
 - **ERP desconocido y Multi-national Electronics Components Manufacturing Company** : [Examining the ERP Implementation Process from a Failure Case](http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
-- **SAP y [HP] (https://www8.hp.com/es/es/home.html)** : [ERP Implementation failure at HP] (https://docplayer.net/9784751-Erp-implementation-failure-at-hp-presented-by-dinesh-shrishrimal.html) (Fuente: Diego García)
 
 ### 2005
 
