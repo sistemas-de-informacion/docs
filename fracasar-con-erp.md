@@ -367,6 +367,8 @@ La cadena había contratado el proyecto por 8-11M$ pero terminó costando cerca 
 Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 [ERP Implementation in an SME: A Failure Case](https://www.researchgate.net/publication/300162456_ERP_Implementation_in_an_SME_A_Failure_Case) (Fuente: Alberto Calvo)
 
+- **ERP en general y SME en Malasia** [ERP Implementation Critical Failure Factors for Malaysia SME] (http://docsdrive.com/pdfs/medwelljournals/ajit/2018/153-159.pdf) (Fuente: Elena Romero de Tejada)
+
 ### 2009
 
 - **Epicor y Ferrazzoli (EE.UU.)**: [Ferazzoli Imports of New England Inc v. Epicor Software Corp](https://dockets.justia.com/docket/connecticut/ctdce/3:2009cv00668/85226/) (Fuente: Álvaro Juen)
@@ -648,6 +650,8 @@ Instalación en 2017. Problemas en 2018.
 ](https://www.henricodolfing.com/2020/03/project-failure-case-study-bbsi-oracle.html) (Fuente: Sergio García Esteban)
 
 - **SAP y Diageo** : [Cómo la mala negociación de términos y condiciones puede acabar en juicio](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854) (Fuente: Pablo Jordán). [Más información](https://softwarenegotiation.com/sap-uk-ltd-v-diageo-great-britain-limited-ramifications-indirect-access-erp-license-agreements/)
+
+- **Accenture y Police Scottish Police Authority’s (SPA)**: [Sistema de gestión de información policial Policía de Escocia](https://calleam.com/WTPF/?p=9150) (Fuente: Elena Romero de Tejada)
 
 ### 2018
 
