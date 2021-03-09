@@ -675,6 +675,9 @@ La compañía habló con el distribuidor de ERP para gestionar las ventas de tod
 - **ERP y  PG&E**
 [Articulo sobre los fallos de PG&E al digitalizar su sistema](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) (Fuente: José Félix Yagüe)
 
+- **SAP y Lidl**:
+Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada. [Esto desencadenó una cadena de problemas de implementación] (https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Marta Morales)
+
 ### 2019
 
 - **SAP y [LeasePlan](https://www.leaseplan.com/es-es/)**:
@@ -698,6 +701,9 @@ Remplazo fallido de ERP de la empresa Unit4. Existen [registros](http://www.gwrc
 
 - **SAP y Alliance Group (Nueva Zelanda)**:
 Cambio de ERP a Microsoft 365 en la empresa agrícola Alliance Group después de haber gastado 57M$ en SAP.  [Lexel rebuilds Alliance Group's workplace as $57M ERP upgrade proceeds](https://www.reseller.co.nz/article/683525/lexel-systems-takes-alliance-group-co-op-cloud-modern-workplace/) (Fuente: Fernando Navarro)
+
+- **ERP desconocido y Adidas**:
+Adidas eligió un software de gestión de almacenes que no era compatible con el de sus proveedores, lo que supuso pérdidas de unos 40 millones de dólares. [Adidas Warehouse Meltdown: desastre de WMS](https://clearspider.net/blog/wms-disaster-adidas-warehouse-meltdown/) (Fuente: Marta Morales)
 
 ## Década de 2020
 
