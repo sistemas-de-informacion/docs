@@ -289,7 +289,7 @@ Artículo que explica el fracaso del ERP y que incluye al final el informe del G
 [Critical Failure Factors in ERP Implementation](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1152&context=pacis2005) (Fuente: Irene Fumanal Lacoma)
 
 - **ERP desconocido y empresas reales pero anónimas** : [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
-- **ERP desconocido y empresas chinas** : [ERP implementation failures in China: Case studies with implications for ERP vendors] (https://www.researchgate.net/publication/223320477_ERP_implementation_failures_in_China_Case_studies_with_implications_for_ERP_vendors) (Fuente: Diego García)
+
 - **ERP desconocido y empresas pyme de Latinoamérica** :[El fracaso en la implementación de un ERP en Latinoamérica (Algunas de mis reflexiones )] (https://es.linkedin.com/pulse/el-fracaso-en-la-implementación-de-un-erp-algunas-mis-manuel-d%C3%ADaz) (Fuente: Diego García)
 
 
