@@ -441,6 +441,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 - **Oracle y [Ansell](http://www.ansell.com/) (Australia)**: [ERP disaster costs Ansell millions](http://delimiter.com.au/2012/02/09/erp-disaster-costs-ansell-millions/) (Fuente: David Enjuanes)
 
 - **Oracle y [Montclair State University](http://www.montclair.edu/)**: [Oracle Sued by University for Alleged ERP Failure](http://www.pcworld.com/article/228412/article.html) (Fuente: Guillermo Sesé) [Oracle says ERP software woes are school's own fault](http://www.computerworld.com/article/2508677/enterprise-applications/oracle-says-erp-software-woes-are-school-s-own-fault.html) (Fuente: Jorge Beamud)
+[University Takes a Pass on Oracle After ERP Lawsuit Settlement](https://www.cio.com/article/2376868/university-takes-a-pass-on-oracle-after-erp-lawsuit-settlement.html) (Fuente: Marta Morales)
 
 - **Oracle PeopleSoft y la ciudad de [Fort Worth](http://fortworthtexas.gov/)** : [Oracle PeopleSoft payroll problems still peeve police](http://www.computerworld.com/article/2511953/it-management/oracle-peoplesoft-payroll-problems-still-peeve-police.html) (Fuente: Luis Pellicer)
 
