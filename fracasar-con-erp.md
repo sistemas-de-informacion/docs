@@ -158,7 +158,6 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **SAP y [Petsmart](https://www.petsmart.com/)**:
 [An installation of SAP AG's retail software completed last year by Petsmart Inc. created problems that were "far more than we anticipated"](https://www.computerworld.com/article/2589123/petsmart-ceo--sap-project--far-more--difficult-than-expected.html) (Fuente: Samuel Ballonga)
 
-- **Proyecto Sky CRM** [British Sky Broadcasting (BSkyB)](https://calleam.com/WTPF/?p=5420) (Fuente: Elena Romero de Tejada)
 ### 2001
 
 - **HPT(nombre ficticio) y Vicro Communications**: [The Relation Between BPR and ERP Systems: A failed project](http://www.cs.jyu.fi/el/itke50_03/Artikkelit/The%20Relation%20Between%20BPR%20and%20ERP%20Systems_%20A%20Failed%20Project%20IT5656_XZXCZQ282V.pdf) (Fuente: Andrés Soldevilla)
