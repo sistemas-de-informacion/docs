@@ -92,7 +92,7 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **GlobalLease y [Signal International](http://signalinternational.com.co/)**:[Signal International Case Study] (https://es.scribd.com/document/48224826/Signal-International-Case-Study) (Fuente: Jesús Villacampa)
 
-- **SAP y la [US Navy](http://www.navy.mil/)**: La Marina de los Estados Unidos invirtió mil millones de dólares en cuatro proyectos piloto de ERP diferentes desde 1998, y los cuatro han fracasado: [Las cuatro instalaciones, que se basaron en el software SAP AG. resultó ser incompatible y redundante, y finalmente no cumplió con los requisitos de la Marina.](https://www.360cloudsolutions.com/resources/top-six-erp-implementation-failures/) (Fuente: Marta Morales), [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez) y [The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla), [Navy ERP Program](https://pdfs.semanticscholar.org/f845/b1dfca6eb5b026687cce4daf11f0bed7de16.pdf?_ga=2.204628496.1445225605.1615372514-86894924.1615372514) (Fuente: Felipe Nonay)
+- **SAP y la [US Navy](http://www.navy.mil/)**: La Marina de los Estados Unidos invirtió mil millones de dólares en cuatro proyectos piloto de ERP diferentes desde 1998, y los cuatro han fracasado: [Las cuatro instalaciones, que se basaron en el software SAP AG. resultó ser incompatible y redundante, y finalmente no cumplió con los requisitos de la Marina.](https://www.360cloudsolutions.com/resources/top-six-erp-implementation-failures/) (Fuente: Marta Morales), [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez) y [The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla)
 
 ### 1999
 
@@ -118,8 +118,7 @@ El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 - **SAP, Siebel, Manugistics y [Hershey's](https://www.thehersheycompany.com/en_us/home.html)**:
 [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.academia.edu/12467188/A_Case_Study_on_Hersheys_ERP_Implementation_Failure_The_Importance_of_Testing_and_Scheduling) (Fuente: Andrés Julián y Miguel López),
 [ERP Implementation Failure In Hershey's](https://es.slideshare.net/purohit1323/erp-failure-implementation-failure-hershey-foods-corporation) (Fuente: Lorena Mehavilla), 
-[ ERP Implementation Failure at Hershey Foods Corporation](https://kopisusa.com/wp-content/uploads/ERP_Implementation_Failure_Hershey_Foods.pdf) (Fuente: Diego García),
-[ Supply Chain: Hershey's Bittersweet Lesson](https://www.cio.com/article/2440386/supply-chain---hershey-s-bittersweet-lesson.html) (Fuente: Felipe Nonay)
+[ ERP Implementation Failure at Hershey Foods Corporation](https://kopisusa.com/wp-content/uploads/ERP_Implementation_Failure_Hershey_Foods.pdf) (Fuente: Diego García)
 
 - **SAP y Omega (nombre ficticio, China)**: [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 
@@ -290,6 +289,8 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 
 - **ERP desconocido y empresas reales pero anónimas** : [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
+- **ERP implementation failures in China: Case studies with implications for ERP vendors** : [Chinese Market, problems and reasons why foreign ERP system vendors donot dominate China’s ERP market](https://www.researchgate.net/publication/223320477_ERP_implementation_failures_in_China_Case_studies_with_implications_for_ERP_vendors) (Fuente: Felipe Nonay)
+
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**: [Department of Homeland Security – Emerge2 Project – USA](http://calleam.com/WTPF/?p=1865) y [EMERGE2's failure sends DHS back to drawing board](https://fcw.com/articles/2006/03/30/emerge2s-failure-sends-dhs-back-to-drawing-board.aspx?admgarea=TC_Management) (Fuente: Daniel Cabrera)
@@ -425,6 +426,8 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 - **ERP y Empresas de Retail en India**
 [Informe que habla sobre los principales factores de fallo en la instalación de ERPs en India](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8B9A6A3D24D98344EDA5B1371EA48948?doi=10.1.1.463.4223&rep=rep1&type=pdf) (Fuente: José Félix Yagüe) 
 
+- **ERP implementation in Omantel** [Examines environmental factors that impacted on the adoption of ERP by The Oman Telecommunication Company, highlights the particular problems of large organisations that operate disparate legacy systems.](https://www.emerald.com/insight/content/doi/10.1108/02635571011008416/full/html?casa_token=mrbMWU61DVIAAAAA:XEpMb2CQcDpO5OujKxFZIQyDcYw8ayTGSW1CWb-2_ZHOU5dLhLwugTlz78lLLuG_4HOOQI-LK0e0l6dER7JCT3ElqiWMT5bbPyh7XH6IYKLZndydIWXv) (Fuente: Felipe Nonay)
+
 ### 2011
 
 - **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
@@ -492,7 +495,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 
 - **Microsoft Dynamics AX system y [Avanade](https://www.avanade.com/es-es)**: [Avanade sued over alleged ERP project failure](https://www.computerworld.com/article/2494380/data-center/avanade-sued-over-alleged-erp-project-failure.html) (Fuente: David Sáez)
 
-- **Oracle y [US Air Force](http://www.airforce.com/)**:  El sistema ECSS fue un error de desarrollo que terminó después de gastar US $ 1.030 millones durante siete años y producir un sistema sin "*ninguna capacidad militar significativa*". [El proyecto comenzó en 2004 con intención de integrar unos 240 sistemas obsoletos de la Fuerza Aérea con un único sistema integrado de planificación de recursos empresariales (ERP) destinado a modernizar la cadena de suministro global del servicio.](https://spectrum.ieee.org/riskfactor/aerospace/military/the-us-air-force-explains-its-billion-ecss-bonfire) (Fuente: Marta Morales y Pablo Piedrafita) [Billion dollar Oracle ERP project shot down by US Air Force](http://www.computing.co.uk/ctg/news/2225312/billion-dollar-oracle-erp-project-scrapped-by-us-air-force) (Fuente: Christian Simón) [Billion-Dollar Flop: Air Force Stumbles on Software Plan](http://www.nytimes.com/2012/12/09/technology/air-force-stumbles-over-software-modernization-project.html?pagewanted=all) (Fuente: Guilermo Sesé), [U.S. Air Force Blows $1 Billion on Failed ERP Project](https://spectrum.ieee.org/riskfactor/aerospace/military/us-air-force-blows-1-billion-on-failed-erp-project) (Fuente: Felipe Nonay)
+- **Oracle y [US Air Force](http://www.airforce.com/)**:  El sistema ECSS fue un error de desarrollo que terminó después de gastar US $ 1.030 millones durante siete años y producir un sistema sin "*ninguna capacidad militar significativa*". [El proyecto comenzó en 2004 con intención de integrar unos 240 sistemas obsoletos de la Fuerza Aérea con un único sistema integrado de planificación de recursos empresariales (ERP) destinado a modernizar la cadena de suministro global del servicio.](https://spectrum.ieee.org/riskfactor/aerospace/military/the-us-air-force-explains-its-billion-ecss-bonfire) (Fuente: Marta Morales y Pablo Piedrafita) [Billion dollar Oracle ERP project shot down by US Air Force](http://www.computing.co.uk/ctg/news/2225312/billion-dollar-oracle-erp-project-scrapped-by-us-air-force) (Fuente: Christian Simón) [Billion-Dollar Flop: Air Force Stumbles on Software Plan](http://www.nytimes.com/2012/12/09/technology/air-force-stumbles-over-software-modernization-project.html?pagewanted=all) (Fuente: Guilermo Sesé)
 
 - **Oracle JD Edwards ERP y New Enterprise Stone & Lime Co**: [Oracle ERP Project Woes Force Construction Firm to Delay Financial Filing](http://www.cio.com/article/2395555/enterprise-resource-planning/oracle-erp-project-woes-force-construction-firm-to-delay-financial-fili.html) (Fuente : Manuel Herrero)
 
