@@ -240,7 +240,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **PeopleSoft y [University of Indiana](https://www.iu.edu/)**: [Indiana University suffers during PeopleSoft rollout](https://www.computerworld.com/article/2567014/enterprise-applications/indiana-university-suffers-during-peoplesoft-rollout.html) (Fuente: Miguel Bolsa)
 
-- **PeopleSoft y [University of Massachusetts-Amherst](https://www.umass.edu/)**: [UMass-Amherst bedeviled by PeopleSoft portal crash](https://www.computerworld.com/article/2566229/enterprise-applications/umass-amherst-bedeviled-by-peoplesoft-portal-crash.html) (Fuente: Adrián Ibáñez)
+- **PeopleSoft y [University of Massachusetts-Amherst](https://www.umass.edu/)**: [UMass-Amherst bedeviled by PeopleSoft portal crash](https://www.computerworld.com/article/2566229/enterprise-applications/umass-amherst-bedeviled-by-peoplesoft-portal-crash.html) (Fuente: Adrián Ibáñez), [University ERP: Big Mess on Campus](https://www.cio.com/article/2439102/university-erp--big-mess-on-campus.html) (Fuente: Felipe Nonay)
 
 - **Oracle y Saudi Telecom (Arabia Saudí)**: [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
 
@@ -423,6 +423,8 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 - **ERP y Empresas de Retail en India**
 [Informe que habla sobre los principales factores de fallo en la instalación de ERPs en India](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8B9A6A3D24D98344EDA5B1371EA48948?doi=10.1.1.463.4223&rep=rep1&type=pdf) (Fuente: José Félix Yagüe) 
+
+- **Oracle y Omantel (Omán)** [Examines environmental factors that impacted on the adoption of ERP by The Oman Telecommunication Company, highlights the particular problems of large organisations that operate disparate legacy systems.](https://www.emerald.com/insight/content/doi/10.1108/02635571011008416/full/html) (Fuente: Felipe Nonay)
 
 ### 2011
 
