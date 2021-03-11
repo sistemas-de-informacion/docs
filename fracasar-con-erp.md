@@ -424,7 +424,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 - **ERP y Empresas de Retail en India**
 [Informe que habla sobre los principales factores de fallo en la instalación de ERPs en India](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8B9A6A3D24D98344EDA5B1371EA48948?doi=10.1.1.463.4223&rep=rep1&type=pdf) (Fuente: José Félix Yagüe) 
 
-- **ERP implementation in Omantel** [Examines environmental factors that impacted on the adoption of ERP by The Oman Telecommunication Company, highlights the particular problems of large organisations that operate disparate legacy systems.](https://www.emerald.com/insight/content/doi/10.1108/02635571011008416/full/html?casa_token=mrbMWU61DVIAAAAA:XEpMb2CQcDpO5OujKxFZIQyDcYw8ayTGSW1CWb-2_ZHOU5dLhLwugTlz78lLLuG_4HOOQI-LK0e0l6dER7JCT3ElqiWMT5bbPyh7XH6IYKLZndydIWXv) (Fuente: Felipe Nonay)
+- **Oracle y Omantel (Omán)** [Examines environmental factors that impacted on the adoption of ERP by The Oman Telecommunication Company, highlights the particular problems of large organisations that operate disparate legacy systems.](https://www.emerald.com/insight/content/doi/10.1108/02635571011008416/full/html) (Fuente: Felipe Nonay)
 
 ### 2011
 
