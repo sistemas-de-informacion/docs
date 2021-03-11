@@ -331,6 +331,8 @@ El coste de la implementación fue sustancialmente por debajo del presupuesto, u
 **SAP y una cadena de joyerías de Colorado:** 
 La cadena había contratado el proyecto por 8-11M$ pero terminó costando cerca de 36M$ y tardó más de 32 meses en instalarse, provocando además varios errores y dificultades operativas tras su instalación. [SAP Project Costs Cited in Jeweler's Bankruptcy Filing](https://www.cio.com/article/2431335/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html)(Fuente: Alejandro Magallón)
 
+- **SAP y Distrito Escolar de Chicago (EEUU)**: [Payroll problems in the Los Angeles and Chicago schools](https://www.edweek.org/leadership/payroll-problems/2007/09) (Fuente: Israel Gimeno)
+
 ### 2008
 
 - **Epicor y [Whaley Foodservice Repairs](http://www.whaleyfoodservice.com/)**: [Epicor Sued Over Alleged ERP Project Failure](http://www.pcworld.com/article/237939/article.html) (Fuente: David Enjuanes) y [What Was the Cause of the Recent Epicor ERP Implementation Failure and Lawsuit?](http://panorama-consulting.com/what-was-the-cause-of-the-recent-epicor-erp-implementation-failure-and-lawsuit/) (Fuente: Alejandro Ramón)
@@ -598,6 +600,8 @@ La sustitución de un ERP desarrollado internamente durante 30 años por SAP cau
 [Tres casos de estudio de fallos de ERP y lo que se puede aprender de ellos](https://www.erpfocus.com/erp-failure-case-studies.html) (Fuente: Paula Lardiés)
 [Woolworths looks to fix IT basics off the back of AU$1.2b loss](https://www.zdnet.com/article/woolworths-looks-to-fix-it-basics-off-the-back-of-au1-2b-loss/) (Fuente: Paula Ejarque)
 
+- **Oracle y [Fife Council](https://www.fife.gov.uk/)**: [Council transformation savings hit by ERP implementation issues](https://www.publictechnology.net/articles/news/council-transformation-savings-hit-erp-implementation-issues) (Fuente: Israel Gimeno)
+
 ### 2016
 
 - **ERP desconocido y PG&E**: [Pacific Gas and Electric Database Exposed](https://mackeeper.com/blog/post/231-pacific-gas-and-electric-database-exposed) (Fuente: Alberto Mur)
@@ -711,6 +715,10 @@ Cambio de ERP a Microsoft 365 en la empresa agrícola Alliance Group después de
 
 - **ERP desconocido y Adidas**:
 Adidas eligió un software de gestión de almacenes que no era compatible con el de sus proveedores, lo que supuso pérdidas de unos 40 millones de dólares. [Adidas Warehouse Meltdown: desastre de WMS](https://clearspider.net/blog/wms-disaster-adidas-warehouse-meltdown/) (Fuente: Marta Morales)
+
+- **Ellucian Banner ERP y [The US Department of Education](https://www.ed.gov/)**: [Hackers target 62 US colleges by exploiting ERP vulnerability](https://www.zdnet.com/article/hackers-target-62-us-colleges-by-exploiting-erp-vulnerability/) (Fuente: Israel Gimeno)
+
+- **SAP y Oracle y [Australian Taxation Office](https://www.ato.gov.au/)**: [Payroll disasters become HR software gravy train](https://www.itnews.com.au/news/payroll-disasters-become-hr-software-gravy-train-533519) (Fuente: Israel Gimeno)
 
 ## Década de 2020
 
