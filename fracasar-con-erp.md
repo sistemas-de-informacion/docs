@@ -246,8 +246,9 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **SAP y [HP](http://www.hp.com/)**:
 La instalación de un ERP causa pérdidas 5 veces mayores que su coste.
-[When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán)
-[ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López)
+[When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán),
+[ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López),
+y [HP's CIO Points to Internal Issues in ERP Project Snafus](https://www.computerworld.com/article/2565928/hp-s-cio-points-to-internal-issues-in-erp-project-snafus.html) (Fuente: Víctor Jarreta)
 
 - **SAP, Deloitte (implementador) y el condado de [Marin](http://www.marincounty.org/) en California**:
 El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el Condado de Marin está tan harto del proyecto que demanda a Deloitte por 30M$ utilizando una ley que se aplica contra actividades de crimen organizado (Ley RICO).
@@ -717,3 +718,5 @@ Adidas eligió un software de gestión de almacenes que no era compatible con el
 
 - **GamesWorkshop y Microsoft Dynamics**:
 [Tabletop battle-toys purveyor Games Workshop again warns of risks in Microsoft Dynamics 365 ERP project](https://www.theregister.com/2020/01/14/games_workshop_warns_of_risks_in_microsoft_dynamics_365_erp_project/) (Fuente: Adrian Garcia)
+
+- **1GX y Gobierno de Alberta (Canadá)**: El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo tipo de problemas: [Union for public servants files grievance against Alberta government as pay issues persist](https://www.cbc.ca/news/canada/calgary/alberta-union-of-provincial-employees-aupe-susan-slade-1.5894680) (Fuente: Víctor Jarreta). Documento oficial en el que se detalla el plan de negocio previsto inicialmente y en el que se habla de 1GX, incluyendo su coste, periodo de desarollo y motivaciones: [Service Alberta Business Plan 2019–23](https://open.alberta.ca/dataset/2d0f4f49-ac34-440d-8ff1-396e55267a57/resource/91e9b32b-62b7-4b27-a92a-01966a645108/download/service-alberta.pdf) (Fuente: Víctor Jarreta)
