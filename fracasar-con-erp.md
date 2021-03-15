@@ -328,14 +328,14 @@ El coste de la implementación fue sustancialmente por debajo del presupuesto, u
 [Bizarre Arizona State ERP: Article commenting the Oracles's case study](https://www.zdnet.com/article/updated-bizarre-arizona-state-erp-oracle-releases-case-study/) (Fuente: Paula Iglesias)
 [Oracle customer case study proclaiming the wonders of its implementation at Arizona State University (ASU)](https://es.slideshare.net/TimOrtiz/arizona-state-case-study) (Páginas 4-9) (Fuente: Paula Iglesias)
 
-**SAP y una cadena de joyerías de Colorado:** 
+- **SAP y una cadena de joyerías de Colorado:** 
 La cadena había contratado el proyecto por 8-11M$ pero terminó costando cerca de 36M$ y tardó más de 32 meses en instalarse, provocando además varios errores y dificultades operativas tras su instalación. [SAP Project Costs Cited in Jeweler's Bankruptcy Filing](https://www.cio.com/article/2431335/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html)(Fuente: Alejandro Magallón)
 
 - **SAP y Distrito Escolar de Chicago (EEUU)**: [Payroll problems in the Los Angeles and Chicago schools](https://www.edweek.org/leadership/payroll-problems/2007/09) (Fuente: Israel Gimeno)
 
 ### 2008
 
-- **Epicor y [Whaley Foodservice Repairs](http://www.whaleyfoodservice.com/)**: [Epicor Sued Over Alleged ERP Project Failure](http://www.pcworld.com/article/237939/article.html) (Fuente: David Enjuanes) y [What Was the Cause of the Recent Epicor ERP Implementation Failure and Lawsuit?](http://panorama-consulting.com/what-was-the-cause-of-the-recent-epicor-erp-implementation-failure-and-lawsuit/) (Fuente: Alejandro Ramón)
+- **Epicor y [Whaley Foodservice Repairs](http://www.whaleyfoodservice.com/)**: [Epicor Sued Over Alleged ERP Project Failure](http://www.pcworld.com/article/237939/article.html) (Fuente: David Enjuanes y Paula Lardiés) y [What Was the Cause of the Recent Epicor ERP Implementation Failure and Lawsuit?](http://panorama-consulting.com/what-was-the-cause-of-the-recent-epicor-erp-implementation-failure-and-lawsuit/) (Fuente: Alejandro Ramón)
 
 - **ERP X (Ficticio) y un gobierno X de los UAE**: [ERP Failure Implementation: Case Study](https://vdocuments.mx/erp-failure-implementationcase-study.html) (Fuente: Miguel López)
 
@@ -415,9 +415,8 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 - **SAP y [Lumber Liquidators](http://www.lumberliquidators.com/ll/home)**: [What Was the Cause of the SAP Failure at Lumber Liquidators?](http://panorama-consulting.com/what-was-the-cause-of-the-sap-failure-at-lumber-liquidators/) (Fuente: Diego Sánchez) [Understanding Lumber Liquidators' ERP failure](http://www.zdnet.com/article/understanding-lumber-liquidators-erp-failure/) (Fuente: Diego Gálvez)
 
-- **SAP y QLD Health (Australia)**: [Learning from the Qld Health payroll fiasco](http://www.businessspectator.com.au/article/2013/6/20/technology/learning-qld-health-payroll-fiasco) (Fuente: Daniel Cabrera)
-[Case Study 9: The Payroll System That Cost Queensland Health AU$1.25 Billion]
-(https://www.henricodolfing.com/2019/12/project-failure-case-study-queensland-health.html) (Fuente: Raquel Roy)
+- **SAP y QLD Health (Australia)**: [Learning from the Qld Health payroll fiasco](http://www.businessspectator.com.au/article/2013/6/20/technology/learning-qld-health-payroll-fiasco) (Fuente: Daniel Cabrera). Se exlica en detalle en
+[Case Study 9: The Payroll System That Cost Queensland Health AU$1.25 Billion](https://www.henricodolfing.com/2019/12/project-failure-case-study-queensland-health.html) (Fuente: Raquel Roy)
 
 - **SAIC y la ciudad de [Nueva York](http://www1.nyc.gov/)**:
 ['Consultants' getting $722M from city for doomed CityTime computer project](http://www.nydailynews.com/news/consultants-722m-city-doomed-citytime-computer-project-article-1.173403) (Fuente: Guillermo Sesé)
@@ -443,14 +442,10 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 - **EPICOR y [Major Brands](http://www.majorbrands.com/)**: [Epicor sued after two-year project delivered 'useless' software](http://www.computerworlduk.com/news/infrastructure/3330195/epicor-sued-after-two-year-project-delivered-useless-software/) (Fuente: Guillermo Pérez)
 
-- **EPICOR y Whaley (Lexingtor)** : [Epicor demandó por presunto fracaso del proyecto ERP](https://www.pcworld.com/article/237939/article.html) (Fuente: Paula Lardiés)
-[What Was the Cause of the Recent Epicor ERP Implementation Failure and Lawsuit?]
-https://www.panorama-consulting.com/what-was-the-cause-of-the-recent-epicor-erp-implementation-failure-and-lawsuit/) (Fuente: Raquel Roy)
-
 - **Lawson Software y [CareSource Management Group](https://www.caresource.com/)** : [Lawson ERP embroiled in a lawsuit with customers](https://www.computerworld.com/article/2736691/lawson-software--customer-embroiled-in-erp-project-lawsuit.html) (Fuente: Óscar Murillo, actualizado por Samuel Bonito)
 
-- **Oracle y [Ansell](http://www.ansell.com/) (Australia)**: [ERP disaster costs Ansell millions](http://delimiter.com.au/2012/02/09/erp-disaster-costs-ansell-millions/) (Fuente: David Enjuanes)
-[Ansell moves to SAP after Oracle ERp bungle](https://www.itnews.com.au/news/ansell-moves-to-sap-after-oracle-erp-bungle-372499) (Fuente: Raquel Roy)
+- **Oracle y [Ansell](http://www.ansell.com/) (Australia)**: [ERP disaster costs Ansell millions](http://delimiter.com.au/2012/02/09/erp-disaster-costs-ansell-millions/) (Fuente: David Enjuanes), por lo que depués
+[Ansell moves to SAP after Oracle Erp bungle](https://www.itnews.com.au/news/ansell-moves-to-sap-after-oracle-erp-bungle-372499) (Fuente: Raquel Roy)
 
 - **Oracle y [Montclair State University](http://www.montclair.edu/)**: [Oracle Sued by University for Alleged ERP Failure](http://www.pcworld.com/article/228412/article.html) (Fuente: Guillermo Sesé) [Oracle says ERP software woes are school's own fault](http://www.computerworld.com/article/2508677/enterprise-applications/oracle-says-erp-software-woes-are-school-s-own-fault.html) (Fuente: Jorge Beamud)
 
@@ -680,10 +675,10 @@ Instalación en 2017. Problemas en 2018.
 
 - **ERP SAP BO(Business One):**[Ante un proyecto que podríamos decir adolecía de cierta metodología de Ingeniaría de Software y buenas prácticas en la implantación](https://leyesytecnologia.com/peritaje-de-sap-bo-business-one-razones-de-un-fracaso-de-implantacion/) (Fuente: Raúl Logroño)
 
-**ERP no especificado y una compañía de venta de productos metálicos:** 
+- **ERP no especificado y una compañía de venta de productos metálicos:** 
 La compañía habría establecido en el contrato que el programa instalado debería poder rastrear las piezas de metal a través de los canales de distribución pero nunca llegaron a contar con dicha funcionalidad [Take a Wrong Turn with ERP and Wind up in Court](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854)(Fuente: Alejandro Magallón)
 
-**ERP no especificado y compañía de venta de productos electrónicos:** 
+- **ERP no especificado y compañía de venta de productos electrónicos:** 
 La compañía habló con el distribuidor de ERP para gestionar las ventas de todo un día y el vendedor aseguró que se podían gestionar sin problema. El problema se dió porque el vendedor entendió las ventas a lo largo de las 24 horas del día cuando todas las transacciones se producían, normalmente, en un plazo de 4 horas. Esto llevó a la empresa a perder muchas ventas. [Take a Wrong Turn with ERP and Wind up in Court](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854)(Fuente: Alejandro Magallón)
 
 - **Varios ERPs y PYMEs en Malasia**
