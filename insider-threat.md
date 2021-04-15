@@ -368,6 +368,15 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Es difícil eliminar el error humano, pero con formación adecuada y siendo estrictos en la no violación de las políticas de empresa (como envío de e-mails personales con el correo de empresa), se puede minimizar la posibilidad de que éste ocurra. Por otra parte, se podría quitar el autocompletado, requerir de confirmación con todos los datos, o utilizar una solución de No Compartir, que desautoriza el acceso al fichero en caso de activarlo en algún momento. Para saber que hay que activar esta opción, sería una buena idea monitorizar las acciones de los empleados. Además, si lo que estaba realizando el empleado era una operación periódica, podría ser posible automatizarla.
   * **Solución**: Un módulo de HRMS habitual bastante aprovechable relacionado con la estrategia sería el de formación. El de [Peoplesoft](https://docs.oracle.com/cd/E40044_01/psft/acrobat/hcm92hhat-b0313.pdf), por ejemplo, es muy completo y permite gestionar todo el proceso a un nível de detalle muy alto.
 
+### 2019
+
+* [Microsoft Security Shocker As 250 Million Customer Records Exposed Online] (https://www.forbes.com/sites/daveywinder/2020/01/22/microsoft-security-shocker-as-250-million-customer-records-exposed-online/?sh=156f51704d1b)
+  * **Fuente**: Marta Lampaya Pérez
+  * **Descripción**: A principios de diciembre de 2019, Microsoft implementó una nueva versión de las reglas de seguridad de Azure. Los empleados de Microsoft configuraron       incorrectamente esas reglas y provocaron la filtración accidental de una base de datos de soporte al cliente de Microsoft que contenía 250 millones de entradas acumuladas durante 14 años. El acceso a la base de datos no estaba protegido con una contraseña o autenticación de dos factores.
+  * **Estrategia**: Monitorizar los registros de los usuarios y supervisar la actividad con información sensible.
+  * **Solución**: Utilizar software que controla y analiza el acceso a información como [Forcepoint Insider Threat]( https://www.forcepoint.com/es/product/fit).
+
+
 ### 2020
 
 * [Remote Access Makes a Comeback: 3 Security Challenges in the Wake of COVID-19](https://www.darkreading.com/endpoint/remote-access-makes-a-comeback-4-security-challenges-in-the-wake-of-covid-19/a/d-id/1337558)
