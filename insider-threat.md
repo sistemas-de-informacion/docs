@@ -337,7 +337,6 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 * [Facebook engineer abuse data access to stalk a women](https://www.theguardian.com/technology/2018/may/02/facebook-engineer-fired-alleged-stalker-tinder)
   * **Fuente**: Raúl Logroño
   * **Descripcion**: Facebook despidió a un ingeniero de seguridad después de que fue acusado de acosar a las mujeres en línea posiblemente abusando de su "acceso privilegiado" a los datos. Facebook intervino una vez que Jackie Stokes, fundador de la compañía de ciberseguridad Spyglass Security, [publicó en Twitter los detalles del caso](https://www.nbcnews.com/tech/social-media/facebook-investigating-claim-engineer-used-access-stalk-women-n870526). 
-
   
 ## Despistados y descuidos
 
