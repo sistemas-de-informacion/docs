@@ -370,12 +370,11 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 
 ### 2019
 
-* [Microsoft Security Shocker As 250 Million Customer Records Exposed Online] (https://www.forbes.com/sites/daveywinder/2020/01/22/microsoft-security-shocker-as-250-million-customer-records-exposed-online/?sh=156f51704d1b)
+* [Microsoft Security Shocker As 250 Million Customer Records Exposed Online](https://www.forbes.com/sites/daveywinder/2020/01/22/microsoft-security-shocker-as-250-million-customer-records-exposed-online/?sh=156f51704d1b)
   * **Fuente**: Marta Lampaya Pérez
-  * **Descripción**: A principios de diciembre de 2019, Microsoft implementó una nueva versión de las reglas de seguridad de Azure. Los empleados de Microsoft configuraron       incorrectamente esas reglas y provocaron la filtración accidental de una base de datos de soporte al cliente de Microsoft que contenía 250 millones de entradas acumuladas durante 14 años. El acceso a la base de datos no estaba protegido con una contraseña o autenticación de dos factores.
+  * **Descripción**: A principios de diciembre de 2019 Microsoft implementó una nueva versión de las reglas de seguridad de Azure. Los empleados de Microsoft configuraron incorrectamente esas reglas y provocaron la filtración accidental de una base de datos de soporte al cliente de Microsoft que contenía 250 millones de entradas acumuladas durante 14 años. El acceso a la base de datos no estaba protegido con una contraseña o autenticación de dos factores.
   * **Estrategia**: Monitorizar los registros de los usuarios y supervisar la actividad con información sensible.
-  * **Solución**: Utilizar software que controla y analiza el acceso a información como [Forcepoint Insider Threat]( https://www.forcepoint.com/es/product/fit).
-
+  * **Solución**: Utilizar software que controla y analiza el acceso a información como [Forcepoint Insider Threat](https://www.forcepoint.com/es/product/fit).
 
 ### 2020
 
