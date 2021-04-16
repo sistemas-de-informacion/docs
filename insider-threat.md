@@ -337,6 +337,14 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 * [Facebook engineer abuse data access to stalk a women](https://www.theguardian.com/technology/2018/may/02/facebook-engineer-fired-alleged-stalker-tinder)
   * **Fuente**: Raúl Logroño
   * **Descripcion**: Facebook despidió a un ingeniero de seguridad después de que fue acusado de acosar a las mujeres en línea posiblemente abusando de su "acceso privilegiado" a los datos. Facebook intervino una vez que Jackie Stokes, fundador de la compañía de ciberseguridad Spyglass Security, [publicó en Twitter los detalles del caso](https://www.nbcnews.com/tech/social-media/facebook-investigating-claim-engineer-used-access-stalk-women-n870526).
+
+### 2020
+
+* [Gerente Senior de Amazon obligado a pagar 1.4 millones de dolares por hacer negocio con los datos internos](https://www.infosecurity-magazine.com/news/amazon-employee-14m-insider/)
+  * **Fuente**: Pablo Jordán
+  * **Descripción**: El gerente senior del departamento de impuestos de Amazon estuvo divulgando los datos financieros confidenciales de Amazon a los que sólo él tenía acceso a los miembros de su familia para que pudieran comerciar con ellos. El gerente está acusado de ganar 1,4 millones de dólares por transacciones con información privilegiada.
+  * **Estrategia**: Al ser un empleado de la empresa resulta más complicado detectar la amenaza ya que la tienes demasiado cerca. No obstante, son varias las estrategias disponibles para evitar esta situación. Una de ellas (y la más adecuada quizá) es monitorizar el control de accesos que tienen los empleados a los datos (teniendo de alguna manera registrado la fecha de acceso, quién, cuándo, etc) volcando además esa información en unos ficheros de log que puedan ser más tarde consultados. 
+  * **Solución**: La respuesta más eficaz frente a una amenaza interna de este tipo es monitorizar el comportamiento del usuario en tiempo real para predecir y detectar un comportamiento anormal asociado con un uso indebido de los datos. Por ello, una solución adecuada podría ser hacer uso del software [UEBA](https://gurucul.com/products/user-entity-behavior-analytics-ueba). UEBA usa la inteligencia artificial y el Big Data para monitorizar y detectar anomalías.
   
 ## Despistados y descuidos
 
