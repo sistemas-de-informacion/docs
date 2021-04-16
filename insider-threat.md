@@ -338,14 +338,6 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Fuente**: Raúl Logroño
   * **Descripcion**: Facebook despidió a un ingeniero de seguridad después de que fue acusado de acosar a las mujeres en línea posiblemente abusando de su "acceso privilegiado" a los datos. Facebook intervino una vez que Jackie Stokes, fundador de la compañía de ciberseguridad Spyglass Security, [publicó en Twitter los detalles del caso](https://www.nbcnews.com/tech/social-media/facebook-investigating-claim-engineer-used-access-stalk-women-n870526). 
 
-**2020**
-
-* [Gerente Senior de Amazon obligado a pagar 1.4 millones de dolares por hacer negocio con los datos internos](https://www.infosecurity-magazine.com/news/amazon-employee-14m-insider/)
-  * **Fuente**: Pablo Jordán
-  * **Descripción**: Descubierto el gerente (senior) del departamento de impuestos de Amazon que había estado divulgando los datos financieros confidenciales de Amazon (a los que sólo él tenía acceso) a los miembros de la familia para que pudieran comerciar con ellos. El gerente está acusado de ganar 1,4 millones de dólares por transacciones con información privilegiada.
-  * **Estrategia**: Al ser un empleado de la empresa, resulta más complicado detectar la amenza ya que la tienes demasiado cerca. No obstante, las estrategias para evitar la situación previa son varias. Una de ellas (y la más adecuada quizá) podría ser monitorizar el control de accesos que tienen los empleados a los datos (teniendo de alguna manera registrado la fecha de acceso, quién, cúando, etc) volcando además esa información en unos ficheros de log que puedan ser más tarde consultados. 
-  * **Solución**: El contraataque más eficaz frente a una amenaza interna de este tipo es monitorizar el comportamiento del usuario en tiempo real para predecir y detectar un comportamiento anormal asociado con un posible sabotaje, robo de datos o uso indebido de los mismos. Por todo ello, una solución adecuada sería hacer uso del software [UEBA](https://gurucul.com/products/user-entity-behavior-analytics-ueba). UEBA hace uso de la inteligencia artificial y el Big Data para realizar toda la monitorización y detección de anomalías.
-  
   
 ## Despistados y descuidos
 
