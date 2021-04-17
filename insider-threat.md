@@ -102,6 +102,12 @@ Los métodos que utilizó para acceder a los secretos de la empresa fueron: enga
   * **Estrategia**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, dando solo los estrictamente necesarios a cada empleado, e incluso cambiando la forma de autenticarse por algo más difícil de robar que una contraseña. Además, también se debería formar a los empleados (especialmente a los que tengan más privilegios de acceso) para que sean conscientes de que sus credenciales son importantes y que no deben compartirse con otros trabajadores. Otra medida necesaria sería la creación de un historial de acciones que puedan resultar sospechosas o poco habituales para cada empleado, de forma que se pudiera detectar actividad desleal o ilícita más fácil y sistemáticamente.
 En este caso particular, ya que aprovechó una visita guiada para obtener datos confidenciales, la empresa debería asegurarse de tener bajo control a los visitantes.
   
+
+### 2019
+*[Un empleado de Dominion envió a Siemens la oferta confidencial presentada por General Electric] (https://intereconomia.com/noticia/ge-demanda-a-siemens-en-ee-uu-por-realizar-espionaje-industrial-para-ganar-contratos-20210118-1720/)*
+  * **Fuente**: Marta Morales Sabroso
+  * **Descripción**: GE demandó a la empresa rival, Siemens Energy Inc, en un tribunal de distrito de EE. UU. En Virginia, alegando que el robo se remonta a mayo de 2019, cuando los conglomerados industriales licitaron para proporcionar equipos de turbinas de gas y servicio a Dominion Energy Inc. La demanda surge a raíz de la escisión realizada por Siemens AG para crear Siemens Energy. GE alega que Siemens Energy utilizó secretos comerciales recibidos indebidamente de un empleado de Dominion en parte para ganar contratos que aumentarían el precio de su oferta pública inicial.La información también incluyó el análisis de Dominion de todas las ofertas, lo que le dio a Siemens un «plan» para ganar contratos por valor de hasta $ 340 millones con la empresa de servicios públicos, conocida como Peakers Project.
+  
 ## Ladrones de datos
 
 ### 2005
