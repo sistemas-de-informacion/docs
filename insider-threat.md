@@ -117,6 +117,14 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Fuente**: Marta Morales Sabroso
   * **Descripción**: GE demandó a la empresa rival Siemens Energy Inc en un tribunal de distrito de EE. UU. En Virginia, alegando que el robo se remonta a mayo de 2019, cuando los conglomerados industriales licitaron para proporcionar equipos de turbinas de gas y servicio a Dominion Energy Inc. La demanda surge a raíz de la escisión realizada por Siemens AG para crear Siemens Energy. GE alega que Siemens Energy utilizó secretos comerciales recibidos indebidamente de un empleado de Dominion en parte para ganar contratos que aumentarían el precio de su oferta pública inicial. La información también incluyó el análisis de Dominion de todas las ofertas, lo que le dio a Siemens un «plan» para ganar contratos por valor de hasta $ 340 millones con la empresa de servicios públicos.
   
+**2019**
+
+* [Empleados de GE Power & Water en Schenectady roban datos para el Gobierno Chino](https://www.justice.gov/opa/pr/former-ge-engineer-and-chinese-businessman-charged-economic-espionage-and-theft-ge-s-trade)
+  * **Fuente**: Lorena Mehavilla Martín
+  * **Descripción**: Un empleado de GE Power & Water explotó sus privilegios de acceso para descargarse ficheros con información relevante sobre el diseño de turbinas, desde los archivos de diseño a los de configuración. Después dicho empleado se los envío a un amigo en China. Todo esto para que ambos pudieran crear sus propias empresas, así como, permitir que el mercado Chino superé al mercado Americano en este sector. 
+  * **Estrategia**: Instalar un sistema de monitoreo de ficheros, que permita detectar los ficheros descargados por un empleado y así poder comprobar que dicho empleado tenía acceso a esos archivos o si se ha descargado más información que cualquiera de sus compañeros con los mismos privilegios.
+  * **Solución**: [File Integrity Monitoring Software](https://www.solarwinds.com/es/security-event-manager/use-cases/file-integrity-monitoring-software) es una tecnología que monitorea y detecta cambios en los archivos. Permite determinar la frecuencia de monitoreo de archivos de suma importancia, así como, enviar alertas en caso de detectar anomalías y realizar informes de resultados.
+  
 ## Ladrones de datos
 
 ### 2005
