@@ -594,7 +594,7 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Fuente**: Jorge Rambla Gonzalez
   * **Descripción**: Nintendo sufre uno de los mayores robos de su historia, al ser filtrados desde antiguos empleados los códigos fuentes de las consolas Nintendo64, wii y gamecube, asi como su descripción de hardware en VHDL.
   * **Estrategia**: Prevenir el acceso de los empleados a los distintos ficheros de código, de tal manera que nunca nadie tenga el total acceso a todos los ficheros.
-  * [Secret NHS files reveal plans for coronavirus contact tracing app](https://www.wired.co.uk/article/nhs-covid-19-app-health-status-future)
+* [Secret NHS files reveal plans for coronavirus contact tracing app](https://www.wired.co.uk/article/nhs-covid-19-app-health-status-future)
   * **Fuente**: Diego García Muro
   * **Descripción**: Se filtraron los detalles de la aplicación de contactos de coronavirus del NHS.
 Se dejaron abiertos los documentos alojados en Google drive de manera que podía acceder cualquier persona clickando un enlace, el cual además publicaron.
