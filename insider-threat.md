@@ -599,5 +599,5 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Descripción**: Se filtraron los detalles de la aplicación de contactos de coronavirus del NHS.
 Se dejaron abiertos los documentos alojados en Google drive de manera que podía acceder cualquier persona clickando un enlace, el cual además publicaron.
 Estos documentos contenían información sobre el futuro desarrollo de la aplicación y revelaban qué funcionarios del NHS y el Departamento de Salud y Asistencia Social estaban preocupados por la misma.
- * **Estrategia**: Revisar las publicaciones o almacenar documentos importantes en lugares más seguros o con al menos una doble seguridad, de forma que no solo se acceda pulsando un enlace. 
-* **Solución**: Mediante Google Cloud, por ejemplo, se puede regular el tráfico desde los puntos de acceso a la nube y aplicar políticas de encriptado en los datos que se transmiten al exterior, mediante un CASB. Además se puede prohibir la descarga de cualquier dato.
+  * **Estrategia**: Revisar las publicaciones o almacenar documentos importantes en lugares más seguros o con al menos una doble seguridad, de forma que no solo se acceda pulsando un enlace. 
+  * **Solución**: Mediante Google Cloud, por ejemplo, se puede regular el tráfico desde los puntos de acceso a la nube y aplicar políticas de encriptado en los datos que se transmiten al exterior, mediante un CASB. Además se puede prohibir la descarga de cualquier dato.
