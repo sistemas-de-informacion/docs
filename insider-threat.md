@@ -594,9 +594,16 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Fuente**: Jorge Rambla Gonzalez
   * **Descripción**: Nintendo sufre uno de los mayores robos de su historia, al ser filtrados desde antiguos empleados los códigos fuentes de las consolas Nintendo64, wii y gamecube, asi como su descripción de hardware en VHDL.
   * **Estrategia**: Prevenir el acceso de los empleados a los distintos ficheros de código, de tal manera que nunca nadie tenga el total acceso a todos los ficheros.
-
 * [Secret NHS files reveal plans for coronavirus contact tracing app](https://www.wired.co.uk/article/nhs-covid-19-app-health-status-future)
-  * **Fuente**: Alejandro Magallón
-  * **Descripción**: La empresa [NHS](https://www.nhs.uk/), encargada de una aplicación para rastrear contactos con personas con COVID-19, dejó en Google Drive archivos confidenciales relacionados con dicha aplicación. El problema viene cuando varios de esos archivos no recibieron protección alguna y se guardaron para que cualquier persona con el enlace pudiera acceder a ellos. Este enlace se añadió en varios documentos oficiales de NHS sobre la privacidad en la aplicación lo que permitió que mucha gente accediera a los documentos.
-  * **Estrategia**: Controlar cuidadosamente los permisos de acceso que se dan a los archivos. Esto se puede hacer mediante algún sistema de tipo [IRM](https://en.wikipedia.org/wiki/Information_rights_management).
-  * **Solución**: Un posible IRM a utilizar en este caso es [Prot-On](https://www.prot-on.com). Con esta herramienta se pueden cifrar archivos mediante un sistema de claves privadas que se guardan en la nube, vinculadas a la cuenta del usuario que las crea. Esto permite que aunque el archivo se suba a la nube (Como por ejemplo Google Drive) de forma pública, únicamente los usuarios de Prot-on a los que se haya dado acceso puedan acceder al contenido del documento.
+  * **Fuente**: Diego García Muro / Alejandro Magallón
+  * **Descripción**: [NHS](https://www.nhs.uk/), encargada de una aplicación para rastrear contactos con personas con COVID-19, dejó en Google Drive archivos confidenciales relacionados con dicha aplicación. 
+  El problema viene cuando varios de esos archivos no recibieron protección alguna y se guardaron para que cualquier persona con el enlace pudiera acceder a ellos. 
+  Este enlace se añadió en varios documentos oficiales de NHS sobre la privacidad en la aplicación lo que permitió que mucha gente accediera a los documentos.
+  Estos documentos contenían información sobre el futuro desarrollo de la aplicación y revelaban qué funcionarios del NHS y el Departamento de Salud y Asistencia Social estaban preocupados por la misma.
+  * **Estrategia**: Controlar cuidadosamente los permisos de acceso que se dan a los archivos. 
+  Esto se puede hacer mediante algún sistema de tipo [IRM](https://en.wikipedia.org/wiki/Information_rights_management).
+  * **Solución**: Un posible IRM a utilizar en este caso es [Prot-On](https://www.prot-on.com). 
+  Con esta herramienta se pueden cifrar archivos mediante un sistema de claves privadas que se guardan en la nube, vinculadas a la cuenta del usuario que las crea. 
+  Esto permite que aunque el archivo se suba a la nube (Como por ejemplo Google Drive) de forma pública, únicamente los usuarios de Prot-on a los que se haya dado acceso puedan acceder al contenido del documento.
+  También, se puede regular el tráfico desde los puntos de acceso a la nube y aplicar políticas de encriptado en los datos que se transmiten al exterior, mediante un [CASB](https://www.netskope.com/es/Sobre-los-CASB). 
+  Además se puede prohibir la descarga de cualquier dato.
