@@ -166,33 +166,15 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
 * [Dropbox hack leads to leaking of 68m user passwords on the internet](https://www.infostream.cc/more-security-features-for-dropbox-following-hack/)
   * **Fuente**: Naval Alcalá
   * **Descripción**: La popular empresa de almacenamiento en la nube Dropbox fue víctima de un robo masivo de datos, con más de 68 millones de direcciones de correo electrónico y contraseñas de usuarios filtrándose en Internet.
-El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colección de direcciones de correo electrónico de los usuarios había sido robada, no informó que las contraseñas también habían sido robadas.
-
-     El hacker pudo perpetrar este ataque al obtener un documento interno que contenía todas las direcciones de correo electrónico y contraseñas de los usuarios de Dropbox. Basándose en esta información, Dropbox observó que el hackeo fue perpetrado por un **empleado interno**.
-
+El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colección de direcciones de correo electrónico de los usuarios había sido robada, no informó que las contraseñas también habían sido robadas. El hacker pudo perpetrar este ataque al obtener un documento interno que contenía todas las direcciones de correo electrónico y contraseñas de los usuarios de Dropbox. Basándose en esta información, Dropbox observó que el hackeo fue perpetrado por un **empleado interno**.
   * **Estrategia**: Al ser un ataque realizado por un empleado interno, éste resulta muy difícil de controlar ya que se encuentra el enemigo dentro de casa, sin embargo se hace patente que hubiera sido necesario realizar un mayor control de los privilegios que tienen los empleados, así como no facilitar el acceso directo a los datos de los usuarios a más personal del estrictamente necesario para poder tener muy controlado quien dispone de ese acceso.
-  * **Solución**: Dropbox envió notificaciones a todos sus usuarios que no habían cambiado sus contraseñas desde 2012. La compañía tenía alrededor de 100 millones de clientes en ese momento, lo que significa que el volcado de datos representa más de dos tercios de sus cuentas de usuario. [The Guardian](https://www.theguardian.com/technology/2016/aug/31/dropbox-hack-passwords-68m-data-breach)
-  
-      Además se incluyeron procedimientos para permitir a los usuarios la oportunidad de consultar el historial de inicio de sesión relacionado con su cuenta.
-  
-      Sin embargo esta no sería la solución más acertada ya que se podrían seguir accediendo a esas cuentas, la idea hubiera sido bloquearlas hasta que el usuario tuviera que mediante su correo electrónico volver a activar la cuenta; además se avisó muy tarde de la incidencia por lo que los usuarios seguían siendo muy vulnerables a correos fraudulentos.
-
-      Un software apropiado para solucionar las filtraciones de datos y amenazas internas sería [Insider Threat de Forcepoint](https://www.forcepoint.com/es/product/insider-threat), permite identificar rápidamente los indicadores de comportamiento de robo de datos para evitar la exfiltración. El software permite seguir el rastro de los usuarios mediante una completa historia que contiene acciones de usuarios y la reproducción del video en vivo que brinda el contexto necesario para demostrar o refutar la intención maliciosa. Además permite controlar sistemas críticos y analizar las acciones de los usuarios en los mismos.
+  * **Solución**: Dropbox envió notificaciones a todos sus usuarios que no habían cambiado sus contraseñas desde 2012. La compañía tenía alrededor de 100 millones de clientes en ese momento, lo que significa que el volcado de datos representa más de dos tercios de sus cuentas de usuario. [The Guardian](https://www.theguardian.com/technology/2016/aug/31/dropbox-hack-passwords-68m-data-breach). Además se incluyeron procedimientos para permitir a los usuarios la oportunidad de consultar el historial de inicio de sesión relacionado con su cuenta. Sin embargo esta no sería la solución más acertada ya que se podrían seguir accediendo a esas cuentas, la idea hubiera sido bloquearlas hasta que el usuario tuviera que mediante su correo electrónico volver a activar la cuenta; además se avisó muy tarde de la incidencia por lo que los usuarios seguían siendo muy vulnerables a correos fraudulentos. Un software apropiado para solucionar las filtraciones de datos y amenazas internas sería [Insider Threat de Forcepoint](https://www.forcepoint.com/es/product/insider-threat), permite identificar rápidamente los indicadores de comportamiento de robo de datos para evitar la exfiltración. El software permite seguir el rastro de los usuarios mediante una completa historia que contiene acciones de usuarios y la reproducción del video en vivo que brinda el contexto necesario para demostrar o refutar la intención maliciosa. Además permite controlar sistemas críticos y analizar las acciones de los usuarios en los mismos.
 
 * [SunPower Lawsuit Highlights Insider Threat](https://www.cio.com/article/2399369/sunpower-lawsuit-highlights-insider-threat.html) 
-* **Fuente**: Jaime Conchello
-* **Descripción**:  SunPower Corp demandó a 5 ex trabajadores por haber descargado miles de  ficheros 
-			 con información confidencial sobre la empresa poco antes de ser despedidos. 
-			 En concreto, copiaron a  sus memorias USB datos sobre ventas y los principales clientes de 
-			 la entidad. El ataque no fue detectado hasta meses después, cuando uno de los 5
-			 demandados intento acceder de nuevo a los servidores de la empresa con su antiguo
-			 correo corporativo.
-* **Estratregia**: En este caso, la mejor estrategia podría consistir en realizar una monitorización
-			sobre los ficheros considerados como confidenciales y generar logs sobre cualquier
-			acceso a la base de datos, principalmente controlando el tamaño acumulado de los
-			ficheros descargados durante un cierto periodo de tiempo. Adicionalmente se podría
-			restringir el uso de memorias USB en los sistemas de la empresa.
-* **Solución**: Se podria emplear el software [Ekran system](https://www.ekransystem.com/es), para 
+  * **Fuente**: Jaime Conchello
+  * **Descripción**:  SunPower Corp demandó a 5 ex trabajadores por haber descargado miles de  ficheros con información confidencial sobre la empresa poco antes de ser despedidos. En concreto, copiaron a  sus memorias USB datos sobre ventas y los principales clientes de la entidad. El ataque no fue detectado hasta meses después, cuando uno de los 5 demandados intento acceder de nuevo a los servidores de la empresa con su antiguo correo corporativo.
+  * **Estratregia**: En este caso, la mejor estrategia podría consistir en realizar una monitorización sobre los ficheros considerados como confidenciales y generar logs sobre cualquier acceso a la base de datos, principalmente controlando el tamaño acumulado de los ficheros descargados durante un cierto periodo de tiempo. Adicionalmente se podría restringir el uso de memorias USB en los sistemas de la empresa.
+  * **Solución**: Se podria emplear el software [Ekran system](https://www.ekransystem.com/es), para 
 automatizar la generación de logs. El software permite también [bloquear el uso de memorias USB](https://www.ekransystem.com/es/product/usb-blocking)
   
 ### 2013
