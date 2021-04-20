@@ -536,6 +536,14 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Descripción**: Reality Legiht Winner es una ex-especialista en inteligencia estadounidense arrestada en 2017 y condenada en 2018 a más de 5 años de prisión por publicar diferentes informes clasificados de la Agencia de Seguridad Nacional (NSA) al medio de comunicación *The Intercept*.
   * **Estrategia**: Para controlar este tipo de filtraciones, se deberían de revisar y cointrolar los permisos que tienen los diferentes trabajadores, de modo que para acceder a datos clasificados, sea requerido unos privilegios de alto nivel. Además, se deberían de registrar los accesos a este tipo de datos, de modo que en todo momemnto se sepa quien ha accedido a esos datos.
 
+**2018**
+
+* [How a Low-Level Apple Employee Leaked Some of the iPhone's Most Sensitive Code](https://www.vice.com/en/article/xw5yd7/how-iphone-iboot-source-code-leaked-on-github)
+  * **Fuente**: Samuel Bonito
+  * **Descripción**: Un becario de Apple filtra el código fuente de iBoot relativo al arranque seguro en dispositivos iPhone. El trabajador filtró el código a un grupo de amigos que pertenecían a una comunidad de jailbreak, los cuales le animaron a que les proporcionara dicho código para romper las comprobaciones de seguridad en el proceso de arranque del sistema operativo, lo que les permitía abrir nuevas puertas al pirateo de apps o la posibilidad de ejecutar iOS en chips que no sean diseñados por Apple.
+  * **Estrategia**: Para evitar filtraciones de código crítico por parte de trabajadores, se debe implementar una estricto control de permisos para que cada persona acceda sólo a lo estrictamente necesario, así como tener mecanismos de auditoría en tiempo real y control de la información que se transfiere al exterior (dispositivos USB, correo, conexiones a servicios de terceros).
+  * **Solución**: Una opción para mejorar el control de la información crítica puede ser instalar un software de auditoría en el servidor de archivos, junto con software de prevención de fugas de información. Por ejemplo el producto [Data leak prevention de DataSecurity Plus](https://www.manageengine.com/data-security/dlp/data-leak-prevention-software.html).
+
 ## Vengativos
 
 ### 1996
