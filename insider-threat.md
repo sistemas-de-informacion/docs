@@ -178,6 +178,22 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
       Sin embargo esta no sería la solución más acertada ya que se podrían seguir accediendo a esas cuentas, la idea hubiera sido bloquearlas hasta que el usuario tuviera que mediante su correo electrónico volver a activar la cuenta; además se avisó muy tarde de la incidencia por lo que los usuarios seguían siendo muy vulnerables a correos fraudulentos.
 
       Un software apropiado para solucionar las filtraciones de datos y amenazas internas sería [Insider Threat de Forcepoint](https://www.forcepoint.com/es/product/insider-threat), permite identificar rápidamente los indicadores de comportamiento de robo de datos para evitar la exfiltración. El software permite seguir el rastro de los usuarios mediante una completa historia que contiene acciones de usuarios y la reproducción del video en vivo que brinda el contexto necesario para demostrar o refutar la intención maliciosa. Además permite controlar sistemas críticos y analizar las acciones de los usuarios en los mismos.
+
+* [SunPower Lawsuit Highlights Insider Threat](https://www.cio.com/article/2399369/sunpower-lawsuit-highlights-insider-threat.html) 
+* **Fuente**: Jaime Conchello
+* **Descripción**:  SunPower Corp demandó a 5 ex trabajadores por haber descargado miles de  ficheros 
+			 con información confidencial sobre la empresa poco antes de ser despedidos. 
+			 En concreto, copiaron a  sus memorias USB datos sobre ventas y los principales clientes de 
+			 la entidad. El ataque no fue detectado hasta meses después, cuando uno de los 5
+			 demandados intento acceder de nuevo a los servidores de la empresa con su antiguo
+			 correo corporativo.
+* **Estratregia**: En este caso, la mejor estrategia podría consistir en realizar una monitorización
+			sobre los ficheros considerados como confidenciales y generar logs sobre cualquier
+			acceso a la base de datos, principalmente controlando el tamaño acumulado de los
+			ficheros descargados durante un cierto periodo de tiempo. Adicionalmente se podría
+			restringir el uso de memorias USB en los sistemas de la empresa.
+* **Solución**: Se podria emplear el software [Ekran system](https://www.ekransystem.com/es), para 
+automatizar la generación de logs. El software permite también [bloquear el uso de memorias USB](https://www.ekransystem.com/es/product/usb-blocking)
   
 ### 2013
 
