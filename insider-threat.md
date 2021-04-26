@@ -295,6 +295,12 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Descripción**: Un investigador de seguridad de 24 años evitó la prisión al admitir el hackeo de los servidores de Microsoft y Nintendo, unido al robo de información confidencial.
   * **Estrategia**: Este empleado había obtenido acceso a un servidor de Microsoft utilizando un nombre de usuario interno y una contraseña, y luego cargó un shell web para acceder de forma remota a la red de Microsoft libremente durante al menos tres semanas. Asimismo, ejecutó varios shells que le permitieron buscar a través de la red de Microsoft, cargar archivos y descargar datos.
 
+* [Tesla despide a un empleado por robar información confidencial](https://www.clarin.com/tecnologia/tesla-despide-empleado-robar-informacion-confidencial_0_jMjC45QUh.html)
+  * **Fuente**: Eduardo Sánchez Sánchez
+  * **Descripción**: Un empleado recién contratado como ingeniero de software de control de calidad robó archivos de la red interna relacionados con el software de automatización de procesos comerciales moviéndolos a su cuenta de personal de Dropbox. La fuga de información fue detenida casi en el acto usando los protocolos correspondientes, pues habían sospechas sobre la persona.
+  * **Estrategia**: El empleado tenía acceso a datos comprometidos que no tenían que ver con su trabajo. Con un sistema de información basado en roles que impiediera al empleado acceder a datos que no tuvieran que ver con su trabajo se podría haber mitigado parcialmente, pero no impide el robo de datos que si le sean relevantes. Para ello se podría hacer una monitorización del trabajo del empleado, impidiendo el uso de herramientas como Dropbox.
+  * **Solución**: [Snort](https://www.snort.org/) es un proyecto open-sourced que utiliza una serie de reglas que detectan el uso malicioso de la actividad de una red y genera alertas acorde a ello. Se puede aplicar directamente en la red de la empresa y se actualiza constantemente.
+
 ## Ladrones de dinero
 
 ### 2015
