@@ -274,6 +274,12 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Descripción**: Un investigador de seguridad de 24 años evitó la prisión al admitir el hackeo de los servidores de Microsoft y Nintendo, unido al robo de información confidencial.
   * **Estrategia**: Este empleado había obtenido acceso a un servidor de Microsoft utilizando un nombre de usuario interno y una contraseña, y luego cargó un shell web para acceder de forma remota a la red de Microsoft libremente durante al menos tres semanas. Asimismo, ejecutó varios shells que le permitieron buscar a través de la red de Microsoft, cargar archivos y descargar datos.
 
+* [Robo masivo de los datos personales de clientes de una sex-shop española en Internet](https://www.elmundo.es/tecnologia/2021/01/26/60100e5afdddffc80e8b4605.html)
+  * **Fuente**: Javier Morón Borraz
+  * **Descripción**: La tienda erótica de Internet llamada "Platanomelon" sufre un robo de datos personales de sus clientes. Dicho robo procede de dos ex exmpleados de la plataforma para ventas en línea Shopify, a traves de cuyo sistema se efectúan las compras de los artículos relacionados con la tienda erótica. 
+  * **Estrategia**: Ambos empleados no deberían tener acceso a los registros de transacciones de clientes de ninguna forma, por lo que la responsabilidad de este problema responde al sector o personal que gestiona las cuentas de empleados de la empresa. Si se hace un riguroso examen y revisión de los permisos y las cuentas disponibles para los empleados, así como la suspensión de las cuentas para antiguos empleados, la probabilidad de que este problema se repita disminuiría.
+
+
 ## Ladrones de dinero
 
 **2015**
