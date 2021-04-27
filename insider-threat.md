@@ -295,6 +295,11 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Descripción**: Un investigador de seguridad de 24 años evitó la prisión al admitir el hackeo de los servidores de Microsoft y Nintendo, unido al robo de información confidencial.
   * **Estrategia**: Este empleado había obtenido acceso a un servidor de Microsoft utilizando un nombre de usuario interno y una contraseña, y luego cargó un shell web para acceder de forma remota a la red de Microsoft libremente durante al menos tres semanas. Asimismo, ejecutó varios shells que le permitieron buscar a través de la red de Microsoft, cargar archivos y descargar datos.
 
+* [Robo masivo de los datos personales de clientes de una sex-shop española en Internet](https://www.elmundo.es/tecnologia/2021/01/26/60100e5afdddffc80e8b4605.html)
+  * **Fuente**: Javier Morón Borraz
+  * **Descripción**: La tienda erótica de Internet llamada "Platanomelon" sufre un robo de datos personales de sus clientes. Dicho robo procede de dos ex exmpleados de la plataforma para ventas en línea Shopify, a traves de cuyo sistema se efectúan las compras de los artículos relacionados con la tienda erótica. 
+  * **Estrategia**: Ambos empleados no deberían tener acceso a los registros de transacciones de clientes de ninguna forma, por lo que la responsabilidad de este problema responde al sector o personal que gestiona las cuentas de empleados de la empresa. Si se hace un riguroso examen y revisión de los permisos y las cuentas disponibles para los empleados, así como la suspensión de las cuentas para antiguos empleados, la probabilidad de que este problema se repita disminuiría.
+
 * [Tesla despide a un empleado por robar información confidencial](https://www.clarin.com/tecnologia/tesla-despide-empleado-robar-informacion-confidencial_0_jMjC45QUh.html)
   * **Fuente**: Eduardo Sánchez Sánchez
   * **Descripción**: Un empleado recién contratado como ingeniero de software de control de calidad robó archivos de la red interna relacionados con el software de automatización de procesos comerciales moviéndolos a su cuenta de personal de Dropbox. La fuga de información fue detenida casi en el acto usando los protocolos correspondientes, pues habían sospechas sobre la persona.
