@@ -299,7 +299,7 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Fuente**: Eduardo Sánchez Sánchez
   * **Descripción**: Un empleado recién contratado como ingeniero de software de control de calidad robó archivos de la red interna relacionados con el software de automatización de procesos comerciales moviéndolos a su cuenta de personal de Dropbox. La fuga de información fue detenida casi en el acto usando los protocolos correspondientes, pues habían sospechas sobre la persona.
   * **Estrategia**: El empleado tenía acceso a datos comprometidos que no tenían que ver con su trabajo. Con un sistema de información basado en roles que impiediera al empleado acceder a datos que no tuvieran que ver con su trabajo se podría haber mitigado parcialmente, pero no impide el robo de datos que si le sean relevantes. Para ello se podría hacer una monitorización del trabajo del empleado, impidiendo el uso de herramientas como Dropbox.
-  * **Solución**: [Snort](https://www.snort.org/) es un proyecto open-sourced que utiliza una serie de reglas que detectan el uso malicioso de la actividad de una red y genera alertas acorde a ello. Se puede aplicar directamente en la red de la empresa y se actualiza constantemente.
+  * **Solución**: [Snort](https://www.snort.org/) es un proyecto open-sourced que utiliza una serie de reglas que detectan el uso malicioso de la actividad de una red y genera alertas acorde a ello ([por ejemplo Droxbox](https://www.snort.org/rule-docs/1-18609)). Se puede aplicar directamente en la red de la empresa y se actualiza constantemente.
 
 ## Ladrones de dinero
 
