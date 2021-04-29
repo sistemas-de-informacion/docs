@@ -36,6 +36,8 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ### 1995
 
+--**SAP y Agencia irlandesa 380M$ (https://www.computerworld.com/article/2558350/irish-agency-halts-work-on-two-sap-application-projects.html) (Fuente: Oscar Anadon)
+
 ### 1996
 
 - **SAP y Dell Computers** : [Dell abandona la implementación de SAP a mitad por ser demasiado monolítico](https://books.google.es/books?id=sVS9AQAAQBAJ&pg=PA92&lpg=PA92&dq=dell+%22r/3%22&source=bl&ots=Zr4ks2k8C4&sig=NNppW0r0UnghiNS2sD3PZU0QQmU&hl=es&sa=X&ved=0ahUKEwi-7byQmZvLAhUEuRoKHQ9ZA_wQ6AEIMTAC#v=onepage&q=dell%20%22r%2F3%22&f=false) (Fuente: Beatriz Pérez)
@@ -593,6 +595,7 @@ La sustitución de un ERP desarrollado internamente durante 30 años por SAP cau
 ### 2016
 
 - **ERP desconocido y PG&E**: [Pacific Gas and Electric Database Exposed](https://mackeeper.com/blog/post/231-pacific-gas-and-electric-database-exposed) (Fuente: Alberto Mur)
+Enlace añadido con conclusiones del error, explicaciones extendidas y video analizador de riesgos de contratar grandes sistemas integradores (https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) (Fuente: Oscar, Anadon)
 
 - **Oracle PeopleSoft, IBM (implementador) y Public Services and Procurement Canada (PSPC)**:
 Las personalizaciones hacen imposible migrar de la versión 9.1 a la versión 9.2 de PeopleSoft.
@@ -647,6 +650,8 @@ Instalación en 2017. Problemas en 2018.
 
 - **SAP y Diageo** : [Cómo la mala negociación de términos y condiciones puede acabar en juicio](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854) (Fuente: Pablo Jordán). [Más información](https://softwarenegotiation.com/sap-uk-ltd-v-diageo-great-britain-limited-ramifications-indirect-access-erp-license-agreements/)
 
+- **SAP Y UC** [Costly effort to cut UC employees’ paychecks] (https://www.dailynews.com/2017/04/20/costly-effort-to-cut-uc-employees-paychecks/) (fuente: Oscar Anadon)
+
 ### 2018
 
 - **ERP desconocido y [Dogi](http://www.dogi.es/)**: [El grupo Dogi de Nextil sufre perdidas en ventas por su nuevo ERP](https://www.modaes.es/empresa/el-dueno-de-dogi-crece-un-167-en-2018-pero-engorda-sus-perdidas-por-la-reestructuracion.html)(Fuente: Alejandro Adell)
@@ -690,9 +695,14 @@ Remplazo fallido de ERP de la empresa Unit4. Existen [registros](http://www.gwrc
 - **SAP y Alliance Group (Nueva Zelanda)**:
 Cambio de ERP a Microsoft 365 en la empresa agrícola Alliance Group después de haber gastado 57M$ en SAP.  [Lexel rebuilds Alliance Group's workplace as $57M ERP upgrade proceeds](https://www.reseller.co.nz/article/683525/lexel-systems-takes-alliance-group-co-op-cloud-modern-workplace/) (Fuente: Fernando Navarro)
 
+-  **ERP y USA** colleges Hackeos en universidades estadounidenses debido a vulnerabilidades de ERP: (https://www.zdnet.com/article/hackers-target-62-us-colleges-by-exploiting-erp-vulnerability/) (Fuente: Oscar Anadon)
+
 ## Década de 2020
 
 ### 2020
 
 - **GamesWorkshop y Microsoft Dynamics**:
 [Tabletop battle-toys purveyor Games Workshop again warns of risks in Microsoft Dynamics 365 ERP project](https://www.theregister.com/2020/01/14/games_workshop_warns_of_risks_in_microsoft_dynamics_365_erp_project/) (Fuente: Adrian Garcia)
+
+- **SAP y la Union de trabajadores de Alberta:**
+(https://www.cbc.ca/news/canada/calgary/alberta-union-of-provincial-employees-aupe-susan-slade-1.5894680) (Fuente: Oscar Anadon)
