@@ -36,7 +36,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ### 1995
 
---**SAP y Agencia irlandesa 380M$ (https://www.computerworld.com/article/2558350/irish-agency-halts-work-on-two-sap-application-projects.html) (Fuente: Oscar Anadon)
+--**SAP y Irish Health Service Executive (HSE)**: [Irish agency halts work on two SAP application projects](https://www.computerworld.com/article/2558350/irish-agency-halts-work-on-two-sap-application-projects.html) (Fuente: Oscar Anadon)
 
 ### 1996
 
@@ -138,7 +138,7 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 
 - **i2 y Nike**:
 [Nike Rebounds and Why Nike Recovered from its Supply Chain Disaster](http://www.cio.com/article/2439601/supply-chain-management/nike-rebounds--how--and-why--nike-recovered-from-its-supply-chain-disaster.html)  (Fuente: Adrián Gañán, corregido por Rubén Moreno).
-Página con información ampliada del tema: [Nike Case Study Analysis: ERP System Failure](https://myassignmenthelp.com/free-samples/nike-case-study-analysis-erp-system-failure) ( Fuente : Adrián Crespo ), https://college-erp-30.webself.net/nike-story-of-erp-implementation (Fuente: Oscar Anadon O.
+Página con información ampliada del tema: [Nike Case Study Analysis: ERP System Failure](https://myassignmenthelp.com/free-samples/nike-case-study-analysis-erp-system-failure) ( Fuente : Adrián Crespo )
 
 - **Intentia AB y CosmeticCo (nombre ficticio, China)**: [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
 
@@ -321,7 +321,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 
 - **SAP y Distrito Escolar de Los Ángeles (EE.UU.)**: [LA school district and Deloitte in $18m failure settlement](http://www.zdnet.com/article/la-school-district-and-deloitte-in-18m-failure-settlement/) (Fuente: Alejandro Guiu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
 
-- **SAP y [Waste Management](http://www.wm.com/index.jsp)**: [SAP fires back at Waste Management](http://www.cio.com/article/443864/SAP_Fires_Back_At_Waste_Management) (Fuente: Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo ), https://www.wayferry.com/software-failures-over-100-million ( Fuente: Oscar Anadon)
+- **SAP y [Waste Management](http://www.wm.com/index.jsp)**: [SAP fires back at Waste Management](http://www.cio.com/article/443864/SAP_Fires_Back_At_Waste_Management) (Fuente: Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo )
 
 - **Oracle y Arizona State University (ASU)**:
 El coste de la implementación fue sustancialmente por debajo del presupuesto, una rareza extrema en el mundo de las implementaciones de ERP. Sin embargo, esto se produce a expensas de la calidad, la usabilidad y la moral de los empleados de la ASU.
@@ -517,6 +517,8 @@ Mala calidad de datos, problemas de suministros derivados y TPV con problemas ll
 [Target Canada: Mistakes Made from a Software Perspective](https://www.bluelinkerp.com/blog/2016/02/12/target-canada-mistakes-made-from-a-software-perspective/)(Fuente: Víctor Hernández Fernández)
 [Why ERP Projects Fail in Canada - and How to Avoid the Same Fate](https://www.essoft.com/blogs/post/why-erp-projects-fail-canada) (Fuente: Lorena Mehavilla)
 
+- **SAP Y University of California (UC)** [Costly effort to cut UC employees’ paychecks](https://www.dailynews.com/2017/04/20/costly-effort-to-cut-uc-employees-paychecks/) (fuente: Oscar Anadon)
+
 ### 2013
 
 - **Microsoft Dynamics y [ScanSource](http://www.scansource.com/en)** : [Another Year, Another ERP Lawsuit: Accenture/Microsoft Joint-Venture Sued for Bait-and-Switch Tactics](http://spectrum.ieee.org/riskfactor/computing/it/another-year-another-erp-lawsuit-accenturemicrosoft-jointventure-sued-for-baitandswitch-tactics) (Fuente: Julián Liaño)
@@ -594,8 +596,8 @@ La sustitución de un ERP desarrollado internamente durante 30 años por SAP cau
 
 ### 2016
 
-- **ERP desconocido y PG&E**: [Pacific Gas and Electric Database Exposed](https://mackeeper.com/blog/post/231-pacific-gas-and-electric-database-exposed) (Fuente: Alberto Mur)
-Enlace añadido con conclusiones del error, explicaciones extendidas y video analizador de riesgos de contratar grandes sistemas integradores (https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) (Fuente: Oscar, Anadon)
+- **ERP desconocido y PG&E**: [Pacific Gas and Electric Database Exposed](https://mackeeper.com/blog/post/231-pacific-gas-and-electric-database-exposed) (Fuente: Alberto Mur).
+[Enlace añadido](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) con conclusiones del error, explicaciones extendidas y video analizador de riesgos de contratar grandes sistemas integradores (Fuente: Oscar Anadon).
 
 - **Oracle PeopleSoft, IBM (implementador) y Public Services and Procurement Canada (PSPC)**:
 Las personalizaciones hacen imposible migrar de la versión 9.1 a la versión 9.2 de PeopleSoft.
@@ -649,8 +651,6 @@ Instalación en 2017. Problemas en 2018.
 ](https://www.henricodolfing.com/2020/03/project-failure-case-study-bbsi-oracle.html) (Fuente: Sergio García Esteban)
 
 - **SAP y Diageo** : [Cómo la mala negociación de términos y condiciones puede acabar en juicio](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854) (Fuente: Pablo Jordán). [Más información](https://softwarenegotiation.com/sap-uk-ltd-v-diageo-great-britain-limited-ramifications-indirect-access-erp-license-agreements/)
-
-- **SAP Y UC** [Costly effort to cut UC employees’ paychecks] (https://www.dailynews.com/2017/04/20/costly-effort-to-cut-uc-employees-paychecks/) (fuente: Oscar Anadon)
 
 ### 2018
 
