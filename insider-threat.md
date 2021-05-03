@@ -536,12 +536,12 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Estrategia**: Controlar los permisos de los trabajadores, en este caso una vez se ha terminado el contrato y deberían quitarles los permisos ya que han dejado de ser sus trabajadores.
   * **Solución**: Es necesario un software de control de permisos para los usuarios. Para ello puede utilizarse el módulo de recursos humanos del ERP que esten utilizando, ya que este módulo gestiona las contrataciones y la finalización de contratos. También podría utilizar un software específico de control de permisos en empresas.
   
-  **2021**
+**2021**
 
-  * [Una ex empleada detenida por sabotear y extraer información de la base de datos de la empresa en la que trabajó](https://www.ameliarueda.com/nota/mujer-detenida-sabotear-extraer-informacion-base-datos-noticias-costa-rica)
-    * **Fuente:** Fernando Navarro Zarralanga.
-    * **Descripción**: Campos Durán, una ex empleada de una empresa de suministros de oficina fue detenida el 18 de marzo de 2021 por presuntamente realizar ingresos no autorizados en el sistema informático de la empresa en la que trabajó, haciendo modificaciones que afectaron directamente al funcionamiento de la empresa y compartiendo datos con la empresa en la que trabajaba actualmente.
-    * **Estrategia**: Revocar el acceso al sistema informático a los trabajadores cuando dejan de formar parte de la empresa.
+* [Una ex empleada detenida por sabotear y extraer información de la base de datos de la empresa en la que trabajó](https://www.ameliarueda.com/nota/mujer-detenida-sabotear-extraer-informacion-base-datos-noticias-costa-rica)
+  * **Fuente:** Fernando Navarro Zarralanga.
+  * **Descripción**: Campos Durán, una ex empleada de una empresa de suministros de oficina fue detenida el 18 de marzo de 2021 por presuntamente realizar ingresos no autorizados en el sistema informático de la empresa en la que trabajó, haciendo modificaciones que afectaron directamente al funcionamiento de la empresa y compartiendo datos con la empresa en la que trabajaba actualmente.
+  * **Estrategia**: Revocar el acceso al sistema informático a los trabajadores cuando dejan de formar parte de la empresa.
 
 ## Incitar corrupción en terceros
 
