@@ -513,9 +513,10 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Solución**: Uso de monitorización de ficheros con SAP Solution Manager, con un PKI que indique el cambio en el fichero, o con el Solution Packager de Dynamics 365 que deja hacer control de versiones.
 
 **2018**
-*[Ex-Cisco Engineer Pleads Guilty in Insider Threat Case] (https://www.bankinfosecurity.com/ex-cisco-engineer-pleads-guilty-in-insider-threat-case-a-14917) (https://comercioyjusticia.info/opinion/empleado-de-cisco-a-prision-por-vulnerar-sistema/)
-* **Fuente**: Elena Romero de Tejada García
-* **Descripción*: Un ex-ingeniero de Cisco accede de forma no autorizada a un terminal protegido e irrumpe en la infraestructura de la nube de la empresa causando una pérdida de $ 1.4 millones en los sistemas internos de Cisco al implementar código de su cuenta de Google Cloud Project. En consecuencia, cientos de máquinas virtuales interrumpieron el servicio de 16,000 cuentas de clientes WebEx durante semanas. Además, Cisco se vió obligado a pagar $ 1 millón más a los clientes cuyas cuentas habían sido afectadas.
+
+*[Ex-Cisco Engineer Pleads Guilty in Insider Threat Case](https://www.bankinfosecurity.com/ex-cisco-engineer-pleads-guilty-in-insider-threat-case-a-14917)
+  * **Fuente**: Elena Romero de Tejada García
+  * **Descripción*: Un ex-ingeniero de Cisco accede de forma no autorizada a un terminal protegido e irrumpe en la infraestructura de la nube de la empresa causando una pérdida de $ 1.4 millones en los sistemas internos de Cisco al implementar código de su cuenta de Google Cloud Project. En consecuencia, cientos de máquinas virtuales interrumpieron el servicio de 16,000 cuentas de clientes WebEx durante semanas. Además, Cisco se vió obligado a pagar $ 1 millón más a los clientes cuyas cuentas habían sido afectadas.
   
 ## Filtradores
 
