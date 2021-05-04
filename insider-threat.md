@@ -297,7 +297,7 @@ automatizar la generación de logs. El software permite también [bloquear el us
 
 * [Robo masivo de los datos personales de clientes de una sex-shop española en Internet](https://www.elmundo.es/tecnologia/2021/01/26/60100e5afdddffc80e8b4605.html)
   * **Fuente**: Javier Morón Borraz
-  * **Descripción**: La tienda erótica de Internet llamada "Platanomelon" sufre un robo de datos personales de sus clientes. Dicho robo procede de dos ex exmpleados de la plataforma para ventas en línea Shopify, a traves de cuyo sistema se efectúan las compras de los artículos relacionados con la tienda erótica. 
+  * **Descripción**: La tienda erótica de Internet llamada "Platanomelon" sufre un robo de datos personales de sus clientes. Dicho robo procede de dos ex exmpleados de la plataforma para ventas en línea Shopify, a traves de cuyo sistema se efectúan las compras de los artículos relacionados con la tienda erótica.
   * **Estrategia**: Ambos empleados no deberían tener acceso a los registros de transacciones de clientes de ninguna forma, por lo que la responsabilidad de este problema responde al sector o personal que gestiona las cuentas de empleados de la empresa. Si se hace un riguroso examen y revisión de los permisos y las cuentas disponibles para los empleados, así como la suspensión de las cuentas para antiguos empleados, la probabilidad de que este problema se repita disminuiría.
   * **Solución**: Una posible solución reside en el uso de un software que permita la gestión de las cuentas y del acceso del usuario (Identity and Access Management - IAM). Se supervisan las actividades del usuario, se protege la información confidencial y se detectan las amenazas internas. [Ekran System](https://www.ekransystem.com/es/product/access-management) ofrece a las empresas una serie de herramientas que facilitan dicha gestión.
 
@@ -512,6 +512,12 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Descripción**: Un trabajador de Tesla intentó sabotear la producción en la planta de produccion de Fremont en California. El sabotaje incluía la modificación del código del [Tesla Manufacturing Operating System](https://evannex.com/blogs/news/a-fascinating-look-inside-tesla-s-factory) con credenciales falsas que permitiría exportar información confidencial. Este trabajador fue directamente despedido, y Elon Musk mandó un correo anunciándolo a los trabajadores de dicha planta. Las causas fueron un ascenso que el empleado no recibió.
   * **Estrategia**: Tener un software que no sea accesible sin autenticación previa, y que requiera de un doble factor (visto bueno por dos personas) antes de ser modificado.
   * **Solución**: Uso de monitorización de ficheros con SAP Solution Manager, con un PKI que indique el cambio en el fichero, o con el Solution Packager de Dynamics 365 que deja hacer control de versiones.
+
+**2018**
+
+*[Ex-Cisco Engineer Pleads Guilty in Insider Threat Case](https://www.bankinfosecurity.com/ex-cisco-engineer-pleads-guilty-in-insider-threat-case-a-14917)
+  * **Fuente**: Elena Romero de Tejada García
+  * **Descripción*: Un ex-ingeniero de Cisco accede de forma no autorizada a un terminal protegido e irrumpe en la infraestructura de la nube de la empresa causando una pérdida de $ 1.4 millones en los sistemas internos de Cisco al implementar código de su cuenta de Google Cloud Project. En consecuencia, cientos de máquinas virtuales interrumpieron el servicio de 16,000 cuentas de clientes WebEx durante semanas. Además, Cisco se vió obligado a pagar $ 1 millón más a los clientes cuyas cuentas habían sido afectadas.
   
 ## Filtradores
 
@@ -601,8 +607,8 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Descripción**: Un contratista de IT introdujo malware de forma intencionada en los sistemas de pago del ejército de los Estado Unidos después de que sus empleados perdieran el contrato para suministrar tecnología para el ejército. Los militares estiman que estos daños suponen unos costes de 2,6 millones de dólares.
   * **Estrategia**: Controlar los permisos de los trabajadores, en este caso una vez se ha terminado el contrato y deberían quitarles los permisos ya que han dejado de ser sus trabajadores.
   * **Solución**: Es necesario un software de control de permisos para los usuarios. Para ello puede utilizarse el módulo de recursos humanos del ERP que esten utilizando, ya que este módulo gestiona las contrataciones y la finalización de contratos. También podría utilizar un software específico de control de permisos en empresas.
-  
-**2021**
+
+### 2021
 
 * [Una ex empleada detenida por sabotear y extraer información de la base de datos de la empresa en la que trabajó](https://www.ameliarueda.com/nota/mujer-detenida-sabotear-extraer-informacion-base-datos-noticias-costa-rica)
   * **Fuente:** Fernando Navarro Zarralanga.
