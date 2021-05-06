@@ -119,7 +119,6 @@ El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 
 - **SAP, Siebel, Manugistics y [Hershey's](https://www.thehersheycompany.com/en_us/home.html)**:
 [A Case Study on Hershey's ERP implementation failure: the importance of Testing and Scheduling](https://www.academia.edu/12467188/A_Case_Study_on_Hersheys_ERP_Implementation_Failure_The_Importance_of_Testing_and_Scheduling) (Fuente: Andrés Julián y Miguel López),
-
 [ERP Implementation Failure In Hershey's](https://es.slideshare.net/purohit1323/erp-failure-implementation-failure-hershey-foods-corporation) (Fuente: Lorena Mehavilla)
 [ERP Implementation Failure at Hershey Foods Corporation] (https://kopisusa.com/wp-content/uploads/ERP_Implementation_Failure_Hershey_Foods.pdf)(Fuente: Sofía Subías)
 
