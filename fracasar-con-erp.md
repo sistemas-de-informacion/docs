@@ -291,6 +291,8 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 [Critical Failure Factors in ERP Implementation](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1152&context=pacis2005) (Fuente: Irene Fumanal Lacoma)
 
 - **ERP desconocido y empresas reales pero anónimas** : [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
+- 
+- **Avenade y [ScanSource]:** (https://www.scansource.com/en) [ScanSource Sues Avanade For Alleged Botched ERP Project] 50 M de euros y 3 años de implementación por un ERP que nunca se puso en funcionamiento (https://www.crn.com/news/channel-programs/240145447/scansource-sues-avanade-for-alleged-botched-erp-project.htm) (Fuente: Sofia Subias)
 
 ### 2006
 
