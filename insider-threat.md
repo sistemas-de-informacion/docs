@@ -430,7 +430,8 @@ automatizar la generación de logs. El software permite también [bloquear el us
 * [Twitter users scammed because of phished employees](https://www.bbc.com/news/technology-53607374) 
   * **Fuente**: Sofia Subias
   * **Descripción**: Hackers obtuvieron acceso a 130 cuentas de Twitter privadas y corporativas con al menos un millón de seguidores cada una. Usaron 45 de estas cuentas para promover una estafa de Bitcoin. La lista de cuentas pirateadas incluye las de Barack Obama, Elon Musk, Bill Gates... Los usuarios de Twitter transfirieron el equivalente de al menos $180,000 en Bitcoin a cuentas fraudulentas. Los hackers recopilaron información sobre los empleados de la empresa que trabajaban desde casa, los contactaron, se presentaron como administradores de TI de Twitter y les pidieron credenciales de usuario.
-  * **Estrategia**: Seleccionar muy bien a quién conceder información, tener información sensible encriptada.
+  * **Estrategia**: Los empleados deberían seleccionar muy bien a quién conceder información confidencial, además la empresa debería tener la información sensible encriptada.
+ Otra buena práctica para impedir los ataques de hackers, podría ser permitir el acceso a la administración de las cuentas de los clientes únicamente desde las IPs de las oficinas o utilizando claves de superusuario. Además, se deberían evaluar los riesgos de confiar información muy confidencial a muchos empleados y reducir el número de empleados con acceso a dicha información al mínimo posible.
   * **Solución**: Utilizar software que controla y analiza el acceso a información como [Forcepoint Insider Threat](https://www.forcepoint.com/es/product/fit).
   
 ## Saboteadores
