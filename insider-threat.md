@@ -427,10 +427,10 @@ automatizar la generación de logs. El software permite también [bloquear el us
     * Evaluar los riesgos de utilizar el dispositivo electrónico personal de cada empleado.
     * Desarrollar una política de trabajo remoto utilizable.
     
-* [Twitter users scammed because of phished employees] (https://www.bbc.com/news/technology-53607374) 
- * **Fuente**: Sofia Subias
-  * **Descripción**: Hackers obtuvieron acceso a 130 cuentas de Twitter privadas y corporativas con al menos un millón de seguidores cada una. Usaron 45 de estas cuentas para promover una estafa de Bitcoin. La lista de cuentas pirateadas incluye las de Barack Obama, Elon Musk, Bill Gates... Los usuarios de Twitter transfirieron el equivalente de al menos $ 180,000 en Bitcoin a cuentas fraudulentas. Los hackers recopilaron información sobre los empleados de la empresa que trabajaban desde casa, los contactaron, se presentaron como administradores de TI de Twitter y les pidieron credenciales de usuario.
-  * **Estrategia**: Seleccionar muy bien a quién conceder información, tener información sensible encriptada...
+* [Twitter users scammed because of phished employees](https://www.bbc.com/news/technology-53607374) 
+  * **Fuente**: Sofia Subias
+  * **Descripción**: Hackers obtuvieron acceso a 130 cuentas de Twitter privadas y corporativas con al menos un millón de seguidores cada una. Usaron 45 de estas cuentas para promover una estafa de Bitcoin. La lista de cuentas pirateadas incluye las de Barack Obama, Elon Musk, Bill Gates... Los usuarios de Twitter transfirieron el equivalente de al menos $180,000 en Bitcoin a cuentas fraudulentas. Los hackers recopilaron información sobre los empleados de la empresa que trabajaban desde casa, los contactaron, se presentaron como administradores de TI de Twitter y les pidieron credenciales de usuario.
+  * **Estrategia**: Seleccionar muy bien a quién conceder información, tener información sensible encriptada.
   * **Solución**: Utilizar software que controla y analiza el acceso a información como [Forcepoint Insider Threat](https://www.forcepoint.com/es/product/fit).
   
 ## Saboteadores
