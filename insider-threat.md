@@ -411,9 +411,10 @@ automatizar la generación de logs. El software permite también [bloquear el us
 
 ### 2017
 
-* https://computerhoy.com/noticias/moviles/apple-despide-ingeniero-porque-su-hija-youtuber-filtro-iphone-x-70391
-* **Fuente**: Oscar Anadon Olalla.
-* **Descripción**: Apple despide al ingeniero cuya hija subió un video a Youtube hablando de las caracteristicas del entonces todavia no lanzado iPhone X.
+* [Apple despide a ingeniero porque su hija youtuber filtró el iPhone X
+](https://computerhoy.com/noticias/moviles/apple-despide-ingeniero-porque-su-hija-youtuber-filtro-iphone-x-70391)
+  * **Fuente**: Oscar Anadon Olalla.
+  * **Descripción**: Apple despide al ingeniero cuya hija subió un video a Youtube hablando de las caracteristicas del entonces todavia no lanzado iPhone X.
 
 ### 2019
 
