@@ -682,6 +682,11 @@ La compañía habló con el distribuidor de ERP para gestionar las ventas de tod
 - **SAP y Lidl**:
 Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada. [Esto desencadenó una cadena de problemas de implementación] (https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Marta Morales)
 
+- **SAP y MADAR**:
+La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la personalización no se midió ni comprendió, la implementación del ERP no se analizó adecuadamente y la dirección no logró reunir a todos los participantes en el proyecto. [Fallas en la implementación de ERP en Arabia Saudita: Hallazgos clave] (https://medwelljournals.com/abstract/?doi=ibm.2018.10.22)(Fuente: Diego García)
+
+
+
 ### 2019
 
 - **SAP y [LeasePlan](https://www.leaseplan.com/es-es/)**:
