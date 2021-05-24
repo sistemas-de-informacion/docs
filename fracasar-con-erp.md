@@ -330,6 +330,9 @@ El coste de la implementación fue sustancialmente por debajo del presupuesto, u
 **SAP y una cadena de joyerías de Colorado:** 
 La cadena había contratado el proyecto por 8-11M$ pero terminó costando cerca de 36M$ y tardó más de 32 meses en instalarse, provocando además varios errores y dificultades operativas tras su instalación. [SAP Project Costs Cited in Jeweler's Bankruptcy Filing](https://www.cio.com/article/2431335/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html)(Fuente: Alejandro Magallón)
 
+- **SAP y King Saud University (KSU)**:
+La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la personalización no se midió ni comprendió, la implementación del ERP no se analizó adecuadamente y la dirección no logró reunir a todos los participantes en el proyecto. [ERP Implementation Failures in Saudi Arabia: Key Findings](https://medwelljournals.com/abstract/?doi=ibm.2018.10.22)( Fuente: Diego García)
+
 ### 2008
 
 - **Epicor y [Whaley Foodservice Repairs](http://www.whaleyfoodservice.com/)**: [Epicor Sued Over Alleged ERP Project Failure](http://www.pcworld.com/article/237939/article.html) (Fuente: David Enjuanes) y [What Was the Cause of the Recent Epicor ERP Implementation Failure and Lawsuit?](http://panorama-consulting.com/what-was-the-cause-of-the-recent-epicor-erp-implementation-failure-and-lawsuit/) (Fuente: Alejandro Ramón)
@@ -680,12 +683,7 @@ La compañía habló con el distribuidor de ERP para gestionar las ventas de tod
 [Articulo sobre los fallos de PG&E al digitalizar su sistema](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) (Fuente: José Félix Yagüe)
 
 - **SAP y Lidl**:
-Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada. [Esto desencadenó una cadena de problemas de implementación] (https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Marta Morales)
-
-- **SAP y MADAR**:
-La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la personalización no se midió ni comprendió, la implementación del ERP no se analizó adecuadamente y la dirección no logró reunir a todos los participantes en el proyecto. [Fallas en la implementación de ERP en Arabia Saudita: Hallazgos clave] (https://medwelljournals.com/abstract/?doi=ibm.2018.10.22)(Fuente: Diego García)
-
-
+Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada. [Esto desencadenó una cadena de problemas de implementación](https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Marta Morales)
 
 ### 2019
 
