@@ -318,12 +318,12 @@ automatizar la generación de logs. El software permite también [bloquear el us
 
 ### 2020
 
-* [Marriott leaked data because of a compromised third-party app] (https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
-* **Fuente**: Raquel Roy Rubio
+* [Marriott leaked data because of a compromised third-party app](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
+  * **Fuente**: Raquel Roy Rubio
   * **Descripción**: Las credenciales de dos empleados de Marriot para iniciar sesión en una de las aplicaciones de terceros de la cadena hotelera fueron comprometidas. Los sistemas de ciberseguridad de Marriott no notaron la actividad sospechosa de los perfiles de estos empleados hasta pasados dos meses. Lograron acceder a 5.2 millones de registros de huéspedes que incluían información de contacto, sexo, cumpleaños, detalles de la cuenta y preferencias personales.
-* **Estrategia**: (https://dbcybertech.com/pdf/Marriot-Breach-White-Paper.pdf) Según Marriot, la información personal robada se almacenó en un servidor interno comprometido donde luego se cifraron los datos. Es probable que los atacantes encriptaran los datos para ocultarlos, de modo que los sistemas de prevención de pérdida de datos no pudieran identificar la información robada cuando salía de la red de Marriott.
-* **Solución**: Con la supervisión de proveedores externos y el análisis del comportamiento de usuarios y entidades, Marriott podría haber detectado la infracción antes de que los piratas informáticos accedieran a los datos de los clientes.
-
+  * **Estrategia**: [Según Marriot](https://dbcybertech.com/pdf/Marriot-Breach-White-Paper.pdf), la información personal robada se almacenó en un servidor interno comprometido donde luego se cifraron los datos. Es probable que los atacantes encriptaran los datos para ocultarlos, de modo que los sistemas de prevención de pérdida de datos no pudieran identificar la información robada cuando salía de la red de Marriott.
+  * **Solución**: Con la supervisión de proveedores externos y el análisis del comportamiento de usuarios y entidades, Marriott podría haber detectado la infracción antes de que los piratas informáticos accedieran a los datos de los clientes.
+  
 
 ## Ladrones de dinero
 
