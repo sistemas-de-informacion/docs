@@ -367,7 +367,7 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Es difícil eliminar el error humano, pero con formación adecuada y siendo estrictos en la no violación de las políticas de empresa (como envío de e-mails personales con el correo de empresa), se puede minimizar la posibilidad de que éste ocurra. Por otra parte, se podría quitar el autocompletado, requerir de confirmación con todos los datos, o utilizar una solución de No Compartir, que desautoriza el acceso al fichero en caso de activarlo en algún momento. Para saber que hay que activar esta opción, sería una buena idea monitorizar las acciones de los empleados. Además, si lo que estaba realizando el empleado era una operación periódica, podría ser posible automatizarla.
   * **Solución**: Un módulo de HRMS habitual bastante aprovechable relacionado con la estrategia sería el de formación. El de [Peoplesoft](https://docs.oracle.com/cd/E40044_01/psft/acrobat/hcm92hhat-b0313.pdf), por ejemplo, es muy completo y permite gestionar todo el proceso a un nível de detalle muy alto.
 
-  **2018**
+**2018**
 * [Inside a massive cyber hack that risks compromising leaders across the globe](https://www.abc.net.au/news/2019-10-02/anu-cyber-hack-how-personal-information-got-out/11550578?nw=0)
   * **Fuente**: Víctor Jarreta Espligares
   * **Descripción**: Un miembro senior del personal en la Universidad Nacional Australiana (ANU) fue víctima de Phishing con un correo, permitiendo así a un grupo de hackers acceso a información personal de miembros de la universidad.
