@@ -46,7 +46,7 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 ### 2012
 
 * [Intel engineer gave plans to AMD](http://news.techeye.net/chips/intel-engineer-gave-plans-to-amd) (Fuente: Alejandro Gálvez)
-* [Stolen Samsung AMOLED technology sold to rival, 11 suspects arrested](http://bgr.com/2012/04/05/stolen-samsung-amoled-technology-sold-to-rival-11-suspects-arrested/) (Fuente: Alejandro Gálvez)
+* [Stolen Samsung AMOLED technology sold to rival, 11 suspects arrested](http://bgr.com/2012/04/05/stolen-samsung-amoled-technology-sold-to-rival-11-suspects-arrested/) (Fuente: Alejandro Gálvez)
 * [Case Closure: Insider Threat Hanjuan Jin Gets 4 Years in Prison](http://www.raysemko.com/2012/09/05/case-closure-insider-threat-hanjuan-jin-gets-4-years-in-prison/) (Fuente: Beatriz Aguas)
 * [Chicago engineers arrested for stealing trade secrets](https://www.fbi.gov/chicago/press-releases/2012/former-cme-group-software-engineer-pleads-guilty-to-stealing-globex-computer-trade-secrets-while-planning-to-improve-electronic-trading-in-china?utm_campaign=email-Immediate&utm_medium=email&utm_source=chicago-press-releases&utm_content=139576) (Fuente: Mario Navarro Casas)
 * [Zynga suing former employee for stealing trade secrets](http://venturebeat.com/2012/10/15/zynga-suing-former-employee-for-stealing-trade-secrets/) (Fuente: Jesús Guillermo Sesé)
@@ -66,7 +66,7 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 * [NASA tightens security in response to an insider threat](http://www.darkreading.com/risk-management/nasa-tightens-security-in-response-to-insider-threat/d/d-id/1109196) (Fuente: Juan Vela)
 * [Ex-Microsoft Employee Charged With Trade Secret Theft](http://www.bloomberg.com/news/2014-03-20/ex-microsoft-employee-charged-with-trade-secret-theft.html) (Fuente: Julián Liaño)
 * [Kentucky Man Convicted of Theft of Trade Secrets Sentenced in Yakima Federal Court](https://www.fbi.gov/seattle/press-releases/2014/kentucky-man-convicted-of-theft-of-trade-secrets-sentenced-in-yakima-federal-court) (Fuente: Samuel Gascón)
-* [Naval Espionage: Stopping a Dangerous Insider Threat](http://www.fbi.gov/news/stories/2014/march/naval-espionage-stopping-a-dangerous-insider-threat/naval-espionage-stopping-a-dangerous-insider-threat) (Fuente: Santiago Sarasa)
+* [Naval Espionage: Stopping a Dangerous Insider Threat](http://www.fbi.gov/news/stories/2014/march/naval-espionage-stopping-a-dangerous-insider-threat/naval-espionage-stopping-a-dangerous-insider-threat) (Fuente: Santiago Sarasa)
 
 ### 2015
 
@@ -194,10 +194,10 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Estrategia**: No tener papeles con informacion confidencial a la vista y acceso de todo el mundo, tratar de llevar un control de quien accede a los datos en todo momento y de que esos datos no puedan salir del entorno laboral protegido
 
 * [Vodafone Germany confirms insider data theft: Two million customers affected](https://www.zdnet.com/article/vodafone-germany-confirms-insider-data-theft-two-million-customers-affected/).
-  ***Fuente**: David Sáez García
-  * **Descripción**: Datos sobre clientes de Vodafone Alemania fueron robados por un trabajador de la compañia. Estos datos robados se corresponden a nombres, direcciones, fechas de nacimiento y datos bancarios. Afortunadamente, el atacante no pudo robar información mas comprometida, como números de tarjetas de crédito.
-  * **Estrategia**: Monitorizar en tiempo real las acciones realizadas por los empleados. De esta forma se pueden evitar casos como el descrito e intervenir antes de que el atacante haya podido almacenar información comprometida.
-* **Solución**: [ActivTrak](https://activtrak.com/what-is-activtrak/), que es una herramienta que rastrear las actividades de un equipo de trabajo en tiempo real, notificando comportamientos sospechosos si estos existen. Además, se puede configurar para que genere reportes periódicamente.
+  * **Fuente**: David Sáez García
+  * **Descripción**: Datos sobre clientes de Vodafone Alemania fueron robados por un trabajador de la compañia. Estos datos robados se corresponden a nombres, direcciones, fechas de nacimiento y datos bancarios. Afortunadamente, el atacante no pudo robar información mas comprometida, como números de tarjetas de crédito.
+  * **Estrategia**: Monitorizar en tiempo real las acciones realizadas por los empleados. De esta forma se pueden evitar casos como el descrito e intervenir antes de que el atacante haya podido almacenar información comprometida.
+  * **Solución**: [ActivTrak](https://activtrak.com/what-is-activtrak/), que es una herramienta que rastrear las actividades de un equipo de trabajo en tiempo real, notificando comportamientos sospechosos si estos existen. Además, se puede configurar para que genere reportes periódicamente.
 
 ### 2014
 
@@ -433,6 +433,14 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Fuente**: Oscar Anadon Olalla.
   * **Descripción**: Apple despide al ingeniero cuya hija subió un video a Youtube hablando de las caracteristicas del entonces todavia no lanzado iPhone X.
 
+### 2018
+
+* [Inside a massive cyber hack that risks compromising leaders across the globe](https://www.abc.net.au/news/2019-10-02/anu-cyber-hack-how-personal-information-got-out/11550578?nw=0)
+  * **Fuente**: Víctor Jarreta Espligares
+  * **Descripción**: Un miembro senior del personal en la Universidad Nacional Australiana (ANU) fue víctima de Phishing con un correo, permitiendo así a un grupo de hackers acceso a información personal de miembros de la universidad.
+  * **Estrategia**: Cierto es que la estafa de Phishing lleva siendo un problema durante muchos años, este problema se incrementa mucho más si puede afectar a empresas o a la administración pública, donde la cantidad y delicadeza de la información puede ser mucho mayor. La principal estrategia sería formar al personal en lo referido a estafas y hackeos por correo, donde además se podría añadir un software que ayudase a detectar dichos correos.
+  * **Solución**: Formar a los trabajadores con cursos anti-Phishing, como por ejemplo con cursos de [Global Learning Systems](https://www.globallearningsystems.com/) que proporciona [cursos específicos para este caso](https://www.globallearningsystems.com/anti-phishing-essentials/). En lo referido al software para los correos, hay múltiples opciones como se puede ver en [este artículo](https://www.toolbox.com/it-security/vulnerability-management/articles/top-10-anti-phishing-software/), un ejemplo sería [Cofense](https://cofense.com/) que proporciona: reportes de amenazas de forma dinámica, integración con otros sistemas, cuarentena de correos, simulaciones de amenazas de Phishing para comprobar el funcionamiento, analizador automático de correos y SPAM, y una interfaz para los trabajadores.
+
 ### 2019
 
 * [Microsoft Security Shocker As 250 Million Customer Records Exposed Online](https://www.forbes.com/sites/daveywinder/2020/01/22/microsoft-security-shocker-as-250-million-customer-records-exposed-online/?sh=156f51704d1b)
@@ -461,7 +469,7 @@ automatizar la generación de logs. El software permite también [bloquear el us
 
 ### 2005
 
-* [4 empleados llevan su empresa a la quiebra](http://www.elmundo.es/elmundo/2011/03/27/valencia/1301223855.html)  
+* [4 empleados llevan su empresa a la quiebra](http://www.elmundo.es/elmundo/2011/03/27/valencia/1301223855.html)  
   * **Fuente**: David Puente Mur
   * **Descripción**: Tras un desacuerdo laboral cuatro empleados de una empresa familiar de transporte se confabularon a modo de extorsión para cogerse varias bajas consecutivas por dolencias supuestamente simuladas ya que eran fáciles de fingir y difíciles de objetivizar por facultativos llegando a llevar a la empresa a la quiebra pese a haber sido finalmente despedidos.
 
@@ -482,7 +490,7 @@ automatizar la generación de logs. El software permite también [bloquear el us
 
 ### 2013
 
-* [Disgruntled worker who caused £175,000 damage to office by smashing up EVERY room with hammer and wrote 'gross misconduct' in blood on wall is jailed](http://www.dailymail.co.uk/news/article-2348230/Former-employee-jailed-revenge-attack-Bristol-Flying-Centre.html) (Fuente: Alejandro Gálvez)
+* [Disgruntled worker who caused £175,000 damage to office by smashing up EVERY room with hammer and wrote 'gross misconduct' in blood on wall is jailed](http://www.dailymail.co.uk/news/article-2348230/Former-employee-jailed-revenge-attack-Bristol-Flying-Centre.html) (Fuente: Alejandro Gálvez)
 
 ### 2014
 
@@ -660,7 +668,7 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
 * [Nintendo source code for N64, wii and gamecube leaked](https://www.bankinfosecurity.com/nintendo-source-code-for-n64-wii-gamecube-leaked-a-14220)
   * **Fuente**: Jorge Rambla Gonzalez
   * **Descripción**: Nintendo sufre uno de los mayores robos de su historia, al ser filtrados desde antiguos empleados los códigos fuentes de las consolas Nintendo64, wii y gamecube, asi como su descripción de hardware en VHDL.
-  * **Estrategia**: Prevenir el acceso de los empleados a los distintos ficheros de código, de tal manera que nunca nadie tenga el total acceso a todos los ficheros.
+  * **Estrategia**: Prevenir el acceso de los empleados a los distintos ficheros de código, de tal manera que nunca nadie tenga el total acceso a todos los ficheros. 
 * [Secret NHS files reveal plans for coronavirus contact tracing app](https://www.wired.co.uk/article/nhs-covid-19-app-health-status-future)
   * **Fuente**: Diego García Muro / Alejandro Magallón
   * **Descripción**: [NHS](https://www.nhs.uk/), encargada de una aplicación para rastrear contactos con personas con COVID-19, dejó en Google Drive archivos confidenciales relacionados con dicha aplicación. 
