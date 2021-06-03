@@ -418,6 +418,12 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Estrategia**: Es difícil eliminar el error humano, pero con formación adecuada y siendo estrictos en la no violación de las políticas de empresa (como envío de e-mails personales con el correo de empresa), se puede minimizar la posibilidad de que éste ocurra. Por otra parte, se podría quitar el autocompletado, requerir de confirmación con todos los datos, o utilizar una solución de No Compartir, que desautoriza el acceso al fichero en caso de activarlo en algún momento. Para saber que hay que activar esta opción, sería una buena idea monitorizar las acciones de los empleados. Además, si lo que estaba realizando el empleado era una operación periódica, podría ser posible automatizarla.
   * **Solución**: Un módulo de HRMS habitual bastante aprovechable relacionado con la estrategia sería el de formación. El de [Peoplesoft](https://docs.oracle.com/cd/E40044_01/psft/acrobat/hcm92hhat-b0313.pdf), por ejemplo, es muy completo y permite gestionar todo el proceso a un nível de detalle muy alto.
 
+### 2017
+
+* [Apple despide a ingeniero porque su hija youtuber filtró el iPhone X](https://computerhoy.com/noticias/moviles/apple-despide-ingeniero-porque-su-hija-youtuber-filtro-iphone-x-70391)
+  * **Fuente**: Oscar Anadon Olalla.
+  * **Descripción**: Apple despide al ingeniero cuya hija subió un video a Youtube hablando de las caracteristicas del entonces todavia no lanzado iPhone X.
+
 ### 2019
 
 * [Microsoft Security Shocker As 250 Million Customer Records Exposed Online](https://www.forbes.com/sites/daveywinder/2020/01/22/microsoft-security-shocker-as-250-million-customer-records-exposed-online/?sh=156f51704d1b)
