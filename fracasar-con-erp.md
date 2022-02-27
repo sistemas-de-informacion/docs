@@ -263,6 +263,8 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [A Study of Success and Failure in ERP Implementation: The Case of the Agricultural Products Processing Center](http://modul.repo.mercubuana-yogya.ac.id/modul/files/openjournal/JournalOfEngineering/18_262.pdf) (Fuente: Marta Lampaya)
 
 ### 2003
+- **Alpha Holdings y Omega con su ERP eMAG**:
+[Explaining ERP failure in a developing country: a Jordanian case study](https://www.emerald.com/insight/content/doi/10.1108/17410391011019741/full/html#idm45708267811312) ( Fuente: Raúl Daramus )
 
 - **Baan y Dexter Axle**:
 [Court of Appeals of Indiana](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) ( Fuente: Adrián Crespo )
