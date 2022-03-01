@@ -404,6 +404,9 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 - **SAP y Shane (EE.UU)**:
 [Shane Company: Lessons Learned From an ERP Implementation Failure](http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/) (Fuente: Andrés Soldevilla)
 
+- **ERP y UK furniture manufacturer’s (nombre ficticio) (United Kingdom)**:
+[ERP Non-Implementation: A Case Study](https://usir.salford.ac.uk/id/eprint/37933/8/ERP%20Non%20Implementation%20-%20FDraft-07.pdf) (Fuente: Sergio Hernández)
+
 ### 2007
 
 - **ERP A y ERP B en empresas 3 y 4 (nombres ficticios)**:
@@ -477,8 +480,8 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 - **SAP y la Ciudad de París**:
 [SAP Migration Caused Paris Legacy Architecture Clash](https://www.cio.com/article/2434903/enterprise-software/sap-migration-caused-paris-legacy-architecture-clash.html) (Fuente: Gonzalo Torrecillas)
 
-- **SAP y Levi Strauss**:
-[Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz)
+- **SAP y [Levi Strauss](https://www.levi.com/ES/es_ES/)**:
+[Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz) 
 
 - **SAP y [Select Confort](http://www.sleepnumber.com/)**:
 [SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas)
@@ -934,6 +937,9 @@ Adidas eligió un software de gestión de almacenes que no era compatible con el
 
 - **SAP y Oracle y [Australian Taxation Office](https://www.ato.gov.au/)**:
 [Payroll disasters become HR software gravy train](https://www.itnews.com.au/news/payroll-disasters-become-hr-software-gravy-train-533519) (Fuente: Israel Gimeno)
+
+- **Infor y [Travis Perkins](https://www.travisperkins.co.uk/)**:
+Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor. [Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández)
 
 ## Década de 2020
 
