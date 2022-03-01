@@ -407,8 +407,6 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 - **ERP y UK furniture manufacturer’s (nombre ficticio) (United Kingdom)**:
 [ERP Non-Implementation: A Case Study](https://usir.salford.ac.uk/id/eprint/37933/8/ERP%20Non%20Implementation%20-%20FDraft-07.pdf) (Fuente: Sergio Hernández)
 
-
-
 ### 2007
 
 - **ERP A y ERP B en empresas 3 y 4 (nombres ficticios)**:
@@ -483,7 +481,7 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [SAP Migration Caused Paris Legacy Architecture Clash](https://www.cio.com/article/2434903/enterprise-software/sap-migration-caused-paris-legacy-architecture-clash.html) (Fuente: Gonzalo Torrecillas)
 
 - **SAP y [Levi Strauss](https://www.levi.com/ES/es_ES/)**:
-[Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz) [Levi's suffers profit meltdown in midst of SAP embrace](https://www.theregister.com/2008/07/10/levis_erp_costs/) (Fuente: Sergio Hernández)
+[Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz) 
 
 - **SAP y [Select Confort](http://www.sleepnumber.com/)**:
 [SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas)
