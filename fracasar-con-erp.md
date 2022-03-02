@@ -380,6 +380,9 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **ERP desconocido y empresas reales pero anónimas**:
 [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
+- **US Navy y su propio ERP**:
+En este paper se hace un pequeño estudio de la implementación de cómo el ejército naval de Estados Unidos trato de implementar sus propios ERP que finalmente tras 7 años de intentos de implementación acabo adquiriendo un ERP de SAP unificado. [The US Navy Wasted 7 Years on ERP Implementation](https://www.gao.gov/assets/gao-05-858.pdf) (Fuente: Raúl Daramus)
+
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**:
