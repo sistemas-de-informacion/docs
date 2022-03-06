@@ -57,7 +57,7 @@ En el primer enlace se encuentra el informe detallado del caso y en el segundo s
 
 - **Oracle CPG y [Kellog](https://www.kelloggs.es/es_ES/home.html)**:
 Oracle saca Oracle CPG, un software que prometía integrar paquetes de software complejos de cuatro proveedores diferentes: el software ERP de Oracle, la gestión de activos empresariales de Indus, la gestión de la cadena de suministro de Manugistic y la gestión de pedidos de IMI en un todo sin fisuras. Kellog lo intentó implementar, pero en 3 años, parece que no lo consiguió.
-[Oracle’s CPG Failures Teaches Valuable Lessons About ERP Integration](https://www.cio.com/article/2441154/oracle-s-cpg-failures-teaches-valuable-lessons-about-erp-integration.html) (Fuente: Samuel Ballonga)
+[Oracle’s CPG Failures Teaches Valuable Lessons About ERP Integration](https://www.cio.com/article/266307/enterprise-resource-planning-oracle-s-cpg-failures-teaches-valuable-lessons-about-erp-integration.html) (Fuente: Samuel Ballonga corregido por Jaime Berruete Díaz)
 
 - **Oracle y [American Trim](http://www.amtrim.com/)**:
 [United States Court of Appeals for the Sixth Circuit](https://www.casemine.com/judgement/us/5914b6ebadd7b0493477be57) (Fuente: Jaime Conchello)
@@ -315,7 +315,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [Avis bins PeopleSoft system after €45m IT failure](http://www.zdnet.com/article/avis-bins-peoplesoft-system-after-eur45m-it-failure/) (Fuente: Jesús Bintaned)
 
 - **PeopleSoft y varias universidades americanas**:
-[University ERP: Big mess on Campus](http://www.cio.com/article/107706/University_ERP_Big_Mess_on_Campus) (Fuente: Alejandro Gálvez). En la Universidad de Massachusetts el componente que causó problemas fue un desarrollo personalizado denominado SPIRE utilizado para registrar alumnos en cursos.
+[University ERP: Big mess on Campus](https://www.cio.com/article/272120/enterprise-resource-planning-university-erp-big-mess-on-campus.html) (Fuente: Alejandro Gálvez corregido por Jaime Berruete Díaz). En la Universidad de Massachusetts el componente que causó problemas fue un desarrollo personalizado denominado SPIRE utilizado para registrar alumnos en cursos.
 
 - **PeopleSoft y [University of Indiana](https://www.iu.edu/)**:
 [Indiana University suffers during PeopleSoft rollout](https://www.computerworld.com/article/2567014/enterprise-applications/indiana-university-suffers-during-peoplesoft-rollout.html) (Fuente: Miguel Bolsa)
@@ -328,7 +328,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **SAP y [HP](http://www.hp.com/)**:
 La instalación de un ERP causa pérdidas 5 veces mayores que su coste.
-[When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán),
+[When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz),
 [ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López),
 y [HP's CIO Points to Internal Issues in ERP Project Snafus](https://www.computerworld.com/article/2565928/hp-s-cio-points-to-internal-issues-in-erp-project-snafus.html) (Fuente: Víctor Jarreta)
 
@@ -396,7 +396,7 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 
 - **Lawson y Public Health Foundation Enterprises (PHFE)**:
 PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP sino varios programas sueltos.
-[Nonprofit Sues Lawson Over Alleged ERP Failure](https://www.cio.com/article/2425363/nonprofit-sues-lawson-over-alleged-erp-failure.html) (Fuente: Fernando Bercedo)
+[Nonprofit Sues Lawson Over Alleged ERP Failure](https://www.pcworld.com/article/525092/article-6165.html) (Fuente: Fernando Bercedo corregido por Jaime Berruete Díaz)
 
 - **SAP y Portland City (Oregon)**:
 [Oregon SAP project wracked by leadership woes](http://www.computerworld.com/article/2514125/enterprise-applications/oregon-sap-project-wracked-by-leadership-woes.html) (Fuente: Pablo Lanaspa)
