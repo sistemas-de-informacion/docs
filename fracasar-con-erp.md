@@ -681,6 +681,7 @@ Un año de desarrollo, 35M$ y un año después del go-live (2014) se siguen haci
 - **SAP y National Grid (EE.UU)**:
 [Cost of troubled SAP project will skyrocket to nearly $1 billion, audit says](http://www.computerworld.com/article/2691661/enterprise-software/cost-of-troubled-sap-project-will-skyrocket-to-nearly-1-billion-audit-says.html) (Fuente : Manuel Herrero)
 [Case Study 3: How a Screwed-Up SAP Implementation Almost Brought Down National Grid](https://www.henricodolfing.com/2019/04/case-study-sap-wipro-national-grid.html) (Fuente : Jorge Fernandez, José Navarro)
+[Lessons Learned from the National Grid ERP Failure](https://www.panorama-consulting.com/national-grid-erp-failure/#:~:text=In%20addition%20to%20the%20miscalculation,overpayments%20that%20were%20never%20recovered.) (Fuente : Jorge Fenero)
 
 - **SAP y NPower (UK)**:
 [Npower's SAP billing fiasco still making a dent on profits](http://www.computerworlduk.com/news/it-vendors/npowers-billing-fiasco-will-be-resolved-in-two-months-3517010/) (Fuente: Alejandro Guiu)
@@ -742,6 +743,9 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 [The Impact of ERP Partnership Formation Regulations on the Failure of ERP Implementations](https://www.sciencedirect.com/science/article/pii/S0268401207000886?casa_token=9Umi_u_Yl2AAAAAA:Lrt25ZjpoSb4PbRFhs5nMrCSZYsYTZCUv_rVqZRmG_CtEr1_yFa372VJ9EU-Yf26GvELVFx5O9k) (Fuente: Marta Lampaya)
 
 ### 2014
+
+- **Israel Chemical Limited y SAP**:
+[A HAZARDOUS WASTE: AN OVERVIEW OF ICL’S FAILED SAP IMPLEMENTATION](https://upperedge.com/system-integrators/a-hazardous-waste-an-overview-of-icls-failed-sap-implementation/) (Fuente: Jorge Fenero)
 
 - **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**:
 [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.linkedin.com/pulse/wayferry-case-study-curious-cubic-corporation-missing-chris-doig/) (Fuente: Miguel Bentué, Actualizado por: Eduardo Sánchez)
