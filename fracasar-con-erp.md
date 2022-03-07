@@ -743,6 +743,9 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 
 ### 2014
 
+- **Israel Chemical Limited y SAP**:
+[A hazardous waste: an overview of ICL's failed SAP implementation](https://edge.upperedge.com/rs/616-YRV-195/images/White_Paper_Disaster_Case_Israel_Chemical_Limited_SAP_Implementation_070219_2.pdf) (Fuente: Jorge Fenero)
+
 - **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**:
 [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.linkedin.com/pulse/wayferry-case-study-curious-cubic-corporation-missing-chris-doig/) (Fuente: Miguel Bentué, Actualizado por: Eduardo Sánchez)
 
