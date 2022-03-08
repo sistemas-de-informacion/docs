@@ -41,7 +41,7 @@ En el primer enlace se encuentra el informe detallado del caso y en el segundo s
 
 ### 1995
 
---**SAP y Irish Health Service Executive (HSE)**:
+- **SAP y Irish Health Service Executive (HSE)**:
 [Irish agency halts work on two SAP application projects](https://www.computerworld.com/article/2558350/irish-agency-halts-work-on-two-sap-application-projects.html) (Fuente: Oscar Anadon)
 
 ### 1996
@@ -57,7 +57,7 @@ En el primer enlace se encuentra el informe detallado del caso y en el segundo s
 
 - **Oracle CPG y [Kellog](https://www.kelloggs.es/es_ES/home.html)**:
 Oracle saca Oracle CPG, un software que prometía integrar paquetes de software complejos de cuatro proveedores diferentes: el software ERP de Oracle, la gestión de activos empresariales de Indus, la gestión de la cadena de suministro de Manugistic y la gestión de pedidos de IMI en un todo sin fisuras. Kellog lo intentó implementar, pero en 3 años, parece que no lo consiguió.
-[Oracle’s CPG Failures Teaches Valuable Lessons About ERP Integration](https://www.cio.com/article/2441154/oracle-s-cpg-failures-teaches-valuable-lessons-about-erp-integration.html) (Fuente: Samuel Ballonga)
+[Oracle’s CPG Failures Teaches Valuable Lessons About ERP Integration](https://www.cio.com/article/266307/enterprise-resource-planning-oracle-s-cpg-failures-teaches-valuable-lessons-about-erp-integration.html) (Fuente: Samuel Ballonga corregido por Jaime Berruete Díaz)
 
 - **Oracle y [American Trim](http://www.amtrim.com/)**:
 [United States Court of Appeals for the Sixth Circuit](https://www.casemine.com/judgement/us/5914b6ebadd7b0493477be57) (Fuente: Jaime Conchello)
@@ -121,7 +121,7 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 [Signal International Case Study](https://es.scribd.com/document/48224826/Signal-International-Case-Study) (Fuente: Jesús Villacampa)
 
 - **SAP y la [US Navy](http://www.navy.mil/)**:
-La Marina de los Estados Unidos invirtió mil millones de dólares en cuatro proyectos piloto de ERP diferentes desde 1998, y los cuatro han fracasado: [Las cuatro instalaciones, que se basaron en el software SAP AG. resultó ser incompatible y redundante, y finalmente no cumplió con los requisitos de la Marina.](https://www.360cloudsolutions.com/resources/top-six-erp-implementation-failures/) (Fuente: Marta Morales), [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez) y [The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla)
+En este informe oficial del Gobierno de Estados Unidos se hace un estudio de la implementación de cómo la Marina de los Estados Unidos invirtió mil millones de dólares en cuatro proyectos piloto de ERP diferentes desde 1998, finalmente tras 7 años de intentos de implementación y donde los cuatro fracasaron acabo adquiriendo un ERP de SAP unificado. [The US Navy Wasted 7 Years on ERP Implementation](https://www.gao.gov/assets/gao-05-858.pdf) (Fuente: Raúl Daramus). A continuación se muestran diferentes articulos que resumen este informe: [Las cuatro instalaciones, que se basaron en el software SAP AG. resultó ser incompatible y redundante, y finalmente no cumplió con los requisitos de la Marina.](https://www.360cloudsolutions.com/resources/top-six-erp-implementation-failures/) (Fuente: Marta Morales), [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez) y [The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla).
 
 ### 1999
 
@@ -315,7 +315,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [Avis bins PeopleSoft system after €45m IT failure](http://www.zdnet.com/article/avis-bins-peoplesoft-system-after-eur45m-it-failure/) (Fuente: Jesús Bintaned)
 
 - **PeopleSoft y varias universidades americanas**:
-[University ERP: Big mess on Campus](http://www.cio.com/article/107706/University_ERP_Big_Mess_on_Campus) (Fuente: Alejandro Gálvez). En la Universidad de Massachusetts el componente que causó problemas fue un desarrollo personalizado denominado SPIRE utilizado para registrar alumnos en cursos.
+[University ERP: Big mess on Campus](https://www.cio.com/article/272120/enterprise-resource-planning-university-erp-big-mess-on-campus.html) (Fuente: Alejandro Gálvez corregido por Jaime Berruete Díaz). En la Universidad de Massachusetts el componente que causó problemas fue un desarrollo personalizado denominado SPIRE utilizado para registrar alumnos en cursos.
 
 - **PeopleSoft y [University of Indiana](https://www.iu.edu/)**:
 [Indiana University suffers during PeopleSoft rollout](https://www.computerworld.com/article/2567014/enterprise-applications/indiana-university-suffers-during-peoplesoft-rollout.html) (Fuente: Miguel Bolsa)
@@ -328,7 +328,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **SAP y [HP](http://www.hp.com/)**:
 La instalación de un ERP causa pérdidas 5 veces mayores que su coste.
-[When Bad Things Happen to Good Projects](http://www.cio.com/article/101505/When_Bad_Things_Happen_to_Good_Projects) (Fuente: Adrián Gañán),
+[When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz),
 [ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López),
 y [HP's CIO Points to Internal Issues in ERP Project Snafus](https://www.computerworld.com/article/2565928/hp-s-cio-points-to-internal-issues-in-erp-project-snafus.html) (Fuente: Víctor Jarreta)
 
@@ -396,7 +396,7 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 
 - **Lawson y Public Health Foundation Enterprises (PHFE)**:
 PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP sino varios programas sueltos.
-[Nonprofit Sues Lawson Over Alleged ERP Failure](https://www.cio.com/article/2425363/nonprofit-sues-lawson-over-alleged-erp-failure.html) (Fuente: Fernando Bercedo)
+[Nonprofit Sues Lawson Over Alleged ERP Failure](https://www.pcworld.com/article/525092/article-6165.html) (Fuente: Fernando Bercedo corregido por Jaime Berruete Díaz)
 
 - **SAP y Portland City (Oregon)**:
 [Oregon SAP project wracked by leadership woes](http://www.computerworld.com/article/2514125/enterprise-applications/oregon-sap-project-wracked-by-leadership-woes.html) (Fuente: Pablo Lanaspa)
@@ -406,8 +406,6 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 
 - **ERP y UK furniture manufacturer’s (nombre ficticio) (United Kingdom)**:
 [ERP Non-Implementation: A Case Study](https://usir.salford.ac.uk/id/eprint/37933/8/ERP%20Non%20Implementation%20-%20FDraft-07.pdf) (Fuente: Sergio Hernández)
-
-
 
 ### 2007
 
@@ -483,7 +481,7 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [SAP Migration Caused Paris Legacy Architecture Clash](https://www.cio.com/article/2434903/enterprise-software/sap-migration-caused-paris-legacy-architecture-clash.html) (Fuente: Gonzalo Torrecillas)
 
 - **SAP y [Levi Strauss](https://www.levi.com/ES/es_ES/)**:
-[Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz) [Levi's suffers profit meltdown in midst of SAP embrace](https://www.theregister.com/2008/07/10/levis_erp_costs/) (Fuente: Sergio Hernández)
+[Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz) 
 
 - **SAP y [Select Confort](http://www.sleepnumber.com/)**:
 [SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas)
@@ -745,6 +743,9 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 
 ### 2014
 
+- **Israel Chemical Limited y SAP**:
+[A hazardous waste: an overview of ICL's failed SAP implementation](https://edge.upperedge.com/rs/616-YRV-195/images/White_Paper_Disaster_Case_Israel_Chemical_Limited_SAP_Implementation_070219_2.pdf) (Fuente: Jorge Fenero)
+
 - **ERP desconocida y [Cubic Corporation](https://www.cubic.com/)**:
 [Wayferry Case Study: The Curious Case of Cubic Corporation and the missing ROI](https://www.linkedin.com/pulse/wayferry-case-study-curious-cubic-corporation-missing-chris-doig/) (Fuente: Miguel Bentué, Actualizado por: Eduardo Sánchez)
 
@@ -905,6 +906,9 @@ La compañía habló con el distribuidor de ERP para gestionar las ventas de tod
 
 - **SAP y Lidl**:
 Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada. [Esto desencadenó una cadena de problemas de implementación](https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Marta Morales)
+
+- **ERP no especicado y [TSB Bank](https://www.tsb.co.uk/)**:
+La crisis informática del banco TSB de abril de 2018 que deja a clientes bloqueados en sus cuentas bancarias, cuentas hipotecarias que desaparecen, pequeñas empresas que informan de que no pueden pagar a su personal y de tarjetas de débito que dejan de funcionar. [The Epic Meltdown of TSB Bank](https://www.henricodolfing.com/2019/03/case-study-epic-meltdown-of-tsb-bank.html) (Fuente: Sergio Hernández)
 
 ### 2019
 
