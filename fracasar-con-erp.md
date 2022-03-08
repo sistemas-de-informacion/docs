@@ -207,6 +207,9 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **SAP y [Petsmart](https://www.petsmart.com/)**:
 [An installation of SAP AG's retail software completed last year by Petsmart Inc. created problems that were "far more than we anticipated"](https://www.computerworld.com/article/2589123/petsmart-ceo--sap-project--far-more--difficult-than-expected.html) (Fuente: Samuel Ballonga)
 
+- **SAP y [Jo-Ann Stores](https://www.joann.com/)**:
+[SAP Conversion Causing Headaches for Fabric Retailer](https://www.computerworld.com/article/2589484/sap-conversion-causing-headaches-for-fabric-retailer.html) (Fuente: Jaime Roncal)
+
 ### 2001
 
 - **HPT(nombre ficticio) y Vicro Communications**:
@@ -254,7 +257,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [ERP Adoption in China: Case Two](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
 
 - **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB)**:
-[The National Australia Bank and Corporate Culture](https://www.academia.edu/24677287/Leadership_Culture_and_Employee_Deceit_the_case_of_the_National_Australia_Bank) (Fuente: Edgar Arnal, actualizado por Samuel Bonito)
+[The National Australia Bank and Corporate Culture](https://www.academia.edu/24677287/Leadership_Culture_and_Employee_Deceit_the_case_of_the_National_Australia_Bank) (Fuente: Edgar Arnal, actualizado por Samuel Bonito) [NAB takes AU$200 million writedown on failed ERP project](https://www.zdnet.com/article/nab-takes-au200-million-writedown-on-failed-erp-project/) (Fuente: Jaime Roncal)
 
 - **SAP y XYZ (nombre ficticio)**:
 [A Case Study of ERP Implementation Issues](https://core.ac.uk/download/pdf/326833174.pdf) (Fuente: Alejandro Guiu, actualizado por Samuel Bonito)
@@ -478,7 +481,7 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [SAP go-live leaves 18,000 unpaid bills at Europe's largest local authority - what went wrong](http://www.computerweekly.com/blogs/public-sector/2008/02/sap-golive-leaves-18000-unpaid-1.html) (Fuente: Juan Vela)
 
 - **SAP y la Ciudad de París**:
-[SAP Migration Caused Paris Legacy Architecture Clash](https://www.cio.com/article/2434903/enterprise-software/sap-migration-caused-paris-legacy-architecture-clash.html) (Fuente: Gonzalo Torrecillas)
+[SAP Migration Caused Paris Legacy Architecture Clash](https://www.networkworld.com/article/2274181/sap-migration-caused-paris-legacy-architecture-clash.html) (Fuente: Gonzalo Torrecillas corregido por Jaime Roncal)
 
 - **SAP y [Levi Strauss](https://www.levi.com/ES/es_ES/)**:
 [Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz) 
@@ -860,7 +863,7 @@ Instalación en 2017. Problemas en 2018.
 ([Revlon Report](https://investors.revlon.com/news-releases/news-release-details/revlon-reports-second-quarter-2018-results)) (Fuente: Naval Alcalá)
 [How Revlon got sued by its own shareholders because of a failed SAP implementation](https://medium.com/@henricodolfing/case-study-how-revlon-got-sued-by-its-own-shareholders-because-of-a-failed-sap-implementation-58b66f1267fa) (Fuente: Pedro Tamargo)
 [Lessons from Revlon’s SAP Implementation Disaster](https://www.thirdstage-consulting.com/lessons-from-revlons-sap-implementation-disaster/) (Fuente: Antonio Lecina)
-[What was the Real Story with the Revlon S/4 HANA failure?](https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López)
+[What was the Real Story with the Revlon S/4 HANA failure?](https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López) [ERP Implementation Failure at Revlon](https://www.proquest.com/docview/2620024138/fulltextPDF/AC15AA6B9FEF4BB7PQ/) (Fuente: Jaime Roncal)
 
 - **SAP y [Under Armour](https://www.underarmour.com/)**:
 [Under Armour’s SAP implementation issues contribute to disappointing quarter](https://explorewms.com/under-armour-sap-implementation.html), [Under Armour Links Sales Decline to Software Upgrade](https://blogs.wsj.com/cio/2017/10/31/under-armour-links-sales-decline-to-software-upgrade/) (Fuente: Enrique Palacín), [Under Armour faces losses after ERP update](https://www.supplychaindive.com/news/under-armour-losses-ERP-update-supply-chain-disruption/510078/) (Hector Herrmann)
