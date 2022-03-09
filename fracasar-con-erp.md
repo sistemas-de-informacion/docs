@@ -254,7 +254,8 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [ERP Adoption in China: Case Two](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
 
 - **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB)**:
-[The National Australia Bank and Corporate Culture](https://www.academia.edu/24677287/Leadership_Culture_and_Employee_Deceit_the_case_of_the_National_Australia_Bank) (Fuente: Edgar Arnal, actualizado por Samuel Bonito)
+[NAB takes AU$200 million writedown on failed ERP project] https://www.zdnet.com/finance/nab-takes-au200-million-writedown-on-failed-erp-project/ [Caso de estudio banco de Australia] https://www.researchgate.net/publication/229037240_Corporate_Governance_Failure_And_Its_Impact_On_National_Australia_Bank%27s_Performance (Fuente: Oscar Palacin)
+
 
 - **SAP y XYZ (nombre ficticio)**:
 [A Case Study of ERP Implementation Issues](https://core.ac.uk/download/pdf/326833174.pdf) (Fuente: Alejandro Guiu, actualizado por Samuel Bonito)
