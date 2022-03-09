@@ -902,7 +902,7 @@ La compañía habló con el distribuidor de ERP para gestionar las ventas de tod
 [Informe hablando sobre los fallos que se producen en las PYMEs de Malasia al integrar ERPs](http://docsdrive.com/pdfs/medwelljournals/ajit/2018/153-159.pdf) (Fuente: José Félix Yagüe)
 
 - **ERP y PG&E**:
-[Articulo sobre los fallos de PG&E al digitalizar su sistema](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) (Fuente: José Félix Yagüe)
+[Articulo sobre los fallos de PG&E al digitalizar su sistema](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) (Fuente: José Félix Yagüe) [Caso de estudio sobre la perdida de 2.7 millones$ de PG&E](https://www.panorama-consulting.com/pge-data-breach/) (Fuente: Ismael Penacho Serhrouchni)
 
 - **SAP y Lidl**:
 Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada. [Esto desencadenó una cadena de problemas de implementación](https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Marta Morales)
