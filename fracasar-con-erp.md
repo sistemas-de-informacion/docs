@@ -944,6 +944,9 @@ Adidas eligió un software de gestión de almacenes que no era compatible con el
 - **Infor y [Travis Perkins](https://www.travisperkins.co.uk/)**:
 Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor. [Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández)
 
+- **ERP Failures PT.Toyota Astra Motor Indonesia**:
+PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Critical ERP Failures Case study of PT.Toyota Astra Motor Indonesia](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8985720) (Fuente: Sergio Pablo Lorén)
+
 ## Década de 2020
 
 ### 2020
