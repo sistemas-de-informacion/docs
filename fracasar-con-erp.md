@@ -263,6 +263,9 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **ERP desconocido y Agricultural Products Processing Center**:
 [A Study of Success and Failure in ERP Implementation: The Case of the Agricultural Products Processing Center](http://modul.repo.mercubuana-yogya.ac.id/modul/files/openjournal/JournalOfEngineering/18_262.pdf) (Fuente: Marta Lampaya)
 
+- **PeopleSoft y [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au/)**:
+[Why the RMIT Project failed](https://www.theage.com.au/education/rmit-to-scrap-47m-software-system-20030228-gdvart.html), [Analysis on Failed Australian Projects](http://www2.cio.com.au/article/172420/it_business_stupid/) (Fuente: Carmen Real)
+
 ### 2003
 
 - **Baan y Dexter Axle**:
@@ -907,6 +910,9 @@ La compañía habló con el distribuidor de ERP para gestionar las ventas de tod
 
 - **SAP y Lidl**:
 Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada. [Esto desencadenó una cadena de problemas de implementación](https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Marta Morales)
+
+- **ERP no especicado y [TSB Bank](https://www.tsb.co.uk/)**:
+La crisis informática del banco TSB de abril de 2018 que deja a clientes bloqueados en sus cuentas bancarias, cuentas hipotecarias que desaparecen, pequeñas empresas que informan de que no pueden pagar a su personal y de tarjetas de débito que dejan de funcionar. [The Epic Meltdown of TSB Bank](https://www.henricodolfing.com/2019/03/case-study-epic-meltdown-of-tsb-bank.html) (Fuente: Sergio Hernández)
 
 ### 2019
 
