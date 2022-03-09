@@ -353,9 +353,6 @@ En este paper se hace un pequeño estudio de la implementación de SAP en esta c
 - **ERP desconocido y Multi-national Electronics Components Manufacturing Company**:
 [Examining the ERP Implementation Process from a Failure Case](http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
 
-- **ERP desconocido y [Alpha holdings](https://www.alphaholdings.gr/en)**
-[Explaining ERP Failure in a Developing Country: A Jordanian Case Study](https://www.researchgate.net/publication/220306465_Explaining_ERP_failure_in_a_developing_country_A_Jordanian_case_study) (Fuente: Carmen Real)
-
 ### 2005
 
 - **Ciber y [Pennsylvania Turnpike Commission](https://www.paturnpike.com/)**:
