@@ -262,6 +262,9 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **ERP desconocido y Agricultural Products Processing Center**:
 [A Study of Success and Failure in ERP Implementation: The Case of the Agricultural Products Processing Center](http://modul.repo.mercubuana-yogya.ac.id/modul/files/openjournal/JournalOfEngineering/18_262.pdf) (Fuente: Marta Lampaya)
 
+- **PeopleSoft y [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au/)**:
+[Why the RMIT Project failed](https://www.theage.com.au/education/rmit-to-scrap-47m-software-system-20030228-gdvart.html), [Analysis on Failed Australian Projects](http://www2.cio.com.au/article/172420/it_business_stupid/) (Fuente: Carmen Real)
+
 ### 2003
 
 - **Baan y Dexter Axle**:
@@ -349,6 +352,9 @@ En este paper se hace un pequeño estudio de la implementación de SAP en esta c
 
 - **ERP desconocido y Multi-national Electronics Components Manufacturing Company**:
 [Examining the ERP Implementation Process from a Failure Case](http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
+
+- **ERP desconocido y [Alpha holdings](https://www.alphaholdings.gr/en)**
+[Explaining ERP Failure in a Developing Country: A Jordanian Case Study](https://www.researchgate.net/publication/220306465_Explaining_ERP_failure_in_a_developing_country_A_Jordanian_case_study) (Fuente: Carmen Real)
 
 ### 2005
 
