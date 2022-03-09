@@ -484,7 +484,8 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [SAP Migration Caused Paris Legacy Architecture Clash](https://www.cio.com/article/2434903/enterprise-software/sap-migration-caused-paris-legacy-architecture-clash.html) (Fuente: Gonzalo Torrecillas)
 
 - **SAP y [Levi Strauss](https://www.levi.com/ES/es_ES/)**:
-[Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz) 
+[Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz)
+[Levi Strauss & Co. and the ERP Failure Essay](https://ivypanda.com/essays/levi-strauss-co-and-the-erp-failure/) (Fuente: Álvaro Pomar)
 
 - **SAP y [Select Confort](http://www.sleepnumber.com/)**:
 [SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas)
