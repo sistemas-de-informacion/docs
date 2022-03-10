@@ -353,7 +353,7 @@ El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el 
 [Marin County settles legal claims against Deloitte, SAP over software project](http://www.computerworld.com/article/2494092/government-it/marin-county-settles-legal-claims-against-deloitte--sap-over-software-project.html) (Fuente: Andrea Alexendry)
 [County Alleges SAP, Deloitte Engaged in Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés),
 [Deloitte hit with $30M lawsuit over ERP project](https://www.computerworld.com/article/2518518/deloitte-hit-with--30m-lawsuit-over-erp-project.html) (Fuente: Daniel Royo)
-
+[El condado californiano de Marin County demanda a Deloitte y SAP por el desastre de su proyecto ERP] https://www.erp-spain.com/articulo/71641/sap/administracion-publica/el-condado-californiano-de-marin-county-demanda-a-deloitte-y-sap-por-el-desastre-de-su-proyecto-erp (Fuente:Diego Guillén)
 - **PeopleSoft y Companhia Siderurgica de Tubarao (CST) (Brasil)**:
 Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
 [The enterprise resource planning applied to the area of logistics: A case of failure](https://www.researchgate.net/publication/265301992_THE_ENTERPRISE_RESOURCE_PLANNING_APPLIED_TO_THE_AREA_OF_LOGISTICS_A_CASE_OF_FAILURE) (Fuente: Alberto Calvo)
