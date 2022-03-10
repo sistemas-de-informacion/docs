@@ -580,7 +580,10 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 ['Consultants' getting $722M from city for doomed CityTime computer project](http://www.nydailynews.com/news/consultants-722m-city-doomed-citytime-computer-project-article-1.173403) (Fuente: Guillermo Sesé)
 [NYC mayor demands $600M refund on software project](http://www.networkworld.com/article/2178831/applications/nyc-mayor-demands--600m-refund-on-software-project.html) (Fuente: Alejandro Bean)
 [New York City Department of Investigation CityTime Investigation: Lessons Learned & Recommendations to Improve New York City’s Management of Large Information Technology Contracts](https://www1.nyc.gov/assets/doi/reports/pdf/2014/2014-07-25-Pr13citytime.pdf)(Fuente: Juan José Tambo Tambo)
-
+[Actualizado por Diego Guillen]
+[Fuente de información :New York's CityTime 'disaster'  CityTime, an effort by New York City to modernize its
+payroll system, is more of an ERP "project failure of the decade"  originally budgeted
+at around US$60 million, but has since ballooned to a colossal $700 million plus] (Fuente: Diego Guillen)
 - **Unisys y el estado de [Idaho](http://www.idaho.gov/)**:
 [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) El fracaso de un proyecto iniciado en 2007, donde la falta de planificación y testing le cuesta millones al estado de Idaho. (Fuente: Óscar Murillo) [Auditors: ERP Software Woes Could Cost Idaho Millions](https://www.cio.com/article/2409660/auditors--erp-software-woes-could-cost-idaho-millions.html) (Fuente: Javier Morón)
 
