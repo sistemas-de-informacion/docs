@@ -325,7 +325,13 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 
 - **PeopleSoft y [University of Massachusetts-Amherst](https://www.umass.edu/)**:
 [UMass-Amherst bedeviled by PeopleSoft portal crash](https://www.computerworld.com/article/2566229/enterprise-applications/umass-amherst-bedeviled-by-peoplesoft-portal-crash.html) (Fuente: Adrián Ibáñez), [University ERP: Big Mess on Campus](https://www.cio.com/article/2439102/university-erp--big-mess-on-campus.html) (Fuente: Felipe Nonay)
-
+-- **Spire y [Universidad de Stanford] https://www.stanford.edu/ 
+[Fuente:Diego Guillén 779363
+[Descripción  y fallo :  El sistema Spire permite a los 24,000 estudiantes en el campus de Amherst registrarse para clases y realizar otras actividades en línea.
+ Entonces, cuando se estrelló como resultado de una implementación del portal web PeopleSoft que se había apresurado,
+ las clases estaban medio vacías durante los primeros tres días del semestre. Y había largas colas por todos lados.]
+ [Solución: Se realizo bien la implementación del ERP y  después de un par de días y semanas de tensión, gracias a arreglar el fallo
+	del ERP todos obtuvieron sus cheques y sus horarios de clase.]
 - **Oracle y Saudi Telecom (Arabia Saudí)**:
 [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
 
