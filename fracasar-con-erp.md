@@ -946,7 +946,12 @@ Cambio de ERP a Microsoft 365 en la empresa agrícola Alliance Group después de
 
 - **ERP desconocido y Adidas**:
 Adidas eligió un software de gestión de almacenes que no era compatible con el de sus proveedores, lo que supuso pérdidas de unos 40 millones de dólares. [Adidas Warehouse Meltdown: desastre de WMS](https://clearspider.net/blog/wms-disaster-adidas-warehouse-meltdown/) (Fuente: Marta Morales)
-
+--** Fallo seguiridad Adidas
+[Actualizado por Diego Guillén] 
+[Descripción: Tras el cambio de SAP a AWS Adidas sufrio un fallo de seguridad y deja expuestos los datos de sus clientes , esto supuso una gran preocupación 
+para el sector del calzado más importante del mundo ya que tras cambiar software muchos datos salieron a la luz, la noticia no tuvo gran repercusión porque 
+rapidamente el departamento informatico de adidas soluciono el  problema pero podía haber tenido consecuencias fatales para la empresa.]
+[Fuente datos:https://www.europapress.es/economia/noticia-adidas-sufre-fallo-seguridad-datos-algunos-clientes-quedan-expuestos-20180628194549.html]
 - **Ellucian Banner ERP y [The US Department of Education](https://www.ed.gov/)**:
 [Hackers target 62 US colleges by exploiting ERP vulnerability](https://www.zdnet.com/article/hackers-target-62-us-colleges-by-exploiting-erp-vulnerability/) (Fuente: Israel Gimeno)
 
