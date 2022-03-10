@@ -175,6 +175,12 @@ El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un coste 5 veces mayor.
 [BSkyB and EDS settle IT dispute for £318 million](http://www.out-law.com/page-11089) (Fuente: Jorge Beamud)
 [British Sky Broadcasting (BSkyB) (Catalogue of Catastrophe)](http://calleam.com/WTPF/?p=5420) (Fuente: Eduardo Gimeno)
+[Actualizado por Diego Guillén)
+ The BSkyB  Company (BSY) gets £318 million settlement from Hewlett‐Packard/EDS (HPQ) ‐ A court
+found that HP's EDS division had lied about how long it would take to finish the
+project, which was started in 2000 and originally budgeted at £48 million. BSkyB fired
+EDS in 2002 and completed the job itself, but costs ultimately quintupled. (http://www3.cis.gsu.edu/dtruex/courses/MBA8125/Lectures-pdf/SAP-Process_P_1-Truex.pdf)
+(Fuente :Diego Guillen)
 
 - **i2 y Nike**:
 [Nike Rebounds and Why Nike Recovered from its Supply Chain Disaster](http://www.cio.com/article/2439601/supply-chain-management/nike-rebounds--how--and-why--nike-recovered-from-its-supply-chain-disaster.html) (Fuente: Adrián Gañán, corregido por Rubén Moreno).
