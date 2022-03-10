@@ -579,7 +579,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 ### 2011
 
--**SAP y Chorus**:  [Chorus : les SSII en concurrence pour le marché de l'année](Chorus: Empresas de servicios informáticos en competencia por el mercado del año (lemagit.fr)) (Fuente: Ayelen Nuño Gracia)
+-**SAP y Chorus**: [Chorus : les SSII en concurrence pour le marché de l'année](https://www.lemagit.fr/actualites/2240191222/Chorus-les-SSII-en-concurrence-pour-le-marche-de-lannee) (Fuente: Ayelen Nuño Gracia)
 
 - **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
 
