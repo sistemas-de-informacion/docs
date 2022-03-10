@@ -82,7 +82,7 @@ Una implementación con exitos y fracasos que se completó en 2003.
 
 - **Baan y AML (Egipto)**:
 [ERP Customization Failure: Institutionalized Accounting Practices,
-Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (Fuente: Alejandro Solanas) [Informe completo sobre el fallo en AML](https://www.researchgate.net/publication/49400157_ERP_Customization_Failure_Institutionalized_Accounting_Practices_Power_Relations_and_Market_Forces) (Fuente: José Félix Yagüe)
+Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (Fuente: Alejandro Solanas) [Informe completo sobre el fallo en AML](https://www.researchgate.net/publication/49400157_ERP_Customization_Failure_Institutionalized_Accounting_Practices_Power_Relations_and_Market_Forces) (Fuente: José Félix Yagüe) [Caso de estudio completo sobre el fallo en AML](https://pure.northampton.ac.uk/ws/files/15170062/Kholeif_etal_EMR_2007_ERP_Customization_Failure_Institutionalized_Accounting_Practices_Power_Relations_and_Market_Forces.pdf)(Fuente: Ismael Penacho Serhrouchni)
 
 - **ERP desconocido y Applied Materials**:
 [ERP LECTURE 1 LEARNINGS](https://es.scribd.com/presentation/149512631/ERP-Ppt-Lecture1) , [Handbook of Research on Enterprise Systems](https://books.google.es/books?id=4rZf-Jt93ioC&pg=PT116&lpg=PT116&dq=Applied+Materials++%E2%80%93+overwhelmed+by+the+organizationalchanges+involved&source=bl&ots=2sFDRnA-tJ&sig=ACfU3U0KmC-105qPc1AHyiU6oePHj9VH_w&hl=es&sa=X&ved=2ahUKEwjvjLCWvoLhAhUk-YUKHUZPB3kQ6AEwAXoECAIQAQ#v=onepage&q=Applied%20Materials%20%20%E2%80%93%20overwhelmed%20by%20the%20organizationalchanges%20involved&f=false)(Fuente: Israel Solanas)
@@ -902,7 +902,7 @@ La compañía habría establecido en el contrato que el programa instalado deber
 La compañía habló con el distribuidor de ERP para gestionar las ventas de todo un día y el vendedor aseguró que se podían gestionar sin problema. El problema se dió porque el vendedor entendió las ventas a lo largo de las 24 horas del día cuando todas las transacciones se producían, normalmente, en un plazo de 4 horas. Esto llevó a la empresa a perder muchas ventas. [Take a Wrong Turn with ERP and Wind up in Court](https://www.informationweek.com/strategic-cio/take-a-wrong-turn-with-erp-and-wind-up-in-court/a/d-id/1331854)(Fuente: Alejandro Magallón)
 
 - **Varios ERPs y PYMEs en Malasia**:
-[Informe hablando sobre los fallos que se producen en las PYMEs de Malasia al integrar ERPs](http://docsdrive.com/pdfs/medwelljournals/ajit/2018/153-159.pdf) (Fuente: José Félix Yagüe)
+[Informe hablando sobre los fallos que se producen en las PYMEs de Malasia al integrar ERPs](http://docsdrive.com/pdfs/medwelljournals/ajit/2018/153-159.pdf) (Fuente: José Félix Yagüe)[Articulo sobre la perdida de 2.7 millones$ de PG&E](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) (Fuente: Ismael Penacho Serhrouchni)
 
 - **ERP y PG&E**:
 [Articulo sobre los fallos de PG&E al digitalizar su sistema](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) (Fuente: José Félix Yagüe)
