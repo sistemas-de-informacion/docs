@@ -579,7 +579,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 ### 2011
 
--**SAP y Chorus**:  [Chorus : les SSII en concurrence pour le marché de l'année](Chorus: Empresas de servicios informáticos en competencia por el mercado del año (lemagit.fr)) (Fuente: Reynald Fléchaux)
+-**SAP y Chorus**:  [Chorus : les SSII en concurrence pour le marché de l'année](Chorus: Empresas de servicios informáticos en competencia por el mercado del año (lemagit.fr)) (Fuente: Ayelen Nuño Gracia)
 
 - **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
 
@@ -649,7 +649,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 
 ### 2012
 
-- **Oficina Nacional de Auditoria de Reino Unido y SAP y Oracle**: se realizo el cambio para adquirir de forma compartida el uso de ERP, permitiendo reducir los costes, y solo se consiguió aumentar los gastos. [Oracle and SAP worst for government ERP cost differences](https://www.computerweekly.com/news/2240114529/Oracle-and-SAP-worst-offenders-for-government-ERP-costs) (Fuente: Kathleen Hall) [The National Audit Office in the United Kingdom found the use of ERP shared services added expenses rather than reducing costs](https://freebalance.com/blog/government-digital-transformation/erp-failures-in-government/) (Fuente: FreeBalance, in government digital transformation )
+- **Oficina Nacional de Auditoria de Reino Unido y SAP y Oracle**: se realizo el cambio para adquirir de forma compartida el uso de ERP, permitiendo reducir los costes, y solo se consiguió aumentar los gastos. [Oracle and SAP worst for government ERP cost differences](https://www.computerweekly.com/news/2240114529/Oracle-and-SAP-worst-offenders-for-government-ERP-costs), [The National Audit Office in the United Kingdom found the use of ERP shared services added expenses rather than reducing costs](https://freebalance.com/blog/government-digital-transformation/erp-failures-in-government/) (Fuente: Ayelen Nuño Gracia)
 
 - **Accenture (implementador) y el sistema de pensiones de California**:
 [California's $500M state pension software system wracked by backlogs](http://www.computerworld.com/article/2503300/cloud-computing/california-s--500m-state-pension-software-system-wracked-by-backlogs.html) (Fuente: Eduardo Criado)
@@ -919,7 +919,7 @@ La crisis informática del banco TSB de abril de 2018 que deja a clientes bloque
 
 ### 2019
 
-- **Oracle y la policía de Cheshire**: El sistema fue puesto en marcha en 2019 con un contrato inicial de 3 millones £, pero debido al riesgo de acceso interno se ha decidido cambiar de sistema, llegando los acuerdos contractuales con Oracle a su fin en 2022  [Unit4 handed police ERP deal after 'significant deficiency' found in Oracle Fusion system](https://www.theregister.com/2021/05/18/unit4_3m_police_erp/) (Fuente: Lindsay Clark) 
+- **Oracle y la policía de Cheshire**: El sistema fue puesto en marcha en 2019 con un contrato inicial de 3 millones £, pero debido al riesgo de acceso interno se ha decidido cambiar de sistema, llegando los acuerdos contractuales con Oracle a su fin en 2022  [Unit4 handed police ERP deal after 'significant deficiency' found in Oracle Fusion system](https://www.theregister.com/2021/05/18/unit4_3m_police_erp/) (Fuente: Ayelen Nuño Gracia) 
 
 - **SAP y [LeasePlan](https://www.leaseplan.com/es-es/)**:
 [Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) Un proyecto comenzado en 2017 por la empresa LeasePlan intenta consolidar en un proyecto de SAP a 35 sistemas en uno solo. Esto se transforma en una pérdida irreversible de 100 millones de euros y en la busqueda de una alternativa de IT para la empresa. (Fuente: Félix García)
