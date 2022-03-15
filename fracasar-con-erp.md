@@ -956,3 +956,5 @@ Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 201
 El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo tipo de problemas: [Union for public servants files grievance against Alberta government as pay issues persist](https://www.cbc.ca/news/canada/calgary/alberta-union-of-provincial-employees-aupe-susan-slade-1.5894680) (Fuente: Víctor Jarreta). Documento oficial en el que se detalla el plan de negocio previsto inicialmente y en el que se habla de 1GX, incluyendo su coste, periodo de desarollo y motivaciones: [Service Alberta Business Plan 2019–23](https://open.alberta.ca/dataset/2d0f4f49-ac34-440d-8ff1-396e55267a57/resource/91e9b32b-62b7-4b27-a92a-01966a645108/download/service-alberta.pdf) (Fuente: Víctor Jarreta)
 
 ### 2021
+- **XU JI GROUP CORPORATION ERP FAILURE CASE**:
+[The failure case of Xuji Group corporation to implement ERP](https://www.researchgate.net/publication/350942028_XU_JI_GROUP_CORPORATION_ERP_FAILURE_CASE) (Fuente: Oscar Palacin)
