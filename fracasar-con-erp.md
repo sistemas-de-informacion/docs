@@ -1,4 +1,4 @@
-austra# ERP: Listas de fracasos
+# ERP: Listas de fracasos
 
 Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "inventa" el término ERP en abril de 1990](http://www.sciencedirect.com/science/article/pii/S0272696306001355)). El objetivo de la lista es sólo para que sirva de consulta para alumnos. La fecha asignada a cada caso corresponde normalmente con el año de la instalación del sistema.
 
@@ -254,7 +254,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [ERP Adoption in China: Case Two](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
 
 - **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB)**:
-[The National Australia Bank and Corporate Culture](https://www.academia.edu/24677287/Leadership_Culture_and_Employee_Deceit_the_case_of_the_National_Australia_Bank) (Fuente: Edgar Arnal, actualizado por Samuel Bonito)
+[The National Australia Bank and Corporate Culture](https://www.academia.edu/24677287/Leadership_Culture_and_Employee_Deceit_the_case_of_the_National_Australia_Bank) (Fuente: Edgar Arnal, actualizado por Samuel Bonito
 
 
 - **SAP y XYZ (nombre ficticio)**:
