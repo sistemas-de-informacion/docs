@@ -82,7 +82,7 @@ Una implementación con exitos y fracasos que se completó en 2003.
 
 - **Baan y AML (Egipto)**:
 [ERP Customization Failure: Institutionalized Accounting Practices,
-Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (Fuente: Alejandro Solanas) [Informe completo sobre el fallo en AML](https://www.researchgate.net/publication/49400157_ERP_Customization_Failure_Institutionalized_Accounting_Practices_Power_Relations_and_Market_Forces) (Fuente: José Félix Yagüe)
+Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (Fuente: Alejandro Solanas) [Informe completo sobre el fallo en AML](https://pure.northampton.ac.uk/ws/files/15170062/Kholeif_etal_EMR_2007_ERP_Customization_Failure_Institutionalized_Accounting_Practices_Power_Relations_and_Market_Forces.pdf) (Fuente: José Félix Yagüe, Correccion: Ismael Penacho)
 
 - **ERP desconocido y Applied Materials**:
 [ERP LECTURE 1 LEARNINGS](https://es.scribd.com/presentation/149512631/ERP-Ppt-Lecture1) , [Handbook of Research on Enterprise Systems](https://books.google.es/books?id=4rZf-Jt93ioC&pg=PT116&lpg=PT116&dq=Applied+Materials++%E2%80%93+overwhelmed+by+the+organizationalchanges+involved&source=bl&ots=2sFDRnA-tJ&sig=ACfU3U0KmC-105qPc1AHyiU6oePHj9VH_w&hl=es&sa=X&ved=2ahUKEwjvjLCWvoLhAhUk-YUKHUZPB3kQ6AEwAXoECAIQAQ#v=onepage&q=Applied%20Materials%20%20%E2%80%93%20overwhelmed%20by%20the%20organizationalchanges%20involved&f=false)(Fuente: Israel Solanas)
@@ -873,7 +873,7 @@ Instalación en 2017. Problemas en 2018.
 ([Revlon Report](https://investors.revlon.com/news-releases/news-release-details/revlon-reports-second-quarter-2018-results)) (Fuente: Naval Alcalá)
 [How Revlon got sued by its own shareholders because of a failed SAP implementation](https://medium.com/@henricodolfing/case-study-how-revlon-got-sued-by-its-own-shareholders-because-of-a-failed-sap-implementation-58b66f1267fa) (Fuente: Pedro Tamargo)
 [Lessons from Revlon’s SAP Implementation Disaster](https://www.thirdstage-consulting.com/lessons-from-revlons-sap-implementation-disaster/) (Fuente: Antonio Lecina)
-[What was the Real Story with the Revlon S/4 HANA failure?](https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López) [ERP Implementation Failure at Revlon](https://www.thecasecentre.org/products/view?id=173346) (Fuente: Jaime Roncal)
+[What was the Real Story with the Revlon S/4 HANA failure?](https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López) [ERP Implementation Failure at Revlon](https://www.thecasecentre.org/products/view?id=173346) (Fuente: Jaime Roncal) [Case Study: How Revlon Got Sued by Its Own Shareholders Because of a Failed Sap Implementation](https://www.henricodolfing.com/2019/08/case-study-revlon-sued-because-sap-implementation.html) (Fuente: Ismael Penacho
 
 - **SAP y [Under Armour](https://www.underarmour.com/)**:
 [Under Armour’s SAP implementation issues contribute to disappointing quarter](https://explorewms.com/under-armour-sap-implementation.html), [Under Armour Links Sales Decline to Software Upgrade](https://blogs.wsj.com/cio/2017/10/31/under-armour-links-sales-decline-to-software-upgrade/) (Fuente: Enrique Palacín), [Under Armour faces losses after ERP update](https://www.supplychaindive.com/news/under-armour-losses-ERP-update-supply-chain-disruption/510078/) (Hector Herrmann)
