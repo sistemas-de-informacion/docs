@@ -123,6 +123,9 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 - **SAP y la [US Navy](http://www.navy.mil/)**:
 En este informe oficial del Gobierno de Estados Unidos se hace un estudio de la implementación de cómo la Marina de los Estados Unidos invirtió mil millones de dólares en cuatro proyectos piloto de ERP diferentes desde 1998, finalmente tras 7 años de intentos de implementación y donde los cuatro fracasaron acabo adquiriendo un ERP de SAP unificado. [The US Navy Wasted 7 Years on ERP Implementation](https://www.gao.gov/assets/gao-05-858.pdf) (Fuente: Raúl Daramus). A continuación se muestran diferentes articulos que resumen este informe: [Las cuatro instalaciones, que se basaron en el software SAP AG. resultó ser incompatible y redundante, y finalmente no cumplió con los requisitos de la Marina.](https://www.360cloudsolutions.com/resources/top-six-erp-implementation-failures/) (Fuente: Marta Morales), [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez) y [The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla).
 
+- **Symix y XuJi (China)**:
+[The failure case of Xuji Group corporation to implement ERP](https://www.researchgate.net/publication/350942028_XU_JI_GROUP_CORPORATION_ERP_FAILURE_CASE) (Fuente: Oscar Palacin)
+
 ### 1999
 
 - **Baan y Poolrite (Australia)**:
@@ -954,7 +957,3 @@ Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 201
 
 - **1GX y Gobierno de Alberta (Canadá)**:
 El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo tipo de problemas: [Union for public servants files grievance against Alberta government as pay issues persist](https://www.cbc.ca/news/canada/calgary/alberta-union-of-provincial-employees-aupe-susan-slade-1.5894680) (Fuente: Víctor Jarreta). Documento oficial en el que se detalla el plan de negocio previsto inicialmente y en el que se habla de 1GX, incluyendo su coste, periodo de desarollo y motivaciones: [Service Alberta Business Plan 2019–23](https://open.alberta.ca/dataset/2d0f4f49-ac34-440d-8ff1-396e55267a57/resource/91e9b32b-62b7-4b27-a92a-01966a645108/download/service-alberta.pdf) (Fuente: Víctor Jarreta)
-
-### 2021
-- **XU JI GROUP CORPORATION ERP FAILURE CASE**:
-[The failure case of Xuji Group corporation to implement ERP](https://www.researchgate.net/publication/350942028_XU_JI_GROUP_CORPORATION_ERP_FAILURE_CASE) (Fuente: Oscar Palacin)
