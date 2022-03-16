@@ -445,7 +445,8 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [ERP Implementation Failures in Saudi Arabia: Key Findings](https://medwelljournals.com/abstract/?doi=ibm.2018.10.22)
 (Fuente: Diego García)
 
-ERP problems in Syria: https://www.geocities.ws/hasan_shammout/PropositionsforERPsuccess.pdf (Fuente: Raúl Rustarazo)
+- **ERP problems in Syria**:
+fracasos ERP en Siria: [https://www.geocities.ws/hasan_shammout/PropositionsforERPsuccess.pdf] (Fuente: Raúl Rustarazo)
 
 ### 2008
 
@@ -801,7 +802,8 @@ La sustitución de un ERP desarrollado internamente durante 30 años por SAP cau
 - **Oracle y [Fife Council](https://www.fife.gov.uk/)**:
 [Council transformation savings hit by ERP implementation issues](https://www.publictechnology.net/articles/news/council-transformation-savings-hit-erp-implementation-issues) (Fuente: Israel Gimeno)
 
-ERP desconocido y Government IT problems widespread: https://www.caymancompass.com/2015/06/29/government-it-problems-widespread/ (Fuente: Raúl Rustarazo)
+- **ERP desconocido y Government(Cayman)**:
+Government IT problems widespread: [https://www.caymancompass.com/2015/06/29/government-it-problems-widespread/] (Fuente: Raúl Rustarazo)
 
 ### 2016
 
@@ -959,6 +961,9 @@ Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 201
 El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo tipo de problemas: [Union for public servants files grievance against Alberta government as pay issues persist](https://www.cbc.ca/news/canada/calgary/alberta-union-of-provincial-employees-aupe-susan-slade-1.5894680) (Fuente: Víctor Jarreta). Documento oficial en el que se detalla el plan de negocio previsto inicialmente y en el que se habla de 1GX, incluyendo su coste, periodo de desarollo y motivaciones: [Service Alberta Business Plan 2019–23](https://open.alberta.ca/dataset/2d0f4f49-ac34-440d-8ff1-396e55267a57/resource/91e9b32b-62b7-4b27-a92a-01966a645108/download/service-alberta.pdf) (Fuente: Víctor Jarreta)
 
 ### 2021
-Post-Mortem Analysis of ERP Lawsuits and Failure Points: two high-profile organizations have fallen victim to yet two more ERP implementation failures. SuperDry and Tesco Bank https://www.panorama-consulting.com/post-mortem-analysis-of-erp-lawsuits-and-failure-points/ (Fuente: Raúl Rustarazo)
 
-Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/ (Fuente: Raúl Rustarazo)
+- **SuperDry and Tesco Bank**:
+Post-Mortem Analysis of ERP Lawsuits and Failure Points: two high-profile organizations have fallen victim to yet two more ERP implementation failures. [https://www.panorama-consulting.com/post-mortem-analysis-of-erp-lawsuits-and-failure-points/] (Fuente: Raúl Rustarazo)
+
+- **Ministerio de finanzas(Ecuador)**:
+Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema [https://www.primicias.ec /noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/] (Fuente: Raúl Rustarazo)
