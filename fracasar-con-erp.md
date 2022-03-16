@@ -966,4 +966,4 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 Post-Mortem Analysis of ERP Lawsuits and Failure Points: two high-profile organizations have fallen victim to yet two more ERP implementation failures. [https://www.panorama-consulting.com/post-mortem-analysis-of-erp-lawsuits-and-failure-points/] (Fuente: Raúl Rustarazo)
 
 - **Ministerio de finanzas(Ecuador)**:
-Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema [https://www.primicias.ec /noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/] (Fuente: Raúl Rustarazo)
+Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema [https://www.primicias.ec /noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/] (Fuente: Raúl Rustarazo)
