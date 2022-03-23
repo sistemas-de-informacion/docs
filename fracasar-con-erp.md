@@ -454,9 +454,6 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [ERP Implementation Failures in Saudi Arabia: Key Findings](https://medwelljournals.com/abstract/?doi=ibm.2018.10.22)
 (Fuente: Diego García)
 
-- **ERP problems in Syria**:
-[Fracasos ERP en Siria](https://www.geocities.ws/hasan_shammout/PropositionsforERPsuccess.pdf) (Fuente: Raúl Rustarazo)
-
 ### 2008
 
 - **Epicor y [Whaley Foodservice Repairs](http://www.whaleyfoodservice.com/)**:
@@ -656,6 +653,12 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 - **SAP y [Lufkin Industries](https://lufkin.com/)**:
 [Court of Appeals of Texas](https://caselaw.findlaw.com/tx-court-of-appeals/1867628.html) (Fuente: Jaime Conchello)
 
+- **ERP desconocido y Tesco Bank**:
+[Lessons from an IT crisis – Tesco Bank](https://ukcampaign4change.com/2011/07/06/lessons-from-an-it-crisis-%E2%80%93-tesco-bank/) (Fuente: Raúl Rustarazo)
+
+- **ERP desconocido y SuperDry**:
+ [UK Retailer Superdry Still Hurting from IT Upgrade Problems Stock price hasn't recovered from news of problems](https://spectrum.ieee.org/uk-retailer-superdry-still-hurting-from-it-upgrade-problems) (Fuente: Raúl Rustarazo)
+
 ### 2012
 
 - **Oficina Nacional de Auditoria de Reino Unido y SAP y Oracle**: se realizo el cambio para adquirir de forma compartida el uso de ERP, permitiendo reducir los costes, y solo se consiguió aumentar los gastos. [Oracle and SAP worst for government ERP cost differences](https://www.computerweekly.com/news/2240114529/Oracle-and-SAP-worst-offenders-for-government-ERP-costs), [The National Audit Office in the United Kingdom found the use of ERP shared services added expenses rather than reducing costs](https://freebalance.com/blog/government-digital-transformation/erp-failures-in-government/) (Fuente: Ayelen Nuño Gracia)
@@ -814,9 +817,6 @@ La sustitución de un ERP desarrollado internamente durante 30 años por SAP cau
 
 - **Oracle y [Fife Council](https://www.fife.gov.uk/)**:
 [Council transformation savings hit by ERP implementation issues](https://www.publictechnology.net/articles/news/council-transformation-savings-hit-erp-implementation-issues) (Fuente: Israel Gimeno)
-
-- **ERP desconocido y Government(Cayman)**:
-[Government(Cayman) IT problems widespread](https://www.caymancompass.com/2015/06/29/government-it-problems-widespread/) (Fuente: Raúl Rustarazo)
 
 ### 2016
 
@@ -983,8 +983,5 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 
 ### 2021
 
-- **SuperDry and Tesco Bank**:
-[Post-Mortem Analysis of ERP Lawsuits and Failure Points: two high-profile organizations have fallen victim to yet two more ERP implementation failures](https://www.panorama-consulting.com/post-mortem-analysis-of-erp-lawsuits-and-failure-points/) (Fuente: Raúl Rustarazo)
-
-- **Ministerio de finanzas(Ecuador)**:
+- **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**: 
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
