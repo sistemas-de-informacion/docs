@@ -653,6 +653,12 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 - **SAP y [Lufkin Industries](https://lufkin.com/)**:
 [Court of Appeals of Texas](https://caselaw.findlaw.com/tx-court-of-appeals/1867628.html) (Fuente: Jaime Conchello)
 
+- **ERP desconocido y Tesco Bank**:
+[Lessons from an IT crisis – Tesco Bank](https://ukcampaign4change.com/2011/07/06/lessons-from-an-it-crisis-%E2%80%93-tesco-bank/) (Fuente: Raúl Rustarazo)
+
+- **ERP desconocido y SuperDry**:
+ [UK Retailer Superdry Still Hurting from IT Upgrade Problems Stock price hasn't recovered from news of problems](https://spectrum.ieee.org/uk-retailer-superdry-still-hurting-from-it-upgrade-problems) (Fuente: Raúl Rustarazo)
+
 ### 2012
 
 - **Oficina Nacional de Auditoria de Reino Unido y SAP y Oracle**: se realizo el cambio para adquirir de forma compartida el uso de ERP, permitiendo reducir los costes, y solo se consiguió aumentar los gastos. [Oracle and SAP worst for government ERP cost differences](https://www.computerweekly.com/news/2240114529/Oracle-and-SAP-worst-offenders-for-government-ERP-costs), [The National Audit Office in the United Kingdom found the use of ERP shared services added expenses rather than reducing costs](https://freebalance.com/blog/government-digital-transformation/erp-failures-in-government/) (Fuente: Ayelen Nuño Gracia)
@@ -974,3 +980,8 @@ PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los p
 
 - **1GX y Gobierno de Alberta (Canadá)**:
 El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo tipo de problemas: [Union for public servants files grievance against Alberta government as pay issues persist](https://www.cbc.ca/news/canada/calgary/alberta-union-of-provincial-employees-aupe-susan-slade-1.5894680) (Fuente: Víctor Jarreta). Documento oficial en el que se detalla el plan de negocio previsto inicialmente y en el que se habla de 1GX, incluyendo su coste, periodo de desarollo y motivaciones: [Service Alberta Business Plan 2019–23](https://open.alberta.ca/dataset/2d0f4f49-ac34-440d-8ff1-396e55267a57/resource/91e9b32b-62b7-4b27-a92a-01966a645108/download/service-alberta.pdf) (Fuente: Víctor Jarreta)
+
+### 2021
+
+- **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**: 
+[Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
