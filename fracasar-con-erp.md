@@ -82,7 +82,7 @@ Una implementación con exitos y fracasos que se completó en 2003.
 
 - **Baan y AML (Egipto)**:
 [ERP Customization Failure: Institutionalized Accounting Practices,
-Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (Fuente: Alejandro Solanas) [Informe completo sobre el fallo en AML](https://www.researchgate.net/publication/49400157_ERP_Customization_Failure_Institutionalized_Accounting_Practices_Power_Relations_and_Market_Forces) (Fuente: José Félix Yagüe)
+Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (Fuente: Alejandro Solanas) [Informe completo sobre el fallo en AML](https://pure.northampton.ac.uk/ws/files/15170062/Kholeif_etal_EMR_2007_ERP_Customization_Failure_Institutionalized_Accounting_Practices_Power_Relations_and_Market_Forces.pdf) (Fuente: José Félix Yagüe, Correccion: Ismael Penacho)
 
 - **ERP desconocido y Applied Materials**:
 [ERP LECTURE 1 LEARNINGS](https://es.scribd.com/presentation/149512631/ERP-Ppt-Lecture1) , [Handbook of Research on Enterprise Systems](https://books.google.es/books?id=4rZf-Jt93ioC&pg=PT116&lpg=PT116&dq=Applied+Materials++%E2%80%93+overwhelmed+by+the+organizationalchanges+involved&source=bl&ots=2sFDRnA-tJ&sig=ACfU3U0KmC-105qPc1AHyiU6oePHj9VH_w&hl=es&sa=X&ved=2ahUKEwjvjLCWvoLhAhUk-YUKHUZPB3kQ6AEwAXoECAIQAQ#v=onepage&q=Applied%20Materials%20%20%E2%80%93%20overwhelmed%20by%20the%20organizationalchanges%20involved&f=false)(Fuente: Israel Solanas)
@@ -122,6 +122,9 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 
 - **SAP y la [US Navy](http://www.navy.mil/)**:
 En este informe oficial del Gobierno de Estados Unidos se hace un estudio de la implementación de cómo la Marina de los Estados Unidos invirtió mil millones de dólares en cuatro proyectos piloto de ERP diferentes desde 1998, finalmente tras 7 años de intentos de implementación y donde los cuatro fracasaron acabo adquiriendo un ERP de SAP unificado. [The US Navy Wasted 7 Years on ERP Implementation](https://www.gao.gov/assets/gao-05-858.pdf) (Fuente: Raúl Daramus). A continuación se muestran diferentes articulos que resumen este informe: [Las cuatro instalaciones, que se basaron en el software SAP AG. resultó ser incompatible y redundante, y finalmente no cumplió con los requisitos de la Marina.](https://www.360cloudsolutions.com/resources/top-six-erp-implementation-failures/) (Fuente: Marta Morales), [GAO: Navy sinks $1B into failed ERP pilot projects](http://www.computerworld.com/article/2558133/enterprise-resource-planning/gao--navy-sinks--1b-into-failed-erp-pilot-projects.html) (Fuente: Eduardo Ibáñez) y [The Navy’s $1B Mistake…Ouch!](https://medium.com/@sljones61/the-navys-1b-mistake-ouch-8ce96ba4cb2f) (Fuente: Lorena Mehavilla).
+
+- **Symix y XuJi (China)**:
+[The failure case of Xuji Group corporation to implement ERP](https://www.researchgate.net/publication/350942028_XU_JI_GROUP_CORPORATION_ERP_FAILURE_CASE) (Fuente: Oscar Palacin)
 
 ### 1999
 
@@ -213,6 +216,9 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **SAP y [Petsmart](https://www.petsmart.com/)**:
 [An installation of SAP AG's retail software completed last year by Petsmart Inc. created problems that were "far more than we anticipated"](https://www.computerworld.com/article/2589123/petsmart-ceo--sap-project--far-more--difficult-than-expected.html) (Fuente: Samuel Ballonga)
 
+- **SAP y [Jo-Ann Stores](https://www.joann.com/)**:
+[SAP Conversion Causing Headaches for Fabric Retailer](https://www.computerworld.com/article/2589484/sap-conversion-causing-headaches-for-fabric-retailer.html) (Fuente: Jaime Roncal)
+
 ### 2001
 
 - **HPT(nombre ficticio) y Vicro Communications**:
@@ -260,7 +266,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [ERP Adoption in China: Case Two](http://gebrc.nccu.edu.tw/proceedings/APDSI/2007/papers/Final_13.pdf) (Fuente: Víctor Rodríguez)
 
 - **SAP y [National Australia Bank](http://www.nab.com.au/) (NAB)**:
-[The National Australia Bank and Corporate Culture](https://www.academia.edu/24677287/Leadership_Culture_and_Employee_Deceit_the_case_of_the_National_Australia_Bank) (Fuente: Edgar Arnal, actualizado por Samuel Bonito)
+[The National Australia Bank and Corporate Culture](https://www.academia.edu/24677287/Leadership_Culture_and_Employee_Deceit_the_case_of_the_National_Australia_Bank) (Fuente: Edgar Arnal, actualizado por Samuel Bonito
 
 - **SAP y XYZ (nombre ficticio)**:
 [A Case Study of ERP Implementation Issues](https://core.ac.uk/download/pdf/326833174.pdf) (Fuente: Alejandro Guiu, actualizado por Samuel Bonito)
@@ -493,7 +499,7 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [SAP go-live leaves 18,000 unpaid bills at Europe's largest local authority - what went wrong](http://www.computerweekly.com/blogs/public-sector/2008/02/sap-golive-leaves-18000-unpaid-1.html) (Fuente: Juan Vela)
 
 - **SAP y la Ciudad de París**:
-[SAP Migration Caused Paris Legacy Architecture Clash](https://www.cio.com/article/2434903/enterprise-software/sap-migration-caused-paris-legacy-architecture-clash.html) (Fuente: Gonzalo Torrecillas)
+[SAP Migration Caused Paris Legacy Architecture Clash](https://www.networkworld.com/article/2274181/sap-migration-caused-paris-legacy-architecture-clash.html) (Fuente: Gonzalo Torrecillas corregido por Jaime Roncal)
 
 - **SAP y [Levi Strauss](https://www.levi.com/ES/es_ES/)**:
 [Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz) 
@@ -594,6 +600,8 @@ at around US$60 million, but has since ballooned to a colossal $700 million plus
 
 ### 2011
 
+-**SAP y Chorus**: [Chorus : les SSII en concurrence pour le marché de l'année](https://www.lemagit.fr/actualites/2240191222/Chorus-les-SSII-en-concurrence-pour-le-marche-de-lannee) (Fuente: Ayelen Nuño Gracia)
+
 - **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
 
 - **Computer Science Corporation y [NHS](http://www.nhs.uk/Pages/HomePage.aspx) (Reino Unido)**:
@@ -660,7 +668,15 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 - **SAP y [Lufkin Industries](https://lufkin.com/)**:
 [Court of Appeals of Texas](https://caselaw.findlaw.com/tx-court-of-appeals/1867628.html) (Fuente: Jaime Conchello)
 
+- **ERP desconocido y Tesco Bank**:
+[Lessons from an IT crisis – Tesco Bank](https://ukcampaign4change.com/2011/07/06/lessons-from-an-it-crisis-%E2%80%93-tesco-bank/) (Fuente: Raúl Rustarazo)
+
+- **ERP desconocido y SuperDry**:
+ [UK Retailer Superdry Still Hurting from IT Upgrade Problems Stock price hasn't recovered from news of problems](https://spectrum.ieee.org/uk-retailer-superdry-still-hurting-from-it-upgrade-problems) (Fuente: Raúl Rustarazo)
+
 ### 2012
+
+- **Oficina Nacional de Auditoria de Reino Unido y SAP y Oracle**: se realizo el cambio para adquirir de forma compartida el uso de ERP, permitiendo reducir los costes, y solo se consiguió aumentar los gastos. [Oracle and SAP worst for government ERP cost differences](https://www.computerweekly.com/news/2240114529/Oracle-and-SAP-worst-offenders-for-government-ERP-costs), [The National Audit Office in the United Kingdom found the use of ERP shared services added expenses rather than reducing costs](https://freebalance.com/blog/government-digital-transformation/erp-failures-in-government/) (Fuente: Ayelen Nuño Gracia)
 
 - **Accenture (implementador) y el sistema de pensiones de California**:
 [California's $500M state pension software system wracked by backlogs](http://www.computerworld.com/article/2503300/cloud-computing/california-s--500m-state-pension-software-system-wracked-by-backlogs.html) (Fuente: Eduardo Criado)
@@ -878,7 +894,7 @@ Instalación en 2017. Problemas en 2018.
 ([Revlon Report](https://investors.revlon.com/news-releases/news-release-details/revlon-reports-second-quarter-2018-results)) (Fuente: Naval Alcalá)
 [How Revlon got sued by its own shareholders because of a failed SAP implementation](https://medium.com/@henricodolfing/case-study-how-revlon-got-sued-by-its-own-shareholders-because-of-a-failed-sap-implementation-58b66f1267fa) (Fuente: Pedro Tamargo)
 [Lessons from Revlon’s SAP Implementation Disaster](https://www.thirdstage-consulting.com/lessons-from-revlons-sap-implementation-disaster/) (Fuente: Antonio Lecina)
-[What was the Real Story with the Revlon S/4 HANA failure?](https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López)
+[What was the Real Story with the Revlon S/4 HANA failure?](https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López) [ERP Implementation Failure at Revlon](https://www.thecasecentre.org/products/view?id=173346) (Fuente: Jaime Roncal) [Case Study: How Revlon Got Sued by Its Own Shareholders Because of a Failed Sap Implementation](https://www.henricodolfing.com/2019/08/case-study-revlon-sued-because-sap-implementation.html) (Fuente: Ismael Penacho
 
 - **SAP y [Under Armour](https://www.underarmour.com/)**:
 [Under Armour’s SAP implementation issues contribute to disappointing quarter](https://explorewms.com/under-armour-sap-implementation.html), [Under Armour Links Sales Decline to Software Upgrade](https://blogs.wsj.com/cio/2017/10/31/under-armour-links-sales-decline-to-software-upgrade/) (Fuente: Enrique Palacín), [Under Armour faces losses after ERP update](https://www.supplychaindive.com/news/under-armour-losses-ERP-update-supply-chain-disruption/510078/) (Hector Herrmann)
@@ -930,6 +946,8 @@ La crisis informática del banco TSB de abril de 2018 que deja a clientes bloque
 
 ### 2019
 
+- **Oracle y la policía de Cheshire**: El sistema fue puesto en marcha en 2019 con un contrato inicial de 3 millones £, pero debido al riesgo de acceso interno se ha decidido cambiar de sistema, llegando los acuerdos contractuales con Oracle a su fin en 2022  [Unit4 handed police ERP deal after 'significant deficiency' found in Oracle Fusion system](https://www.theregister.com/2021/05/18/unit4_3m_police_erp/) (Fuente: Ayelen Nuño Gracia) 
+
 - **SAP y [LeasePlan](https://www.leaseplan.com/es-es/)**:
 [Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) Un proyecto comenzado en 2017 por la empresa LeasePlan intenta consolidar en un proyecto de SAP a 35 sistemas en uno solo. Esto se transforma en una pérdida irreversible de 100 millones de euros y en la busqueda de una alternativa de IT para la empresa. (Fuente: Félix García)
 [The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/saphana/2019/11/10/the-hidden-s-4hana-failure-at-leaseplan/) (Fuente: Alex Sanz) [Case Study 10: LeasePlan Paid $100 Million for a SAP System That Never Went Live](https://www.henricodolfing.com/2020/01/project-failure-case-study-leaseplan-sap.html) (Fuente: Javier Morón)
@@ -970,6 +988,9 @@ rapidamente el departamento informatico de adidas soluciono el  problema pero po
 - **Infor y [Travis Perkins](https://www.travisperkins.co.uk/)**:
 Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor. [Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández)
 
+- **ERP Failures PT.Toyota Astra Motor Indonesia**:
+PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Critical ERP Failures Case study of PT.Toyota Astra Motor Indonesia](https://doi.org/10.1109/ICIC47613.2019.8985720) (Fuente: Sergio Pablo Lorén)
+
 ## Década de 2020
 
 ### 2020
@@ -981,3 +1002,6 @@ Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 201
 El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo tipo de problemas: [Union for public servants files grievance against Alberta government as pay issues persist](https://www.cbc.ca/news/canada/calgary/alberta-union-of-provincial-employees-aupe-susan-slade-1.5894680) (Fuente: Víctor Jarreta). Documento oficial en el que se detalla el plan de negocio previsto inicialmente y en el que se habla de 1GX, incluyendo su coste, periodo de desarollo y motivaciones: [Service Alberta Business Plan 2019–23](https://open.alberta.ca/dataset/2d0f4f49-ac34-440d-8ff1-396e55267a57/resource/91e9b32b-62b7-4b27-a92a-01966a645108/download/service-alberta.pdf) (Fuente: Víctor Jarreta)
 
 ### 2021
+
+- **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**: 
+[Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
