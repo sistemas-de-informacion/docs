@@ -269,6 +269,12 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Fuente**: Daniel Royo Idoype
   * **Descripción**: Fallible (empresa de ciber seguridad) anunció que un grupo de hackersrobaron en 2017 la información de 2'2 millones de usuarios de la aplicación McDelivery de McDonald's en India, incluyéndose en esta información nombres, correos, direcciones de domicilio y enlaces a redes sociales, entre otros.
 
+* [Insurer Bupa Blames Breach on Rogue Employee](https://www.careersinfosecurity.asia/insurer-bupa-blames-breach-on-rogue-employee-a-10111)
+  * **Fuente**: Jaime Roncal Pérez
+  * **Descripción**: Un empleado de [Bupa](https://www.bupaglobal.com/) (grupo inglés de seguros de salud al que pertenece Sanitas) accedió al sistema de CRM y copió la información personal de 547.000 clientes. Estos datos que incluían nombres, fechas de nacimiento, correos, nacionalidades y otros datos administrativos se pusieron a la venta en la Dark Web y la empresa fue [multada en 2018 por la ICO](https://ico.org.uk/media/action-weve-taken/mpns/2259871/bupa-mpn-20180928.pdf) con £175,000. El robo se detectó el 16 de junio de 2017 por un socio externo que detectó datos de clientes a la venta.
+  * **Estrategia**: En este caso se podría haber detectado mucho antes (los datos se extrajeron entre el 6 de enero y el 11 de marzo de 2017) si Bupa hubiera monitorizado rutinariamente el registro de actividad de SWAN, el CRM que utilizaban, para detectar extracciones masivas de datos. También es criticable el hecho de que parte del personal podía no solo generar informes de datos masivos, sino también descargarlos o exportarlos a aplicaciones separadas de intercambio de archivos o redes sociales. En este caso el empleado desleal adjuntó los datos a su correo electrónico. El [ICO](https://ico.org.uk/) critica además que no todo el personal de 1351 personas con acceso a esos datos, lo necesitaba.
+  * **Solución**: Una solución para proteger el sistema de archivos de esta delegación habría sido utilizar el CRM nacional de la empresa: SWIFT. Este no permite que los miembros del equipo intermediario generen informes directamente del sistema y permite generar informes de logs desde un sistema separado como [Cognos](https://www.ibm.com/es-es/products/cognos-analytics). De esta forma se puede prevenir el uso no autorizado de los datos.
+
 ### 2018
 
 * [SunTrust Investigation Shows Continuing Threats Posed by Insiders](https://www.securitynow.com/author.asp?section_id=613&doc_id=742491)
