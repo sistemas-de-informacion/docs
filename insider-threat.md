@@ -27,14 +27,9 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 * [Herman Simm exposed NATO's inner work to Russia](https://afyonluoglu.org/PublicWebFiles/library/ccdcoe/LIB_0023.pdf)
   * **Fuente**: Sergio Pablo Lorén Tomás
-  * **Descripción**: Herman Simm fue un oficial de policia de Estonia, jefe de policía y además Director de la división de análisis de la MoD (Ministry of Defence) de Estonia. En ese momento
-comenzó a realizar fotocopias de documentos e imágenes. Posteriormente cuando Estonia entro en la OTAN en 2004, debido al cargo que ostentaba tuvo acceso también a trabajos internos de la OTAN
-los cuales él expuso a Rusia. Finalmente en 2008 fue descubierto por uno de los asesores de Herman Simm después de haber realizado un gran daño.
-  * **Estrategia**: Una estrategia posible sería que al ser una persona con acceso a información muy sensible cada acción que hiciera quedase registrada para así poder monitorizar todas las acciones
-  además de controlar el acceso a las impresoras de la empresa ya que se debe poder ver quién la está utilizando y qué documentación esta fotocopiando y si es un comportamiento sospechoso o no. 
-  Además sería adecuado hacer consciente a una persona de su cargo el riesgo que conllevaría si realiza actividades malintencionadas así como también entrenar al personal de la empresa y ponerles
-  en conocimiento de que estas situaciones pueden ocurrir y cómo se debe actuar.
-  * **Solución**:[Ekran System](https://www.ekransystem.com/en/solutions/monitoring-employee-activity?utm_source=capterra&utm_medium=cpc&utm_campaign=capterra_employee_monitoring&campaign=capterra) Para prevenir estos hechos se podría utilizar el software de Ekran System el cual permite monitorizar las diferentes actividades de los empleados asi como gestionar el control de acceso de cada
+  * **Descripción**: Herman Simm fue un oficial de policia de Estonia, jefe de policía y además Director de la división de análisis de la MoD (Ministry of Defence) de Estonia. En ese momento comenzó a realizar fotocopias de documentos e imágenes. Posteriormente cuando Estonia entro en la OTAN en 2004, debido al cargo que ostentaba tuvo acceso también a trabajos internos de la OTAN los cuales él expuso a Rusia. Finalmente en 2008 fue descubierto por uno de los asesores de Herman Simm después de haber realizado un gran daño.
+  * **Estrategia**: Una estrategia posible sería que al ser una persona con acceso a información muy sensible cada acción que hiciera quedase registrada para así poder monitorizar todas las acciones además de controlar el acceso a las impresoras de la empresa ya que se debe poder ver quién la está utilizando y qué documentación esta fotocopiando y si es un comportamiento sospechoso o no. Además sería adecuado hacer consciente a una persona de su cargo el riesgo que conllevaría si realiza actividades malintencionadas así como también entrenar al personal de la empresa y ponerles en conocimiento de que estas situaciones pueden ocurrir y cómo se debe actuar.
+  * **Solución**:[Ekran System](https://www.ekransystem.com/en/solutions/monitoring-employee-activity) Para prevenir estos hechos se podría utilizar el software de Ekran System el cual permite monitorizar las diferentes actividades de los empleados asi como gestionar el control de acceso de cada
 uno de ellos.
 
 ### 2010
