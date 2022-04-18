@@ -25,6 +25,13 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 * [Chinese Agent Sentenced to Over 24 Years in Prison for Exporting United States Defense Articles to China](http://www.justice.gov/opa/pr/2008/March/08_nsd_229.html) (Fuente: Sergio Josa)
 
+* [Herman Simm exposed NATO's inner work to Russia](https://afyonluoglu.org/PublicWebFiles/library/ccdcoe/LIB_0023.pdf)
+  * **Fuente**: Sergio Pablo Lorén Tomás
+  * **Descripción**: Herman Simm fue un oficial de policia de Estonia, jefe de policía y además Director de la división de análisis de la MoD (Ministry of Defence) de Estonia. En ese momento comenzó a realizar fotocopias de documentos e imágenes. Posteriormente cuando Estonia entro en la OTAN en 2004, debido al cargo que ostentaba tuvo acceso también a trabajos internos de la OTAN los cuales él expuso a Rusia. Finalmente en 2008 fue descubierto por uno de los asesores de Herman Simm después de haber realizado un gran daño.
+  * **Estrategia**: Una estrategia posible sería que al ser una persona con acceso a información muy sensible cada acción que hiciera quedase registrada para así poder monitorizar todas las acciones además de controlar el acceso a las impresoras de la empresa ya que se debe poder ver quién la está utilizando y qué documentación esta fotocopiando y si es un comportamiento sospechoso o no. Además sería adecuado hacer consciente a una persona de su cargo el riesgo que conllevaría si realiza actividades malintencionadas así como también entrenar al personal de la empresa y ponerles en conocimiento de que estas situaciones pueden ocurrir y cómo se debe actuar.
+  * **Solución**:[Ekran System](https://www.ekransystem.com/en/solutions/monitoring-employee-activity) Para prevenir estos hechos se podría utilizar el software de Ekran System el cual permite monitorizar las diferentes actividades de los empleados asi como gestionar el control de acceso de cada
+uno de ellos.
+
 ### 2010
 
 * [Chesterfield Man Sentenced To 18 Months In Prison For Theft Of DuPont Trade Secrets](https://www.justice.gov/opa/pr/kolon-industries-inc-pleads-guilty-conspiring-steal-dupont-trade-secrets-involving-kevlar) (Fuente: Rubén Quílez, corregido Alejandro Ramón)
