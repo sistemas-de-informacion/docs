@@ -619,6 +619,14 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Estrategia**: Para evitar filtraciones de código crítico por parte de trabajadores, se debe implementar una estricto control de permisos para que cada persona acceda sólo a lo estrictamente necesario, así como tener mecanismos de auditoría en tiempo real y control de la información que se transfiere al exterior (dispositivos USB, correo, conexiones a servicios de terceros).
   * **Solución**: Una opción para mejorar el control de la información crítica puede ser instalar un software de auditoría en el servidor de archivos, junto con software de prevención de fugas de información. Por ejemplo el producto [Data leak prevention de DataSecurity Plus](https://www.manageengine.com/data-security/dlp/data-leak-prevention-software.html).
 
+**2022**
+
+* [Food Delivery Leak Unmasks Russian Security Agents](https://www.bellingcat.com/news/rest-of-world/2022/04/01/food-delivery-leak-unmasks-russian-security-agents/)
+  * **Fuente**: Jaime Berruete Díaz
+  * **Descripción**: Un empleado de Yandex Food, el popular servicio de comida a domicilio en Rusia, filtra información personal de los usuarios entre lo que se encuentran: direcciones de entrega, teléfonos, detalles de contacto o instrucciones de entrega. Entre estos datos datos se hallan algunos pertenecientes a militares o altos cargos del gobierno ruso como la supuesta hija secreta de Vladimir Putin o su amante. Además a partir de esta filtración se han observado carencias en los protocolos de seguridad de acceso a bases militares y datos de contacto de algunos espías rusos.
+  * **Estrategia**: Para evitar filtraciones de información se debería eliminar el procesamiento manual de dichos datos y reducir lo máximo posible el número de empleados que tienen acceso a los mismos. Además se deberían utilizar sistemas cifrados en los sistemas de información que protegieran suficientemente los datos frente a amenazas tanto internas como externas. Tal y como se puede leer en el [comunicado (en ruso)](https://yandex.ru/company/services_news/2022/01-03-2022) publicado en la web de Yandex, se van a adoptar medidas en este sentido dentro de la compañía.
+  * **Solución**: Con el objetivo de reducir lo máximo posible el número de empleados que tienen acceso a los datos sensibles se podría utilizar el sistema [Pathlock Control](https://pathlock.com/), el cual permite gestionar automáticamente permisos (entre ellos de acceso a información), eliminando dichos permisos a usuarios sospechosos de insider threat. Además se debería implementar un sistema automático de procesamiento de datos que actualizase directamente la base de datos con los pedidos.
+
 ## Vengativos
 
 ### 1996
