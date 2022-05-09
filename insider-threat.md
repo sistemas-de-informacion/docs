@@ -483,6 +483,13 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Descripción**: Hackers obtuvieron acceso a 130 cuentas de Twitter privadas y corporativas con al menos un millón de seguidores cada una. Usaron 45 de estas cuentas para promover una estafa de Bitcoin. La lista de cuentas pirateadas incluye las de Barack Obama, Elon Musk, Bill Gates... Los usuarios de Twitter transfirieron el equivalente de al menos $180,000 en Bitcoin a cuentas fraudulentas. Los hackers recopilaron información sobre los empleados de la empresa que trabajaban desde casa, los contactaron, se presentaron como administradores de TI de Twitter y les pidieron credenciales de usuario.
   * **Estrategia**: Los empleados deberían seleccionar muy bien a quién conceder información confidencial, además la empresa debería tener la información sensible encriptada. Otra buena práctica para impedir los ataques de hackers podría ser permitir el acceso a la administración de las cuentas de los clientes únicamente desde las IPs de las oficinas o utilizando claves de superusuario. Además, se deberían evaluar los riesgos de confiar información muy confidencial a muchos empleados y reducir el número de empleados con acceso a dicha información al mínimo posible.
   * **Solución**: Utilizar software que controla y analiza el acceso a información como [Forcepoint Insider Threat](https://www.forcepoint.com/es/product/fit).
+
+### 2021
+* [Dallas police department database leak caused by employee negligence](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
+  * **Fuente**: Álvaro Pomar
+  * **Descripción**: Un empleado de la policía de Dallas borró 8,7 millones de antecedentes policiales equivalentes a 23 TB de información. Estos datos estaban relacionados con aproximadamente 17.500 casos activos, lo que provocó la ralentización de estos procesos judiciales. De los 23TB borrados, solo 3TB consiguieron ser recuperados.
+  * **Estrategia**: el incidente ocurrió al mover los datos al cloud y fue debido a que el responsable de IT no tenía los conocimientos necesarios para realizar esta tarea (solo había tomado 2 clases acerca de como realizar el traslado de información). El departamento debió haber monitorizado todas las sesiones en las que se interactuaba con estos datos, de esta forma se habrían dado cuenta del borrado de los datos en tiempo real o se podrían haber creado backups de esta información regularmente. 
+  * **Solución**: Emplear Software para crear backups como [Veeam](https://www.veeam.com/es/backup-replication-virtual-physical-cloud.html)
   
 ## Saboteadores
 
