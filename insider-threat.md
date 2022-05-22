@@ -57,6 +57,7 @@ uno de ellos.
 * [Case Closure: Insider Threat Hanjuan Jin Gets 4 Years in Prison](http://www.raysemko.com/2012/09/05/case-closure-insider-threat-hanjuan-jin-gets-4-years-in-prison/) (Fuente: Beatriz Aguas)
 * [Chicago engineers arrested for stealing trade secrets](https://www.fbi.gov/chicago/press-releases/2012/former-cme-group-software-engineer-pleads-guilty-to-stealing-globex-computer-trade-secrets-while-planning-to-improve-electronic-trading-in-china?utm_campaign=email-Immediate&utm_medium=email&utm_source=chicago-press-releases&utm_content=139576) (Fuente: Mario Navarro Casas)
 * [Zynga suing former employee for stealing trade secrets](http://venturebeat.com/2012/10/15/zynga-suing-former-employee-for-stealing-trade-secrets/) (Fuente: Jesús Guillermo Sesé)
+* [Insider Threat Study: Illicit Cyber Activity Involving Fraud in the U.S. Financial Services Sector ](https://apps.dtic.mil/sti/pdfs/ADA610430.pdf) (Fuente: Raúl Daramus)
 
 ### 2013
 
