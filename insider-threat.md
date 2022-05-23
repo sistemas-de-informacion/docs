@@ -269,6 +269,12 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Fuente**: Daniel Royo Idoype
   * **Descripción**: Fallible (empresa de ciber seguridad) anunció que un grupo de hackersrobaron en 2017 la información de 2'2 millones de usuarios de la aplicación McDelivery de McDonald's en India, incluyéndose en esta información nombres, correos, direcciones de domicilio y enlaces a redes sociales, entre otros.
 
+* [Bupa fined £175,000 after employee puts customers' data up for sale on the dark web](https://www.mobihealthnews.com/content/bupa-fined-%C2%A3175000-after-employee-puts-customers-data-sale-dark-web)
+  * **Fuente**: Jorge Fenero Laborda
+  * **Descripción**: Bupa ha sido multada con 175.000 libras tras descubrir que uno de sus empleados habia extraido datos de más de 547,000 clientes de todas partes del mundo y había publicado los datos en la dark web para venderlos. Los datos los obtuvo a través de SWAN, un CRM que guardaba datos sensibles de más de 1.5 millones de personas.
+  * **Estrategia**: Como el artículo destaca que no se monitorizaba lo suficiente el CRM, habría que utilizar un sistema de información capaz de monitorizar diariamente y que sea capaz de detectar la manipulación de grandes cantidades de datos. También se podria usar un sistema que asigne y gestione roles para cada empleado y poder limitar los accesos al CRM.
+  * **Solución**: Usar un software de monitorización como [Pandora FMS](https://pandorafms.com/es/) permite gestionar la información de hasta 100 dispositivos y crear alertas cuando algún parámetro se pasa de algún limite.
+
 ### 2018
 
 * [SunTrust Investigation Shows Continuing Threats Posed by Insiders](https://www.securitynow.com/author.asp?section_id=613&doc_id=742491)
