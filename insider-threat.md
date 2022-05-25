@@ -25,6 +25,13 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 * [Chinese Agent Sentenced to Over 24 Years in Prison for Exporting United States Defense Articles to China](http://www.justice.gov/opa/pr/2008/March/08_nsd_229.html) (Fuente: Sergio Josa)
 
+* [Herman Simm exposed NATO's inner work to Russia](https://afyonluoglu.org/PublicWebFiles/library/ccdcoe/LIB_0023.pdf)
+  * **Fuente**: Sergio Pablo Lorén Tomás
+  * **Descripción**: Herman Simm fue un oficial de policia de Estonia, jefe de policía y además Director de la división de análisis de la MoD (Ministry of Defence) de Estonia. En ese momento comenzó a realizar fotocopias de documentos e imágenes. Posteriormente cuando Estonia entro en la OTAN en 2004, debido al cargo que ostentaba tuvo acceso también a trabajos internos de la OTAN los cuales él expuso a Rusia. Finalmente en 2008 fue descubierto por uno de los asesores de Herman Simm después de haber realizado un gran daño.
+  * **Estrategia**: Una estrategia posible sería que al ser una persona con acceso a información muy sensible cada acción que hiciera quedase registrada para así poder monitorizar todas las acciones además de controlar el acceso a las impresoras de la empresa ya que se debe poder ver quién la está utilizando y qué documentación esta fotocopiando y si es un comportamiento sospechoso o no. Además sería adecuado hacer consciente a una persona de su cargo el riesgo que conllevaría si realiza actividades malintencionadas así como también entrenar al personal de la empresa y ponerles en conocimiento de que estas situaciones pueden ocurrir y cómo se debe actuar.
+  * **Solución**:[Ekran System](https://www.ekransystem.com/en/solutions/monitoring-employee-activity) Para prevenir estos hechos se podría utilizar el software de Ekran System el cual permite monitorizar las diferentes actividades de los empleados asi como gestionar el control de acceso de cada
+uno de ellos.
+
 ### 2010
 
 * [Chesterfield Man Sentenced To 18 Months In Prison For Theft Of DuPont Trade Secrets](https://www.justice.gov/opa/pr/kolon-industries-inc-pleads-guilty-conspiring-steal-dupont-trade-secrets-involving-kevlar) (Fuente: Rubén Quílez, corregido Alejandro Ramón)
@@ -46,10 +53,11 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 ### 2012
 
 * [Intel engineer gave plans to AMD](http://news.techeye.net/chips/intel-engineer-gave-plans-to-amd) (Fuente: Alejandro Gálvez)
-* [Stolen Samsung AMOLED technology sold to rival, 11 suspects arrested](http://bgr.com/2012/04/05/stolen-samsung-amoled-technology-sold-to-rival-11-suspects-arrested/) (Fuente: Alejandro Gálvez)
+* [Stolen Samsung AMOLED technology sold to rival, 11 suspects arrested](http://bgr.com/2012/04/05/stolen-samsung-amoled-technology-sold-to-rival-11-suspects-arrested/) (Fuente: Alejandro Gálvez)
 * [Case Closure: Insider Threat Hanjuan Jin Gets 4 Years in Prison](http://www.raysemko.com/2012/09/05/case-closure-insider-threat-hanjuan-jin-gets-4-years-in-prison/) (Fuente: Beatriz Aguas)
 * [Chicago engineers arrested for stealing trade secrets](https://www.fbi.gov/chicago/press-releases/2012/former-cme-group-software-engineer-pleads-guilty-to-stealing-globex-computer-trade-secrets-while-planning-to-improve-electronic-trading-in-china?utm_campaign=email-Immediate&utm_medium=email&utm_source=chicago-press-releases&utm_content=139576) (Fuente: Mario Navarro Casas)
 * [Zynga suing former employee for stealing trade secrets](http://venturebeat.com/2012/10/15/zynga-suing-former-employee-for-stealing-trade-secrets/) (Fuente: Jesús Guillermo Sesé)
+* [Insider Threat Study: Illicit Cyber Activity Involving Fraud in the U.S. Financial Services Sector ](https://apps.dtic.mil/sti/pdfs/ADA610430.pdf) (Fuente: Raúl Daramus)
 
 ### 2013
 
@@ -66,7 +74,7 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 * [NASA tightens security in response to an insider threat](http://www.darkreading.com/risk-management/nasa-tightens-security-in-response-to-insider-threat/d/d-id/1109196) (Fuente: Juan Vela)
 * [Ex-Microsoft Employee Charged With Trade Secret Theft](http://www.bloomberg.com/news/2014-03-20/ex-microsoft-employee-charged-with-trade-secret-theft.html) (Fuente: Julián Liaño)
 * [Kentucky Man Convicted of Theft of Trade Secrets Sentenced in Yakima Federal Court](https://www.fbi.gov/seattle/press-releases/2014/kentucky-man-convicted-of-theft-of-trade-secrets-sentenced-in-yakima-federal-court) (Fuente: Samuel Gascón)
-* [Naval Espionage: Stopping a Dangerous Insider Threat](http://www.fbi.gov/news/stories/2014/march/naval-espionage-stopping-a-dangerous-insider-threat/naval-espionage-stopping-a-dangerous-insider-threat) (Fuente: Santiago Sarasa)
+* [Naval Espionage: Stopping a Dangerous Insider Threat](http://www.fbi.gov/news/stories/2014/march/naval-espionage-stopping-a-dangerous-insider-threat/naval-espionage-stopping-a-dangerous-insider-threat) (Fuente: Santiago Sarasa)
 
 ### 2015
 
@@ -124,6 +132,22 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: Un empleado de GE Power & Water explotó sus privilegios de acceso para descargarse ficheros con información relevante sobre el diseño de turbinas, desde los archivos de diseño a los de configuración. Después dicho empleado se los envío a un amigo en China. Todo esto para que ambos pudieran crear sus propias empresas, así como, permitir que el mercado Chino superé al mercado Americano en este sector. 
   * **Estrategia**: Instalar un sistema de monitoreo de ficheros, que permita detectar los ficheros descargados por un empleado y así poder comprobar que dicho empleado tenía acceso a esos archivos o si se ha descargado más información que cualquiera de sus compañeros con los mismos privilegios.
   * **Solución**: [File Integrity Monitoring Software](https://www.solarwinds.com/es/security-event-manager/use-cases/file-integrity-monitoring-software) es una tecnología que monitorea y detecta cambios en los archivos. Permite determinar la frecuencia de monitoreo de archivos de suma importancia, así como, enviar alertas en caso de detectar anomalías y realizar informes de resultados.
+
+### 2020
+
+*[Investigación sobre robo de propiedad intelecutal en General Electric](https://www.fbi.gov/news/stories/two-guilty-in-theft-of-trade-secrets-from-ge-072920)*
+  * **Fuente**: Luis Felipe Nonay Serrano
+  * **Descripción**: Tras siete años de investigación, el FBI ha conseguido desenmascarar la duplicidad de Jean Patrice Delia y su socio Miguel Serna, empleados de GE que robaron más de 8000 archivos confidenciales. Las autoridades demostraron robaron el robo de elementos de un programa informático y un modelo matemático que GE utilizaba para calibrar de forma experta las turbinas utilizadas en las centrales eléctricas, para ello tuvieron la colaboración de un informático que permitió el acceso a Delia a dichos archivos. Para dar salida a estos archivos, constituyeron una empresa en Canadá, la cual se presentó como un competidor de GE para un contrato en Arabia Saudí. Tras mucho tiempo de investigación, las pruebas encontradas en un portátil que llevaba encima Serna al ser detenido en Detroit, hicieron a ambos confesarse culpables del delito.
+  * **Estrategia**: Para evitar problemas de este estilo, se debería controlar la concesión de permisos a los nuevos usuarios que tienen acceso a información sensible, monitorizando sus acciones y realizando un seguimiento que permita detectar actividades extrañas, así como bloquear el acceso si estas ocurren (llevando a cabo una investigación).
+  * **Solución**:  Existen diversas soluciones a nivel software que podrían aplicarse en determinada compañía como pueden ser *[Openhrms] (https://www.openhrms.com/)* que es una base de datos que contiene los permisos de los distintos usuarios de la compañía, o [Forcepoint](https://www.forcepoint.com/es/security/insider-threat)* que tiene servicios encargados de la monitorización de las actividad de un determinado usuario o trabajador. Desde mi punto de vista se podria implementar una solución software que avisase al responsable de la empresa si un permiso de acceso ha sido modificado sin su consentimiento, así como de cada descarga no autorizada que se realice.
+
+### 2021 
+* [Robo de secretos comerciales por parte de empleados de Elliott Greenleaf para obtener una ventaja comercial](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
+  * **Fuente**:  Ayelen Nuño Gracia 
+  * **Descripción**: En enero de 2021, se produjo un robo de información al bufete de abogados Elliott Greenleaf, para vender estos archivos a su competidor directo Armstrong Teasdale. Lo cual les permitiría abrir una nueva oficina. Lo que llego a provocar el cierre del bufete, ya que se encontró en una situación de desventaja competitiva ante la nueva oficina de Delaware. El fallo se detecto gracias que la compañía realizaba copias de seguridad de toda la información y los correos de la empresa, y recupero las cuentas desde las que les habían estado robando la información.
+  * **Estrategia**:  Para evitar casos de este estilo se podría realizar una revisión periódica a intervalos cortos de tiempo en el que se comprobase el flujo de descarga de los empleados. De igual forma se podrían instalar alertas diversas que indicasen cuando se accede a información delicada la cual es de una fecha antigua y en caso de que un usuario realizase muchos accesos a este estilo de archivos activar una alarma en el sistema y bloquear la información sensible de la empresa. 
+  * **Solución**:  El sistema [kickidler](https://www.kickidler.com/es/dlp.html) se encarga de estudiar no solo el trazado de los datos dentro de la empresa, si no también la actividad que realizan los trabajadores, permitiendo detectar estas amenazas de una forma más sencilla. Además los datos se pueden definir con un formato especifico y bloquear su descarga, o que se impriman estos datos. 
+
   
 ## Ladrones de datos
 
@@ -185,10 +209,10 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Estrategia**: No tener papeles con informacion confidencial a la vista y acceso de todo el mundo, tratar de llevar un control de quien accede a los datos en todo momento y de que esos datos no puedan salir del entorno laboral protegido
 
 * [Vodafone Germany confirms insider data theft: Two million customers affected](https://www.zdnet.com/article/vodafone-germany-confirms-insider-data-theft-two-million-customers-affected/).
-  ***Fuente**: David Sáez García
-  * **Descripción**: Datos sobre clientes de Vodafone Alemania fueron robados por un trabajador de la compañia. Estos datos robados se corresponden a nombres, direcciones, fechas de nacimiento y datos bancarios. Afortunadamente, el atacante no pudo robar información mas comprometida, como números de tarjetas de crédito.
-  * **Estrategia**: Monitorizar en tiempo real las acciones realizadas por los empleados. De esta forma se pueden evitar casos como el descrito e intervenir antes de que el atacante haya podido almacenar información comprometida.
-* **Solución**: [ActivTrak](https://activtrak.com/what-is-activtrak/), que es una herramienta que rastrear las actividades de un equipo de trabajo en tiempo real, notificando comportamientos sospechosos si estos existen. Además, se puede configurar para que genere reportes periódicamente.
+  * **Fuente**: David Sáez García
+  * **Descripción**: Datos sobre clientes de Vodafone Alemania fueron robados por un trabajador de la compañia. Estos datos robados se corresponden a nombres, direcciones, fechas de nacimiento y datos bancarios. Afortunadamente, el atacante no pudo robar información mas comprometida, como números de tarjetas de crédito.
+  * **Estrategia**: Monitorizar en tiempo real las acciones realizadas por los empleados. De esta forma se pueden evitar casos como el descrito e intervenir antes de que el atacante haya podido almacenar información comprometida.
+  * **Solución**: [ActivTrak](https://activtrak.com/what-is-activtrak/), que es una herramienta que rastrear las actividades de un equipo de trabajo en tiempo real, notificando comportamientos sospechosos si estos existen. Además, se puede configurar para que genere reportes periódicamente.
 
 ### 2014
 
@@ -260,6 +284,12 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Fuente**: Daniel Royo Idoype
   * **Descripción**: Fallible (empresa de ciber seguridad) anunció que un grupo de hackersrobaron en 2017 la información de 2'2 millones de usuarios de la aplicación McDelivery de McDonald's en India, incluyéndose en esta información nombres, correos, direcciones de domicilio y enlaces a redes sociales, entre otros.
 
+* [Insurer Bupa Blames Breach on Rogue Employee](https://www.careersinfosecurity.asia/insurer-bupa-blames-breach-on-rogue-employee-a-10111)
+  * **Fuente**: Jaime Roncal Pérez
+  * **Descripción**: Un empleado de [Bupa](https://www.bupaglobal.com/) (grupo inglés de seguros de salud al que pertenece Sanitas) accedió al sistema de CRM y copió la información personal de 547.000 clientes. Estos datos que incluían nombres, fechas de nacimiento, correos, nacionalidades y otros datos administrativos se pusieron a la venta en la Dark Web y la empresa fue [multada en 2018 por la ICO](https://ico.org.uk/media/action-weve-taken/mpns/2259871/bupa-mpn-20180928.pdf) con £175,000. El robo se detectó el 16 de junio de 2017 por un socio externo que detectó datos de clientes a la venta.
+  * **Estrategia**: En este caso se podría haber detectado mucho antes (los datos se extrajeron entre el 6 de enero y el 11 de marzo de 2017) si Bupa hubiera monitorizado rutinariamente el registro de actividad de SWAN, el CRM que utilizaban, para detectar extracciones masivas de datos. También es criticable el hecho de que parte del personal podía no solo generar informes de datos masivos, sino también descargarlos o exportarlos a aplicaciones separadas de intercambio de archivos o redes sociales. En este caso el empleado desleal adjuntó los datos a su correo electrónico. El [ICO](https://ico.org.uk/) critica además que no todo el personal de 1351 personas con acceso a esos datos, lo necesitaba.
+  * **Solución**: Una solución para proteger el sistema de archivos de esta delegación habría sido utilizar el CRM nacional de la empresa: SWIFT. Este no permite que los miembros del equipo intermediario generen informes directamente del sistema y permite generar informes de logs desde un sistema separado como [Cognos](https://www.ibm.com/es-es/products/cognos-analytics). De esta forma se puede prevenir el uso no autorizado de los datos.
+
 ### 2018
 
 * [SunTrust Investigation Shows Continuing Threats Posed by Insiders](https://www.securitynow.com/author.asp?section_id=613&doc_id=742491)
@@ -306,6 +336,21 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Descripción**: Un empleado recién contratado como ingeniero de software de control de calidad robó archivos de la red interna relacionados con el software de automatización de procesos comerciales moviéndolos a su cuenta de personal de Dropbox. La fuga de información fue detenida casi en el acto usando los protocolos correspondientes, pues habían sospechas sobre la persona.
   * **Estrategia**: El empleado tenía acceso a datos comprometidos que no tenían que ver con su trabajo. Con un sistema de información basado en roles que impiediera al empleado acceder a datos que no tuvieran que ver con su trabajo se podría haber mitigado parcialmente, pero no impide el robo de datos que si le sean relevantes. Para ello se podría hacer una monitorización del trabajo del empleado, impidiendo el uso de herramientas como Dropbox.
   * **Solución**: [Snort](https://www.snort.org/) es un proyecto open-sourced que utiliza una serie de reglas que detectan el uso malicioso de la actividad de una red y genera alertas acorde a ello ([por ejemplo Droxbox](https://www.snort.org/rule-docs/1-18609)). Se puede aplicar directamente en la red de la empresa y se actualiza constantemente.
+
+### 2020
+
+* [Marriott leaked data because of a compromised third-party app](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
+  * **Fuente**: Raquel Roy Rubio
+  * **Descripción**: Las credenciales de dos empleados de Marriot para iniciar sesión en una de las aplicaciones de terceros de la cadena hotelera fueron comprometidas. Los sistemas de ciberseguridad de Marriott no notaron la actividad sospechosa de los perfiles de estos empleados hasta pasados dos meses. Lograron acceder a 5.2 millones de registros de huéspedes que incluían información de contacto, sexo, cumpleaños, detalles de la cuenta y preferencias personales.
+  * **Estrategia**: [Según Marriot](https://dbcybertech.com/pdf/Marriot-Breach-White-Paper.pdf), la información personal robada se almacenó en un servidor interno comprometido donde luego se cifraron los datos. Es probable que los atacantes encriptaran los datos para ocultarlos, de modo que los sistemas de prevención de pérdida de datos no pudieran identificar la información robada cuando salía de la red de Marriott.
+  * **Solución**: Con la supervisión de proveedores externos y el análisis del comportamiento de usuarios y entidades, Marriott podría haber detectado la infracción antes de que los piratas informáticos accedieran a los datos de los clientes.
+
+* [Shopify reports 'rogue' employees stole some customer data](https://www.engadget.com/shopify-data-breach-035811917.html)
+  * **Fuente**: Sergio Hernández Julián
+  * **Descripción**: Menos de 200 usuarios de Shopify se vieron afectados en la mayor brecha de datos que ha tenido la plataforma. Se trata de datos personales pertenecientes a usuarios que poseen tiendas en la plataforma. Shopify insisten en que no ha sido una vulnerabilidad tecnica de la plataforma si no que achaca el infortunio a dos trabajadores del departamento de soporte que han sido immnediatamente puestos a disposición de los organismos compotentes y despedidos.
+  * **Estrategia**: Segun este [comunicado oficial](https://community.shopify.com/c/shopify-discussions/incident-update/m-p/888971) de Shopify, la información personal que fue robada fue debido a que estaban involucrados en un esquema para obtener registros de transacciones de clientes de ciertos comerciantes. Shopify no ha querido dar más datos de como era el esquema en el que estaban operando. 
+  * **Solución**: Shopify podría haber evitado este infortunio contando con el apoyo software que proporciona [Proofpoint](https://www.proofpoint.com/es/products/information-protection/insider-threat-management) una empresa que ofrece software como servicio y productos para la prevención de pérdida de datos.
+ 
 
 ## Ladrones de dinero
 
@@ -409,6 +454,20 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Estrategia**: Es difícil eliminar el error humano, pero con formación adecuada y siendo estrictos en la no violación de las políticas de empresa (como envío de e-mails personales con el correo de empresa), se puede minimizar la posibilidad de que éste ocurra. Por otra parte, se podría quitar el autocompletado, requerir de confirmación con todos los datos, o utilizar una solución de No Compartir, que desautoriza el acceso al fichero en caso de activarlo en algún momento. Para saber que hay que activar esta opción, sería una buena idea monitorizar las acciones de los empleados. Además, si lo que estaba realizando el empleado era una operación periódica, podría ser posible automatizarla.
   * **Solución**: Un módulo de HRMS habitual bastante aprovechable relacionado con la estrategia sería el de formación. El de [Peoplesoft](https://docs.oracle.com/cd/E40044_01/psft/acrobat/hcm92hhat-b0313.pdf), por ejemplo, es muy completo y permite gestionar todo el proceso a un nível de detalle muy alto.
 
+### 2017
+
+* [Apple despide a ingeniero porque su hija youtuber filtró el iPhone X](https://computerhoy.com/noticias/moviles/apple-despide-ingeniero-porque-su-hija-youtuber-filtro-iphone-x-70391)
+  * **Fuente**: Oscar Anadon Olalla.
+  * **Descripción**: Apple despide al ingeniero cuya hija subió un video a Youtube hablando de las caracteristicas del entonces todavia no lanzado iPhone X.
+
+### 2018
+
+* [Inside a massive cyber hack that risks compromising leaders across the globe](https://www.abc.net.au/news/2019-10-02/anu-cyber-hack-how-personal-information-got-out/11550578?nw=0)
+  * **Fuente**: Víctor Jarreta Espligares
+  * **Descripción**: Un miembro senior del personal en la Universidad Nacional Australiana (ANU) fue víctima de Phishing con un correo, permitiendo así a un grupo de hackers acceso a información personal de miembros de la universidad.
+  * **Estrategia**: Cierto es que la estafa de Phishing lleva siendo un problema durante muchos años, este problema se incrementa mucho más si puede afectar a empresas o a la administración pública, donde la cantidad y delicadeza de la información puede ser mucho mayor. La principal estrategia sería formar al personal en lo referido a estafas y hackeos por correo, donde además se podría añadir un software que ayudase a detectar dichos correos.
+  * **Solución**: Formar a los trabajadores con cursos anti-Phishing, como por ejemplo con cursos de [Global Learning Systems](https://www.globallearningsystems.com/) que proporciona [cursos específicos para este caso](https://www.globallearningsystems.com/anti-phishing-essentials/). En lo referido al software para los correos, hay múltiples opciones como se puede ver en [este artículo](https://www.toolbox.com/it-security/vulnerability-management/articles/top-10-anti-phishing-software/), un ejemplo sería [Cofense](https://cofense.com/) que proporciona: reportes de amenazas de forma dinámica, integración con otros sistemas, cuarentena de correos, simulaciones de amenazas de Phishing para comprobar el funcionamiento, analizador automático de correos y SPAM, y una interfaz para los trabajadores.
+
 ### 2019
 
 * [Microsoft Security Shocker As 250 Million Customer Records Exposed Online](https://www.forbes.com/sites/daveywinder/2020/01/22/microsoft-security-shocker-as-250-million-customer-records-exposed-online/?sh=156f51704d1b)
@@ -426,12 +485,25 @@ automatizar la generación de logs. El software permite también [bloquear el us
     * Elegir el producto de acceso remoto adecuado, contestando las siguientes cuatro preguntas: ¿Quién es el usuario y cuál es su función laboral? ¿Qué tipo de dispositivo se está utilizando y quién es el propietario? ¿A qué tipo de aplicaciones y datos necesitan los usuarios acceder? y ¿Dónde se encuentra el usuario?
     * Evaluar los riesgos de utilizar el dispositivo electrónico personal de cada empleado.
     * Desarrollar una política de trabajo remoto utilizable.
+    
+* [Twitter users scammed because of phished employees](https://www.bbc.com/news/technology-53607374) 
+  * **Fuente**: Sofia Subias
+  * **Descripción**: Hackers obtuvieron acceso a 130 cuentas de Twitter privadas y corporativas con al menos un millón de seguidores cada una. Usaron 45 de estas cuentas para promover una estafa de Bitcoin. La lista de cuentas pirateadas incluye las de Barack Obama, Elon Musk, Bill Gates... Los usuarios de Twitter transfirieron el equivalente de al menos $180,000 en Bitcoin a cuentas fraudulentas. Los hackers recopilaron información sobre los empleados de la empresa que trabajaban desde casa, los contactaron, se presentaron como administradores de TI de Twitter y les pidieron credenciales de usuario.
+  * **Estrategia**: Los empleados deberían seleccionar muy bien a quién conceder información confidencial, además la empresa debería tener la información sensible encriptada. Otra buena práctica para impedir los ataques de hackers podría ser permitir el acceso a la administración de las cuentas de los clientes únicamente desde las IPs de las oficinas o utilizando claves de superusuario. Además, se deberían evaluar los riesgos de confiar información muy confidencial a muchos empleados y reducir el número de empleados con acceso a dicha información al mínimo posible.
+  * **Solución**: Utilizar software que controla y analiza el acceso a información como [Forcepoint Insider Threat](https://www.forcepoint.com/es/product/fit).
 
+### 2021
+* [Dallas police department database leak caused by employee negligence](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
+  * **Fuente**: Álvaro Pomar
+  * **Descripción**: Un empleado de la policía de Dallas borró 8,7 millones de antecedentes policiales equivalentes a 23 TB de información. Estos datos estaban relacionados con aproximadamente 17.500 casos activos, lo que provocó la ralentización de estos procesos judiciales. De los 23TB borrados, solo 3TB consiguieron ser recuperados.
+  * **Estrategia**: el incidente ocurrió al mover los datos al cloud y fue debido a que el responsable de IT no tenía los conocimientos necesarios para realizar esta tarea (solo había tomado 2 clases acerca de como realizar el traslado de información). El departamento debió haber monitorizado todas las sesiones en las que se interactuaba con estos datos, de esta forma se habrían dado cuenta del borrado de los datos en tiempo real o se podrían haber creado backups de esta información regularmente. 
+  * **Solución**: Emplear Software para crear backups como [Veeam](https://www.veeam.com/es/backup-replication-virtual-physical-cloud.html)
+  
 ## Saboteadores
 
 ### 2005
 
-* [4 empleados llevan su empresa a la quiebra](http://www.elmundo.es/elmundo/2011/03/27/valencia/1301223855.html)  
+* [4 empleados llevan su empresa a la quiebra](http://www.elmundo.es/elmundo/2011/03/27/valencia/1301223855.html)  
   * **Fuente**: David Puente Mur
   * **Descripción**: Tras un desacuerdo laboral cuatro empleados de una empresa familiar de transporte se confabularon a modo de extorsión para cogerse varias bajas consecutivas por dolencias supuestamente simuladas ya que eran fáciles de fingir y difíciles de objetivizar por facultativos llegando a llevar a la empresa a la quiebra pese a haber sido finalmente despedidos.
 
@@ -452,7 +524,7 @@ automatizar la generación de logs. El software permite también [bloquear el us
 
 ### 2013
 
-* [Disgruntled worker who caused £175,000 damage to office by smashing up EVERY room with hammer and wrote 'gross misconduct' in blood on wall is jailed](http://www.dailymail.co.uk/news/article-2348230/Former-employee-jailed-revenge-attack-Bristol-Flying-Centre.html) (Fuente: Alejandro Gálvez)
+* [Disgruntled worker who caused £175,000 damage to office by smashing up EVERY room with hammer and wrote 'gross misconduct' in blood on wall is jailed](http://www.dailymail.co.uk/news/article-2348230/Former-employee-jailed-revenge-attack-Bristol-Flying-Centre.html) (Fuente: Alejandro Gálvez)
 
 ### 2014
 
@@ -562,6 +634,14 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Estrategia**: Para evitar filtraciones de código crítico por parte de trabajadores, se debe implementar una estricto control de permisos para que cada persona acceda sólo a lo estrictamente necesario, así como tener mecanismos de auditoría en tiempo real y control de la información que se transfiere al exterior (dispositivos USB, correo, conexiones a servicios de terceros).
   * **Solución**: Una opción para mejorar el control de la información crítica puede ser instalar un software de auditoría en el servidor de archivos, junto con software de prevención de fugas de información. Por ejemplo el producto [Data leak prevention de DataSecurity Plus](https://www.manageengine.com/data-security/dlp/data-leak-prevention-software.html).
 
+**2022**
+
+* [Food Delivery Leak Unmasks Russian Security Agents](https://www.bellingcat.com/news/rest-of-world/2022/04/01/food-delivery-leak-unmasks-russian-security-agents/)
+  * **Fuente**: Jaime Berruete Díaz
+  * **Descripción**: Un empleado de Yandex Food, el popular servicio de comida a domicilio en Rusia, filtra información personal de los usuarios entre lo que se encuentran: direcciones de entrega, teléfonos, detalles de contacto o instrucciones de entrega. Entre estos datos datos se hallan algunos pertenecientes a militares o altos cargos del gobierno ruso como la supuesta hija secreta de Vladimir Putin o su amante. Además a partir de esta filtración se han observado carencias en los protocolos de seguridad de acceso a bases militares y datos de contacto de algunos espías rusos.
+  * **Estrategia**: Para evitar filtraciones de información se debería eliminar el procesamiento manual de dichos datos y reducir lo máximo posible el número de empleados que tienen acceso a los mismos. Además se deberían utilizar sistemas cifrados en los sistemas de información que protegieran suficientemente los datos frente a amenazas tanto internas como externas. Tal y como se puede leer en el [comunicado (en ruso)](https://yandex.ru/company/services_news/2022/01-03-2022) publicado en la web de Yandex, se van a adoptar medidas en este sentido dentro de la compañía.
+  * **Solución**: Con el objetivo de reducir lo máximo posible el número de empleados que tienen acceso a los datos sensibles se podría utilizar el sistema [Pathlock Control](https://pathlock.com/), el cual permite gestionar automáticamente permisos (entre ellos de acceso a información), eliminando dichos permisos a usuarios sospechosos de insider threat. Además se debería implementar un sistema automático de procesamiento de datos que actualizase directamente la base de datos con los pedidos.
+
 ## Vengativos
 
 ### 1996
@@ -630,7 +710,7 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
 * [Nintendo source code for N64, wii and gamecube leaked](https://www.bankinfosecurity.com/nintendo-source-code-for-n64-wii-gamecube-leaked-a-14220)
   * **Fuente**: Jorge Rambla Gonzalez
   * **Descripción**: Nintendo sufre uno de los mayores robos de su historia, al ser filtrados desde antiguos empleados los códigos fuentes de las consolas Nintendo64, wii y gamecube, asi como su descripción de hardware en VHDL.
-  * **Estrategia**: Prevenir el acceso de los empleados a los distintos ficheros de código, de tal manera que nunca nadie tenga el total acceso a todos los ficheros.
+  * **Estrategia**: Prevenir el acceso de los empleados a los distintos ficheros de código, de tal manera que nunca nadie tenga el total acceso a todos los ficheros. 
 * [Secret NHS files reveal plans for coronavirus contact tracing app](https://www.wired.co.uk/article/nhs-covid-19-app-health-status-future)
   * **Fuente**: Diego García Muro / Alejandro Magallón
   * **Descripción**: [NHS](https://www.nhs.uk/), encargada de una aplicación para rastrear contactos con personas con COVID-19, dejó en Google Drive archivos confidenciales relacionados con dicha aplicación. 
