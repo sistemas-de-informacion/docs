@@ -117,7 +117,11 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: GE demandó a la empresa rival Siemens Energy Inc en un tribunal de distrito de EE. UU. En Virginia, alegando que el robo se remonta a mayo de 2019, cuando los conglomerados industriales licitaron para proporcionar equipos de turbinas de gas y servicio a Dominion Energy Inc. La demanda surge a raíz de la escisión realizada por Siemens AG para crear Siemens Energy. GE alega que Siemens Energy utilizó secretos comerciales recibidos indebidamente de un empleado de Dominion en parte para ganar contratos que aumentarían el precio de su oferta pública inicial. La información también incluyó el análisis de Dominion de todas las ofertas, lo que le dio a Siemens un «plan» para ganar contratos por valor de hasta $ 340 millones con la empresa de servicios públicos.
   * **Estrategia**: Para evitar este tipo de problema, se deberían monitorizar y controlar más las actividades de los usuarios que tienen acceso a toda esta información para detectar aquellas actividades que pueden resultar sospechosas y detener a los usuarios que las lleven a cabo antes de que se produzan pérdidas. 
   * **Solución**: Existe una empresa de software de corporación multinacional estadounidense denominada *[Forcepoint](https://www.forcepoint.com/es/security/insider-threat)* que tiene productos especializados en el tratamiento de los "insider threats" y concretamente con la monitorización de las actividades de los usuarios en una empresa. 
-  
+
+*[Antiguo empleado de softBank acusado de haber filtrado datos a Rakuten.](https://www.asahi.com/ajw/articles/14100804)
+  * **Fuente:** Carmen Real Sánchez
+  * **Descripción:** Un empleado de la empresa Softbank aparentemente accedió al servidor de la compañia desde fuera de la empresa y envió a su correo personal información relacionada con los servicios 5G de Softbank mientras aún trabajaba para esta. Tras esto, este renunció a su puesto en la empresa y comenzó a trabajar para Rakuten Mobile. 
+  * **Estrategia:** Para ayudar a la detección de casos como estos es importante contar con un sistema con registros de los diferentes eventos que ocurren dentro de la empresa (acceso a datos confidenciales, intentos de login...) y que avise en caso de encontrarse con irregularidades (el envio de datos sensibles de la empresa a correos externos, intentos de login desde ordenadores externos...).
 
 ### 2019
 
