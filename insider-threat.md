@@ -627,6 +627,9 @@ automatizar la generación de logs. El software permite también [bloquear el us
 ### 2016
 
 * [Detenido un trabajador de TV3 por filtrar datos confidenciales de la empresa](http://www.elespanol.com/espana/20160311/108739431_0.html) (Fuente: Juana Mateo)
+* **Fuente**: Ismael Penacho
+* **Descripcion**: Un empleado de TV3 es detenido por filtrar datos confidenciales de la empresa Corporació Catalana de Mitjans Audiovisuals (CCMA), un escándalo que ha sacado a la luz los salarios de más de 2.000 personas de la casa. El empleado es un ingeniero de telecomunicaciones que trabajaba en el departamento de posproducción de la casa, el cual afirma ser una cabeza de turco y que el error lo cometió Duart(secretario de Interior y Justicia en la era Pujol) el cual se equivoco al enviar un correo electronico.
+* **Estrategia**: Para evitar cualquier tipo de filtraciones que se basen en correo electronico se deberian revisar mediante un firewall el cual permita controlar el trafico, evitando cierto envio de correo interno al exterior de la empresa. Para evitar el envio de informacion sensible al exterior. Una correcta utilizacion de los privilegios que tiene cada usuario sobre los archivos para evitar que cualquier empleado pudiese acceder a informacion sensible.
 
 ### 2017
 
