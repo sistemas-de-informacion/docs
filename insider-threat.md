@@ -704,8 +704,8 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
 * [Man who padded timesheets fined $318,000 for trashing boss’s servers](https://nakedsecurity.sophos.com/2017/05/12/man-who-padded-timesheets-fined-318000-for-trashing-bosss-servers/)
   * **Fuente:** Oscar Palacín Grasa
   * **Descripción**: Yovan García culpable de piratear los sistemas de su ex empresa Tyan Inc. v. para robar sus datos, destruir sus servidores, desfigurar su sitio web y copiar su software patentado para venderlo una empresa rival. Fue una venganza después que fuese despedida por manipular su hoja de tiempo.
-  * **Estrategia**: Utilizo sus conocimientos sobre la seguridad de la empresa para hackear el ordenador de uno de los empleados con privilegios.
-  * **Solución**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa y aunque se trate de un usuario privilegiado, nunca pueda eliminar las copias de seguridad y los datos de la empresa de forma simultánea
+  * **Estrategia**: Utilizo el ordenador de uno de los empleados con privilegios para cometer el delito, por tanto, habría sido posible evitarlo con un sistema que evitase el borrado masivo de archivos por parte de un único usuario y un sistema que maneje que nunca se borre las copias de seguridad y los datos de la empresa de forma simultánea.
+  * **Solución**: Se podría usar [SolarWinds](https://www.solarwinds.com/) un software que ofrece un Access Rights Manager para controlar los accesos además de un sistema que permite la recuperación de información incluso en casos donde se realiza de forma voluntaria como aquí
 
 
 
