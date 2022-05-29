@@ -53,7 +53,7 @@ En el primer enlace se encuentra el informe detallado del caso y en el segundo s
 [The FoxMeyer Drugs' Bankruptcy: Was it a Failure of ERP?](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1437&context=amcis1999) (Fuente: Pablo Piedrafita)
 
 - **Sun Systems and Natural Springs**:
-[ERP Implementation Gone Terribly Wrong: The Case of Natural Springs](http://www3.cis.gsu.edu/dtruex/courses/IB8710/Articles/ERP%20Implementation%20Gone%20Terribly%20Wrong-%20The%20Case%20of%20Natural%20Springs.pdf) (Fuente: Víctor Fernández Melic)
+[ERP Implementation Gone Terribly Wrong: The Case of Natural Springs](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=3589&context=cais) (Fuente: Víctor Fernández Melic, corregido por: Sergio Pablo Lorén)
 
 - **Oracle CPG y [Kellog](https://www.kelloggs.es/es_ES/home.html)**:
 Oracle saca Oracle CPG, un software que prometía integrar paquetes de software complejos de cuatro proveedores diferentes: el software ERP de Oracle, la gestión de activos empresariales de Indus, la gestión de la cadena de suministro de Manugistic y la gestión de pedidos de IMI en un todo sin fisuras. Kellog lo intentó implementar, pero en 3 años, parece que no lo consiguió.
@@ -126,7 +126,7 @@ En este informe oficial del Gobierno de Estados Unidos se hace un estudio de la 
 ### 1999
 
 - **Baan y Poolrite (Australia)**:
-[Manufacturer mends failed ERP project](http://www.computerworld.com.au/article/149421/manufacturer_mends_failed_erp_project/2) (Fuente: Álvaro Gómez Muñoz)
+[Manufacturer mends failed ERP project](http://econferences.teiath.gr/index.php/ICQQMEAS/ICQQMEAS2009/paper/viewFile/31/27) (Fuente: Álvaro Gómez Muñoz, corregido por: Sergio Pablo Lorén)
 
 - **ERP desconocido y Mobile One**:
 Mención en [The Enterprise Resource Planning Decade: Lessons Learned and Issues for the future](https://books.google.es/books?id=XHTt1mYJYPgC&pg=PA140&lpg=PA140&dq=Allied+Waste+Industries+erp+failure&source=bl&ots=BXqitsy8M1&sig=kwFuYxTBi0c4B6hxkNsQb7Min1U&hl=es&sa=X&ved=0ahUKEwj-_6O09NjZAhWLvxQKHbolCXMQ6AEINTAC#v=onepage&q=Allied%20Waste%20Industries%20erp%20failure&f=false) (Fuente: Héctor Martínez Moreno)
