@@ -700,6 +700,15 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Estrategia**: Controlar los permisos de los trabajadores, en este caso una vez se ha terminado el contrato y deberían quitarles los permisos ya que han dejado de ser sus trabajadores.
   * **Solución**: Es necesario un software de control de permisos para los usuarios. Para ello puede utilizarse el módulo de recursos humanos del ERP que esten utilizando, ya que este módulo gestiona las contrataciones y la finalización de contratos. También podría utilizar un software específico de control de permisos en empresas.
 
+
+* [Man who padded timesheets fined $318,000 for trashing boss’s servers](https://nakedsecurity.sophos.com/2017/05/12/man-who-padded-timesheets-fined-318000-for-trashing-bosss-servers/)
+  * **Fuente:** Oscar Palacín Grasa
+  * **Descripción**: Yovan García culpable de piratear los sistemas de su ex empresa Tyan Inc. v. para robar sus datos, destruir sus servidores, desfigurar su sitio web y copiar su software patentado para venderlo una empresa rival. Fue una venganza después que fuese despedida por manipular su hoja de tiempo.
+  * **Estrategia**: Utilizo el ordenador de uno de los empleados con privilegios para cometer el delito, por tanto, habría sido posible evitarlo con un sistema que evitase el borrado masivo de archivos por parte de un único usuario y un sistema que maneje que nunca se borre las copias de seguridad y los datos de la empresa de forma simultánea.
+  * **Solución**: Se podría usar [SolarWinds](https://www.solarwinds.com/) un software que ofrece un Access Rights Manager para controlar los accesos además de un sistema que permite la recuperación de información incluso en casos donde se realiza de forma voluntaria como aquí
+
+
+
 ### 2021
 
 * [Una ex empleada detenida por sabotear y extraer información de la base de datos de la empresa en la que trabajó](https://www.ameliarueda.com/nota/mujer-detenida-sabotear-extraer-informacion-base-datos-noticias-costa-rica)
