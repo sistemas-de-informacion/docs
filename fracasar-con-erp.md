@@ -126,7 +126,7 @@ En este informe oficial del Gobierno de Estados Unidos se hace un estudio de la 
 ### 1999
 
 - **Baan y Poolrite (Australia)**:
-[Manufacturer mends failed ERP project](http://econferences.teiath.gr/index.php/ICQQMEAS/ICQQMEAS2009/paper/viewFile/31/27) (Fuente: Álvaro Gómez Muñoz, corregido por: Sergio Pablo Lorén)
+[Manufacturer mends failed ERP project](http://www.computerworld.com.au/article/149421/manufacturer_mends_failed_erp_project/2) (Fuente: Álvaro Gómez Muñoz)
 
 - **ERP desconocido y Mobile One**:
 Mención en [The Enterprise Resource Planning Decade: Lessons Learned and Issues for the future](https://books.google.es/books?id=XHTt1mYJYPgC&pg=PA140&lpg=PA140&dq=Allied+Waste+Industries+erp+failure&source=bl&ots=BXqitsy8M1&sig=kwFuYxTBi0c4B6hxkNsQb7Min1U&hl=es&sa=X&ved=0ahUKEwj-_6O09NjZAhWLvxQKHbolCXMQ6AEINTAC#v=onepage&q=Allied%20Waste%20Industries%20erp%20failure&f=false) (Fuente: Héctor Martínez Moreno)
@@ -943,9 +943,6 @@ Adidas eligió un software de gestión de almacenes que no era compatible con el
 
 - **Infor y [Travis Perkins](https://www.travisperkins.co.uk/)**:
 Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor. [Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández)
-
-- **ERP Failures PT.Toyota Astra Motor Indonesia**:
-PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Critical ERP Failures Case study of PT.Toyota Astra Motor Indonesia](https://doi.org/10.1109/ICIC47613.2019.8985720) (Fuente: Sergio Pablo Lorén)
 
 ## Década de 2020
 
