@@ -390,6 +390,11 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Descripción**: Un programador software que trabajaba en el banco Huaxia Bank, retiró la cantidad de dinero equivalente a 1.03 millones de dólares americanos. Encontró una laguna en el sistema del banco, que no registraba bien las transacciones en cajeros automáticos realizados a media noche. Agregó unos scripts para que se realizará sin que la empresa se diera cuenta, e ingresaba el dinero en su propia cuenta. Cuando fue descubierto, justificó sus acciones diciendo que estaba poniendo a prueba el sistema. La empresa terminó creyéndole mientras que las autoridades abrieron una investigación.
   * **Estrategia**: En primer lugar, tener controlado a qué empleados se les da acceso a la información. Además, es importante tener bien testeado el sistema de registro de datos de las 24 horas del día y todas las transacciones realizadas, incluídos los cajeros automáticos en este caso.
 
+*[Punjab Nation Bank (PNB) reported a massive scam to the tune of Rs. 11,360 crores ($ 1.8 billion)](https://www.linkedin.com/pulse/18-billion-punjab-national-bank-fraud-information-sakthivel)
+  * **Fuente**: Raúl Rustarazo Carmona
+  * **Descripción**: Empleados deshonestos que trabajaban en el banco, aprovechando los fallos del sistema(La mayoría de trabajo era manual y los dos sistemas que usaba la empresa SWIFT y CBS estaban separados), lograron estafar 1.8 billones durante un lapso de tiempo de 7 años. La estafa fue destapada por un heredero de los estafadoress. El fallo consistía en usar el sistema SWIFT para enviar mensajes no autorizados a algunos bancos indios para realizar préstamos fraudulentos no autorizados a clientes, siendo desconocidas estas entradas por el sistema principal del banco llamada CBS, de modo que cuando este sistema CBS detectaba esas irregularidades, automáticamente pagaba el monto pricipal junto con los intereses a los clientes.
+  * **Estrategia**: Integrar los dos sistemas independientes en uno solo para controlar todas las transacciones generadas por los empleadas y controlar y gestionar a la vez todos los privilegios de los empleados para usar los software de la empresa.
+
 ## Desleales
 
 ### 2003
