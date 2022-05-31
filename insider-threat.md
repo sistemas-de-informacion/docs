@@ -394,7 +394,6 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Fuente**: Raúl Rustarazo Carmona
   * **Descripción**: Empleados deshonestos que trabajaban en el banco, aprovechando los fallos del sistema(La mayoría de trabajo era manual y los dos sistemas que usaba la empresa SWIFT y CBS estaban separados), lograron estafar 1.8 billones durante un lapso de tiempo de 7 años. La estafa fue destapada por un heredero de los estafadoress. El fallo consistía en usar el sistema SWIFT para enviar mensajes no autorizados a algunos bancos indios para realizar préstamos fraudulentos no autorizados a clientes, siendo desconocidas estas entradas por el sistema principal del banco llamada CBS, de modo que cuando este sistema CBS detectaba esas irregularidades, automáticamente pagaba el monto pricipal junto con los intereses a los clientes.
   * **Estrategia**: Integrar los dos sistemas independientes en uno solo para controlar todas las transacciones generadas por los empleadas y controlar y gestionar a la vez todos los privilegios de los empleados para usar los software de la empresa.
-  * **Solución**: El ERP para bancos [Microsoft Dynamics 365 Business Central](https://dynamics.microsoft.com/es-es/business-central/overview/)
 
 ## Desleales
 
