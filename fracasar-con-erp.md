@@ -443,7 +443,7 @@ El coste de la implementación fue sustancialmente por debajo del presupuesto, u
 [Oracle customer case study proclaiming the wonders of its implementation at Arizona State University (ASU)](https://es.slideshare.net/TimOrtiz/arizona-state-case-study) (Páginas 4-9) (Fuente: Paula Iglesias)
 
 - **SAP y Shane Co**:
-La cadena de joyerías Shane Co había firmado un contrato con SAP por 8-10 millones de dólares y una duración de un año, pero acabó costando más de 36 millones de dólares y además tardaron 36 meses en llevarlo a cabo. [SAP project costs cited in jeweler's bankruptcy filing](https://www.computerworld.com/article/2769475/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html)(Fuente: Paula Ezpeleta)
+La cadena de joyerías Shane Co había firmado un contrato con SAP por 8-10 millones de dólares y una duración de un año, pero acabó costando más de 36 millones de dólares y además tardaron 36 meses en llevarlo a cabo. [SAP project costs cited in jeweler's bankruptcy filing](https://www.computerworld.com/article/2769475/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html) (Fuente: Paula Ezpeleta)
 
 - **SAP y Distrito Escolar de Chicago (EEUU)**:
 [Payroll problems in the Los Angeles and Chicago schools](https://www.edweek.org/leadership/payroll-problems/2007/09)
