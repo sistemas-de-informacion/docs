@@ -442,8 +442,8 @@ El coste de la implementación fue sustancialmente por debajo del presupuesto, u
 [Bizarre Arizona State ERP: Article commenting the Oracles's case study](https://www.zdnet.com/article/updated-bizarre-arizona-state-erp-oracle-releases-case-study/) (Fuente: Paula Iglesias)
 [Oracle customer case study proclaiming the wonders of its implementation at Arizona State University (ASU)](https://es.slideshare.net/TimOrtiz/arizona-state-case-study) (Páginas 4-9) (Fuente: Paula Iglesias)
 
-- **SAP y una cadena de joyerías de Colorado**:
-La cadena había contratado el proyecto por 8-11M$ pero terminó costando cerca de 36M$ y tardó más de 32 meses en instalarse, provocando además varios errores y dificultades operativas tras su instalación. [SAP Project Costs Cited in Jeweler's Bankruptcy Filing](https://www.cio.com/article/2431335/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html)(Fuente: Alejandro Magallón)
+- **SAP y Shane Co**:
+La cadena de joyerías Shane Co había firmado un contrato con SAP por 8-10 millones de dólares y una duración de un año, pero acabó costando más de 36 millones de dólares y además tardaron 36 meses en llevarlo a cabo. [SAP project costs cited in jeweler's bankruptcy filing](https://www.computerworld.com/article/2769475/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html)(Fuente: Paula Ezpeleta)
 
 - **SAP y Distrito Escolar de Chicago (EEUU)**:
 [Payroll problems in the Los Angeles and Chicago schools](https://www.edweek.org/leadership/payroll-problems/2007/09)
