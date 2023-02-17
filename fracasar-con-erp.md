@@ -245,6 +245,9 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **Libra y Gobierno del reino Unido**:
 [Courts Libra system 'is one of the worst IT projects ever seen'](https://www.computerweekly.com/news/2240049341/Courts-Libra-system-is-one-of-the-worst-IT-projects-ever-seen) (Fuente: Jaime Conchello)
 
+- **Roll-Royce y [SAP](https://www.sap.com/)**: El articulo [Enterprise information systems project implementation:: A case study of ERP in Rolls-Royce](https://www.sciencedirect.com/science/article/abs/pii/S0925527303002974) analiza el proceso de implementacion de un ERP en la empresa Roll-Royce, destacando la importancia de poder adaptar los sistemas a la empresa. Noticia complementaria: [SAP implementation at Rolls Royce & Bentley Motors goes live after 18 months](https://www.manufacturingmanagement.co.uk/content/news/sap-implementation-at-rolls-royce-bentley-motors-goes-live-after-18-months/) en la que se habla cuanto duró el proceso de la implantacion del nuevo ERP y la cantidad de trabajo que supo la transición al nuevo software. (Fuente: Javier Pardos).
+
+
 ### 2002
 
 - **Adage y Raskas Foods**:
