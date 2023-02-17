@@ -277,7 +277,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [Court of Appeals of Indiana](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) ( Fuente: Adrián Crespo )
 
 - **ERP X (nombre ficticio) y Big Bottler (nombre ficticio)**:
-[ERP Implementation Failure : A Case Study](https://pdfs.semanticscholar.org/8615/7c69318a73bbaa3d15a0d4a9cdc1b122231f.pdf) (Fuente: Hector Herrmann y Miguel López)
+[ERP Implementation Failure : A Case Study](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiNotrwrZz9AhXIzKQKHc4JDs8QgAMoAnoECAMQBQ&url=https%3A%2F%2Fscholar.google.es%2Fscholar_url%3Furl%3Dhttps%3A%2F%2Fwww.academia.edu%2Fdownload%2F56175694%2FERPImplementationFailureCase.pdf%26hl%3Des%26sa%3DX%26ei%3DXVjvY5meIY--mQHx5r-YBQ%26scisig%3DAAGBfm1lF9Kh0pas2Ob6mx9RbBaVM9QFKw%26oi%3Dscholarr&usg=AOvVaw1SUrfu8b4jjABRN5czMo5z) (Fuente: Hector Herrmann, Miguel López y Pablo Lopez)
 
 - **SAP y [Goodyear](https://www.goodyear.eu/es_es/consumer.html#/)**:
 [Goodyear Hits $100M Bump With ERP System](https://www.computerworld.com/article/2573849/enterprise-resource-planning/goodyear-hits--100m-bump-with-erp-system.html) (Fuente: David Sáez)
@@ -795,6 +795,9 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 - **Steria y Ministerio de Justicia del Reino Unido**:
 Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocado gastos por valor de 56 millones de libras, tras lo cual el proyecto se ha trasladado a una empresa externa. [Steria, the MoJ and a £56 MILLION Shared Services write-off](https://www.theregister.com/2014/06/27/steria_the_moj_and_a_56m_shared_services_writeoff/) (Fuente: Eduardo Sánchez)
 
+- **ERP Implementation in an SME: a Failure Case**:
+una PYME (en inglés SME) anónima falla al implementar un ERP en su empresa, pierde cerca de 200.000 euros. [ERP Implementation in an SME: a Failure Case](https://www.researchgate.net/profile/Dag-Olsen/publication/300162456_ERP_Implementation_in_an_SME_A_Failure_Case/links/5d88732b299bf1996f93676f/ERP-Implementation-in-an-SME-A-Failure-Case.pdf) (Fuente: Pablo López)
+
 ### 2015
 
 - **IBM y el [Ministry of Community and Social Services](https://www.mcss.gov.on.ca/en/mcss/) de Ontario**:
@@ -987,5 +990,11 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
 ### 2022
+- **Southwest Airlines**
+[The Southwest Airlines ERP Failure](https://www.panorama-consulting.com/the-southwest-airlines-erp-failure/) (Fuente: Pablo López). Una aerolinea trata de implementar un software ERP y debido a que no tiene una infraestructura IT actualizada, falla en el proceso.
+
+- **J&J Snack Foods**
+[ERP implementation woes cost J&J Snack Foods estimated $20M](https://www.supplychaindive.com/news/j-and-j-snacks-erp-implementation-operation-woes/623226/)(Fuente: Pablo López). Mala gestión a la hora de implementar un ERP hace perder 20 millones a una compañia de alimentos.
+
 
 ### 2023
