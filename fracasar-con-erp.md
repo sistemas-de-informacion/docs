@@ -390,7 +390,7 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
 - **Invacare**:
-Los problemas para implantar un ERP le costó a la compañía unos 30 millones de dólares en negocios perdidos y sobrecostos.
+Los problemas para implantar un ERP le costó a la compañía unos 30 millones de dólares en negocios perdidos y otros costes.
 [Medical products maker Invacare faces rough ERP ride](https://www.computerworld.com/article/2560044/medical-products-maker-invacare-faces-rough-erp-ride.html) (Fuente: David Arruga)
 
 
@@ -992,7 +992,5 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
 ### 2022
-- **J&J Snack Foods**:
-J&J Snack Foods perdió unos 20 millones de dólares en ingresos tras tener problemas para implementar el nuevo sistema ERP.[ERP implementation woes cost J&J Snack Foods estimated $20M](https://www.supplychaindive.com/news/j-and-j-snacks-erp-implementation-operation-woes/623226/) (Fuente: David Arruga)
 
 ### 2023
