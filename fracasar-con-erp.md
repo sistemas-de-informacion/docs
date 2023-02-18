@@ -389,6 +389,11 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **ERP desconocido y empresas reales pero anónimas**:
 [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
+- **Invacare**:
+Los problemas para implantar un ERP le costó a la compañía unos 30 millones de dólares en negocios perdidos y sobrecostos.
+[Medical products maker Invacare faces rough ERP ride](https://www.computerworld.com/article/2560044/medical-products-maker-invacare-faces-rough-erp-ride.html) (Fuente: David Arruga)
+
+
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**:
