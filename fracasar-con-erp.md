@@ -18,7 +18,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 ### 1992
 
-- **[AMR Corp.](http://www.amrcaseinfo.com/)** y la joint venture formpada por **[Budget Rent A Car Corp.](https://www.budget.com/en/home)**, **[Hilton Hotels Corp.](http://www3.hilton.com/en/index.html)** y **[Marriott International Inc.](http://www.marriott.com/default.mi)**:
+- **[AMR Corp.](http://www.amrcaseinfo.com/)** y la joint venture formpada por **[Budget Rent A Car Corp.](https://www.budget.com/en/home)**, **[Hilton Hotels Corp.](https://www.hilton.com/en/corporate/)** y **[Marriott International Inc.](http://www.marriott.com/default.mi)**:
 [Companies Don't Learn From Previous IT Snafus](https://www.computerworld.com/article/2588976/networking/companies-don-t-learn---from-previous-it-snafus.html) (Fuente: Miguel Bolsa)
 
 - **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/)**:
@@ -181,7 +181,7 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 
 - **i2 y Nike**:
 [Nike Rebounds and Why Nike Recovered from its Supply Chain Disaster](http://www.cio.com/article/2439601/supply-chain-management/nike-rebounds--how--and-why--nike-recovered-from-its-supply-chain-disaster.html) (Fuente: Adrián Gañán, corregido por Rubén Moreno).
-Página con información ampliada del tema: [Nike Case Study Analysis: ERP System Failure](https://myassignmenthelp.com/free-samples/nike-case-study-analysis-erp-system-failure) ( Fuente : Adrián Crespo )
+Página con información ampliada del tema: [Nike Case Study Analysis: ERP System Failure](https://myassignmenthelp.com/free-samples/nike-case-study-analysis-erp-system-failure) (Fuente : Adrián Crespo). Más información: [Del fracaso al logro, ¿podría haberse evitado el fallo?](http://ijmrr.com/admin/upload_data/journal_rajesh%20arora%20%20%20%2018au12.pdf) (Fuente: Lucía Beltrán)
 
 - **Intentia AB y CosmeticCo (nombre ficticio, China)**:
 [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
@@ -443,7 +443,7 @@ El coste de la implementación fue sustancialmente por debajo del presupuesto, u
 [Oracle customer case study proclaiming the wonders of its implementation at Arizona State University (ASU)](https://es.slideshare.net/TimOrtiz/arizona-state-case-study) (Páginas 4-9) (Fuente: Paula Iglesias)
 
 - **SAP y una cadena de joyerías de Colorado**:
-La cadena había contratado el proyecto por 8-11M$ pero terminó costando cerca de 36M$ y tardó más de 32 meses en instalarse, provocando además varios errores y dificultades operativas tras su instalación. [SAP Project Costs Cited in Jeweler's Bankruptcy Filing](https://www.cio.com/article/2431335/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html)(Fuente: Alejandro Magallón)
+La cadena había contratado el proyecto por 8-11M$ pero terminó costando cerca de 36M$ y tardó más de 32 meses en instalarse, provocando además varios errores y dificultades operativas tras su instalación. [SAP Project Costs Cited in Jeweler's Bankruptcy Filing](https://www.computerworld.com/article/2769475/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html)(Fuente: Alejandro Magallón corregido por Lucía Beltrán)
 
 - **SAP y Distrito Escolar de Chicago (EEUU)**:
 [Payroll problems in the Los Angeles and Chicago schools](https://www.edweek.org/leadership/payroll-problems/2007/09)
@@ -986,6 +986,10 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 - **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**:
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
+
 ### 2022
+
+- **SAP y [Ranpak](https://www.ranpak.com/es/)**:
+[La curva de aprendizaje de SAP produjo perdidas en la empresa](https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Lucía Beltrán)
 
 ### 2023
