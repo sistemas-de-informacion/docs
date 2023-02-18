@@ -987,5 +987,7 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
 ### 2022
+- **J&J Snack Foods**:
+J&J Snack Foods perdió unos 20 millones de dólares en ingresos tras tener problemas para implementar el nuevo sistema ERP.[ERP implementation woes cost J&J Snack Foods estimated $20M](https://www.supplychaindive.com/news/j-and-j-snacks-erp-implementation-operation-woes/623226/) (Fuente: David Arruga)
 
 ### 2023
