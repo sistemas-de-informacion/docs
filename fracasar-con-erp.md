@@ -493,7 +493,7 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz)
 
 - **SAP y [Select Confort](http://www.sleepnumber.com/)**:
-[SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas)
+[SAP project halted after shareholder pressure](https://www.networkworld.com/article/2270908/sap-project-halted-after-shareholder-pressure.html) (Fuente: Beatriz Aguas corregido por Sergio Berges).
 [Select Comfort puts big SAP project into sleep mode](http://www.computerworld.com/article/2529907/it-industry/select-comfort-puts-big-sap-project-into-sleep-mode.html) (Fuente: Christian Moreno)
 
 - **SAP, Logo, Mincom, Qlink e Industrias Iranies**:
