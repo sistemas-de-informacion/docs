@@ -986,6 +986,9 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 - **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**:
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
+- **Flexcube (Oracle) y Citibank**:
+Un diseño de interfaz confuso en Flexcube provoca a Citibank una pérdida de 500 millones de dólares: [Take a look at the confusing bank interface behind Citigroup's $500 million mistake](https://www.businessinsider.com/citigroup-accidental-wire-transfer-payment-design-interface-oracle-flexcube-2021-2) (Fuente: Sergio Berges)
+
 ### 2022
 
 ### 2023
