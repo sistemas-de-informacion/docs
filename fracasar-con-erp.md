@@ -266,7 +266,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [A Case Study of ERP Implementation Issues](https://core.ac.uk/download/pdf/326833174.pdf) (Fuente: Alejandro Guiu, actualizado por Samuel Bonito)
 
 - **ERP desconocido y Agricultural Products Processing Center**:
-[A Study of Success and Failure in ERP Implementation: The Case of the Agricultural Products Processing Center](http://modul.repo.mercubuana-yogya.ac.id/modul/files/openjournal/JournalOfEngineering/18_262.pdf) (Fuente: Marta Lampaya)
+[A Study of Success and Failure in ERP Implementation: The Case of the Agricultural Products Processing Center](https://www.researchgate.net/profile/Young-Choe/publication/287121397_A_Study_of_Success_and_Failure_in_ERP_Implementation_The_Case_of_the_Agricultural_Products_Processing_Center/links/56ab0c9c08ae8f3865666a4e/A-Study-of-Success-and-Failure-in-ERP-Implementation-The-Case-of-the-Agricultural-Products-Processing-Center.pdf) (Fuente: Juliana Zordan)
 
 - **PeopleSoft y [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au/)**:
 [Why the RMIT Project failed](https://www.theage.com.au/education/rmit-to-scrap-47m-software-system-20030228-gdvart.html), [Analysis on Failed Australian Projects](http://www2.cio.com.au/article/172420/it_business_stupid/) (Fuente: Carmen Real)
