@@ -856,6 +856,9 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 - **Oracle y Condado de Loudoun, Virginia**:
 Costes adicionales por valor de 2 millones de dólares para completar un proyecto abierto desde hace 5 años, buscando actualizar software de hace 20. [Troubled ERP Upgrades Gets $2M More, Supervisors seek a new vendor to complete third phase](https://loudounnow.com/2016/05/24/troubled-erp-upgrades-gets-2m-more-supervisors-seek-a-new-vendor-to-complete-third-phase/) (Fuente: Eduardo Sánchez)
 
+- **Laboratorios farmacéuticos franceses Stallergenes. y ERP desconocido**:
+La mala implantación de un ERP había causado pérdidas millonarias a los laboratorios farmacéuticos franceses Stallergenes. [¿Por qué falló la implementación del ERP?](https://sigessolutions.com/por-que-fallo-la-implementacion-del-erp/) (Fuente: Roberto García)
+
 ### 2017
 
 - **ERP desconocido y Oriola (Finlandia)**:
