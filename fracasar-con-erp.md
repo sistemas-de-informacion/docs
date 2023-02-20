@@ -986,9 +986,19 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 - **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**:
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
-- **Mission Produce enfrenta problemas operativos después de la implementación fallida de ERP (ERP desconocido)**:
-[La empresa afectada es Mission Produce, cuando implementarón su nuevo sistema ERP,  empezarón a tener problemas de visibilidad de su inventario.](https://www.supplychaindive.com/news/Mission-Produce-ERP-implementation-operations-problems/620606/) (Fuente: Acher Egido Mairal)
 
-### 2022
+
+### 2022- 
+
+- ** Ranpak Holdings Corp y ERP SAP**:
+La transición del sistema ERP creó ciertos obstáculos que afectaron las operaciones, incluido el tiempo de inactividad programado para pasar al nuevo sistema ERP; ineficiencias de procesamiento y envío asociadas con el uso de un nuevo sistema ERP; y, durante la transición al nuevo sistema ERP, la demora en los aumentos de precios para ayudar a compensar las presiones de los costos de los insumos. [Ranpak Holdings Corp. informa los resultados financieros del primer trimestre de 2022]([https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/](https://ir.ranpak.com/news/news-details/2022/Ranpak-Holdings-Corp.-Reports-First-Quarter-2022-Financial-Results/default.aspx)) (Fuente: Acher Egido Mairal)
+
+- ** Mission Produce y ERP desconocido**:
+Al cambar el ERP, Las empacadoras experimentaron problemas con la compra, recepción y envío,
+lo que resultó en una alta dependencia tanto de la fruta de terceros como de la fruta envasada
+que de otro modo habríamos obtenido directamente en el campo y empaquetado en nuestro
+instalaciones.
+[MISSION PRODUCE, INC. Discusión y análisis de la administración sobre la situación financiera y los resultados de las operaciones (formulario 10-Q)]([Ranpak Holdings Corp. informa los resultados financieros del primer trimestre de 2022]([https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/](https://ir.ranpak.com/news/news-details/2022/Ranpak-Holdings-Corp.-Reports-First-Quarter-2022-Financial-Results/default.aspx)) (Fuente: Acher Egido Mairal)) (Fuente: Acher Egido Mairal)
+
 
 ### 2023
