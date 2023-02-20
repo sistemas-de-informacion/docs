@@ -988,4 +988,8 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 
 ### 2022
 
+**Gaston county schools y Oracle**:
+Las escuelas del condado de Gaston se pusieron en marcha con su problemático sistema de nómina en contra de las recomendaciones estatales.
+[State told school district not to implement new payroll system](https://eu.gastongazette.com/story/news/local/2022/09/13/payroll-system-teachers-introduced-despite-state-guidance/10364751002/) (Fuente: Roberto García)
+
 ### 2023
