@@ -615,7 +615,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 [Oracle PeopleSoft payroll problems still peeve police](http://www.computerworld.com/article/2511953/it-management/oracle-peoplesoft-payroll-problems-still-peeve-police.html) (Fuente: Luis Pellicer)
 
 - **SAP e [Ingram Micro](http://www.ingrammicro.com/)**:
-[SAP upgrade hurts Ingram Australia](https://www.zdnet.com/article/sap-upgrade-hurts-ingram-australia/) (Fuente: William Kokora, actualizado por: Álvaro Andrada)
+[SAP project woes impact Ingram Micro's profits](http://www.pcworld.idg.com.au/article/384836/sap_project_woes_impact_ingram_micro_profits/) (Fuente: William Kokora)
 
 - **SAP y [Avantor](https://www.avantormaterials.com/)**:
 [Manufacturer sues IBM over SAP project 'disaster'](http://www.computerworld.com/s/article/9233432/Manufacturer_sues_IBM_over_SAP_project_39_disaster_39_) (Fuente: Diego Grande)
@@ -987,11 +987,5 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
 ### 2022
-
-- **ERP desconocido y [Southwest Airlines](https://www.southwest.com/)**: 
-Entre el 19 y el 28 de diciembre de 2022, Southwest Airlines se ve obligada a cancelar más de 16000 vuelos durante una tormenta de nieve por culpa de sus obsoletos sistemas ERP. [The Southwest Airlines ERP Failure](https://www.panorama-consulting.com/the-southwest-airlines-erp-failure/) (Fuente: Álvaro Andrada)
-
-- **JD Edwards y [J&J Snack Foods](https://jjsnack.com/)**:
-[ERP implementation woes cost J&J Snack Foods estimated $20M](https://www.supplychaindive.com/news/j-and-j-snacks-erp-implementation-operation-woes/623226/) (Fuente: Álvaro Andrada)
 
 ### 2023
