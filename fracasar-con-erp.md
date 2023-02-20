@@ -999,7 +999,7 @@ Al cambar el ERP, Las empacadoras experimentaron problemas con la compra, recepc
 lo que resultó en una alta dependencia tanto de la fruta de terceros como de la fruta envasada
 que de otro modo habríamos obtenido directamente en el campo y empaquetado en nuestro
 instalaciones.
-[MISSION PRODUCE, INC. Discusión y análisis de la administración sobre la situación financiera y los resultados de las operaciones (formulario 10-Q)](https://ir.ranpak.com/news/news-details/2022/Ranpak-Holdings-Corp.-Reports-First-Quarter-2022-Financial-Results/default.aspx) (Fuente: Acher Egido Mairal)
+[MISSION PRODUCE, INC. Discusión y análisis de la administración sobre la situación financiera y los resultados de las operaciones (formulario 10-Q)](https://www.marketscreener.com/quote/stock/MISSION-PRODUCE-INC-113170567/news/MISSION-PRODUCE-INC-Management-s-Discussion-and-Analysis-of-Financial-Condition-and-Results-of-Op-39728087/) (Fuente: Acher Egido Mairal)
 
 
 ### 2023
