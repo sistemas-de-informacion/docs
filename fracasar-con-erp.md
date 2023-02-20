@@ -289,7 +289,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [NASA systems: Houston, we have a problem](https://gcn.com/articles/2004/05/19/nasa-systems-houston-we-have-a-problem.aspx) (Fuente: Juan Vela)
 
 - **SAP y XYZ (nombre ficticio, diferente del caso 2002)**:
-[Learning from failed ERP implementation](http://www.apps2fusion.com/training_demo/ranu/erp_success_factors_ranu.pdf) (Fuente: Fernando Alegre)
+[Learning from failed ERP implementation](https://core.ac.uk/download/pdf/326833174.pdf) (Fuente: Juan Mediano)
 
 - **SAP, PeopleSoft and Oracle y [Walt Disney Corporation](https://thewaltdisneycompany.com/)**:
 [Disney keeps global SAP roll-out on track by making local executives responsible](http://www.computerweekly.com/feature/Disney-keeps-global-SAP-roll-out-on-track-by-making-local-executives-responsible) (Fuente: Adrián Ibáñez)
@@ -392,7 +392,7 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**:
-[Department of Homeland Security – Emerge2 Project – USA](http://calleam.com/WTPF/?p=1865) y [EMERGE2's failure sends DHS back to drawing board](https://fcw.com/articles/2006/03/30/emerge2s-failure-sends-dhs-back-to-drawing-board.aspx?admgarea=TC_Management) (Fuente: Daniel Cabrera)
+[Department of Homeland Security – Emerge2 Project – USA](http://calleam.com/WTPF/?p=1865) y [EMERGE2's failure sends DHS back to drawing board](https://fcw.com/workforce/2006/03/emerge2s-failure-sends-dhs-back-to-drawing-board/220017/) (Fuente: Juan Mediano)
 
 - **Eclipsys Corporation y [El Camino Hospital](http://www.elcaminohospital.org/)**:
 [Report: ECHO caused problems for hospital](http://www.mv-voice.com/print/story/2006/07/14/hospital-vexed-by-new-computer-system) (Fuente: Edgar Arnal)
@@ -434,7 +434,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 [LA school district and Deloitte in $18m failure settlement](http://www.zdnet.com/article/la-school-district-and-deloitte-in-18m-failure-settlement/) (Fuente: Alejandro Guiu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
 
 - **SAP y [Waste Management](http://www.wm.com/index.jsp)**:
-[SAP fires back at Waste Management](http://www.cio.com/article/443864/SAP_Fires_Back_At_Waste_Management) (Fuente: Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo )
+[SAP fires back at Waste Management](https://www.computerworld.com/article/2532439/update--sap-fires-back-at-waste-management.html) (Fuente: Juan Mediano) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo)
 
 - **Oracle y Arizona State University (ASU)**:
 El coste de la implementación fue sustancialmente por debajo del presupuesto, una rareza extrema en el mundo de las implementaciones de ERP. Sin embargo, esto se produce a expensas de la calidad, la usabilidad y la moral de los empleados de la ASU.
@@ -481,7 +481,7 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [Overstock.com's Four-Year ERP Nightmare](http://www.cio.com/article/2373728/enterprise-software/overstock-com-s-four-year-erp-nightmare.html) (Fuente: Pablo Lanaspa) [Overstock.com as an example of ERP failure](https://es.slideshare.net/sunidhikumari1/success-and-failure-examples-of-erp-implementation) (Fuente: Alfonso Delgado)
 
 - **Ross Systems y [Sunshine Mills](http://www.sunshinemills.com/)**:
-[Jury Awards Pet Food Maker $61 Million in ERP Suit](http://www.cio.com/article/2412906/enterprise-software/jury-awards-pet-food-maker--61-million-in-erp-suit.html) (Fuente: David Enjuanes)
+[Jury Awards Pet Food Maker $61 Million in ERP Suit](https://www.computerworld.com/article/2514679/jury-awards-pet-food-maker--61m-in-erp-suit.html) (Fuente: Juan Mediano)
 
 - **SAP y Birmingham City Council (R.U.)**:
 [SAP go-live leaves 18,000 unpaid bills at Europe's largest local authority - what went wrong](http://www.computerweekly.com/blogs/public-sector/2008/02/sap-golive-leaves-18000-unpaid-1.html) (Fuente: Juan Vela)
