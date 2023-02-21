@@ -795,6 +795,12 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 - **Steria y Ministerio de Justicia del Reino Unido**:
 Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocado gastos por valor de 56 millones de libras, tras lo cual el proyecto se ha trasladado a una empresa externa. [Steria, the MoJ and a £56 MILLION Shared Services write-off](https://www.theregister.com/2014/06/27/steria_the_moj_and_a_56m_shared_services_writeoff/) (Fuente: Eduardo Sánchez)
 
+- **Hewlett Packard’s**:
+Heward Packard evaluó una pérdida del 5 % en las ganancias y determinó que reemplazar los sistemas heredados y pasar a una solución ERP centralizada ayudaría a optimizar sus operaciones. Al atender a más de mil millones de clientes en más de 160 países, las operaciones de HP estaban altamente descentralizadas. Cada división y unidad de negocio operaba de forma independiente entre sí. Cuando la empresa intentó migrar al sistema SAP ERP, se vio plagada de problemas de integración de datos, problemas de previsión de la demanda, planificación deficiente y capacitación y soporte de implementación inadecuados.
+
+La implementación fallida de ERP le costó a la empresa 160 millones de dólares en pedidos atrasados y pérdida de ingresos, más de cinco veces el costo estimado del proyecto en 2004.
+[Lessons Learned From the Hewlett Packard ERP System Failure] (https://www.panorama-consulting.com/hewlett-packard-erp-system-failure/) (Fuente: Iván Bes Zamorano)
+
 ### 2015
 
 - **IBM y el [Ministry of Community and Social Services](https://www.mcss.gov.on.ca/en/mcss/) de Ontario**:
