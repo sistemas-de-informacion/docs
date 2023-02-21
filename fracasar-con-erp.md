@@ -538,6 +538,10 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 - **Avenade y [ScanSource](https://www.scansource.com/en)**:
 50 M de euros y 3 años de implementación por un ERP que nunca se puso en funcionamiento. [ScanSource Sues Avanade For Alleged Botched ERP Project](https://www.crn.com/news/channel-programs/240145447/scansource-sues-avanade-for-alleged-botched-erp-project.htm) (Fuente: Sofia Subias)
 
+- **ERP desconocido y [GMAC](https://www.gmac.com/)**:
+La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia en la gestión de proyectos, presupuestos, compras y contabilidad, pero la implementación fue mal planificada y ejecutada. El sistema ERP no se integró correctamente con los sistemas existentes de la empresa, lo que provocó problemas en la transferencia de datos y en la sincronización de la información entre los sistemas. [Treasury Gives GMAC $7.5 Billion](https://www.mbtmag.com/home/news/13071967/treasury-gives-gmac-75-billion) (Fuente: Jorge Borque Benedí)
+
+
 ## Década de 2010
 
 ### 2010
