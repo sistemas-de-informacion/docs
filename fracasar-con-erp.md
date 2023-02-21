@@ -389,6 +389,9 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **ERP desconocido y empresas reales pero anónimas**:
 [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
+- **Waste Management – Blind trust in the ERP provider**
+[The problem of promising functionalities when developing a project and not finishing up with your end of the bargain.](https://www.datavtech.com/7-common-erp-implementation-failures-and-lessons-learned/)(Fuente: Jorge Bernal Romero)
+
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**:
@@ -799,7 +802,7 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocado gastos por valor de 56 millones de libras, tras lo cual el proyecto se ha trasladado a una empresa externa. [Steria, the MoJ and a £56 MILLION Shared Services write-off](https://www.theregister.com/2014/06/27/steria_the_moj_and_a_56m_shared_services_writeoff/) (Fuente: Eduardo Sánchez)
 
 - **Covered Oregon – Excessive projects**
-[The amount of decisions made in a span of time may lead into a complete disaster. Therefore, with the aid of a complete-functional ERP and the required amount of money this may not have happened.](https://www.datavtech.com/7-common-erp-implementation-failures-and-lessons-learned/)(Jorge Bernal Romero)
+[The amount of decisions made in a span of time may lead into a complete disaster. Therefore, with the aid of a complete-functional ERP and the required amount of money this may not have happened.](https://www.datavtech.com/7-common-erp-implementation-failures-and-lessons-learned/)(Fuente: Jorge Bernal Romero)
 
 ### 2015
 
