@@ -760,6 +760,9 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 - **ERP ficticio y ERP Partnership Formation Regulations**:
 [The Impact of ERP Partnership Formation Regulations on the Failure of ERP Implementations](https://www.sciencedirect.com/science/article/pii/S0268401207000886?casa_token=9Umi_u_Yl2AAAAAA:Lrt25ZjpoSb4PbRFhs5nMrCSZYsYTZCUv_rVqZRmG_CtEr1_yFa372VJ9EU-Yf26GvELVFx5O9k) (Fuente: Marta Lampaya)
 
+- **Target Canada: Garbage in, garbage out**
+[The problem of not preprocessing data correctly before including it to the SAP systems.] (https://www.channelasia.tech/article/667670/15-famous-erp-disasters-dust-ups-disappointments/?pp=2) (Fuente: Jorge Bernal Romero)
+
 ### 2014
 
 - **Israel Chemical Limited y SAP**:
@@ -988,8 +991,6 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 
 ### 2022
 - **Invacare faces long wait and increased cost for health care ERP intervention**:
-[The importance of having the ERP up and running because otherwise you'll be paying your fees without receiving the service expected.]
-(https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html)
-(Fuente: Jorge Bernal Romero)
+[The importance of having the ERP up and running because otherwise you'll be paying your fees without receiving the service expected.](https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html)(Fuente: Jorge Bernal Romero)
 
 ### 2023
