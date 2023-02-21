@@ -971,6 +971,9 @@ Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 201
 - **ERP Failures PT.Toyota Astra Motor Indonesia**:
 PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Critical ERP Failures Case study of PT.Toyota Astra Motor Indonesia](https://doi.org/10.1109/ICIC47613.2019.8985720) (Fuente: Sergio Pablo Lorén)
 
+- **SAP y [Revlon](https://revlon.com)**:
+In March 2019, cosmetics giant Revlon announced that it would be late filing its annual financial report for the year prior. The reason behind the delay? The company’s year-old SAP ERP system had been riddled with issues ever since implementation. The resulting fallout cost Revlon valuable retail sales and hindered operations. Upon the announcement of the Revlon ERP failure, the company’s stock fell 6.9% in 24 hours.  [4 Lessons Learned from the Revlon ERP Failure](https://www.panorama-consulting.com/revlon-erp-failure/) (Fuente: Jorge Borque Benedí)
+
 ## Década de 2020
 
 ### 2020
