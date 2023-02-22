@@ -648,7 +648,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 [VON struggles to reimburse nurses with pay problems](http://www.cbc.ca/news/canada/von-struggles-to-reimburse-nurses-with-pay-problems-1.1097943) (Fuente: Guillermo Robles) y [SAP-IBM payroll system woes fouled up nurses' pay](http://www.computerworld.com/article/2510412/enterprise-applications/sap-ibm-payroll-system-woes-fouled-up-nurses--pay.html) (Fuente: Nerea Torres)
 
 - **SAP y [Woodward](http://www.woodward.com/) (EE.UU.)**:
-[ERP Software Woes Ding Aerospace Company's Profits](http://www.cio.com/article/2394117/enterprise-software/erp-software-woes-ding-aerospace-company-s-profits.html) (Fuente: Laura Calderón); el artículo no cita a SAP pero una investigación posterior revela que SAP era el ERP involucrado
+[ERP Software Woes Ding Aerospace Company's Profits](https://www.computerworld.com/article/2723756/erp-software-woes-ding-aerospace-company-s-profits.html) (Fuente: Laura Calderón y Rubén Albacete); el artículo no cita a SAP pero una investigación posterior revela que SAP era el ERP involucrado
 
 - **SAP y [Lufkin Industries](https://lufkin.com/)**:
 [Court of Appeals of Texas](https://caselaw.findlaw.com/tx-court-of-appeals/1867628.html) (Fuente: Jaime Conchello)
