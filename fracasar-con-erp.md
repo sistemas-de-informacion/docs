@@ -971,6 +971,9 @@ Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 201
 - **ERP Failures PT.Toyota Astra Motor Indonesia**:
 PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Critical ERP Failures Case study of PT.Toyota Astra Motor Indonesia](https://doi.org/10.1109/ICIC47613.2019.8985720) (Fuente: Sergio Pablo Lorén)
 
+- **Oracle y Universidad Edinburgh**:
+ [University of Edinburgh staff paid late due to Oracle ERP troubles](https://www.theregister.com/2022/11/03/oracle_erp_edinburgh_university/) (Fuente: Alejandro Sanz)
+
 ## Década de 2020
 
 ### 2020
@@ -985,6 +988,9 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 
 - **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**:
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
+
+- **SAP y la oficina administrativa del condado de Surrey**:
+ [When ERP projects go bad: Surrey County Council's £30m ditch SAP effort delayed again](https://www.theregister.com/2022/12/19/surrey_county_council_30_million/) (Fuente: Alejandro Sanz)
 
 ### 2022
 
