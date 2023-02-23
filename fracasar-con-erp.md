@@ -359,6 +359,9 @@ En este paper se hace un pequeño estudio de la implementación de SAP en esta c
 - **ERP desconocido y Multi-national Electronics Components Manufacturing Company**:
 [Examining the ERP Implementation Process from a Failure Case](http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
 
+- **Enterprise information systems project implementation: A case study of ERP in Rolls-Royce**:
+[Roll-royce case study talking about the problems encountered when moving from ERP](https://www.umassd.edu/media/umassdartmouth/businessinnovationresearchcenter/publications/erp_rolls-royce.pdf) (Fuente: Jesús Lizama).
+
 ### 2005
 
 - **Ciber y [Pennsylvania Turnpike Commission](https://www.paturnpike.com/)**:
@@ -794,6 +797,9 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 
 - **Steria y Ministerio de Justicia del Reino Unido**:
 Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocado gastos por valor de 56 millones de libras, tras lo cual el proyecto se ha trasladado a una empresa externa. [Steria, the MoJ and a £56 MILLION Shared Services write-off](https://www.theregister.com/2014/06/27/steria_the_moj_and_a_56m_shared_services_writeoff/) (Fuente: Eduardo Sánchez)
+
+- **Erp in Indian Smes - A Study of Critical Failure Factors**: El estudio identificó los principales factores críticos de fracaso en la implementación de ERP en las PYMEs indias, incluyendo la resistencia de los empleados, una mala dirección superior y los problemas presupuestarios.
+ [Manupreet Singha and Balraj Singha a Department of Mechanical Engg., Giani Zail Singh PTU Campus, Bathinda](http://www.iosrjournals.org/iosr-jmce/papers/vol11-issue4/Version-6/G011467479.pdf)  (Fuente: Jesús Lizama)
 
 ### 2015
 
