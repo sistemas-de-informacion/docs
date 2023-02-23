@@ -994,4 +994,7 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 
 ### 2022
 
+- **Ranpak holdings y un cloud-based ERP**:
+ [Protective packaging firm’s profit takes a knock from ERP](https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Alejandro Sanz)
+
 ### 2023
