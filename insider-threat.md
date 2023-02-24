@@ -21,6 +21,11 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Estrategia**: Usó sus credenciales para la consulta y descarga de multitud de información de la empresa.
   * **Solución**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, unido a un buen sistema de monitorización y alarmas en la base de datos que permita obtener y avisar si el número de lecturas y escrituras de un determinado usuario está siendo mayor al esperado.
 
+* [American LaFrance – Why Do Projects Fail](https://calleam.com/WTPF/?p=3134)
+  * **Fuente**: Víctor García
+  * **Descripción**: American LaFrance intentó implementar un nuevo sistema ERP basado en SAP para administrar su cadena de suministro y operaciones de producción. Sin embargo, la implementación generó problemas significativos, incluidos retrasos en la producción y problemas de control de calidad, lo que provocó una pérdida financiera y finalmente la quiebra de la empresa.
+
+
 ### 2008
 
 * [Chinese Agent Sentenced to Over 24 Years in Prison for Exporting United States Defense Articles to China](http://www.justice.gov/opa/pr/2008/March/08_nsd_229.html) (Fuente: Sergio Josa)
