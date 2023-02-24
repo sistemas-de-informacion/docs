@@ -389,6 +389,10 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **ERP desconocido y empresas reales pero anónimas**:
 [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
+- **Invacare y Oracle**:
+[Invacare blames botched Oracle ERP project for Q4 miss](https://www.infoworld.com/article/2673329/invacare-blames-botched-oracle-erp-project-for-q4-miss.html) (Fuente: Rael Clariana)
+
+
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**:
@@ -582,6 +586,9 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 [Informe que habla sobre los principales factores de fallo en la instalación de ERPs en India](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8B9A6A3D24D98344EDA5B1371EA48948?doi=10.1.1.463.4223&rep=rep1&type=pdf) (Fuente: José Félix Yagüe)
 
 - **Oracle y Omantel (Omán)** [Examines environmental factors that impacted on the adoption of ERP by The Oman Telecommunication Company, highlights the particular problems of large organisations that operate disparate legacy systems.](https://www.emerald.com/insight/content/doi/10.1108/02635571011008416/full/html) (Fuente: Felipe Nonay)
+
+- **SAP, Nexus education y la Comunidad de Madrid**:
+[Nexus educación](http://algoquedaquedecir.blogspot.com/2018/04/nexus-educacion.html) (Fuente: Rael Clariana)
 
 ### 2011
 
@@ -987,5 +994,10 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
 ### 2022
+- **ERP Failure Southwest Airlines**:
+[The Southwest Airlines ERP Failure](https://www.panorama-consulting.com/the-southwest-airlines-erp-failure/) (Fuente: Rael Clariana)
+
+- **ERP Failure Mission Produce**:
+[Mission Produce faces operational issues after botched ERP implementation](https://www.supplychaindive.com/news/Mission-Produce-ERP-implementation-operations-problems/620606/) (Fuente: Rael Clariana)
 
 ### 2023
