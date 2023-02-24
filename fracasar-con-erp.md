@@ -538,6 +538,8 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 - **Avenade y [ScanSource](https://www.scansource.com/en)**:
 50 M de euros y 3 años de implementación por un ERP que nunca se puso en funcionamiento. [ScanSource Sues Avanade For Alleged Botched ERP Project](https://www.crn.com/news/channel-programs/240145447/scansource-sues-avanade-for-alleged-botched-erp-project.htm) (Fuente: Sofia Subias)
 
+
+
 ## Década de 2010
 
 ### 2010
@@ -795,6 +797,8 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 - **Steria y Ministerio de Justicia del Reino Unido**:
 Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocado gastos por valor de 56 millones de libras, tras lo cual el proyecto se ha trasladado a una empresa externa. [Steria, the MoJ and a £56 MILLION Shared Services write-off](https://www.theregister.com/2014/06/27/steria_the_moj_and_a_56m_shared_services_writeoff/) (Fuente: Eduardo Sánchez)
 
+
+
 ### 2015
 
 - **IBM y el [Ministry of Community and Social Services](https://www.mcss.gov.on.ca/en/mcss/) de Ontario**:
@@ -856,6 +860,9 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 - **Oracle y Condado de Loudoun, Virginia**:
 Costes adicionales por valor de 2 millones de dólares para completar un proyecto abierto desde hace 5 años, buscando actualizar software de hace 20. [Troubled ERP Upgrades Gets $2M More, Supervisors seek a new vendor to complete third phase](https://loudounnow.com/2016/05/24/troubled-erp-upgrades-gets-2m-more-supervisors-seek-a-new-vendor-to-complete-third-phase/) (Fuente: Eduardo Sánchez)
 
+- **ERP en general y empresas multinacionales**:
+Explorar el impacto del conflicto entre la casa matriz y la subsidiaria en la implementación de ERP en empresas multinacionales. [Impact of parent-subsidiary conflict on ERP implementation](https://www.emerald.com/insight/content/doi/10.1108/JEIM-03-2014-0034/full/html) (Fuente: Carlos Bellvis)
+
 ### 2017
 
 - **ERP desconocido y Oriola (Finlandia)**:
@@ -893,6 +900,9 @@ Instalación en 2017. Problemas en 2018.
 
 - **Accenture y Police Scottish Police Authority’s (SPA)**:
 [Sistema de gestión de información policial Policía de Escocia](https://calleam.com/WTPF/?p=9150) (Fuente: Elena Romero de Tejada)
+
+- **ERP desconocida y [Renault]**:
+[Parada técnica en el sistema, "Renault ha reanudado la actividad en la práctica totalidad de sus plantas"](https://www.lavanguardia.com/vida/20170515/422598950561/renault-ha-reanudado-la-actividad-en-la-practica-totalidad-de-sus-plantas.html) (Fuente: Carlos Bellvis Irache)
 
 ### 2018
 
@@ -968,9 +978,6 @@ Adidas eligió un software de gestión de almacenes que no era compatible con el
 - **Infor y [Travis Perkins](https://www.travisperkins.co.uk/)**:
 Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor. [Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández)
 
-- **ERP Failures PT.Toyota Astra Motor Indonesia**:
-PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Critical ERP Failures Case study of PT.Toyota Astra Motor Indonesia](https://doi.org/10.1109/ICIC47613.2019.8985720) (Fuente: Sergio Pablo Lorén)
-
 ## Década de 2020
 
 ### 2020
@@ -987,5 +994,8 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
 ### 2022
-
+- **SAP y [Ranpak]**:
+[Perdidas en la empresa en la migracion a SAP](https://ir.ranpak.com/news/news-details/2022/Ranpak-Holdings-Corp.-Reports-First-Quarter-2022-Financial-Results/default.aspx) (Fuente: Carlos Bellvis Irache)
 ### 2023
+- **J&J Snack Foods**:
+[JJSF earnings call for the period ending December 31, 2022](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Carlos Bellvis Irache)
