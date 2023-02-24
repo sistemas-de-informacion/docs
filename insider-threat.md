@@ -74,6 +74,11 @@ uno de ellos.
   * **Estrategia**: La compañía debe comunicar al empleado las consecuencias que tendría si llegase a compremeter información confidencial. Por otro lado, una buena estretegia sería que cada empleado que acceda a éste tipo de información deba autenticarse, quedando de ésta forma registrado cada acción que haga.
   * **Solución**: Una solución podría ser [ForcePoint](https://www.forcepoint.com/es/product/insider-threat). Entre sus funciones se encuentra la monitorización de las acciones que realizan los usuarios.
   
+** SAP Avon Products Inc. https://www.avon.com/ 2013
+  [Avon's Failed SAP Implementation A Perfect Example Of The Enterprise IT Revolution](https://www.forbes.com/sites/benkepes/2013/12/17/avons-failed-sap-implementation-a-perfect-example-of-enterprise-it-revolution/?sh=697cffe931a6)
+* **fuente**: Víctor García
+* **Descripcion**: La implementación tenía como objetivo mejorar la gestión de la cadena de suministro y el rendimiento de las ventas de la empresa, pero finalmente resultó en importantes interrupciones, pérdidas financieras significativas y una disminución de los representantes de ventas. 
+
 ### 2014
 
 * [NASA tightens security in response to an insider threat](http://www.darkreading.com/risk-management/nasa-tightens-security-in-response-to-insider-threat/d/d-id/1109196) (Fuente: Juan Vela)
@@ -114,6 +119,12 @@ uno de ellos.
 Los métodos que utilizó para acceder a los secretos de la empresa fueron: engañar a otros trabajadores, encargar tareas falsas para recopilar gran cantidad de datos, y tomar fotos de diagramas del sistema de la fábrica durante una visita guiada aunque no estuviera permitido.
   * **Estrategia**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, dando solo los estrictamente necesarios a cada empleado, e incluso cambiando la forma de autenticarse por algo más difícil de robar que una contraseña. Además, también se debería formar a los empleados (especialmente a los que tengan más privilegios de acceso) para que sean conscientes de que sus credenciales son importantes y que no deben compartirse con otros trabajadores. Otra medida necesaria sería la creación de un historial de acciones que puedan resultar sospechosas o poco habituales para cada empleado, de forma que se pudiera detectar actividad desleal o ilícita más fácil y sistemáticamente.
 En este caso particular, ya que aprovechó una visita guiada para obtener datos confidenciales, la empresa debería asegurarse de tener bajo control a los visitantes.
+
+*ERP: SAP  Hertz https://www.hertz.com/rentacar/reservation/ 
+[How Hertz paid Accenture $32M for a website that never went live](https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html) 
+* **Fuente**: Victor Garcia
+* **Descripcion**: El artículo explica que Hertz había contratado a Accenture para implementar una nueva plataforma digital que agilizaría el proceso de alquiler de automóviles y mejoraría la experiencia del cliente. 
+Sin embargo, el proyecto estuvo plagado de retrasos y problemas técnicos, lo que provocó importantes interrupciones en las operaciones comerciales de Hertz. Hertz finalmente rescindió su contrato con Accenture y presentó una demanda, alegando que la consultora había incumplido su contrato y cometido fraude. 
 
 ### 2019
 
