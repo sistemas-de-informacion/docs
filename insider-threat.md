@@ -126,7 +126,7 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
 * **Descripcion**: El artículo explica que Hertz había contratado a Accenture para implementar una nueva plataforma digital que agilizaría el proceso de alquiler de automóviles y mejoraría la experiencia del cliente. 
 Sin embargo, el proyecto estuvo plagado de retrasos y problemas técnicos, lo que provocó importantes interrupciones en las operaciones comerciales de Hertz. Hertz finalmente rescindió su contrato con Accenture y presentó una demanda, alegando que la consultora había incumplido su contrato y cometido fraude. 
 
-### 2019
+### 2018
 
 *[Un empleado de Dominion envió a Siemens la oferta confidencial presentada por General Electric](https://www.reuters.com/business/finance/ge-alleges-siemens-energy-used-stolen-trade-secrets-rig-contract-bids-2021-01-14/)*
   * **Fuente**: Marta Morales Sabroso
@@ -139,6 +139,10 @@ Sin embargo, el proyecto estuvo plagado de retrasos y problemas técnicos, lo qu
   * **Descripción:** Un empleado de la empresa Softbank aparentemente accedió al servidor de la compañia desde fuera de la empresa y envió a su correo personal información relacionada con los servicios 5G de Softbank mientras aún trabajaba para esta. Tras esto, este renunció a su puesto en la empresa y comenzó a trabajar para Rakuten Mobile. 
   * **Estrategia:** Para ayudar a la detección de casos como estos es importante contar con un sistema con registros de los diferentes eventos que ocurren dentro de la empresa (acceso a datos confidenciales, intentos de login...) y que avise en caso de encontrarse con irregularidades (el envio de datos sensibles de la empresa a correos externos, intentos de login desde ordenadores externos...).
 
+*[The UK’s Debenhams: A Cautionary Tale](https://www.rsrresearch.com/research/the-uks-debenhams-a-cautionary-tale)
+* **Fuente**: Víctor García
+* **Descripcion**: Debenhams intentó implementar un nuevo sistema ERP basado en SAP para gestionar su cadena de suministro y operaciones de gestión de inventario. Sin embargo, la implementación generó problemas significativos, incluidos recuentos de inventario inexactos y una disminución de las ventas, lo que provocó una pérdida financiera y una disminución en el precio de sus acciones.
+ 
 ### 2019
 
 *[Un empleado de Dominion envió a Siemens la oferta confidencial presentada por General Electric](https://www.reuters.com/business/finance/ge-alleges-siemens-energy-used-stolen-trade-secrets-rig-contract-bids-2021-01-14/)*
