@@ -864,6 +864,9 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 - **Oracle y Condado de Loudoun, Virginia**:
 Costes adicionales por valor de 2 millones de dólares para completar un proyecto abierto desde hace 5 años, buscando actualizar software de hace 20. [Troubled ERP Upgrades Gets $2M More, Supervisors seek a new vendor to complete third phase](https://loudounnow.com/2016/05/24/troubled-erp-upgrades-gets-2m-more-supervisors-seek-a-new-vendor-to-complete-third-phase/) (Fuente: Eduardo Sánchez)
 
+- **ERP en general y empresas multinacionales**:
+Explorar el impacto del conflicto entre la casa matriz y la subsidiaria en la implementación de ERP en empresas multinacionales. [Impact of parent-subsidiary conflict on ERP implementation](https://www.emerald.com/insight/content/doi/10.1108/JEIM-03-2014-0034/full/html) (Fuente: Carlos Bellvis Irache)
+
 ### 2017
 
 - **ERP desconocido y Oriola (Finlandia)**:
@@ -901,6 +904,9 @@ Instalación en 2017. Problemas en 2018.
 
 - **Accenture y Police Scottish Police Authority’s (SPA)**:
 [Sistema de gestión de información policial Policía de Escocia](https://calleam.com/WTPF/?p=9150) (Fuente: Elena Romero de Tejada)
+
+- **ERP desconocida y [Renault]**:
+[Parada técnica en el sistema, "Renault ha reanudado la actividad en la práctica totalidad de sus plantas"](https://www.lavanguardia.com/vida/20170515/422598950561/renault-ha-reanudado-la-actividad-en-la-practica-totalidad-de-sus-plantas.html) (Fuente: Carlos Bellvis Irache)
 
 ### 2018
 
@@ -999,5 +1005,8 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
 ### 2022
-
+- **SAP y [Ranpak]**:
+[Perdidas en la empresa en la migracion a SAP](https://ir.ranpak.com/news/news-details/2022/Ranpak-Holdings-Corp.-Reports-First-Quarter-2022-Financial-Results/default.aspx) (Fuente: Carlos Bellvis Irache)
 ### 2023
+- **J&J Snack Foods**:
+[JJSF earnings call for the period ending December 31, 2022](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Carlos Bellvis Irache)
