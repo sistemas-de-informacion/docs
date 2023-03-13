@@ -990,8 +990,6 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 - **Southwest Airlines**
 [The Southwest Airlines ERP Failure](https://www.panorama-consulting.com/the-southwest-airlines-erp-failure/) (Fuente: Pablo López). Una aerolinea trata de implementar un software ERP y debido a que no tiene una infraestructura IT actualizada, falla en el proceso.
 
-- **J&J Snack Foods**
-[ERP implementation woes cost J&J Snack Foods estimated $20M](https://www.supplychaindive.com/news/j-and-j-snacks-erp-implementation-operation-woes/623226/)(Fuente: Pablo López). Mala gestión a la hora de implementar un ERP hace perder 20 millones a una compañia de alimentos.
 
 
 ### 2023
