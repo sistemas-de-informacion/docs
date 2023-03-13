@@ -277,7 +277,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [Court of Appeals of Indiana](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) ( Fuente: Adrián Crespo )
 
 - **ERP X (nombre ficticio) y Big Bottler (nombre ficticio)**:
-[ERP Implementation Failure : A Case Study](https://pdfs.semanticscholar.org/8615/7c69318a73bbaa3d15a0d4a9cdc1b122231f.pdf) (Fuente: Hector Herrmann y Miguel López)
+[ERP Implementation Failure : A Case Study](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiNotrwrZz9AhXIzKQKHc4JDs8QgAMoAnoECAMQBQ&url=https%3A%2F%2Fscholar.google.es%2Fscholar_url%3Furl%3Dhttps%3A%2F%2Fwww.academia.edu%2Fdownload%2F56175694%2FERPImplementationFailureCase.pdf%26hl%3Des%26sa%3DX%26ei%3DXVjvY5meIY--mQHx5r-YBQ%26scisig%3DAAGBfm1lF9Kh0pas2Ob6mx9RbBaVM9QFKw%26oi%3Dscholarr&usg=AOvVaw1SUrfu8b4jjABRN5czMo5z) (Fuente: Hector Herrmann, Miguel López y Pablo Lopez)
 
 - **SAP y [Goodyear](https://www.goodyear.eu/es_es/consumer.html#/)**:
 [Goodyear Hits $100M Bump With ERP System](https://www.computerworld.com/article/2573849/enterprise-resource-planning/goodyear-hits--100m-bump-with-erp-system.html) (Fuente: David Sáez)
@@ -988,8 +988,10 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 
 ### 2022
 
-- **JD Edwards ERP y [J&J Snack Foods]**:
-La empresa implantó un nuevo ERP que causó pérdidas de 20 millones de dólares en el Q2: [ERP implementation woes cost J&J Snack Foods estimated $20M](https://www.supplychaindive.com/news/j-and-j-snacks-erp-implementation-operation-woes/623226/) (Fuente: Paula Ezpeleta)
+- **ERP desconocido y Southwest Airlines**:
+[The Southwest Airlines ERP Failure](https://www.panorama-consulting.com/the-southwest-airlines-erp-failure/) (Fuente: Pablo López). Una aerolinea trata de implementar un software ERP y debido a que no tiene una infraestructura IT actualizada, falla en el proceso.
 
+- **JD Edwards ERP y J&J Snack Foods**:
+La empresa implantó un nuevo ERP que causó pérdidas de 20 millones de dólares en el Q2: [ERP implementation woes cost J&J Snack Foods estimated $20M](https://www.supplychaindive.com/news/j-and-j-snacks-erp-implementation-operation-woes/623226/) (Fuente: Paula Ezpeleta)
 
 ### 2023
