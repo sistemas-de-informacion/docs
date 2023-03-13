@@ -987,7 +987,8 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
 ### 2022
-- **Southwest Airlines**
+
+- **ERP desconocido y Southwest Airlines**:
 [The Southwest Airlines ERP Failure](https://www.panorama-consulting.com/the-southwest-airlines-erp-failure/) (Fuente: Pablo López). Una aerolinea trata de implementar un software ERP y debido a que no tiene una infraestructura IT actualizada, falla en el proceso.
 
 
