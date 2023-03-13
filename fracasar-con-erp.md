@@ -990,6 +990,6 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 ### 2022
 
 - **SAP y [Ranpak](https://www.ranpak.com/es/)**:
-[La curva de aprendizaje de SAP produjo perdidas en la empresa](https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Lucía Beltrán)
+[Protective packaging firm’s profit takes a knock from ERP](https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Lucía Beltrán)
 
 ### 2023
