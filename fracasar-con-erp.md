@@ -442,8 +442,8 @@ El coste de la implementación fue sustancialmente por debajo del presupuesto, u
 [Bizarre Arizona State ERP: Article commenting the Oracles's case study](https://www.zdnet.com/article/updated-bizarre-arizona-state-erp-oracle-releases-case-study/) (Fuente: Paula Iglesias)
 [Oracle customer case study proclaiming the wonders of its implementation at Arizona State University (ASU)](https://es.slideshare.net/TimOrtiz/arizona-state-case-study) (Páginas 4-9) (Fuente: Paula Iglesias)
 
-- **SAP y una cadena de joyerías de Colorado**:
-La cadena había contratado el proyecto por 8-11M$ pero terminó costando cerca de 36M$ y tardó más de 32 meses en instalarse, provocando además varios errores y dificultades operativas tras su instalación. [SAP Project Costs Cited in Jeweler's Bankruptcy Filing](https://www.cio.com/article/2431335/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html)(Fuente: Alejandro Magallón)
+- **SAP y Shane Co**:
+La cadena de joyerías Shane Co había firmado un contrato con SAP por 8-10 millones de dólares y una duración de un año, pero acabó costando más de 36 millones de dólares y además tardaron 36 meses en llevarlo a cabo. [SAP project costs cited in jeweler's bankruptcy filing](https://www.computerworld.com/article/2769475/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html) (Fuente: Paula Ezpeleta, actualiza contribución de Alejandro Magallón)
 
 - **SAP y Distrito Escolar de Chicago (EEUU)**:
 [Payroll problems in the Los Angeles and Chicago schools](https://www.edweek.org/leadership/payroll-problems/2007/09)
@@ -576,7 +576,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 [New York City Department of Investigation CityTime Investigation: Lessons Learned & Recommendations to Improve New York City’s Management of Large Information Technology Contracts](https://www1.nyc.gov/assets/doi/reports/pdf/2014/2014-07-25-Pr13citytime.pdf)(Fuente: Juan José Tambo Tambo)
 
 - **Unisys y el estado de [Idaho](http://www.idaho.gov/)**:
-[The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) El fracaso de un proyecto iniciado en 2007, donde la falta de planificación y testing le cuesta millones al estado de Idaho. (Fuente: Óscar Murillo) [Auditors: ERP Software Woes Could Cost Idaho Millions](https://www.cio.com/article/2409660/auditors--erp-software-woes-could-cost-idaho-millions.html) (Fuente: Javier Morón)
+[The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) El fracaso de un proyecto iniciado en 2007, donde la falta de planificación y testing le cuesta millones al estado de Idaho. (Fuente: Óscar Murillo) [Auditors: ERP software woes could cost Idaho millions](https://www.networkworld.com/article/2201979/auditors--erp-software-woes-could-cost-idaho-millions.html) (Fuente: Paula Ezpeleta, actualiza contribución de Javier Morón)
 
 - **ERP y Empresas de Retail en India**
 [Informe que habla sobre los principales factores de fallo en la instalación de ERPs en India](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8B9A6A3D24D98344EDA5B1371EA48948?doi=10.1.1.463.4223&rep=rep1&type=pdf) (Fuente: José Félix Yagüe)
@@ -987,5 +987,9 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
 ### 2022
+
+- **JD Edwards ERP y [J&J Snack Foods]**:
+La empresa implantó un nuevo ERP que causó pérdidas de 20 millones de dólares en el Q2: [ERP implementation woes cost J&J Snack Foods estimated $20M](https://www.supplychaindive.com/news/j-and-j-snacks-erp-implementation-operation-woes/623226/) (Fuente: Paula Ezpeleta)
+
 
 ### 2023
