@@ -406,7 +406,7 @@ Los problemas para implantar un ERP le costó a la compañía unos 30 millones d
 [Enterprise Software Companies are Human Too](http://www.erp.com/component/content/article/337-articles-a-news/erp-software/9372-enterprise-software-companies-are-human-too--part-four.html) ( Fuente: Adrián Crespo ).
 
 - **Infor y Scientific Components**:
-[ERP train wrecks, failures and lawsuits](https://www.enterpriseirregulars.com/31515/erp-train-wrecks-failures-and-lawsuits/) (Fuente: Oscar Potrony) Mención breve del caso en una tabla de fracasos.
+[ERP train wrecks, failures and lawsuits](https://www.zdnet.com/article/erp-train-wrecks-failures-and-lawsuits/) (Fuente: Oscar Potrony corregido por Sergio Berges) Mención breve del caso en una tabla de fracasos.
 
 - **Lawson y Public Health Foundation Enterprises (PHFE)**:
 PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP sino varios programas sueltos.
@@ -498,7 +498,7 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [Levi Strauss: SAP rollout substantially hurt quarter](http://www.zdnet.com/article/levi-strauss-sap-rollout-substantially-hurt-quarter/) (Fuente: Daniel Uroz)
 
 - **SAP y [Select Confort](http://www.sleepnumber.com/)**:
-[SAP project halted after shareholder pressure](http://www.cio.com/article/471466/SAP_project_halted_after_shareholder_pressure) (Fuente: Beatriz Aguas)
+[SAP project halted after shareholder pressure](https://www.networkworld.com/article/2270908/sap-project-halted-after-shareholder-pressure.html) (Fuente: Beatriz Aguas corregido por Sergio Berges).
 [Select Comfort puts big SAP project into sleep mode](http://www.computerworld.com/article/2529907/it-industry/select-comfort-puts-big-sap-project-into-sleep-mode.html) (Fuente: Christian Moreno)
 
 - **SAP, Logo, Mincom, Qlink e Industrias Iranies**:
@@ -991,6 +991,8 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 - **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**:
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
+- **Flexcube (Oracle) y Citibank**:
+Un diseño de interfaz confuso en Flexcube provoca a Citibank una pérdida de 500 millones de dólares: [Take a look at the confusing bank interface behind Citigroup's $500 million mistake](https://www.businessinsider.com/citigroup-accidental-wire-transfer-payment-design-interface-oracle-flexcube-2021-2) (Fuente: Sergio Berges)
 
 ### 2022
 
