@@ -994,10 +994,6 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 - **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**:
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
-- **ERP desconocido y Mission Produce**:
-[Mission Produce – Repetition of Covered Oregon’s mistake?](https://www.datavtech.com/7-common-erp-implementation-failures-and-lessons-learned/)
-[Mission Produce faces operational issues after botched ERP implementation](https://www.supplychaindive.com/news/Mission-Produce-ERP-implementation-operations-problems/620606/)
-Problemas de implementación del ERP que llevaron a costes de consulta relacionados con ERP de 1 millon de dólares (Fuente: Miguel Beltrán)
 ### 2022
 
 ### 2023
