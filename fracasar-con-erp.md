@@ -335,7 +335,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **Oracle y Saudi Telecom (Arabia Saudí)**:
 [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
 
-- **SAP y [HP](http://www.hp.com/)**:
+- **SAP y [HP](http://www.hp.com/) (Hewlett Packard)**:
 La instalación de un ERP causa pérdidas 5 veces mayores que su coste.
 [When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz),
 [ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López),
@@ -358,10 +358,6 @@ En este paper se hace un pequeño estudio de la implementación de SAP en esta c
 
 - **ERP desconocido y Multi-national Electronics Components Manufacturing Company**:
 [Examining the ERP Implementation Process from a Failure Case](http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
-
-- **SAP ERP y Hewlett Packard**
-[Hewlett Packard’s Disaster](https://blog.360cloudsolutions.com/resources/top-six-erp-implementation-failures)
-La empresa trato de migrar datos a SAP y tuvo problemas de integración, planificacion deficiente etc, lo que llevo un coste de 160 millones de dolares. (Fuente: Miguel Beltrán)
 
 ### 2005
 
