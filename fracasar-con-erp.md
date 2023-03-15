@@ -389,6 +389,11 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **ERP desconocido y empresas reales pero anónimas**:
 [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
+- **Oracle ERP e Invacare**:
+Los problemas para implantar un ERP le costó a la compañía unos 30 millones de dólares en negocios perdidos y otros costes.
+[Medical products maker Invacare faces rough ERP ride](https://www.computerworld.com/article/2560044/medical-products-maker-invacare-faces-rough-erp-ride.html) (Fuente: David Arruga)
+
+
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**:
@@ -988,6 +993,10 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 
 
 ### 2022
+
+- **ERP desconocido y Mission Produce**:
+Mission Produce tuvo problemas a la hora de implantar el nuevo ERP. Este proveedor de aguacate necesitó invertir 4,1 millones de dólares en gastos operativos, además de numerosos problemas por la falta de visibilidad de su inventario disponible.
+[Mission Produce faces operational issues after botched ERP implementation](https://www.supplychaindive.com/news/Mission-Produce-ERP-implementation-operations-problems/620606/) (Fuente: David Arruga)
 
 - **SAP y [Ranpak](https://www.ranpak.com/es/)**:
 [Protective packaging firm’s profit takes a knock from ERP](https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Lucía Beltrán)
