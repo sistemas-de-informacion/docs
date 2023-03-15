@@ -998,14 +998,23 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 - **Flexcube (Oracle) y Citibank**:
 Un diseño de interfaz confuso en Flexcube provoca a Citibank una pérdida de 500 millones de dólares: [Take a look at the confusing bank interface behind Citigroup's $500 million mistake](https://www.businessinsider.com/citigroup-accidental-wire-transfer-payment-design-interface-oracle-flexcube-2021-2) (Fuente: Sergio Berges)
 
-### 2022
-
 - **ERP desconocido y Mission Produce**:
 Mission Produce tuvo problemas a la hora de implantar el nuevo ERP. Este proveedor de aguacate necesitó invertir 4,1 millones de dólares en gastos operativos, además de numerosos problemas por la falta de visibilidad de su inventario disponible.
+Los centros de distribución y empaquetado experimentaron problemas de compra, recepción y envío, lo que provocó una gran dependencia de fruta de terceros y fruta envasada que, de otro modo, habrían obtenido directamente del campo y envasado en sus instalaciones. 
+Otros problemas fueron los retrasos en la facturación automatizada a los clientes y la gestión de inventario.
 [Mission Produce faces operational issues after botched ERP implementation](https://www.supplychaindive.com/news/Mission-Produce-ERP-implementation-operations-problems/620606/) (Fuente: David Arruga)
+y [MISSION PRODUCE, INC. Management's Discussion and Analysis of Financial Condition and Results of Operations (form 10-Q)](https://www.marketscreener.com/quote/stock/MISSION-PRODUCE-INC-113170567/news/MISSION-PRODUCE-INC-Management-s-Discussion-and-Analysis-of-Financial-Condition-and-Results-of-Op-39728087/) (Fuente: Acher Egido Mairal)
 
-- **SAP y [Ranpak](https://www.ranpak.com/es/)**:
+### 2022
+
+- **SAP y [Ranpak Holdings Corp](https://www.ranpak.com/es/)**:
+La transición a un sistema ERP cloud creó ciertos obstáculos que afectaron las operaciones, 
+incluido el tiempo de inactividad programado para pasar al nuevo sistema ERP; 
+ineficiencias de procesamiento y envío asociadas con el uso de un nuevo sistema ERP; 
+y, durante la transición al nuevo sistema ERP, 
+la demora en los aumentos de precios para ayudar a compensar las presiones de los costos de los insumos.
 [Protective packaging firm’s profit takes a knock from ERP](https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Lucía Beltrán)
+y [Ranpak Holdings Corp. Reports First Quarter 2022 Financial Results](https://ir.ranpak.com/news/news-details/2022/Ranpak-Holdings-Corp.-Reports-First-Quarter-2022-Financial-Results/default.aspx) (Fuente: Acher Egido Mairal)
 
 - **ERP desconocido y Southwest Airlines**:
 [The Southwest Airlines ERP Failure](https://www.panorama-consulting.com/the-southwest-airlines-erp-failure/) (Fuente: Pablo López). Una aerolinea trata de implementar un software ERP y debido a que no tiene una infraestructura IT actualizada, falla en el proceso.
