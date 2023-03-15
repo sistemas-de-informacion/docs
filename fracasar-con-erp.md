@@ -335,7 +335,7 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **Oracle y Saudi Telecom (Arabia Saudí)**:
 [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
 
-- **SAP y [HP](http://www.hp.com/)**:
+- **SAP y [HP](http://www.hp.com/) (Hewlett Packard)**:
 La instalación de un ERP causa pérdidas 5 veces mayores que su coste.
 [When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz),
 [ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López),
@@ -721,6 +721,10 @@ Mala calidad de datos, problemas de suministros derivados y TPV con problemas ll
 [Why ERP Projects Fail in Canada - and How to Avoid the Same Fate](https://www.essoft.com/blogs/post/why-erp-projects-fail-canada) (Fuente: Lorena Mehavilla)
 
 - **SAP Y University of California (UC)** [Costly effort to cut UC employees’ paychecks](https://www.dailynews.com/2017/04/20/costly-effort-to-cut-uc-employees-paychecks/) (fuente: Oscar Anadon)
+
+- **ERP desconocido y Cover Oregon**:
+[Cover Oregon's outsized project](https://www.techtarget.com/searcherp/feature/7-reasons-for-ERP-implementation-failure)
+Crearon un escenario en el que el proyecto se volvio tan enorme que no pudieron cumplir las fechas de vencimiento, gastos de 300 millones de dolares para no procesar ni una solicitud. (Fuente: Miguel Beltrán)
 
 ### 2013
 
