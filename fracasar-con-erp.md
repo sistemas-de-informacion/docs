@@ -146,7 +146,7 @@ Mención en [The Enterprise Resource Planning Decade: Lessons Learned and Issues
 - **Oracle y [Ford](http://corporate.ford.com)**:
 El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 [Ford Abandons Oracle Procurement System](http://www.computerworld.com/article/2565732/enterprise-resource-planning/ford-abandons-oracle-procurement-system.html) (Fuente: Sergio Andrés)
-[Everest: Failure in Information Technology project at Ford Motor Company](https://www.computerworld.com/article/2566114/ford-kills--everest--procurement-software-system.html) (Fuente: Juliana Zordan)
+[Ford kills 'Everest' procurement software system](https://www.computerworld.com/article/2566114/ford-kills--everest--procurement-software-system.html) (Fuente: Juliana Zordan sustituyendo trabajo de Alejandro Piedrafita)
 
 - **SAP y [Bang & Olufsen](https://www.bang-olufsen.com/es)**:
 [Bang & Olufsen complains of SAP implementation](https://www.computerworld.com.au/article/24734/bang_olufsen_complains_sap_implementation/) (Fuente: Celia Langa)
@@ -266,7 +266,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [A Case Study of ERP Implementation Issues](https://core.ac.uk/download/pdf/326833174.pdf) (Fuente: Alejandro Guiu, actualizado por Samuel Bonito)
 
 - **ERP desconocido y Agricultural Products Processing Center**:
-[A Study of Success and Failure in ERP Implementation: The Case of the Agricultural Products Processing Center](https://www.researchgate.net/profile/Young-Choe/publication/287121397_A_Study_of_Success_and_Failure_in_ERP_Implementation_The_Case_of_the_Agricultural_Products_Processing_Center/links/56ab0c9c08ae8f3865666a4e/A-Study-of-Success-and-Failure-in-ERP-Implementation-The-Case-of-the-Agricultural-Products-Processing-Center.pdf) (Fuente: Juliana Zordan)
+[A Study of Success and Failure in ERP Implementation: The Case of the Agricultural Products Processing Center](https://www.researchgate.net/profile/Young-Choe/publication/287121397_A_Study_of_Success_and_Failure_in_ERP_Implementation_The_Case_of_the_Agricultural_Products_Processing_Center/links/56ab0c9c08ae8f3865666a4e/A-Study-of-Success-and-Failure-in-ERP-Implementation-The-Case-of-the-Agricultural-Products-Processing-Center.pdf) (Fuente: Juliana Zordan actualizando aportación de Marta Lampaya)
 
 - **PeopleSoft y [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au/)**:
 [Why the RMIT Project failed](https://www.theage.com.au/education/rmit-to-scrap-47m-software-system-20030228-gdvart.html), [Analysis on Failed Australian Projects](http://www2.cio.com.au/article/172420/it_business_stupid/) (Fuente: Carmen Real)
@@ -615,7 +615,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 [Oracle PeopleSoft payroll problems still peeve police](http://www.computerworld.com/article/2511953/it-management/oracle-peoplesoft-payroll-problems-still-peeve-police.html) (Fuente: Luis Pellicer)
 
 - **SAP e [Ingram Micro](http://www.ingrammicro.com/)**:
-[SAP project woes impact Ingram Micro's profits](https://www.networkworld.com/article/2179735/sap-project-issues-hurt-ingram-micro-profits-again.html) (Fuente: Juliana Zordan)
+[SAP project issues hurt Ingram Micro profits again](https://www.networkworld.com/article/2179735/sap-project-issues-hurt-ingram-micro-profits-again.html) (Fuente: Juliana Zordan, actualiza aportación de William Kokora)
 
 - **SAP y [Avantor](https://www.avantormaterials.com/)**:
 [Manufacturer sues IBM over SAP project 'disaster'](http://www.computerworld.com/s/article/9233432/Manufacturer_sues_IBM_over_SAP_project_39_disaster_39_) (Fuente: Diego Grande)
@@ -877,7 +877,7 @@ Costes adicionales por valor de 2 millones de dólares para completar un proyect
 Instalación en 2017. Problemas en 2018.
 [Revlon failed to fulfil product shipments of approximately "$64m" of net sales because of problems with an SAP ERP implementation](https://www.nasdaq.com/press-release/revlon-alert%3A-rosen-law-firm-first-file-securities-class-action-lawsuit-against)
 ([Revlon Report](https://investors.revlon.com/news-releases/news-release-details/revlon-reports-second-quarter-2018-results)) (Fuente: Naval Alcalá)
-[How Revlon got sued by its own shareholders because of a failed SAP implementation](https://www.henricodolfing.com/2019/08/case-study-revlon-sued-because-sap-implementation.html) (Fuente: Juliana Zordan)
+[How Revlon got sued by its own shareholders because of a failed SAP implementation](https://www.henricodolfing.com/2019/08/case-study-revlon-sued-because-sap-implementation.html) (Fuente: Juliana Zordan, actualiza aportación de Pedro Tamarga)
 [Lessons from Revlon’s SAP Implementation Disaster](https://www.thirdstage-consulting.com/lessons-from-revlons-sap-implementation-disaster/) (Fuente: Antonio Lecina)
 [What was the Real Story with the Revlon S/4 HANA failure?](https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López) [ERP Implementation Failure at Revlon](https://www.thecasecentre.org/products/view?id=173346) (Fuente: Jaime Roncal) [Case Study: How Revlon Got Sued by Its Own Shareholders Because of a Failed Sap Implementation](https://www.henricodolfing.com/2019/08/case-study-revlon-sued-because-sap-implementation.html) (Fuente: Ismael Penacho
 
