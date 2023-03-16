@@ -513,6 +513,11 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 - **ERP en general y SME en Malasia** [ERP Implementation Critical Failure Factors for Malaysia SME](http://docsdrive.com/pdfs/medwelljournals/ajit/2018/153-159.pdf) (Fuente: Elena Romero de Tejada)
 
+- **Lululemon**:
+La multinacional canadiense minorista de ropa deportiva Lululemon Athletica experimentó dificultades para implantar su sistema ERP, viéndose afectada su cadena de suministros. Finalmente tuvo que realizar una inversión de 11 millones de dólares para poder implantar el nuevo sistema.
+[Lululemon Information Technology: Bringing together virtual and physical expansion strategies](https://lululemonmis.blogspot.com/p/lululemon-information-technology.html)
+
+
 ### 2009
 
 - **Epicor y Ferrazzoli (EE.UU.)**:
