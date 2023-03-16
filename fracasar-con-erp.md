@@ -516,6 +516,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 - **Lululemon**:
 La multinacional canadiense minorista de ropa deportiva Lululemon Athletica experimentó dificultades para implantar su sistema ERP, viéndose afectada su cadena de suministros. Finalmente tuvo que realizar una inversión de 11 millones de dólares para poder implantar el nuevo sistema.
 [Lululemon Information Technology: Bringing together virtual and physical expansion strategies](https://lululemonmis.blogspot.com/p/lululemon-information-technology.html)
+(Fuente: David Arruga)
 
 
 ### 2009
@@ -831,6 +832,10 @@ La sustitución de un ERP desarrollado internamente durante 30 años por SAP cau
 
 - **Oracle y [Fife Council](https://www.fife.gov.uk/)**:
 [Council transformation savings hit by ERP implementation issues](https://www.publictechnology.net/articles/news/council-transformation-savings-hit-erp-implementation-issues) (Fuente: Israel Gimeno)
+
+- **Royal Dutch Shell Corporation**:
+El cuarto mayor productor de petróleo del mundo gastó 32 millones de dólares para implementar un ERP, que permitía la monitorización continua de los procesos comerciales. Finalmente, la conclusión de un estudio en enero de 2015 concluyó que la implementación de dicho sistema en la NNPC (Nigerian National Petroleum Corporation) fue ineficaz.
+[How NNPC officials waste billions on failed electronic management contract] (https://www.premiumtimesng.com/news/headlines/191065-how-nnpc-officials-waste-billions-on-failed-electronic-management-contract.html?tztc=1) (Fuente: David Arruga)
 
 ### 2016
 
