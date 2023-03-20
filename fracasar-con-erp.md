@@ -583,9 +583,6 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 
 - **Oracle y Omantel (Omán)** [Examines environmental factors that impacted on the adoption of ERP by The Oman Telecommunication Company, highlights the particular problems of large organisations that operate disparate legacy systems.](https://www.emerald.com/insight/content/doi/10.1108/02635571011008416/full/html) (Fuente: Felipe Nonay)
 
-- **J&J Snack Foods (https://jjsnack.com/)**:
-[Noticia que habla sobre el fallo de J&J Snack Foods al implementar su ERP, que perdió unos 20 millones de dólares en ingresos en el segundo trimestre después de que los problemas de transición de un nuevo sistema de planificación de recursos empresariales interrumpieran la producción: https://www.supplychaindive.com/news/j-and-j-snacks-erp-implementation-operation-woes/623226/] (Fuente: Iván Bes)
-[J&J Snack profit off on ERP system implementation: https://www.foodbusinessnews.net/articles/21275-j-and-j-snack-profit-off-on-erp-system-implementation] (Fuente: Iván Bes)
 ### 2011
 
 -**SAP y Chorus**: [Chorus : les SSII en concurrence pour le marché de l'année](https://www.lemagit.fr/actualites/2240191222/Chorus-les-SSII-en-concurrence-pour-le-marche-de-lannee) (Fuente: Ayelen Nuño Gracia)
