@@ -950,6 +950,7 @@ La compañía habló con el distribuidor de ERP para gestionar las ventas de tod
 
 - **SAP y Lidl**:
 Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada. [Esto desencadenó una cadena de problemas de implementación](https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Marta Morales)
+[Case Study 12: Lidl’s €500 Million SAP Debacle](https://www.henricodolfing.com/2020/05/case-study-lidl-sap-debacle.html) (Fuente: Cristina Marzo)
 
 - **ERP no especicado y [TSB Bank](https://www.tsb.co.uk/)**:
 La crisis informática del banco TSB de abril de 2018 que deja a clientes bloqueados en sus cuentas bancarias, cuentas hipotecarias que desaparecen, pequeñas empresas que informan de que no pueden pagar a su personal y de tarjetas de débito que dejan de funcionar. [The Epic Meltdown of TSB Bank](https://www.henricodolfing.com/2019/03/case-study-epic-meltdown-of-tsb-bank.html) (Fuente: Sergio Hernández)
@@ -975,8 +976,8 @@ Caso de estudio sobre la implementación de SAP en una empresa dedicada a produc
 [Case Study of SAP Implementation in a Corporation Network Plant](https://www.inderscienceonline.com/doi/abs/10.1504/IJSOM.2020.105270) (Fuente: Samuel Ballonga)
 
 - **SAP y Gobierno Regional de Wellington (Nueva Zelanda)**:
-Remplazo fallido de ERP de la empresa Unit4. Existen [registros](http://www.gwrc.govt.nz/assets/council-reports/Meeting_Documents/7585_Agenda_Finance,%20Risk%20and%20Assurance%20Committee,%2014%20August%202019,%20Order%20Paper%20-%20Incl%20PE%20minutes.pdf) que describen los riesgos de la implementación desde meses atrás.
-[Unit4 out as Wellington Regional Council's SAP replacement falters](https://www.reseller.co.nz/article/667430/unit4-wellington-regional-council-sap-replacement-falters/) (Fuente: Eduardo Sánchez)
+Remplazo fallido de ERP de la empresa Unit4. Existen [registros](https://www.gwrc.govt.nz/assets/Documents/2019/08/7585_Agenda_Finance-Risk-and-Assurance-Committee-14-August-2019-Order-Paper-Incl-PE-minutes.pdf) que describen los riesgos de la implementación desde meses atrás.
+[Unit4 out as Wellington Regional Council's SAP replacement falters](https://www.reseller.co.nz/article/667430/unit4-wellington-regional-council-sap-replacement-falters/) (Fuente: Eduardo Sánchez. Enlace corregido por: Cristina Marzo)
 
 - **SAP y Alliance Group (Nueva Zelanda)**:
 Cambio de ERP a Microsoft 365 en la empresa agrícola Alliance Group después de haber gastado 57M$ en SAP. [Lexel rebuilds Alliance Group's workplace as $57M ERP upgrade proceeds](https://www.reseller.co.nz/article/683525/lexel-systems-takes-alliance-group-co-op-cloud-modern-workplace/) (Fuente: Fernando Navarro)
