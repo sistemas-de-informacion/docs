@@ -333,7 +333,7 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 [UMass-Amherst bedeviled by PeopleSoft portal crash](https://www.computerworld.com/article/2566229/enterprise-applications/umass-amherst-bedeviled-by-peoplesoft-portal-crash.html) (Fuente: Adrián Ibáñez), [University ERP: Big Mess on Campus](https://www.cio.com/article/2439102/university-erp--big-mess-on-campus.html) (Fuente: Felipe Nonay)
 
 - **Oracle y Saudi Telecom (Arabia Saudí)**:
-[Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
+[Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/Vol28No2/2Vol28No2.pdf) (Fuente: Juan Mediano)
 
 - **SAP y [HP](http://www.hp.com/) (Hewlett Packard)**:
 La instalación de un ERP causa pérdidas 5 veces mayores que su coste.
