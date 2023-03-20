@@ -8,7 +8,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 [2010](#2010), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2016](#2016), [2017](#2017), [2018](#2018), [2019](#2019)
 
-[2020](#2020), [2021](#2021), [2022](#2022), [2023](#2023)
+[2020](#2020), [2021](#2021), [2022](#2022), [2023](#2023) 
 
 ## Década de 1990
 
@@ -816,6 +816,9 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 
 - **Steria y Ministerio de Justicia del Reino Unido**:
 Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocado gastos por valor de 56 millones de libras, tras lo cual el proyecto se ha trasladado a una empresa externa. [Steria, the MoJ and a £56 MILLION Shared Services write-off](https://www.theregister.com/2014/06/27/steria_the_moj_and_a_56m_shared_services_writeoff/) (Fuente: Eduardo Sánchez)
+
+- **SAP, Oracle, Baan y otros y SME indias**: 
+El estudio identificó los principales factores críticos de fracaso en la implementación de ERP en las PYMEs indias, incluyendo la resistencia de los empleados, una mala dirección superior y los problemas presupuestarios. [Erp in Indian Smes - A Study of Critical Failure Factorsa](http://www.iosrjournals.org/iosr-jmce/papers/vol11-issue4/Version-6/G011467479.pdf)  (Fuente: Jesús Lizama)
 
 ### 2015
 
