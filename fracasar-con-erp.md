@@ -665,7 +665,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 [VON struggles to reimburse nurses with pay problems](http://www.cbc.ca/news/canada/von-struggles-to-reimburse-nurses-with-pay-problems-1.1097943) (Fuente: Guillermo Robles) y [SAP-IBM payroll system woes fouled up nurses' pay](http://www.computerworld.com/article/2510412/enterprise-applications/sap-ibm-payroll-system-woes-fouled-up-nurses--pay.html) (Fuente: Nerea Torres)
 
 - **SAP y [Woodward](http://www.woodward.com/) (EE.UU.)**:
-[ERP Software Woes Ding Aerospace Company's Profits](http://www.cio.com/article/2394117/enterprise-software/erp-software-woes-ding-aerospace-company-s-profits.html) (Fuente: Laura Calderón); el artículo no cita a SAP pero una investigación posterior revela que SAP era el ERP involucrado
+[ERP Software Woes Ding Aerospace Company's Profits](https://www.computerworld.com/article/2723756/erp-software-woes-ding-aerospace-company-s-profits.html) (Fuente: Laura Calderón y Rubén Albacete); el artículo no cita a SAP pero una investigación posterior revela que SAP era el ERP involucrado
 
 - **SAP y [Lufkin Industries](https://lufkin.com/)**:
 [Court of Appeals of Texas](https://caselaw.findlaw.com/tx-court-of-appeals/1867628.html) (Fuente: Jaime Conchello)
@@ -687,7 +687,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 [Lessons learned from a government ERP failure](https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/PANCONUS/P121121L.pdf) (Fuente: David Sáez)
 
 - **ERP desconocida y RBS (Royal Bank of Scoltand)**:
-[RBS Bank joins the IT failures ‘Hall of Shame’](https://www.enterpriseirregulars.com/50387/rbs-bank-joins-it-failures-hall-shame/) (Fuente: Oscar Potrony)
+[RBS Bank joins the IT failures ‘Hall of Shame’](https://www.zdnet.com/finance/rbs-bank-joins-the-it-failures-hall-of-shame/) (Fuente: Oscar Potrony y Rubén Albacete)
 
 - **Infor y Buckley Powder (EE.UU)**:
 [Infor hit with lawsuit over alleged software project failure](http://www.pcworld.com/article/2044493/infor-hit-with-lawsuit-over-alleged-software-project-failure.html) (Fuente: Beatriz Franco)
@@ -766,7 +766,7 @@ Los sucesivos retrasos y que el proyecto no pasara el 70% de las pruebas de acep
 [Like Taking Candy from a Baby: Sacramento Schools Claim Workday Took Advantage of Them and File Suit](https://upperedge.com/workday/like-taking-candy-from-a-baby-sacramento-schools-claim-workday-took-advantage-of-them-and-file-suit/) (Fuente: Eduardo Gimeno)
 
 - **Varios contratistas y Department of Health and Human Services (EE.UU.)**:
-[Millions lost by ERP System in Government](https://freebalance.com/uncategorized/millions-lost-by-erp-system-in-government/) (Fuente: Íñigo Úriz)
+[Millions lost by ERP System in Government](https://freebalance.com/en/blog/uncategorized/millions-lost-by-erp-system-in-government/) (Fuente: Íñigo Úriz y Rubén Albacete)
 
 - **SupERP (anonimizado) y Building Blocks Inc. (anonimizado)**:
 Un caso de estudio descrito por uno de los participantes en el juicio.
@@ -852,7 +852,7 @@ En 2019 aún están planificando cómo hacerla.
 [Who should shoulder the blame for Phoenix fiasco?](http://www.cbc.ca/news/canada/ottawa/phoenix-payroll-problems-ibm-1.3770947)
 [IBM contract cost for failure-plagued Phoenix payroll system jumped to total $185M](http://www.cbc.ca/news/canada/ottawa/phoenix-ibm-contract-union-pay-government-1.4295827)(Fuente: Enrique Palacín)
 [Upgrade of troubled Phoenix could risk yet more payroll snafus for public servants](https://www.nationalobserver.com/2019/04/03/news/upgrade-troubled-phoenix-could-risk-yet-more-payroll-snafus-public-servants) (Fuente: Javier Ortega)
-Cómo el 25% de los funcionarios de Canadá sufrieron errores en sus nóminas. [ANATOMY OF AN ERP PAYROLL FAILURE](https://freebalance.com/public-financial-management/anatomy-of-an-erp-payroll-failure/)(Fuente: Adrián Francisco)
+Cómo el 25% de los funcionarios de Canadá sufrieron errores en sus nóminas. [ANATOMY OF AN ERP PAYROLL FAILURE](https://freebalance.com/en/blog/economic-growth-development/anatomy-of-an-erp-payroll-failure/)(Fuente: Adrián Francisco y Rubén Albacete)
 
 - **Oracle & Beximco Pharma**:
 [An assessment to Identify Causes of ERP Implementation Failure and to Predict its Success: A Case Study on Beximco Pharmaceuticals Limited](https://www.researchgate.net/publication/303100797_An_Assessment_to_Identify_Causes_of_ERP_Implementation_Failure_and_to_Predict_Its_Success_A_Case_Study_on_Beximco_Pharmaceuticals_Limited) (Fuente: David Ubide)
