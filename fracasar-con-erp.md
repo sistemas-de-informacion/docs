@@ -289,7 +289,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [NASA systems: Houston, we have a problem](https://gcn.com/articles/2004/05/19/nasa-systems-houston-we-have-a-problem.aspx) (Fuente: Juan Vela)
 
 - **SAP y XYZ (nombre ficticio, diferente del caso 2002)**:
-[Learning from failed ERP implementation](https://core.ac.uk/download/pdf/326833174.pdf) (Fuente: Juan Mediano)
+[Learning from failed ERP implementation](http://www.apps2fusion.com/training_demo/ranu/erp_success_factors_ranu.pdf) (Fuente: Fernando Alegre)
 
 - **SAP, PeopleSoft and Oracle y [Walt Disney Corporation](https://thewaltdisneycompany.com/)**:
 [Disney keeps global SAP roll-out on track by making local executives responsible](http://www.computerweekly.com/feature/Disney-keeps-global-SAP-roll-out-on-track-by-making-local-executives-responsible) (Fuente: Adrián Ibáñez)
