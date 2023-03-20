@@ -799,10 +799,6 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 - **Steria y Ministerio de Justicia del Reino Unido**:
 Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocado gastos por valor de 56 millones de libras, tras lo cual el proyecto se ha trasladado a una empresa externa. [Steria, the MoJ and a £56 MILLION Shared Services write-off](https://www.theregister.com/2014/06/27/steria_the_moj_and_a_56m_shared_services_writeoff/) (Fuente: Eduardo Sánchez)
 
-- **ERP desconocido y una SME (Small-medium-sized enterprise)**:
- [ERP Implementation in an SME: A Failure Case][This study examines a failed enterprise resource planning (ERP) implementation in a small-and-medium-sized enterprise (SME). The improper handling of critical success factors (CSFs), particularly those relating to support from top management, project management, and the use of consultants, led to severe problems.] (https://www.researchgate.net/publication/300162456_ERP_Implementation_in_an_SME_A_Failure_Case) (Fuente: Jorge Borque Benedí)
-
-
 ### 2015
 
 - **IBM y el [Ministry of Community and Social Services](https://www.mcss.gov.on.ca/en/mcss/) de Ontario**:
