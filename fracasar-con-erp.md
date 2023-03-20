@@ -995,8 +995,9 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 - **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**:
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
-### 2022
-- **Invacare faces long wait and increased cost for health care ERP intervention**:
+- **SAP e Invacare**:
 [The importance of having the ERP up and running because otherwise you'll be paying your fees without receiving the service expected.](https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html)(Fuente: Jorge Bernal Romero)
+
+### 2022
 
 ### 2023
