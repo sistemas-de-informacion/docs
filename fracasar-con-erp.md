@@ -389,10 +389,12 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **ERP desconocido y empresas reales pero anónimas**:
 [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
+- **SAP y [Waste Management](http://www.wm.com/index.jsp)**:
+[SAP fires back at Waste Management](http://www.cio.com/article/443864/SAP_Fires_Back_At_Waste_Management) (Fuente: Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo )
+
 - **Oracle ERP e Invacare**:
 Los problemas para implantar un ERP le costó a la compañía unos 30 millones de dólares en negocios perdidos y otros costes.
 [Medical products maker Invacare faces rough ERP ride](https://www.computerworld.com/article/2560044/medical-products-maker-invacare-faces-rough-erp-ride.html) (Fuente: David Arruga)
-
 
 ### 2006
 
@@ -437,9 +439,6 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 
 - **SAP y Distrito Escolar de Los Ángeles (EE.UU.)**:
 [LA school district and Deloitte in $18m failure settlement](http://www.zdnet.com/article/la-school-district-and-deloitte-in-18m-failure-settlement/) (Fuente: Alejandro Guiu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
-
-- **SAP y [Waste Management](http://www.wm.com/index.jsp)**:
-[SAP fires back at Waste Management](https://www.computerworld.com/article/2532439/update--sap-fires-back-at-waste-management.html) (Fuente: Juan Mediano, corrige aportación de Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo)
 
 - **Oracle y Arizona State University (ASU)**:
 El coste de la implementación fue sustancialmente por debajo del presupuesto, una rareza extrema en el mundo de las implementaciones de ERP. Sin embargo, esto se produce a expensas de la calidad, la usabilidad y la moral de los empleados de la ASU.
@@ -726,8 +725,9 @@ Mala calidad de datos, problemas de suministros derivados y TPV con problemas ll
 
 - **SAP Y University of California (UC)** [Costly effort to cut UC employees’ paychecks](https://www.dailynews.com/2017/04/20/costly-effort-to-cut-uc-employees-paychecks/) (fuente: Oscar Anadon)
 
-- **ERP desconocido y Cover Oregon**:
-[Cover Oregon's outsized project](https://www.techtarget.com/searcherp/feature/7-reasons-for-ERP-implementation-failure)
+- **Oracle y Covered Oregon (EE.UU.)**
+[The amount of decisions made in a span of time may lead into a complete disaster. Therefore, with the aid of a complete-functional ERP and the required amount of money this may not have happened.](https://www.datavtech.com/7-common-erp-implementation-failures-and-lessons-learned/)(Fuente: Jorge Bernal Romero)
+y [Cover Oregon's outsized project](https://www.techtarget.com/searcherp/feature/7-reasons-for-ERP-implementation-failure)
 Crearon un escenario en el que el proyecto se volvio tan enorme que no pudieron cumplir las fechas de vencimiento, gastos de 300 millones de dolares para no procesar ni una solicitud. (Fuente: Miguel Beltrán)
 
 ### 2013
@@ -1001,6 +1001,9 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 
 - **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**:
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
+
+- **SAP e Invacare**:
+[The importance of having the ERP up and running because otherwise you'll be paying your fees without receiving the service expected.](https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html)(Fuente: Jorge Bernal Romero)
 
 - **Flexcube (Oracle) y Citibank**:
 Un diseño de interfaz confuso en Flexcube provoca a Citibank una pérdida de 500 millones de dólares: [Take a look at the confusing bank interface behind Citigroup's $500 million mistake](https://www.businessinsider.com/citigroup-accidental-wire-transfer-payment-design-interface-oracle-flexcube-2021-2) (Fuente: Sergio Berges)
