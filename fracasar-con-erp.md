@@ -856,7 +856,7 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 - **Oracle y Condado de Loudoun, Virginia**:
 Costes adicionales por valor de 2 millones de dólares para completar un proyecto abierto desde hace 5 años, buscando actualizar software de hace 20. [Troubled ERP Upgrades Gets $2M More, Supervisors seek a new vendor to complete third phase](https://loudounnow.com/2016/05/24/troubled-erp-upgrades-gets-2m-more-supervisors-seek-a-new-vendor-to-complete-third-phase/) (Fuente: Eduardo Sánchez)
 
-- **Laboratorios farmacéuticos franceses Stallergenes. y ERP desconocido**:
+- **ERP desconocido y Stallergenes (Francia)**:
 La mala implantación de un ERP había causado pérdidas millonarias a los laboratorios farmacéuticos franceses Stallergenes. [¿Por qué falló la implementación del ERP?](https://sigessolutions.com/por-que-fallo-la-implementacion-del-erp/) (Fuente: Roberto García)
 
 ### 2017
@@ -971,14 +971,14 @@ Adidas eligió un software de gestión de almacenes que no era compatible con el
 - **Infor y [Travis Perkins](https://www.travisperkins.co.uk/)**:
 Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor. [Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández)
 
-- **ERP Failures PT.Toyota Astra Motor Indonesia**:
+- **ERP desconocido y Toyota**:
 PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Critical ERP Failures Case study of PT.Toyota Astra Motor Indonesia](https://doi.org/10.1109/ICIC47613.2019.8985720) (Fuente: Sergio Pablo Lorén)
 
 ## Década de 2020
 
 ### 2020
 
-- **GamesWorkshop y Microsoft Dynamics**:
+- **Microsoft Dynamics y GamesWorkshop**:
 [Tabletop battle-toys purveyor Games Workshop again warns of risks in Microsoft Dynamics 365 ERP project](https://www.theregister.com/2020/01/14/games_workshop_warns_of_risks_in_microsoft_dynamics_365_erp_project/) (Fuente: Adrian Garcia)
 
 - **1GX y Gobierno de Alberta (Canadá)**:
@@ -991,7 +991,7 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 
 ### 2022
 
-- **Gaston county schools y Oracle**:
+- **Oracle y Gaston county schools**:
 Las escuelas del condado de Gaston se pusieron en marcha con su problemático sistema de nómina en contra de las recomendaciones estatales.
 [State told school district not to implement new payroll system](https://eu.gastongazette.com/story/news/local/2022/09/13/payroll-system-teachers-introduced-despite-state-guidance/10364751002/) (Fuente: Roberto García)
 
