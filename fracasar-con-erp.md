@@ -336,10 +336,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
 
 - **SAP y [HP](http://www.hp.com/)**:
-La instalación de un ERP causa pérdidas 5 veces mayores que su coste.
-[When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz),
-[ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López),
-y [HP's CIO Points to Internal Issues in ERP Project Snafus](https://www.computerworld.com/article/2565928/hp-s-cio-points-to-internal-issues-in-erp-project-snafus.html) (Fuente: Víctor Jarreta)
+Heward Packard evaluó una pérdida del 5 % en las ganancias y determinó que reemplazar los sistemas heredados y pasar a una solución ERP centralizada ayudaría a optimizar sus operaciones. Al atender a más de mil millones de clientes en más de 160 países, las operaciones de HP estaban altamente descentralizadas. Cada división y unidad de negocio operaba de forma independiente entre sí. Cuando la empresa intentó migrar al sistema SAP ERP, se vio plagada de problemas de integración de datos, problemas de previsión de la demanda, planificación deficiente y capacitación y soporte de implementación inadecuados. La implementación fallida de ERP le costó a la empresa 160 millones de dólares en pedidos atrasados y pérdida de ingresos, más de cinco veces el costo estimado del proyecto en 2004. [Lessons Learned From the Hewlett Packard ERP System Failure] (https://www.panorama-consulting.com/hewlett-packard-erp-system-failure/) (Fuente: Iván Bes Zamorano), [When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz), [ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López), y [HP's CIO Points to Internal Issues in ERP Project Snafus](https://www.computerworld.com/article/2565928/hp-s-cio-points-to-internal-issues-in-erp-project-snafus.html) (Fuente: Víctor Jarreta)
 
 - **SAP, Deloitte (implementador) y el condado de [Marin](http://www.marincounty.org/) en California**:
 El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el Condado de Marin está tan harto del proyecto que demanda a Deloitte por 30M$ utilizando una ley que se aplica contra actividades de crimen organizado (Ley RICO).
@@ -794,12 +791,6 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 
 - **Steria y Ministerio de Justicia del Reino Unido**:
 Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocado gastos por valor de 56 millones de libras, tras lo cual el proyecto se ha trasladado a una empresa externa. [Steria, the MoJ and a £56 MILLION Shared Services write-off](https://www.theregister.com/2014/06/27/steria_the_moj_and_a_56m_shared_services_writeoff/) (Fuente: Eduardo Sánchez)
-
-- **Hewlett Packard’s**:
-Heward Packard evaluó una pérdida del 5 % en las ganancias y determinó que reemplazar los sistemas heredados y pasar a una solución ERP centralizada ayudaría a optimizar sus operaciones. Al atender a más de mil millones de clientes en más de 160 países, las operaciones de HP estaban altamente descentralizadas. Cada división y unidad de negocio operaba de forma independiente entre sí. Cuando la empresa intentó migrar al sistema SAP ERP, se vio plagada de problemas de integración de datos, problemas de previsión de la demanda, planificación deficiente y capacitación y soporte de implementación inadecuados.
-
-La implementación fallida de ERP le costó a la empresa 160 millones de dólares en pedidos atrasados y pérdida de ingresos, más de cinco veces el costo estimado del proyecto en 2004.
-[Lessons Learned From the Hewlett Packard ERP System Failure] (https://www.panorama-consulting.com/hewlett-packard-erp-system-failure/) (Fuente: Iván Bes Zamorano)
 
 ### 2015
 
