@@ -766,9 +766,6 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 - **ERP ficticio y ERP Partnership Formation Regulations**:
 [The Impact of ERP Partnership Formation Regulations on the Failure of ERP Implementations](https://www.sciencedirect.com/science/article/pii/S0268401207000886?casa_token=9Umi_u_Yl2AAAAAA:Lrt25ZjpoSb4PbRFhs5nMrCSZYsYTZCUv_rVqZRmG_CtEr1_yFa372VJ9EU-Yf26GvELVFx5O9k) (Fuente: Marta Lampaya)
 
-- **Target Canada: Garbage in, garbage out**
-[The problem of not preprocessing data correctly before including it to the SAP systems.] (https://www.channelasia.tech/article/667670/15-famous-erp-disasters-dust-ups-disappointments/?pp=2) (Fuente: Jorge Bernal Romero)
-
 ### 2014
 
 - **Israel Chemical Limited y SAP**:
