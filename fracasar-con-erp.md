@@ -543,6 +543,10 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 - **Avenade y [ScanSource](https://www.scansource.com/en)**:
 50 M de euros y 3 años de implementación por un ERP que nunca se puso en funcionamiento. [ScanSource Sues Avanade For Alleged Botched ERP Project](https://www.crn.com/news/channel-programs/240145447/scansource-sues-avanade-for-alleged-botched-erp-project.htm) (Fuente: Sofia Subias)
 
+- **ERP desconocido y [GMAC](https://www.gmac.com/)**:
+La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia en la gestión de proyectos, presupuestos, compras y contabilidad, pero la implementación fue mal planificada y ejecutada. El sistema ERP no se integró correctamente con los sistemas existentes de la empresa, lo que provocó problemas en la transferencia de datos y en la sincronización de la información entre los sistemas. [Treasury Gives GMAC $7.5 Billion](https://www.mbtmag.com/home/news/13071967/treasury-gives-gmac-75-billion) (Fuente: Jorge Borque Benedí)
+
+
 ## Década de 2010
 
 ### 2010
@@ -981,7 +985,7 @@ Adidas eligió un software de gestión de almacenes que no era compatible con el
 Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor. [Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández)
 
 - **ERP desconocido y Toyota**:
-PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Critical ERP Failures Case study of PT.Toyota Astra Motor Indonesia](https://doi.org/10.1109/ICIC47613.2019.8985720) (Fuente: Sergio Pablo Lorén)
+PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Analysis of Critical Success Factors on ERP Implementation in PT. Toyota Astra Motor Using Extended Information System Success Model](https://www.researchgate.net/publication/343666490_Analysis_of_Critical_Success_Factors_on_ERP_Implementation_in_PT_Toyota_Astra_Motor_Using_Extended_Information_System_Success_Model) (Fuente: Jorge Borque Benedí, corrige enlace de Sergio Pablo Lorén)
 
 ## Década de 2020
 
