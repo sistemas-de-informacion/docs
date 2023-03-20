@@ -359,9 +359,6 @@ En este paper se hace un pequeño estudio de la implementación de SAP en esta c
 - **ERP desconocido y Multi-national Electronics Components Manufacturing Company**:
 [Examining the ERP Implementation Process from a Failure Case](http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
 
-- **Enterprise information systems project implementation: A case study of ERP in Rolls-Royce**:
-[Roll-royce case study talking about the problems encountered when moving from ERP](https://www.umassd.edu/media/umassdartmouth/businessinnovationresearchcenter/publications/erp_rolls-royce.pdf) (Fuente: Jesús Lizama).
-
 ### 2005
 
 - **Ciber y [Pennsylvania Turnpike Commission](https://www.paturnpike.com/)**:
