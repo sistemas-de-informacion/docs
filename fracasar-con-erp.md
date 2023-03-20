@@ -392,7 +392,7 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**:
-[Department of Homeland Security – Emerge2 Project – USA](http://calleam.com/WTPF/?p=1865) y [EMERGE2's failure sends DHS back to drawing board](https://fcw.com/workforce/2006/03/emerge2s-failure-sends-dhs-back-to-drawing-board/220017/) (Fuente: Juan Mediano)
+[Department of Homeland Security – Emerge2 Project – USA](http://calleam.com/WTPF/?p=1865) y [EMERGE2's failure sends DHS back to drawing board](https://fcw.com/workforce/2006/03/emerge2s-failure-sends-dhs-back-to-drawing-board/220017/) (Fuente: Juan Mediano, corrige aportación de Daniel Cabrera)
 
 - **Eclipsys Corporation y [El Camino Hospital](http://www.elcaminohospital.org/)**:
 [Report: ECHO caused problems for hospital](http://www.mv-voice.com/print/story/2006/07/14/hospital-vexed-by-new-computer-system) (Fuente: Edgar Arnal)
@@ -434,7 +434,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 [LA school district and Deloitte in $18m failure settlement](http://www.zdnet.com/article/la-school-district-and-deloitte-in-18m-failure-settlement/) (Fuente: Alejandro Guiu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
 
 - **SAP y [Waste Management](http://www.wm.com/index.jsp)**:
-[SAP fires back at Waste Management](https://www.computerworld.com/article/2532439/update--sap-fires-back-at-waste-management.html) (Fuente: Juan Mediano) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo)
+[SAP fires back at Waste Management](https://www.computerworld.com/article/2532439/update--sap-fires-back-at-waste-management.html) (Fuente: Juan Mediano, corrige aportación de Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo)
 
 - **Oracle y Arizona State University (ASU)**:
 El coste de la implementación fue sustancialmente por debajo del presupuesto, una rareza extrema en el mundo de las implementaciones de ERP. Sin embargo, esto se produce a expensas de la calidad, la usabilidad y la moral de los empleados de la ASU.
@@ -481,7 +481,7 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [Overstock.com's Four-Year ERP Nightmare](http://www.cio.com/article/2373728/enterprise-software/overstock-com-s-four-year-erp-nightmare.html) (Fuente: Pablo Lanaspa) [Overstock.com as an example of ERP failure](https://es.slideshare.net/sunidhikumari1/success-and-failure-examples-of-erp-implementation) (Fuente: Alfonso Delgado)
 
 - **Ross Systems y [Sunshine Mills](http://www.sunshinemills.com/)**:
-[Jury Awards Pet Food Maker $61 Million in ERP Suit](https://www.computerworld.com/article/2514679/jury-awards-pet-food-maker--61m-in-erp-suit.html) (Fuente: Juan Mediano)
+[Jury Awards Pet Food Maker $61 Million in ERP Suit](https://www.computerworld.com/article/2514679/jury-awards-pet-food-maker--61m-in-erp-suit.html) (Fuente: Juan Mediano, corrige aportación de David Enjuanes)
 
 - **SAP y Birmingham City Council (R.U.)**:
 [SAP go-live leaves 18,000 unpaid bills at Europe's largest local authority - what went wrong](http://www.computerweekly.com/blogs/public-sector/2008/02/sap-golive-leaves-18000-unpaid-1.html) (Fuente: Juan Vela)
