@@ -990,6 +990,9 @@ Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 201
 - **ERP desconocido y Toyota**:
 PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Analysis of Critical Success Factors on ERP Implementation in PT. Toyota Astra Motor Using Extended Information System Success Model](https://www.researchgate.net/publication/343666490_Analysis_of_Critical_Success_Factors_on_ERP_Implementation_in_PT_Toyota_Astra_Motor_Using_Extended_Information_System_Success_Model) (Fuente: Jorge Borque Benedí, corrige enlace de Sergio Pablo Lorén)
 
+- **SAP y Nanshan Life Insurance**:
+La inversión de la empresa taiwanesa Nanshan Life Insurance resultó ser el "major failure", cuya historia se encubrió por la prensa no taiwanesa. [The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/the-hidden-s-4hana-failure-at-nanshan-life-insurance/) (Fuente: Jorge Borque Benedí)
+
 ## Década de 2020
 
 ### 2020
