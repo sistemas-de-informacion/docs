@@ -389,6 +389,9 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **ERP desconocido y empresas reales pero anónimas**:
 [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
+- **ERP desconocido y empresas de Taiwan anónimas**:
+[Identification of critical failure factors in the implementation of enterprise resource planning (ERP) system in Taiwan's industries](https://www.researchgate.net/publication/247833281_Identification_of_critical_failure_factors_in_the_implementation_of_enterprise_resource_planning_ERP_system_in_Taiwan's_industries) (Fuente: Jorge Borque)
+
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**:
