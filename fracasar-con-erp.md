@@ -396,6 +396,9 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 Los problemas para implantar un ERP le costó a la compañía unos 30 millones de dólares en negocios perdidos y otros costes.
 [Medical products maker Invacare faces rough ERP ride](https://www.computerworld.com/article/2560044/medical-products-maker-invacare-faces-rough-erp-ride.html) (Fuente: David Arruga)
 
+- **ERP failure in South African Airways (SAA)**
+[SAA implemented an ERP system from SAP, which resulted in a major financial loss due to system glitches and lack of proper implementation. The project cost the airline approximately R1.3 billion and was eventually scrapped. I cannot find a specific link for the failure but I'm attaching a link from 2018 where it explains how the company made its turnaround and the importance of an ERP specialist as a key to the company's growth and properity.](https://newsroom.aviator.aero/south-african-airways-fills-critical-skills-gap-with-key-appointments/)(Fuente: Jorge Bernal Romero)
+
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**:
@@ -1010,10 +1013,13 @@ Un diseño de interfaz confuso en Flexcube provoca a Citibank una pérdida de 50
 
 - **ERP desconocido y Mission Produce**:
 Mission Produce tuvo problemas a la hora de implantar el nuevo ERP. Este proveedor de aguacate necesitó invertir 4,1 millones de dólares en gastos operativos, además de numerosos problemas por la falta de visibilidad de su inventario disponible.
-Los centros de distribución y empaquetado experimentaron problemas de compra, recepción y envío, lo que provocó una gran dependencia de fruta de terceros y fruta envasada que, de otro modo, habrían obtenido directamente del campo y envasado en sus instalaciones. 
+Los centros de distribución y empaquetado experimentaron problemas de compra, recepción y envío, lo que provocó una gran dependencia de fruta de terceros y fruta envasada que, de otro modo, habrían obtenido directamente del campo y envasado en sus instalaciones.
 Otros problemas fueron los retrasos en la facturación automatizada a los clientes y la gestión de inventario.
 [Mission Produce faces operational issues after botched ERP implementation](https://www.supplychaindive.com/news/Mission-Produce-ERP-implementation-operations-problems/620606/) (Fuente: David Arruga)
 y [MISSION PRODUCE, INC. Management's Discussion and Analysis of Financial Condition and Results of Operations (form 10-Q)](https://www.marketscreener.com/quote/stock/MISSION-PRODUCE-INC-113170567/news/MISSION-PRODUCE-INC-Management-s-Discussion-and-Analysis-of-Financial-Condition-and-Results-of-Op-39728087/) (Fuente: Acher Egido Mairal)
+
+- **Kasowitz Secures Over $31 Million Recovery for Hawaii Arising From Botched ERP Software Implementation**
+[Failure in the ERP software implementation project to upgrade the Hawaii Department of Transportation’s Highways Division financial management system. Recovery of over $31 Million finally.](https://www.kasowitz.com/media/client-news/kasowitz-secures-over-31-million-recovery-for-hawaii-arising-from-botched-erp-software-implementation/)(Fuente: Jorge Bernal Romero)
 
 ### 2022
 
@@ -1022,10 +1028,10 @@ Las escuelas del condado de Gaston se pusieron en marcha con su problemático si
 [State told school district not to implement new payroll system](https://eu.gastongazette.com/story/news/local/2022/09/13/payroll-system-teachers-introduced-despite-state-guidance/10364751002/) (Fuente: Roberto García)
 
 - **SAP y [Ranpak Holdings Corp](https://www.ranpak.com/es/)**:
-La transición a un sistema ERP cloud creó ciertos obstáculos que afectaron las operaciones, 
-incluido el tiempo de inactividad programado para pasar al nuevo sistema ERP; 
-ineficiencias de procesamiento y envío asociadas con el uso de un nuevo sistema ERP; 
-y, durante la transición al nuevo sistema ERP, 
+La transición a un sistema ERP cloud creó ciertos obstáculos que afectaron las operaciones,
+incluido el tiempo de inactividad programado para pasar al nuevo sistema ERP;
+ineficiencias de procesamiento y envío asociadas con el uso de un nuevo sistema ERP;
+y, durante la transición al nuevo sistema ERP,
 la demora en los aumentos de precios para ayudar a compensar las presiones de los costos de los insumos.
 [Protective packaging firm’s profit takes a knock from ERP](https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Lucía Beltrán)
 y [Ranpak Holdings Corp. Reports First Quarter 2022 Financial Results](https://ir.ranpak.com/news/news-details/2022/Ranpak-Holdings-Corp.-Reports-First-Quarter-2022-Financial-Results/default.aspx) (Fuente: Acher Egido Mairal)
