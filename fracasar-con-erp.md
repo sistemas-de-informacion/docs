@@ -991,8 +991,5 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
 ### 2022
-- **SAP y [Ranpak]**:
-[Perdidas en la empresa en la migracion a SAP](https://ir.ranpak.com/news/news-details/2022/Ranpak-Holdings-Corp.-Reports-First-Quarter-2022-Financial-Results/default.aspx) (Fuente: Carlos Bellvis Irache)
+
 ### 2023
-- **J&J Snack Foods**:
-[JJSF earnings call for the period ending December 31, 2022](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Carlos Bellvis Irache)
