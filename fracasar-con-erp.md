@@ -398,6 +398,9 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **ERP desconocido y empresas reales pero anónimas**:
 [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
+- **ERP desconocido y empresas de Taiwan anónimas**:
+[Identification of critical failure factors in the implementation of enterprise resource planning (ERP) system in Taiwan's industries](https://www.researchgate.net/publication/247833281_Identification_of_critical_failure_factors_in_the_implementation_of_enterprise_resource_planning_ERP_system_in_Taiwan's_industries) (Fuente: Jorge Borque)
+
 - **SAP y [Waste Management](http://www.wm.com/index.jsp)**:
 [SAP fires back at Waste Management](http://www.cio.com/article/443864/SAP_Fires_Back_At_Waste_Management) (Fuente: Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo )
 
@@ -1009,8 +1012,8 @@ Adidas eligió un software de gestión de almacenes que no era compatible con el
 - **Infor y [Travis Perkins](https://www.travisperkins.co.uk/)**:
 Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor. [Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández)
 
-- **ERP desconocido y Toyota**:
-PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Analysis of Critical Success Factors on ERP Implementation in PT. Toyota Astra Motor Using Extended Information System Success Model](https://www.researchgate.net/publication/343666490_Analysis_of_Critical_Success_Factors_on_ERP_Implementation_in_PT_Toyota_Astra_Motor_Using_Extended_Information_System_Success_Model) (Fuente: Jorge Borque Benedí, corrige enlace de Sergio Pablo Lorén)
+- **SAP y Nanshan Life Insurance**:
+La inversión de la empresa taiwanesa Nanshan Life Insurance resultó ser el "major failure", cuya historia se encubrió por la prensa no taiwanesa. [The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/the-hidden-s-4hana-failure-at-nanshan-life-insurance/) (Fuente: Jorge Borque Benedí)
 
 - **Oracle y Universidad Edinburgh**:
  [University of Edinburgh staff paid late due to Oracle ERP troubles](https://www.theregister.com/2022/11/03/oracle_erp_edinburgh_university/) (Fuente: Alejandro Sanz)
