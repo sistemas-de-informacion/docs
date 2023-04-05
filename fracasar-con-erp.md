@@ -335,7 +335,7 @@ Página con información ampliada del tema: [Nike Case Study Analysis: ERP Syste
 - **Oracle y Saudi Telecom (Arabia Saudí)**:
 [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/research-papers/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
 
-- **SAP y [HP](http://www.hp.com/)**:
+- **SAP y [HP](http://www.hp.com/) (Hewlett Packard)**:
 La instalación de un ERP causa pérdidas 5 veces mayores que su coste.
 [When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz),
 [ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López),
@@ -358,10 +358,6 @@ En este paper se hace un pequeño estudio de la implementación de SAP en esta c
 
 - **ERP desconocido y Multi-national Electronics Components Manufacturing Company**:
 [Examining the ERP Implementation Process from a Failure Case](http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
-
-- **SAP ERP y Hewlett Packard**
-[Hewlett Packard’s Disaster](https://blog.360cloudsolutions.com/resources/top-six-erp-implementation-failures)
-La empresa trato de migrar datos a SAP y tuvo problemas de integración, planificacion deficiente etc, lo que llevo un coste de 160 millones de dolares. (Fuente: Miguel Beltrán)
 
 ### 2005
 
@@ -1006,10 +1002,6 @@ Hertz presentó una solicitud de bancarrota en mayo de 2020 y citó su fallida i
 - **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**:
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
-- **ERP desconocido y Mission Produce**:
-[Mission Produce – Repetition of Covered Oregon’s mistake?](https://www.datavtech.com/7-common-erp-implementation-failures-and-lessons-learned/)
-[Mission Produce faces operational issues after botched ERP implementation](https://www.supplychaindive.com/news/Mission-Produce-ERP-implementation-operations-problems/620606/)
-Problemas de implementación del ERP que llevaron a costes de consulta relacionados con ERP de 1 millon de dólares (Fuente: Miguel Beltrán)
 ### 2022
 
 ### 2023
