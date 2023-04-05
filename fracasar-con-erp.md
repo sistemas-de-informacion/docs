@@ -1035,10 +1035,6 @@ La inversión de la empresa taiwanesa Nanshan Life Insurance resultó ser el "ma
 - **1GX y Gobierno de Alberta (Canadá)**:
 El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo tipo de problemas: [Union for public servants files grievance against Alberta government as pay issues persist](https://www.cbc.ca/news/canada/calgary/alberta-union-of-provincial-employees-aupe-susan-slade-1.5894680) (Fuente: Víctor Jarreta). Documento oficial en el que se detalla el plan de negocio previsto inicialmente y en el que se habla de 1GX, incluyendo su coste, periodo de desarollo y motivaciones: [Service Alberta Business Plan 2019–23](https://open.alberta.ca/dataset/2d0f4f49-ac34-440d-8ff1-396e55267a57/resource/91e9b32b-62b7-4b27-a92a-01966a645108/download/service-alberta.pdf) (Fuente: Víctor Jarreta)
 
-- **ERP desconocido y Lululemon Athletica**
-En septiembre de 2020, la empresa de ropa deportiva Lululemon Athletica informó que su implementación de un nuevo sistema ERP había sido un fracaso. La compañía culpó al proveedor del sistema, IBM, por los problemas técnicos que experimentó, lo que provocó retrasos en los pedidos y problemas en la gestión de inventario.
-[Lululemon Blames IBM for Botched Digital Overhaul](https://finance.yahoo.com/news/lululemon-ceo-blames-ibm-outage-152941952.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAE5QjsqoG_M--d2upPiYt1mQM_2bMQX1lFt5SFznADJywq6a6ySLbI4_pH9kngichtRGDYRxc8mDOz6bQVZQulULjKhMBzv6h-TwAhtJcR1IRBxrkU0F6DQmL2gnCLK9NWbuRk1AQW7-KSmQBfQkG5-tKt_sUprDX61hd3w0Djq-) (Fuente: Miguel Beltrán)
-
 - **ERP desconocido y Hertz Global Holdings**
 Hertz presentó una solicitud de bancarrota en mayo de 2020 y citó su fallida implementación de ERP como una de las razones de sus problemas financieros. La compañía había gastado $32 millones en el proyecto pero finalmente tuvo que cancelar $157 millones.
 [Lecciones aprendidas del fracaso de la transformación digital de Hertz](https://www.panorama-consulting.com/hertz-digital-transformation/) (Fuente: Miguel Beltrán)
