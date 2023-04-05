@@ -793,7 +793,7 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 - **ERP ficticio y ERP Partnership Formation Regulations**:
 [The Impact of ERP Partnership Formation Regulations on the Failure of ERP Implementations](https://www.sciencedirect.com/science/article/pii/S0268401207000886?casa_token=9Umi_u_Yl2AAAAAA:Lrt25ZjpoSb4PbRFhs5nMrCSZYsYTZCUv_rVqZRmG_CtEr1_yFa372VJ9EU-Yf26GvELVFx5O9k) (Fuente: Marta Lampaya)
 
-- **ERP desconocido y PC Connection: Poor Vendor Fit (2013)**:
+- **ERP desconocido y PC Connection**:
 PC Connection experimentó una falla en su sistema ERP que se relacionó con una mala adaptación del proveedor del sistema.
 [Causas de fallas en la implementación de ERP y 11 ejemplos de alto perfil](https://softwareconnect.com/erp/implementation-failures/) (Fuente: Miguel Beltrán)
 
