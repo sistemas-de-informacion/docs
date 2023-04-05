@@ -994,10 +994,5 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
 
 ### 2022
-- **ERP Failure Southwest Airlines**:
-[The Southwest Airlines ERP Failure](https://www.panorama-consulting.com/the-southwest-airlines-erp-failure/) (Fuente: Rael Clariana)
-
-- **ERP Failure Mission Produce**:
-[Mission Produce faces operational issues after botched ERP implementation](https://www.supplychaindive.com/news/Mission-Produce-ERP-implementation-operations-problems/620606/) (Fuente: Rael Clariana)
 
 ### 2023
