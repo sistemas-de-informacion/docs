@@ -860,9 +860,6 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 - **Oracle y Condado de Loudoun, Virginia**:
 Costes adicionales por valor de 2 millones de dólares para completar un proyecto abierto desde hace 5 años, buscando actualizar software de hace 20. [Troubled ERP Upgrades Gets $2M More, Supervisors seek a new vendor to complete third phase](https://loudounnow.com/2016/05/24/troubled-erp-upgrades-gets-2m-more-supervisors-seek-a-new-vendor-to-complete-third-phase/) (Fuente: Eduardo Sánchez)
 
-- **ERP en general y empresas multinacionales**:
-Explorar el impacto del conflicto entre la casa matriz y la subsidiaria en la implementación de ERP en empresas multinacionales. [Impact of parent-subsidiary conflict on ERP implementation](https://www.emerald.com/insight/content/doi/10.1108/JEIM-03-2014-0034/full/html) (Fuente: Carlos Bellvis)
-
 ### 2017
 
 - **ERP desconocido y Oriola (Finlandia)**:
