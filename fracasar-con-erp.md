@@ -166,7 +166,7 @@ El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 
 - **SAP y Whirpool**:
-[SAP: Whirlpool's rush to go live led to shipping snafus](http://www.computerworld.com.au/article/101068/sap_whirlpool_rush_led_shipping_snafus/) (Fuente: Alejandro Guiu) [Whirlpool Corporation Giving ERP a Spin](https://es.slideshare.net/ChristinaCecil/casestudy-2-60931954) (Fuente: Jesús Villacampa)
+[Users Claim SAP Can Damage Your Wealth](https://techmonitor.ai/technology/users_claim_sap_can_damage_your_wealth) (Fuente: Alejandro Guiu, corregido por Javier Pardos) [Whirlpool Corporation Giving ERP a Spin](https://es.slideshare.net/ChristinaCecil/casestudy-2-60931954) (Fuente: Jesús Villacampa)
 
 - **SAP y Allied Waste Industries Inc. (EE.UU)**:
 [Trash Haulers Dump SAP Software; Firms Seek Cheaper, Easier Choices](https://www.wsj.com/articles/SB928875842177974323) (Fuente: Héctor Martínez Moreno)
@@ -618,7 +618,7 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 [Epicor Customer Lawsuit May Show Danger of Going Solo on ERP Software Project](http://www.pcworld.com/article/253507/epicor_customer_lawsuit_may_show_danger_of_going_solo_on_erp_software_project.html) (Fuente: Guillermo Robles)
 
 - **EPICOR y [Major Brands](http://www.majorbrands.com/)**:
-[Epicor sued after two-year project delivered 'useless' software](http://www.computerworlduk.com/news/infrastructure/3330195/epicor-sued-after-two-year-project-delivered-useless-software/) (Fuente: Guillermo Pérez)
+[Lawsuit claims Epicor's two-year effort delivered 'useless' software](https://www.networkworld.com/article/2184785/lawsuit-claims-epicor-s-two-year-effort-delivered--useless--software.html) (Fuente: Guillermo Pérez, corregido por Javier Pardos)
 
 - **Lawson Software y [CareSource Management Group](https://www.caresource.com/)**:
 [Lawson ERP embroiled in a lawsuit with customers](https://www.computerworld.com/article/2736691/lawson-software--customer-embroiled-in-erp-project-lawsuit.html) (Fuente: Óscar Murillo, actualizado por Samuel Bonito)
