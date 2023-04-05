@@ -298,6 +298,9 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **SAP, PeopleSoft and Oracle y [Walt Disney Corporation](https://thewaltdisneycompany.com/)**:
 [Disney keeps global SAP roll-out on track by making local executives responsible](http://www.computerweekly.com/feature/Disney-keeps-global-SAP-roll-out-on-track-by-making-local-executives-responsible) (Fuente: Adrián Ibáñez)
 
+- **eMAG (nombre ficticio, EE.UU.) y Beta (nombre ficticio, Jordania)**:
+[Explaining ERP Failure in a Developing Country: A Jordanian Case Study](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:86510&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF) (Fuente: Gonzalo Robles, actualizado por: Alejandro Sanz)
+
 ### 2004
 
 - **CRM no identificado y AT&T**:
@@ -305,9 +308,6 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 
 - **Baan y Cairo and Alexandria Stock Exchange (CASE) and Capital Market Authority (CMA)**:
 [ICT Acceptance, Investment and Organization](https://books.google.es/books?id=mL10BxzzsPkC&pg=PA91&lpg=PA91&dq=erp+fail+egypt&source=bl&ots=PUqKj2kmxO&sig=ACfU3U3jxCe4WAlwnQqEhLM0OEvBzky3CQ&hl=es&sa=X&ved=2ahUKEwij_62-tILhAhVECxoKHVELB9w4ChDoATACegQIARAB#v=onepage&q=erp%20fail%20egypt&f=false) (Fuente: Israel Solanas)
-
-- **eMAG (nombre ficticio, EE.UU.) y Beta (nombre ficticio, Jordania)**:
-[Explaining ERP Failure in a Developing Country: A Jordanian Case Study](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:86510&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF) (Fuente: Gonzalo Robles)
 
 - **ERP no identificado (tier 2 o 3, desarrollado fuera de China) y C (nombre ficticio, equipos eléctricos, China)**:
 [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
@@ -1000,6 +1000,9 @@ Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 201
 - **ERP desconocido y Toyota**:
 PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Analysis of Critical Success Factors on ERP Implementation in PT. Toyota Astra Motor Using Extended Information System Success Model](https://www.researchgate.net/publication/343666490_Analysis_of_Critical_Success_Factors_on_ERP_Implementation_in_PT_Toyota_Astra_Motor_Using_Extended_Information_System_Success_Model) (Fuente: Jorge Borque Benedí, corrige enlace de Sergio Pablo Lorén)
 
+- **Oracle y Universidad Edinburgh**:
+ [University of Edinburgh staff paid late due to Oracle ERP troubles](https://www.theregister.com/2022/11/03/oracle_erp_edinburgh_university/) (Fuente: Alejandro Sanz)
+
 ## Década de 2020
 
 ### 2020
@@ -1014,6 +1017,9 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 
 - **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**:
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
+
+- **SAP y la oficina administrativa del condado de Surrey**:
+ [When ERP projects go bad: Surrey County Council's £30m ditch SAP effort delayed again](https://www.theregister.com/2022/12/19/surrey_county_council_30_million/) (Fuente: Alejandro Sanz)
 
 - **SAP e Invacare**:
 [The importance of having the ERP up and running because otherwise you'll be paying your fees without receiving the service expected.](https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html)(Fuente: Jorge Bernal Romero)
