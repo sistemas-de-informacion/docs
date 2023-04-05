@@ -599,6 +599,9 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 
 - **Oracle y Omantel (Omán)** [Examines environmental factors that impacted on the adoption of ERP by The Oman Telecommunication Company, highlights the particular problems of large organisations that operate disparate legacy systems.](https://www.emerald.com/insight/content/doi/10.1108/02635571011008416/full/html) (Fuente: Felipe Nonay)
 
+- **SAP, Nexus education y la Comunidad de Madrid**:
+[Nexus educación](http://algoquedaquedecir.blogspot.com/2018/04/nexus-educacion.html) (Fuente: Rael Clariana)
+
 ### 2011
 
 -**SAP y Chorus**: [Chorus : les SSII en concurrence pour le marché de l'année](https://www.lemagit.fr/actualites/2240191222/Chorus-les-SSII-en-concurrence-pour-le-marche-de-lannee) (Fuente: Ayelen Nuño Gracia)
