@@ -8,7 +8,7 @@ Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "in
 
 [2010](#2010), [2011](#2011), [2012](#2012), [2013](#2013), [2014](#2014), [2015](#2015), [2016](#2016), [2017](#2017), [2018](#2018), [2019](#2019)
 
-[2020](#2020), [2021](#2021), [2022](#2022), [2023](#2023) 
+[2020](#2020), [2021](#2021), [2022](#2022), [2023](#2023)
 
 ## Década de 1990
 
@@ -337,7 +337,7 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 [UMass-Amherst bedeviled by PeopleSoft portal crash](https://www.computerworld.com/article/2566229/enterprise-applications/umass-amherst-bedeviled-by-peoplesoft-portal-crash.html) (Fuente: Adrián Ibáñez), [University ERP: Big Mess on Campus](https://www.cio.com/article/2439102/university-erp--big-mess-on-campus.html) (Fuente: Felipe Nonay)
 
 - **Oracle y Saudi Telecom (Arabia Saudí)**:
-[Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony)
+[Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony, corregido por Juan Mediano)
 
 - **SAP y [HP](http://www.hp.com/) (Hewlett Packard)**:
 Hewlett Packard evaluó una pérdida del 5 % en las ganancias y determinó que reemplazar los sistemas heredados y pasar a una solución ERP centralizada ayudaría a optimizar sus operaciones. 
@@ -348,7 +348,7 @@ La implementación fallida de ERP le costó a la empresa 160 millones de dólare
 [Lessons Learned From the Hewlett Packard ERP System Failure](https://www.panorama-consulting.com/hewlett-packard-erp-system-failure/) (Fuente: Iván Bes Zamorano), 
 [When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz), 
 [ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López), y 
-[Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony, corregido por Juan Mediano)
+[HP's CIO Points to Internal Issues in ERP Project Snafus](https://www.computerworld.com/article/2565928/hp-s-cio-points-to-internal-issues-in-erp-project-snafus.html) (Fuente: Víctor Jarreta)
 
 - **SAP, Deloitte (implementador) y el condado de [Marin](http://www.marincounty.org/) en California**:
 El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el Condado de Marin está tan harto del proyecto que demanda a Deloitte por 30M$ utilizando una ley que se aplica contra actividades de crimen organizado (Ley RICO).
