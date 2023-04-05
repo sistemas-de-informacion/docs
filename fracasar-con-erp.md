@@ -340,14 +340,14 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony, corregido por Juan Mediano)
 
 - **SAP y [HP](http://www.hp.com/) (Hewlett Packard)**:
-Hewlett Packard evaluó una pérdida del 5 % en las ganancias y determinó que reemplazar los sistemas heredados y pasar a una solución ERP centralizada ayudaría a optimizar sus operaciones. 
-Al atender a más de mil millones de clientes en más de 160 países, las operaciones de HP estaban altamente descentralizadas. 
-Cada división y unidad de negocio operaba de forma independiente entre sí. 
-Cuando la empresa intentó migrar al sistema SAP ERP, se vio plagada de problemas de integración de datos, problemas de previsión de la demanda, planificación deficiente y capacitación y soporte de implementación inadecuados. 
-La implementación fallida de ERP le costó a la empresa 160 millones de dólares en pedidos atrasados y pérdida de ingresos, más de cinco veces el costo estimado del proyecto en 2004. 
-[Lessons Learned From the Hewlett Packard ERP System Failure](https://www.panorama-consulting.com/hewlett-packard-erp-system-failure/) (Fuente: Iván Bes Zamorano), 
-[When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz), 
-[ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López), y 
+Hewlett Packard evaluó una pérdida del 5 % en las ganancias y determinó que reemplazar los sistemas heredados y pasar a una solución ERP centralizada ayudaría a optimizar sus operaciones.
+Al atender a más de mil millones de clientes en más de 160 países, las operaciones de HP estaban altamente descentralizadas.
+Cada división y unidad de negocio operaba de forma independiente entre sí.
+Cuando la empresa intentó migrar al sistema SAP ERP, se vio plagada de problemas de integración de datos, problemas de previsión de la demanda, planificación deficiente y capacitación y soporte de implementación inadecuados.
+La implementación fallida de ERP le costó a la empresa 160 millones de dólares en pedidos atrasados y pérdida de ingresos, más de cinco veces el costo estimado del proyecto en 2004.
+[Lessons Learned From the Hewlett Packard ERP System Failure](https://www.panorama-consulting.com/hewlett-packard-erp-system-failure/) (Fuente: Iván Bes Zamorano),
+[When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz),
+[ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López), y
 [HP's CIO Points to Internal Issues in ERP Project Snafus](https://www.computerworld.com/article/2565928/hp-s-cio-points-to-internal-issues-in-erp-project-snafus.html) (Fuente: Víctor Jarreta)
 
 - **SAP, Deloitte (implementador) y el condado de [Marin](http://www.marincounty.org/) en California**:
