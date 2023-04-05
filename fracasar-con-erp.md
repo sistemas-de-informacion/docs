@@ -340,14 +340,14 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 [Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony, corregido por Juan Mediano)
 
 - **SAP y [HP](http://www.hp.com/) (Hewlett Packard)**:
-Hewlett Packard evaluó una pérdida del 5 % en las ganancias y determinó que reemplazar los sistemas heredados y pasar a una solución ERP centralizada ayudaría a optimizar sus operaciones.
-Al atender a más de mil millones de clientes en más de 160 países, las operaciones de HP estaban altamente descentralizadas.
-Cada división y unidad de negocio operaba de forma independiente entre sí.
-Cuando la empresa intentó migrar al sistema SAP ERP, se vio plagada de problemas de integración de datos, problemas de previsión de la demanda, planificación deficiente y capacitación y soporte de implementación inadecuados.
-La implementación fallida de ERP le costó a la empresa 160 millones de dólares en pedidos atrasados y pérdida de ingresos, más de cinco veces el costo estimado del proyecto en 2004.
-[Lessons Learned From the Hewlett Packard ERP System Failure](https://www.panorama-consulting.com/hewlett-packard-erp-system-failure/) (Fuente: Iván Bes Zamorano),
-[When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz),
-[ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López), y
+Hewlett Packard evaluó una pérdida del 5 % en las ganancias y determinó que reemplazar los sistemas heredados y pasar a una solución ERP centralizada ayudaría a optimizar sus operaciones. 
+Al atender a más de mil millones de clientes en más de 160 países, las operaciones de HP estaban altamente descentralizadas. 
+Cada división y unidad de negocio operaba de forma independiente entre sí. 
+Cuando la empresa intentó migrar al sistema SAP ERP, se vio plagada de problemas de integración de datos, problemas de previsión de la demanda, planificación deficiente y capacitación y soporte de implementación inadecuados. 
+La implementación fallida de ERP le costó a la empresa 160 millones de dólares en pedidos atrasados y pérdida de ingresos, más de cinco veces el costo estimado del proyecto en 2004. 
+[Lessons Learned From the Hewlett Packard ERP System Failure](https://www.panorama-consulting.com/hewlett-packard-erp-system-failure/) (Fuente: Iván Bes Zamorano), 
+[When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz), 
+[ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López), y 
 [HP's CIO Points to Internal Issues in ERP Project Snafus](https://www.computerworld.com/article/2565928/hp-s-cio-points-to-internal-issues-in-erp-project-snafus.html) (Fuente: Víctor Jarreta)
 
 - **SAP, Deloitte (implementador) y el condado de [Marin](http://www.marincounty.org/) en California**:
@@ -793,6 +793,10 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 - **ERP ficticio y ERP Partnership Formation Regulations**:
 [The Impact of ERP Partnership Formation Regulations on the Failure of ERP Implementations](https://www.sciencedirect.com/science/article/pii/S0268401207000886?casa_token=9Umi_u_Yl2AAAAAA:Lrt25ZjpoSb4PbRFhs5nMrCSZYsYTZCUv_rVqZRmG_CtEr1_yFa372VJ9EU-Yf26GvELVFx5O9k) (Fuente: Marta Lampaya)
 
+- **ERP desconocido y PC Connection**:
+PC Connection experimentó una falla en su sistema ERP que se relacionó con una mala adaptación del proveedor del sistema.
+[Causas de fallas en la implementación de ERP y 11 ejemplos de alto perfil](https://softwareconnect.com/erp/implementation-failures/) (Fuente: Miguel Beltrán)
+
 ### 2014
 
 - **Israel Chemical Limited y SAP**:
@@ -1030,6 +1034,10 @@ La inversión de la empresa taiwanesa Nanshan Life Insurance resultó ser el "ma
 
 - **1GX y Gobierno de Alberta (Canadá)**:
 El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo tipo de problemas: [Union for public servants files grievance against Alberta government as pay issues persist](https://www.cbc.ca/news/canada/calgary/alberta-union-of-provincial-employees-aupe-susan-slade-1.5894680) (Fuente: Víctor Jarreta). Documento oficial en el que se detalla el plan de negocio previsto inicialmente y en el que se habla de 1GX, incluyendo su coste, periodo de desarollo y motivaciones: [Service Alberta Business Plan 2019–23](https://open.alberta.ca/dataset/2d0f4f49-ac34-440d-8ff1-396e55267a57/resource/91e9b32b-62b7-4b27-a92a-01966a645108/download/service-alberta.pdf) (Fuente: Víctor Jarreta)
+
+- **ERP desconocido y Hertz Global Holdings**
+Hertz presentó una solicitud de bancarrota en mayo de 2020 y citó su fallida implementación de ERP como una de las razones de sus problemas financieros. La compañía había gastado $32 millones en el proyecto pero finalmente tuvo que cancelar $157 millones.
+[Lecciones aprendidas del fracaso de la transformación digital de Hertz](https://www.panorama-consulting.com/hertz-digital-transformation/) (Fuente: Miguel Beltrán)
 
 - **IFMS y Gobierno de Papúa Nueva Guinea**:
 El gobierno de sufre las consecuencias de integrar un sistema de gestión financiero provocando grandes problemas que afectaron, entre otros, al servicio de reparto. [The Rollout Of The Government's Integrated Financial Management System (IFMS) Is a Good Initiative But It Was Creating Many Issues Affecting Service Delivery](https://postcourier.com.pg/ifms-creating-chaos-says-dua/) (Fuente: Adrián Arribas).
