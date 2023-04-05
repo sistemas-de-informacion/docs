@@ -408,6 +408,9 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 Los problemas para implantar un ERP le costó a la compañía unos 30 millones de dólares en negocios perdidos y otros costes.
 [Medical products maker Invacare faces rough ERP ride](https://www.computerworld.com/article/2560044/medical-products-maker-invacare-faces-rough-erp-ride.html) (Fuente: David Arruga)
 
+- **ERP failure in South African Airways (SAA)**
+[SAA implemented an ERP system from SAP, which resulted in a major financial loss due to system glitches and lack of proper implementation. The project cost the airline approximately R1.3 billion and was eventually scrapped. I cannot find a specific link for the failure but I'm attaching a link from 2018 where it explains how the company made its turnaround and the importance of an ERP specialist as a key to the company's growth and properity.](https://newsroom.aviator.aero/south-african-airways-fills-critical-skills-gap-with-key-appointments/)(Fuente: Jorge Bernal Romero)
+
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**:
@@ -1054,6 +1057,9 @@ Los centros de distribución y empaquetado experimentaron problemas de compra, r
 Otros problemas fueron los retrasos en la facturación automatizada a los clientes y la gestión de inventario.
 [Mission Produce faces operational issues after botched ERP implementation](https://www.supplychaindive.com/news/Mission-Produce-ERP-implementation-operations-problems/620606/) (Fuente: David Arruga)
 y [MISSION PRODUCE, INC. Management's Discussion and Analysis of Financial Condition and Results of Operations (form 10-Q)](https://www.marketscreener.com/quote/stock/MISSION-PRODUCE-INC-113170567/news/MISSION-PRODUCE-INC-Management-s-Discussion-and-Analysis-of-Financial-Condition-and-Results-of-Op-39728087/) (Fuente: Acher Egido Mairal)
+
+- **Kasowitz Secures Over $31 Million Recovery for Hawaii Arising From Botched ERP Software Implementation**
+[Failure in the ERP software implementation project to upgrade the Hawaii Department of Transportation’s Highways Division financial management system. Recovery of over $31 Million finally.](https://www.kasowitz.com/media/client-news/kasowitz-secures-over-31-million-recovery-for-hawaii-arising-from-botched-erp-software-implementation/)(Fuente: Jorge Bernal Romero)
 
 ### 2022
 
