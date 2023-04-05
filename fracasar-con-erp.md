@@ -1,6 +1,6 @@
 # ERP: Listas de fracasos
 
-Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "inventa" el término ERP en abril de 1990](http://www.sciencedirect.com/science/article/pii/S0272696306001355)). El objetivo de la lista es sólo para que sirva de consulta para alumnos. La fecha asignada a cada caso corresponde normalmente con el año de la instalación del sistema.
+Esta lista recoge fracasos en la instalación de un ERP desde 1990 ([Gartner "inventa" el término ERP en abril de 1990](http://www.sciencedirect.com/science/article/pii/S0272 696306001355)). El objetivo de la lista es sólo para que sirva de consulta para alumnos. La fecha asignada a cada caso corresponde normalmente con el año de la instalación del sistema.
 
 [1990](#1990), [1991](#1991), [1992](#1992), [1993](#1993), [1994](#1994), [1995](#1995), [1996](#1996), [1997](#1997), [1998](#1998), [1999](#1999),
 
@@ -512,12 +512,6 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 [ERP Implementation in an SME: A Failure Case](https://www.researchgate.net/publication/300162456_ERP_Implementation_in_an_SME_A_Failure_Case) (Fuente: Alberto Calvo)
 
 - **ERP en general y SME en Malasia** [ERP Implementation Critical Failure Factors for Malaysia SME](http://docsdrive.com/pdfs/medwelljournals/ajit/2018/153-159.pdf) (Fuente: Elena Romero de Tejada)
-
-- **Lululemon**:
-La multinacional canadiense minorista de ropa deportiva Lululemon Athletica experimentó dificultades para implantar su sistema ERP, viéndose afectada su cadena de suministros. Finalmente tuvo que realizar una inversión de 11 millones de dólares para poder implantar el nuevo sistema.
-[Lululemon Information Technology: Bringing together virtual and physical expansion strategies](https://lululemonmis.blogspot.com/p/lululemon-information-technology.html)
-(Fuente: David Arruga)
-
 
 ### 2009
 
