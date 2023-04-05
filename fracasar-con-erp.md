@@ -659,8 +659,8 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 - **ERP desconocido y SuperDry**:
  [UK Retailer Superdry Still Hurting from IT Upgrade Problems Stock price hasn't recovered from news of problems](https://spectrum.ieee.org/uk-retailer-superdry-still-hurting-from-it-upgrade-problems) (Fuente: Raúl Rustarazo)
  
- - **Oracle, IFMS y el Gobierno de Sudáfrica**:
- A pesar de no saber el año exacto donde se originaron las dificultades, el artículo describe como el gobierno de Sudáfrica sigue teniendo problemas con el sistema de gestión financiero que podrían estar relacionados con negligencias, incompetencias y corrupción.  [Government’s Integrated Financial Management System (IFMS): another example of the wrong thing done badly](https://www.dkeats.com/index.php/2017/06/19/governments-integrated-financial-management-system-ifms-another-example-of-the-wrong-thing-done-badly/) También se incluye un reportaje de una hora de duración hablando sobre el tema. [Treasury's fall from grace: Part 6](https://www.youtube.com/watch?v=w1MPM78b0bo)(Fuente: Adrián Arribas)
+ - **Oracle y el Gobierno de Sudáfrica**:
+ A pesar de no saber el año exacto donde se originaron las dificultades, el artículo describe como el gobierno de Sudáfrica sigue teniendo problemas con el sistema de gestión financiero (IFMS) desarollado por Oracle que podrían estar relacionados con negligencias, incompetencias y corrupción.  [Government’s Integrated Financial Management System (IFMS): another example of the wrong thing done badly](https://www.dkeats.com/index.php/2017/06/19/governments-integrated-financial-management-system-ifms-another-example-of-the-wrong-thing-done-badly/) También se incluye un reportaje de una hora de duración hablando sobre el tema. [Treasury's fall from grace: Part 6](https://www.youtube.com/watch?v=w1MPM78b0bo)(Fuente: Adrián Arribas)
 
 ### 2012
 
