@@ -674,6 +674,9 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 
 - **ERP desconocido y SuperDry**:
  [UK Retailer Superdry Still Hurting from IT Upgrade Problems Stock price hasn't recovered from news of problems](https://spectrum.ieee.org/uk-retailer-superdry-still-hurting-from-it-upgrade-problems) (Fuente: Raúl Rustarazo)
+ 
+ - **Oracle y el Gobierno de Sudáfrica**:
+ A pesar de no saber el año exacto donde se originaron las dificultades, el artículo describe como el gobierno de Sudáfrica sigue teniendo problemas con el sistema de gestión financiero (IFMS) desarollado por Oracle que podrían estar relacionados con negligencias, incompetencias y corrupción.  [Government’s Integrated Financial Management System (IFMS): another example of the wrong thing done badly](https://www.dkeats.com/index.php/2017/06/19/governments-integrated-financial-management-system-ifms-another-example-of-the-wrong-thing-done-badly/) También se incluye un reportaje de una hora de duración hablando sobre el tema. [Treasury's fall from grace: Part 6](https://www.youtube.com/watch?v=w1MPM78b0bo)(Fuente: Adrián Arribas)
 
 ### 2012
 
@@ -957,6 +960,9 @@ Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuv
 - **ERP no especicado y [TSB Bank](https://www.tsb.co.uk/)**:
 La crisis informática del banco TSB de abril de 2018 que deja a clientes bloqueados en sus cuentas bancarias, cuentas hipotecarias que desaparecen, pequeñas empresas que informan de que no pueden pagar a su personal y de tarjetas de débito que dejan de funcionar. [The Epic Meltdown of TSB Bank](https://www.henricodolfing.com/2019/03/case-study-epic-meltdown-of-tsb-bank.html) (Fuente: Sergio Hernández)
 
+- **Unit4 y el Ayuntamiento de Edimburgo**
+El Ayuntamiento de Edimburgo planeó reemplazar Oracle con Unit4 para 2018, pero abandonó la misión de seguir con Big Red, un movimiento que llevó a los contratistas Agilysis y CGI a los juzgados. [City of Edinburgh Council selects services-slinger CGI for £102m contract despite abandoned Unit4 ERP project](https://www.theregister.com/2020/11/03/city_of_edinburgh_council_selected/) (Fuente: Adrián Arribas)
+
 ### 2019
 
 - **Oracle y la policía de Cheshire**: El sistema fue puesto en marcha en 2019 con un contrato inicial de 3 millones £, pero debido al riesgo de acceso interno se ha decidido cambiar de sistema, llegando los acuerdos contractuales con Oracle a su fin en 2022 [Unit4 handed police ERP deal after 'significant deficiency' found in Oracle Fusion system](https://www.theregister.com/2021/05/18/unit4_3m_police_erp/) (Fuente: Ayelen Nuño Gracia)
@@ -1011,6 +1017,12 @@ PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los p
 
 - **1GX y Gobierno de Alberta (Canadá)**:
 El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo tipo de problemas: [Union for public servants files grievance against Alberta government as pay issues persist](https://www.cbc.ca/news/canada/calgary/alberta-union-of-provincial-employees-aupe-susan-slade-1.5894680) (Fuente: Víctor Jarreta). Documento oficial en el que se detalla el plan de negocio previsto inicialmente y en el que se habla de 1GX, incluyendo su coste, periodo de desarollo y motivaciones: [Service Alberta Business Plan 2019–23](https://open.alberta.ca/dataset/2d0f4f49-ac34-440d-8ff1-396e55267a57/resource/91e9b32b-62b7-4b27-a92a-01966a645108/download/service-alberta.pdf) (Fuente: Víctor Jarreta)
+
+- **IFMS y Gobierno de Papúa Nueva Guinea**:
+El gobierno de sufre las consecuencias de integrar un sistema de gestión financiero provocando grandes problemas que afectaron, entre otros, al servicio de reparto. [The Rollout Of The Government's Integrated Financial Management System (IFMS) Is a Good Initiative But It Was Creating Many Issues Affecting Service Delivery](https://postcourier.com.pg/ifms-creating-chaos-says-dua/) (Fuente: Adrián Arribas).
+
+- **Unit4 y El Consejo del Condado de Surrey (Reino Unido)**
+Programado para reemplazar un sistema SAP R/3 envejecido con el software como servicio de Unit4 el consejo del Condado de Surrey deberá incurrir en costos adicionales 3,2 millones de libras esterlinas. [When ERP projects go awry: Surrey County Council incurs £3.2m additional costs in delayed Unit4 project](https://www.theregister.com/2022/01/10/surrey_county_council_3m_unit4/) (Fuente: Adrián Arribas)
 
 ### 2021
 
