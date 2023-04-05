@@ -901,9 +901,6 @@ Instalación en 2017. Problemas en 2018.
 - **Accenture y Police Scottish Police Authority’s (SPA)**:
 [Sistema de gestión de información policial Policía de Escocia](https://calleam.com/WTPF/?p=9150) (Fuente: Elena Romero de Tejada)
 
-- **ERP desconocida y [Renault]**:
-[Parada técnica en el sistema, "Renault ha reanudado la actividad en la práctica totalidad de sus plantas"](https://www.lavanguardia.com/vida/20170515/422598950561/renault-ha-reanudado-la-actividad-en-la-practica-totalidad-de-sus-plantas.html) (Fuente: Carlos Bellvis Irache)
-
 ### 2018
 
 - **ERP desconocido y [Dogi](http://www.dogi.es/)**:
