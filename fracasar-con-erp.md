@@ -166,7 +166,7 @@ El proyecto Everest de despliega en el año 2000 y se abandona en 2004.
 [A Case Study in Chinese Failure in ERP Implementation]( http://www.ajouronline.com/index.php?journal=AJBM&page=article&op=view&path[]=1541) (Fuente: Guillermo Robles)
 
 - **SAP y Whirpool**:
-[SAP: Whirlpool's rush to go live led to shipping snafus](http://www.computerworld.com.au/article/101068/sap_whirlpool_rush_led_shipping_snafus/) (Fuente: Alejandro Guiu) [Whirlpool Corporation Giving ERP a Spin](https://es.slideshare.net/ChristinaCecil/casestudy-2-60931954) (Fuente: Jesús Villacampa)
+[Users Claim SAP Can Damage Your Wealth](https://techmonitor.ai/technology/users_claim_sap_can_damage_your_wealth) (Fuente: Alejandro Guiu, corregido por Javier Pardos) [Whirlpool Corporation Giving ERP a Spin](https://es.slideshare.net/ChristinaCecil/casestudy-2-60931954) (Fuente: Jesús Villacampa)
 
 - **SAP y Allied Waste Industries Inc. (EE.UU)**:
 [Trash Haulers Dump SAP Software; Firms Seek Cheaper, Easier Choices](https://www.wsj.com/articles/SB928875842177974323) (Fuente: Héctor Martínez Moreno)
@@ -298,6 +298,9 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **SAP, PeopleSoft and Oracle y [Walt Disney Corporation](https://thewaltdisneycompany.com/)**:
 [Disney keeps global SAP roll-out on track by making local executives responsible](http://www.computerweekly.com/feature/Disney-keeps-global-SAP-roll-out-on-track-by-making-local-executives-responsible) (Fuente: Adrián Ibáñez)
 
+- **eMAG (nombre ficticio, EE.UU.) y Beta (nombre ficticio, Jordania)**:
+[Explaining ERP Failure in a Developing Country: A Jordanian Case Study](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:86510&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF) (Fuente: Gonzalo Robles, actualizado por: Alejandro Sanz)
+
 ### 2004
 
 - **CRM no identificado y AT&T**:
@@ -305,9 +308,6 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 
 - **Baan y Cairo and Alexandria Stock Exchange (CASE) and Capital Market Authority (CMA)**:
 [ICT Acceptance, Investment and Organization](https://books.google.es/books?id=mL10BxzzsPkC&pg=PA91&lpg=PA91&dq=erp+fail+egypt&source=bl&ots=PUqKj2kmxO&sig=ACfU3U3jxCe4WAlwnQqEhLM0OEvBzky3CQ&hl=es&sa=X&ved=2ahUKEwij_62-tILhAhVECxoKHVELB9w4ChDoATACegQIARAB#v=onepage&q=erp%20fail%20egypt&f=false) (Fuente: Israel Solanas)
-
-- **eMAG (nombre ficticio, EE.UU.) y Beta (nombre ficticio, Jordania)**:
-[Explaining ERP Failure in a Developing Country: A Jordanian Case Study](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:86510&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF) (Fuente: Gonzalo Robles)
 
 - **ERP no identificado (tier 2 o 3, desarrollado fuera de China) y C (nombre ficticio, equipos eléctricos, China)**:
 [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
@@ -348,7 +348,7 @@ La implementación fallida de ERP le costó a la empresa 160 millones de dólare
 [Lessons Learned From the Hewlett Packard ERP System Failure](https://www.panorama-consulting.com/hewlett-packard-erp-system-failure/) (Fuente: Iván Bes Zamorano), 
 [When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz), 
 [ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López), y 
-[HP's CIO Points to Internal Issues in ERP Project Snafus](https://www.computerworld.com/article/2565928/hp-s-cio-points-to-internal-issues-in-erp-project-snafus.html) (Fuente: Víctor Jarreta)
+[Critical success and failure factores of ERP implementations: two cases from Kingdom of Saudi Arabia](http://www.jatit.org/volumes/Vol28No2/2Vol28No2.pdf) (Fuente: Oscar Potrony, corregido por Juan Mediano)
 
 - **SAP, Deloitte (implementador) y el condado de [Marin](http://www.marincounty.org/) en California**:
 El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el Condado de Marin está tan harto del proyecto que demanda a Deloitte por 30M$ utilizando una ley que se aplica contra actividades de crimen organizado (Ley RICO).
@@ -398,12 +398,18 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **ERP desconocido y empresas reales pero anónimas**:
 [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
+- **ERP desconocido y empresas de Taiwan anónimas**:
+[Identification of critical failure factors in the implementation of enterprise resource planning (ERP) system in Taiwan's industries](https://www.researchgate.net/publication/247833281_Identification_of_critical_failure_factors_in_the_implementation_of_enterprise_resource_planning_ERP_system_in_Taiwan's_industries) (Fuente: Jorge Borque)
+
 - **SAP y [Waste Management](http://www.wm.com/index.jsp)**:
 [SAP fires back at Waste Management](http://www.cio.com/article/443864/SAP_Fires_Back_At_Waste_Management) (Fuente: Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo )
 
 - **Oracle ERP e Invacare**:
 Los problemas para implantar un ERP le costó a la compañía unos 30 millones de dólares en negocios perdidos y otros costes.
 [Medical products maker Invacare faces rough ERP ride](https://www.computerworld.com/article/2560044/medical-products-maker-invacare-faces-rough-erp-ride.html) (Fuente: David Arruga)
+
+- **ERP failure in South African Airways (SAA)**
+[SAA implemented an ERP system from SAP, which resulted in a major financial loss due to system glitches and lack of proper implementation. The project cost the airline approximately R1.3 billion and was eventually scrapped. I cannot find a specific link for the failure but I'm attaching a link from 2018 where it explains how the company made its turnaround and the importance of an ERP specialist as a key to the company's growth and properity.](https://newsroom.aviator.aero/south-african-airways-fills-critical-skills-gap-with-key-appointments/)(Fuente: Jorge Bernal Romero)
 
 ### 2006
 
@@ -554,7 +560,6 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 - **ERP desconocido y [GMAC](https://www.gmac.com/)**:
 La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia en la gestión de proyectos, presupuestos, compras y contabilidad, pero la implementación fue mal planificada y ejecutada. El sistema ERP no se integró correctamente con los sistemas existentes de la empresa, lo que provocó problemas en la transferencia de datos y en la sincronización de la información entre los sistemas. [Treasury Gives GMAC $7.5 Billion](https://www.mbtmag.com/home/news/13071967/treasury-gives-gmac-75-billion) (Fuente: Jorge Borque Benedí)
 
-
 ## Década de 2010
 
 ### 2010
@@ -600,6 +605,9 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 
 - **Oracle y Omantel (Omán)** [Examines environmental factors that impacted on the adoption of ERP by The Oman Telecommunication Company, highlights the particular problems of large organisations that operate disparate legacy systems.](https://www.emerald.com/insight/content/doi/10.1108/02635571011008416/full/html) (Fuente: Felipe Nonay)
 
+- **SAP, Nexus education y la Comunidad de Madrid**:
+[Nexus educación](http://algoquedaquedecir.blogspot.com/2018/04/nexus-educacion.html) (Fuente: Rael Clariana)
+
 ### 2011
 
 -**SAP y Chorus**: [Chorus : les SSII en concurrence pour le marché de l'année](https://www.lemagit.fr/actualites/2240191222/Chorus-les-SSII-en-concurrence-pour-le-marche-de-lannee) (Fuente: Ayelen Nuño Gracia)
@@ -616,7 +624,7 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 [Epicor Customer Lawsuit May Show Danger of Going Solo on ERP Software Project](http://www.pcworld.com/article/253507/epicor_customer_lawsuit_may_show_danger_of_going_solo_on_erp_software_project.html) (Fuente: Guillermo Robles)
 
 - **EPICOR y [Major Brands](http://www.majorbrands.com/)**:
-[Epicor sued after two-year project delivered 'useless' software](http://www.computerworlduk.com/news/infrastructure/3330195/epicor-sued-after-two-year-project-delivered-useless-software/) (Fuente: Guillermo Pérez)
+[Lawsuit claims Epicor's two-year effort delivered 'useless' software](https://www.networkworld.com/article/2184785/lawsuit-claims-epicor-s-two-year-effort-delivered--useless--software.html) (Fuente: Guillermo Pérez, corregido por Javier Pardos)
 
 - **Lawson Software y [CareSource Management Group](https://www.caresource.com/)**:
 [Lawson ERP embroiled in a lawsuit with customers](https://www.computerworld.com/article/2736691/lawson-software--customer-embroiled-in-erp-project-lawsuit.html) (Fuente: Óscar Murillo, actualizado por Samuel Bonito)
@@ -675,6 +683,9 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 
 - **ERP desconocido y SuperDry**:
  [UK Retailer Superdry Still Hurting from IT Upgrade Problems Stock price hasn't recovered from news of problems](https://spectrum.ieee.org/uk-retailer-superdry-still-hurting-from-it-upgrade-problems) (Fuente: Raúl Rustarazo)
+
+- **Oracle y el Gobierno de Sudáfrica**:
+ A pesar de no saber el año exacto donde se originaron las dificultades, el artículo describe como el gobierno de Sudáfrica sigue teniendo problemas con el sistema de gestión financiero (IFMS) desarollado por Oracle que podrían estar relacionados con negligencias, incompetencias y corrupción.  [Government’s Integrated Financial Management System (IFMS): another example of the wrong thing done badly](https://www.dkeats.com/index.php/2017/06/19/governments-integrated-financial-management-system-ifms-another-example-of-the-wrong-thing-done-badly/) También se incluye un reportaje de una hora de duración hablando sobre el tema. [Treasury's fall from grace: Part 6](https://www.youtube.com/watch?v=w1MPM78b0bo)(Fuente: Adrián Arribas)
 
 ### 2012
 
@@ -821,8 +832,8 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 - **Steria y Ministerio de Justicia del Reino Unido**:
 Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocado gastos por valor de 56 millones de libras, tras lo cual el proyecto se ha trasladado a una empresa externa. [Steria, the MoJ and a £56 MILLION Shared Services write-off](https://www.theregister.com/2014/06/27/steria_the_moj_and_a_56m_shared_services_writeoff/) (Fuente: Eduardo Sánchez)
 
-- **SAP, Oracle, Baan y otros y SME indias**: 
-El estudio identificó los principales factores críticos de fracaso en la implementación de ERP en las PYMEs indias, incluyendo la resistencia de los empleados, una mala dirección superior y los problemas presupuestarios. [Erp in Indian Smes - A Study of Critical Failure Factorsa](http://www.iosrjournals.org/iosr-jmce/papers/vol11-issue4/Version-6/G011467479.pdf)  (Fuente: Jesús Lizama)
+- **SAP, Oracle, Baan y otros y SME indias**:
+El estudio identificó los principales factores críticos de fracaso en la implementación de ERP en las PYMEs indias, incluyendo la resistencia de los empleados, una mala dirección superior y los problemas presupuestarios. [Erp in Indian Smes - A Study of Critical Failure Factorsa](http://www.iosrjournals.org/iosr-jmce/papers/vol11-issue4/Version-6/G011467479.pdf) (Fuente: Jesús Lizama)
 
 ### 2015
 
@@ -846,6 +857,10 @@ La sustitución de un ERP desarrollado internamente durante 30 años por SAP cau
 
 - **Oracle y [Fife Council](https://www.fife.gov.uk/)**:
 [Council transformation savings hit by ERP implementation issues](https://www.publictechnology.net/articles/news/council-transformation-savings-hit-erp-implementation-issues) (Fuente: Israel Gimeno)
+
+- **SAP y Royal Dutch Shell Corporation**:
+El cuarto mayor productor de petróleo del mundo gastó 32 millones de dólares para implementar un ERP, que permitía la monitorización continua de los procesos comerciales. Finalmente, la conclusión de un estudio en enero de 2015 concluyó que la implementación de dicho sistema en la NNPC (Nigerian National Petroleum Corporation) fue ineficaz.
+[How NNPC officials waste billions on failed electronic management contract](https://www.premiumtimesng.com/news/headlines/191065-how-nnpc-officials-waste-billions-on-failed-electronic-management-contract.html) (Fuente: David Arruga)
 
 ### 2016
 
@@ -962,9 +977,12 @@ Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuv
 - **ERP no especicado y [TSB Bank](https://www.tsb.co.uk/)**:
 La crisis informática del banco TSB de abril de 2018 que deja a clientes bloqueados en sus cuentas bancarias, cuentas hipotecarias que desaparecen, pequeñas empresas que informan de que no pueden pagar a su personal y de tarjetas de débito que dejan de funcionar. [The Epic Meltdown of TSB Bank](https://www.henricodolfing.com/2019/03/case-study-epic-meltdown-of-tsb-bank.html) (Fuente: Sergio Hernández)
 
+- **Unit4 y el Ayuntamiento de Edimburgo**
+El Ayuntamiento de Edimburgo planeó reemplazar Oracle con Unit4 para 2018, pero abandonó la misión de seguir con Big Red, un movimiento que llevó a los contratistas Agilysis y CGI a los juzgados. [City of Edinburgh Council selects services-slinger CGI for £102m contract despite abandoned Unit4 ERP project](https://www.theregister.com/2020/11/03/city_of_edinburgh_council_selected/) (Fuente: Adrián Arribas)
+
 ### 2019
 
-- **Oracle y la policía de Cheshire**: El sistema fue puesto en marcha en 2019 con un contrato inicial de 3 millones £, pero debido al riesgo de acceso interno se ha decidido cambiar de sistema, llegando los acuerdos contractuales con Oracle a su fin en 2022  [Unit4 handed police ERP deal after 'significant deficiency' found in Oracle Fusion system](https://www.theregister.com/2021/05/18/unit4_3m_police_erp/) (Fuente: Ayelen Nuño Gracia)
+- **Oracle y la policía de Cheshire**: El sistema fue puesto en marcha en 2019 con un contrato inicial de 3 millones £, pero debido al riesgo de acceso interno se ha decidido cambiar de sistema, llegando los acuerdos contractuales con Oracle a su fin en 2022 [Unit4 handed police ERP deal after 'significant deficiency' found in Oracle Fusion system](https://www.theregister.com/2021/05/18/unit4_3m_police_erp/) (Fuente: Ayelen Nuño Gracia)
 
 - **SAP y [LeasePlan](https://www.leaseplan.com/es-es/)**:
 [Failed SAP implementation costs LeasePlan €100 million](https://www.consultancy.uk/news/22850/failed-sap-implementation-costs-leaseplan-100-million) Un proyecto comenzado en 2017 por la empresa LeasePlan intenta consolidar en un proyecto de SAP a 35 sistemas en uno solo. Esto se transforma en una pérdida irreversible de 100 millones de euros y en la busqueda de una alternativa de IT para la empresa. (Fuente: Félix García)
@@ -1001,8 +1019,11 @@ Adidas eligió un software de gestión de almacenes que no era compatible con el
 - **Infor y [Travis Perkins](https://www.travisperkins.co.uk/)**:
 Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor. [Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández)
 
-- **ERP desconocido y Toyota**:
-PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Analysis of Critical Success Factors on ERP Implementation in PT. Toyota Astra Motor Using Extended Information System Success Model](https://www.researchgate.net/publication/343666490_Analysis_of_Critical_Success_Factors_on_ERP_Implementation_in_PT_Toyota_Astra_Motor_Using_Extended_Information_System_Success_Model) (Fuente: Jorge Borque Benedí, corrige enlace de Sergio Pablo Lorén)
+- **SAP y Nanshan Life Insurance**:
+La inversión de la empresa taiwanesa Nanshan Life Insurance resultó ser el "major failure", cuya historia se encubrió por la prensa no taiwanesa. [The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/the-hidden-s-4hana-failure-at-nanshan-life-insurance/) (Fuente: Jorge Borque Benedí)
+
+- **Oracle y Universidad Edinburgh**:
+ [University of Edinburgh staff paid late due to Oracle ERP troubles](https://www.theregister.com/2022/11/03/oracle_erp_edinburgh_university/) (Fuente: Alejandro Sanz)
 
 ## Década de 2020
 
@@ -1018,15 +1039,23 @@ El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo 
 En septiembre de 2020, la empresa de ropa deportiva Lululemon Athletica informó que su implementación de un nuevo sistema ERP había sido un fracaso. La compañía culpó al proveedor del sistema, IBM, por los problemas técnicos que experimentó, lo que provocó retrasos en los pedidos y problemas en la gestión de inventario.
 [Lululemon Blames IBM for Botched Digital Overhaul](https://finance.yahoo.com/news/lululemon-ceo-blames-ibm-outage-152941952.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAE5QjsqoG_M--d2upPiYt1mQM_2bMQX1lFt5SFznADJywq6a6ySLbI4_pH9kngichtRGDYRxc8mDOz6bQVZQulULjKhMBzv6h-TwAhtJcR1IRBxrkU0F6DQmL2gnCLK9NWbuRk1AQW7-KSmQBfQkG5-tKt_sUprDX61hd3w0Djq-) (Fuente: Miguel Beltrán)
 
-
 - **ERP desconocido y Hertz Global Holdings**
 Hertz presentó una solicitud de bancarrota en mayo de 2020 y citó su fallida implementación de ERP como una de las razones de sus problemas financieros. La compañía había gastado $32 millones en el proyecto pero finalmente tuvo que cancelar $157 millones.
 [Lecciones aprendidas del fracaso de la transformación digital de Hertz](https://www.panorama-consulting.com/hertz-digital-transformation/) (Fuente: Miguel Beltrán)
+
+- **IFMS y Gobierno de Papúa Nueva Guinea**:
+El gobierno de sufre las consecuencias de integrar un sistema de gestión financiero provocando grandes problemas que afectaron, entre otros, al servicio de reparto. [The Rollout Of The Government's Integrated Financial Management System (IFMS) Is a Good Initiative But It Was Creating Many Issues Affecting Service Delivery](https://postcourier.com.pg/ifms-creating-chaos-says-dua/) (Fuente: Adrián Arribas).
+
+- **Unit4 y El Consejo del Condado de Surrey (Reino Unido)**
+Programado para reemplazar un sistema SAP R/3 envejecido con el software como servicio de Unit4 el consejo del Condado de Surrey deberá incurrir en costos adicionales 3,2 millones de libras esterlinas. [When ERP projects go awry: Surrey County Council incurs £3.2m additional costs in delayed Unit4 project](https://www.theregister.com/2022/01/10/surrey_county_council_3m_unit4/) (Fuente: Adrián Arribas)
 
 ### 2021
 
 - **Sinapif (montado por Ayesa Advanced Technologies S.A y la española Informática El Corte Inglés) y Ministerio de finanzas(Ecuador)**:
 [Plataforma fallida: Finanzas hizo pagos manuales pues se quedó sin sistema](https://www.primicias.ec/noticias/economia/presupuesto-finanzas-pagos-manuales-ecuador/) (Fuente: Raúl Rustarazo)
+
+- **SAP y la oficina administrativa del condado de Surrey**:
+ [When ERP projects go bad: Surrey County Council's £30m ditch SAP effort delayed again](https://www.theregister.com/2022/12/19/surrey_county_council_30_million/) (Fuente: Alejandro Sanz)
 
 - **SAP e Invacare**:
 [The importance of having the ERP up and running because otherwise you'll be paying your fees without receiving the service expected.](https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html)(Fuente: Jorge Bernal Romero)
@@ -1036,10 +1065,13 @@ Un diseño de interfaz confuso en Flexcube provoca a Citibank una pérdida de 50
 
 - **ERP desconocido y Mission Produce**:
 Mission Produce tuvo problemas a la hora de implantar el nuevo ERP. Este proveedor de aguacate necesitó invertir 4,1 millones de dólares en gastos operativos, además de numerosos problemas por la falta de visibilidad de su inventario disponible.
-Los centros de distribución y empaquetado experimentaron problemas de compra, recepción y envío, lo que provocó una gran dependencia de fruta de terceros y fruta envasada que, de otro modo, habrían obtenido directamente del campo y envasado en sus instalaciones. 
+Los centros de distribución y empaquetado experimentaron problemas de compra, recepción y envío, lo que provocó una gran dependencia de fruta de terceros y fruta envasada que, de otro modo, habrían obtenido directamente del campo y envasado en sus instalaciones.
 Otros problemas fueron los retrasos en la facturación automatizada a los clientes y la gestión de inventario.
 [Mission Produce faces operational issues after botched ERP implementation](https://www.supplychaindive.com/news/Mission-Produce-ERP-implementation-operations-problems/620606/) (Fuente: David Arruga)
 y [MISSION PRODUCE, INC. Management's Discussion and Analysis of Financial Condition and Results of Operations (form 10-Q)](https://www.marketscreener.com/quote/stock/MISSION-PRODUCE-INC-113170567/news/MISSION-PRODUCE-INC-Management-s-Discussion-and-Analysis-of-Financial-Condition-and-Results-of-Op-39728087/) (Fuente: Acher Egido Mairal)
+
+- **Kasowitz Secures Over $31 Million Recovery for Hawaii Arising From Botched ERP Software Implementation**
+[Failure in the ERP software implementation project to upgrade the Hawaii Department of Transportation’s Highways Division financial management system. Recovery of over $31 Million finally.](https://www.kasowitz.com/media/client-news/kasowitz-secures-over-31-million-recovery-for-hawaii-arising-from-botched-erp-software-implementation/)(Fuente: Jorge Bernal Romero)
 
 ### 2022
 
@@ -1048,10 +1080,10 @@ Las escuelas del condado de Gaston se pusieron en marcha con su problemático si
 [State told school district not to implement new payroll system](https://eu.gastongazette.com/story/news/local/2022/09/13/payroll-system-teachers-introduced-despite-state-guidance/10364751002/) (Fuente: Roberto García)
 
 - **SAP y [Ranpak Holdings Corp](https://www.ranpak.com/es/)**:
-La transición a un sistema ERP cloud creó ciertos obstáculos que afectaron las operaciones, 
-incluido el tiempo de inactividad programado para pasar al nuevo sistema ERP; 
-ineficiencias de procesamiento y envío asociadas con el uso de un nuevo sistema ERP; 
-y, durante la transición al nuevo sistema ERP, 
+La transición a un sistema ERP cloud creó ciertos obstáculos que afectaron las operaciones,
+incluido el tiempo de inactividad programado para pasar al nuevo sistema ERP;
+ineficiencias de procesamiento y envío asociadas con el uso de un nuevo sistema ERP;
+y, durante la transición al nuevo sistema ERP,
 la demora en los aumentos de precios para ayudar a compensar las presiones de los costos de los insumos.
 [Protective packaging firm’s profit takes a knock from ERP](https://www.cio.com/article/278677/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Lucía Beltrán)
 y [Ranpak Holdings Corp. Reports First Quarter 2022 Financial Results](https://ir.ranpak.com/news/news-details/2022/Ranpak-Holdings-Corp.-Reports-First-Quarter-2022-Financial-Results/default.aspx) (Fuente: Acher Egido Mairal)
