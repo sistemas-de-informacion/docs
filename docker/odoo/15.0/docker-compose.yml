@@ -1,0 +1,17 @@
+version: '2'
+services:
+  web:
+    build: .
+    ports:
+      - "8069:8069"
+    environment:
+      - HOST=ec2-3-223-72-172.compute-1.amazonaws.com
+      - PORT=5432
+      - USER=zwqdpojihupukc
+      - PASSWORD=a1233df56b8889f9147205d99389bc636c8d774cc2042f1d0e0a5474149faa4e
+      - DATABASE=d5glkf2ms20stt
+#      - HOST=balarama.db.elephantsql.com
+#      - PORT=5432
+#      - USER=odbyczkr
+#      - PASSWORD=Xuk2TDABM39IVxEjV6JMSRJ1j23o6OxG
+#      - DATABASE=odbyczkr
