@@ -168,6 +168,14 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**: Un [despido seguro](https://en.wikipedia.org/wiki/Employee_exit_management) guiado por un HRMS en cuanto se produjo el conflicto entre el director comercial y Norprevención podría haber evitado el acceso a los datos robados. Si el despido no era procedente, se podría haber mitigado la voluntad de robo tratando el conflicto con buenas prácticas de gestión de riesgos, seguimiento y retención del talento.
   * **Solución**: Ejemplo de *software* compatible con la estrategia descrita: el [módulo Help Desk](http://www.exentahrms.com/help-desk/) para gestionar el conflicto inicial y, en caso de que el despido fuera procedente, el [módulo Exit Management](http://www.exentahrms.com/exit-management/) para llevarlo a cabo, ambos integrados en el mismo producto, [Exenta HRMS](http://www.exentahrms.com/).
 
+### 2006
+
+* [The perpetrator stole information from Boeing and Rockwell](https://www.newyorker.com/magazine/2014/05/05/a-new-kind-of-spy)
+  * **Fuente**: Miguel Beltrán Pardos
+  * **Descripción**: Boeing, una empresa aeroespacial veterana, experimentó un ataque prolongado. De 1979 hasta 2006, un empleado de Boeing robó información de la empresa y de Rockwell. El beneficiado de este empleado era la inteligencia china, que le encargó adquirir información para mejorar sus operaciones espaciales. Además también robó información de fabricación militar.
+  * **Estrategia**: El uso de un SIEM hubiera facilitado la localizacion de dicho empleado. Un SIEM es una plataforma que permite la recopilación, correlación, análisis y presentación de eventos y registros de seguridad. Puede funciones de monitoreo continuo de eventos de seguridad, lo que permite una revisión retrospectiva de actividades de usuarios y entidades para identificar patrones de comportamiento sospechoso en el pasado y ayudar en la investigación de incidentes.
+  * **Solución**: [Oracle HCM Cloud](https://www.oracle.com/ar/human-capital-management/), este sistema de gestión de recursos humanos ofrece capacidades de seguimiento de actividades de usuario, incluyendo el seguimiento de cambios en los datos de los empleados, registro de actividades de reclutamiento y selección, y seguimiento de accesos y permisos de usuario. También puede generar informes y alertas en caso de actividades inusuales o sospechosas. 
+  
 ### 2008
 
 * [Ex-Countrywide Employee Charged With Selling Customer Data](http://www.darkreading.com/risk/ex-countrywide-employee-charged-with-selling-customer-data/d/d-id/1129638)
