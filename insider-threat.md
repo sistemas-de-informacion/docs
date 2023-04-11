@@ -746,3 +746,11 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   Esto permite que aunque el archivo se suba a la nube (Como por ejemplo Google Drive) de forma pública, únicamente los usuarios de Prot-on a los que se haya dado acceso puedan acceder al contenido del documento.
   También, se puede regular el tráfico desde los puntos de acceso a la nube y aplicar políticas de encriptado en los datos que se transmiten al exterior, mediante un [CASB](https://www.netskope.com/es/Sobre-los-CASB).
   Además se puede prohibir la descarga de cualquier dato.
+
+* [Asesinar a Biden": el New York Post denunció que fue hackeado en Twitter] (https://www.theguardian.com/media/2022/oct/27/for-the-slug-new-york-post-hacked-twitter-website)
+* **Fuente**: Juliana Zordan
+* **Descripción**: El diario de New York Post denunció este jueves que fue "hackeado" por uno de sus empleados que publicó tuits que pedían el asesinato de figuras políticas, incluido el presidente de Estados Unidos, Joe Biden, a menos de un mes de las elecciones de medio término.
+* **Estrategia**: La empresa debe restringir el acceso solo a aquellos empleados que necesiten ingresar a la cuenta para realizar su trabajo. Además, es importante restringirlo mediante el uso de contraseñas fuertes y autenticación de dos factores, y en entrenamiento en seguridad a otros empleados.
+  * **Solución**: Utilizar  Hootsite para el monitoreo de la actividad de la cuenta [HootSuite] (https://hootsuite.com).
+  HootSuite es una plataforma web y móvil para gestionar redes sociales por parte de personas u organizaciones. Con esta herramienta se pueden realizar diferentes funciones (programación de publicaciones,monitoreo de redes sociales, análisis de redes sociales e integración de aplicaciones de terceros).
+  De esta aplicación nos interesa el monitoreo de la cuenta pues facilita el seguimiento de la actividad y la participación en las redes sociales y a tener control sobre estas. 
