@@ -66,7 +66,12 @@ uno de ellos.
 
 ### 2013
 
-* [Soldier Receives 16-Year Sentence for Attempted Espionage](https://www.fbi.gov/news/stories/2013/april/soldier-receives-16-year-sentence-for-attempted-espionage) (Fuente: Manuel Herrero)
+* [Soldier Receives 16-Year Sentence for Attempted Espionage](https://www.fbi.gov/news/stories/2013/april/soldier-receives-16-year-sentence-for-attempted-espionage) 
+  * **Fuente**: Manuel Herrero, Corregido Javier Pardos
+  * **Descripción**: Un oficial de policia militar es condenado a una pena de carcel de 16 años en Alaska por sus intentos de venta de documentos clasificados a un oficial de inteligencia ruso. El oficial habia hablado con otros miembro para solicitar su ayuda para la venta de informacion. Su arresto fue posible debido a que en realidad estaba negociando con un agente encubierto del FBI.
+  * **Estrategia**: En primer lugar, seria importante concienciar a los militares sobre cualquier comportamiento sospechoso o actividad que pueda indicar una posible amenaza interna. Por otra parte, se deberia implementar un sistema para limitar el acceso a informacion clasificada, como controles de acceso a los diferente documentos y la monitorizacion continua de estos.
+  * **Solucion**: [Workday](https://www.workday.com) es un software de recursos humanos que ofrece varias soluciones para el control de acceso y gestion de privilegios. En este caso, esta herramienta tiene un modulo de fraude que esta provisto de inteligencia artificial para analizar comportamientos inusuales / actividades sospechosas en tiempo real y la creacion de informes. 
+
 * [Economic Espionage: Competing For Trade By Stealing Industrial Secrets](https://leb.fbi.gov/2013/october-november/economic-espionage-competing-for-trade-by-stealing-industrial-secrets) (Fuente: Jesús Bintaned)
 * [Submarine Data Leak](https://www.defensenews.com/naval/2016/08/26/submarine-data-leak-roils-three-governments/)
   * **Fuente**: Ramón Jarauta
