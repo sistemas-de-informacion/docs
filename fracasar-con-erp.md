@@ -398,12 +398,18 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **ERP desconocido y empresas reales pero anónimas**:
 [Un caso de estudio de como tres empresas de Taiwan acabaron fallando en la implementación de ERP](https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Pablo Jordán)
 
+- **ERP desconocido y empresas de Taiwan anónimas**:
+[Identification of critical failure factors in the implementation of enterprise resource planning (ERP) system in Taiwan's industries](https://www.researchgate.net/publication/247833281_Identification_of_critical_failure_factors_in_the_implementation_of_enterprise_resource_planning_ERP_system_in_Taiwan's_industries) (Fuente: Jorge Borque)
+
 - **SAP y [Waste Management](http://www.wm.com/index.jsp)**:
 [SAP fires back at Waste Management](http://www.cio.com/article/443864/SAP_Fires_Back_At_Waste_Management) (Fuente: Guillermo Pérez) y [Waste Management sues SAP over ERP implementation](http://www.computerworld.com/article/2536212/enterprise-applications/waste-management-sues-sap-over-erp-implementation.html) (Fuente: Pablo Lanaspa) , Mismo artículo actualizado ( anterior del 2008, este es del 2010 ) : [SAP, Waste Management settle lawsuit](http://www.computerworld.com/article/2517917/enterprise-applications/sap--waste-management-settle-lawsuit.html) ( Fuente: Adrián Crespo )
 
 - **Oracle ERP e Invacare**:
 Los problemas para implantar un ERP le costó a la compañía unos 30 millones de dólares en negocios perdidos y otros costes.
 [Medical products maker Invacare faces rough ERP ride](https://www.computerworld.com/article/2560044/medical-products-maker-invacare-faces-rough-erp-ride.html) (Fuente: David Arruga)
+
+- **ERP failure in South African Airways (SAA)**
+[SAA implemented an ERP system from SAP, which resulted in a major financial loss due to system glitches and lack of proper implementation. The project cost the airline approximately R1.3 billion and was eventually scrapped. I cannot find a specific link for the failure but I'm attaching a link from 2018 where it explains how the company made its turnaround and the importance of an ERP specialist as a key to the company's growth and properity.](https://newsroom.aviator.aero/south-african-airways-fills-critical-skills-gap-with-key-appointments/)(Fuente: Jorge Bernal Romero)
 
 ### 2006
 
@@ -787,6 +793,10 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 - **ERP ficticio y ERP Partnership Formation Regulations**:
 [The Impact of ERP Partnership Formation Regulations on the Failure of ERP Implementations](https://www.sciencedirect.com/science/article/pii/S0268401207000886?casa_token=9Umi_u_Yl2AAAAAA:Lrt25ZjpoSb4PbRFhs5nMrCSZYsYTZCUv_rVqZRmG_CtEr1_yFa372VJ9EU-Yf26GvELVFx5O9k) (Fuente: Marta Lampaya)
 
+- **ERP desconocido y PC Connection**:
+PC Connection experimentó una falla en su sistema ERP que se relacionó con una mala adaptación del proveedor del sistema.
+[Causas de fallas en la implementación de ERP y 11 ejemplos de alto perfil](https://softwareconnect.com/erp/implementation-failures/) (Fuente: Miguel Beltrán)
+
 ### 2014
 
 - **Israel Chemical Limited y SAP**:
@@ -1009,8 +1019,8 @@ Adidas eligió un software de gestión de almacenes que no era compatible con el
 - **Infor y [Travis Perkins](https://www.travisperkins.co.uk/)**:
 Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor. [Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández)
 
-- **ERP desconocido y Toyota**:
-PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los principales factores que influían en el fracaso al implementar un sistema ERP utilizando modelos CFF (Critical Failure Factors) [Analysis of Critical Success Factors on ERP Implementation in PT. Toyota Astra Motor Using Extended Information System Success Model](https://www.researchgate.net/publication/343666490_Analysis_of_Critical_Success_Factors_on_ERP_Implementation_in_PT_Toyota_Astra_Motor_Using_Extended_Information_System_Success_Model) (Fuente: Jorge Borque Benedí, corrige enlace de Sergio Pablo Lorén)
+- **SAP y Nanshan Life Insurance**:
+La inversión de la empresa taiwanesa Nanshan Life Insurance resultó ser el "major failure", cuya historia se encubrió por la prensa no taiwanesa. [The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/the-hidden-s-4hana-failure-at-nanshan-life-insurance/) (Fuente: Jorge Borque Benedí)
 
 - **Oracle y Universidad Edinburgh**:
  [University of Edinburgh staff paid late due to Oracle ERP troubles](https://www.theregister.com/2022/11/03/oracle_erp_edinburgh_university/) (Fuente: Alejandro Sanz)
@@ -1024,6 +1034,10 @@ PT.Toyota Astra Motor Indonesia realizó un caso de estudio para encontrar los p
 
 - **1GX y Gobierno de Alberta (Canadá)**:
 El gobierno de Alberta implanta un nuevo sistema de gestión de pagos y da todo tipo de problemas: [Union for public servants files grievance against Alberta government as pay issues persist](https://www.cbc.ca/news/canada/calgary/alberta-union-of-provincial-employees-aupe-susan-slade-1.5894680) (Fuente: Víctor Jarreta). Documento oficial en el que se detalla el plan de negocio previsto inicialmente y en el que se habla de 1GX, incluyendo su coste, periodo de desarollo y motivaciones: [Service Alberta Business Plan 2019–23](https://open.alberta.ca/dataset/2d0f4f49-ac34-440d-8ff1-396e55267a57/resource/91e9b32b-62b7-4b27-a92a-01966a645108/download/service-alberta.pdf) (Fuente: Víctor Jarreta)
+
+- **ERP desconocido y Hertz Global Holdings**
+Hertz presentó una solicitud de bancarrota en mayo de 2020 y citó su fallida implementación de ERP como una de las razones de sus problemas financieros. La compañía había gastado $32 millones en el proyecto pero finalmente tuvo que cancelar $157 millones.
+[Lecciones aprendidas del fracaso de la transformación digital de Hertz](https://www.panorama-consulting.com/hertz-digital-transformation/) (Fuente: Miguel Beltrán)
 
 - **IFMS y Gobierno de Papúa Nueva Guinea**:
 El gobierno de sufre las consecuencias de integrar un sistema de gestión financiero provocando grandes problemas que afectaron, entre otros, al servicio de reparto. [The Rollout Of The Government's Integrated Financial Management System (IFMS) Is a Good Initiative But It Was Creating Many Issues Affecting Service Delivery](https://postcourier.com.pg/ifms-creating-chaos-says-dua/) (Fuente: Adrián Arribas).
@@ -1051,6 +1065,9 @@ Los centros de distribución y empaquetado experimentaron problemas de compra, r
 Otros problemas fueron los retrasos en la facturación automatizada a los clientes y la gestión de inventario.
 [Mission Produce faces operational issues after botched ERP implementation](https://www.supplychaindive.com/news/Mission-Produce-ERP-implementation-operations-problems/620606/) (Fuente: David Arruga)
 y [MISSION PRODUCE, INC. Management's Discussion and Analysis of Financial Condition and Results of Operations (form 10-Q)](https://www.marketscreener.com/quote/stock/MISSION-PRODUCE-INC-113170567/news/MISSION-PRODUCE-INC-Management-s-Discussion-and-Analysis-of-Financial-Condition-and-Results-of-Op-39728087/) (Fuente: Acher Egido Mairal)
+
+- **Kasowitz Secures Over $31 Million Recovery for Hawaii Arising From Botched ERP Software Implementation**
+[Failure in the ERP software implementation project to upgrade the Hawaii Department of Transportation’s Highways Division financial management system. Recovery of over $31 Million finally.](https://www.kasowitz.com/media/client-news/kasowitz-secures-over-31-million-recovery-for-hawaii-arising-from-botched-erp-software-implementation/)(Fuente: Jorge Bernal Romero)
 
 ### 2022
 
