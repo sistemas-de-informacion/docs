@@ -73,6 +73,11 @@ uno de ellos.
   * **Descripción**: Un empleado descontento expuso detalles confidenciales sobre nuevos submarinos Scorpene de India en una compleja operación que involucró a múltiples gobiernos, empleados y contratistas. Según Defense News, se expusieron unas 24,000 páginas de información clasificada. La noticia relata que un empleado despedido eligió copiar datos en un disco, enviarlos por correo y, finalmente, compartirlos con un periodista.
   * **Estrategia**: La compañía debe comunicar al empleado las consecuencias que tendría si llegase a compremeter información confidencial. Por otro lado, una buena estretegia sería que cada empleado que acceda a éste tipo de información deba autenticarse, quedando de ésta forma registrado cada acción que haga.
   * **Solución**: Una solución podría ser [ForcePoint](https://www.forcepoint.com/es/product/insider-threat). Entre sus funciones se encuentra la monitorización de las acciones que realizan los usuarios.
+  * [Filtración datos NSA](https://www.20minutos.es/noticia/1923363/0/snowden-nsa/intranet-documentos/programa-espionaje/)
+  * **Fuente**: Jan Carlos Franco
+  * **Descripción**: El excontratista de seguridad Edward Snowden obtuvo los documentos secretos que revelaron el programa masivo de espionaje de Estados Unidos del servidor web interno de la Agencia de Seguridad Nacional (NSA).Los documentos clasificados filtrados por Snowden fueron publicados a nivel interno y el trabajo que tenía el entonces contratista le permitió realizar copias digitales sin el conocimiento de sus supervisores.
+  * **Estrategia**: Monitorear el acceso a datos confidenciales: Se podría implementar un sistema de monitoreo de acceso a datos que alerte a los administradores de la red si alguien accede a información que no corresponde a su perfil o nivel de autorización. De esta manera, se podría haber detectado rápidamente que Snowden estaba accediendo a información que no debía, y tomar medidas inmediatas.
+  * **Solución**: Una solución podría ser [IBMQRadar](https://www.ibm.com/es-es/insider-threat). Es un producto líder en el mercado que recopila, normaliza y correlaciona datos en bruto para identificar los incidentes de seguridad. Entre sus funciones se encuentra la monitorización de las acciones que realizan los usuarios.
   
 ### 2014
 
