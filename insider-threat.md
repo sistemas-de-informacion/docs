@@ -268,7 +268,13 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Descripcion**: Una empleada de la compañía Sage accedió sin autorización a información privada de clientes, entre 200 y 300 empresas y robó datos sensibles como sueldos y cuentas bancarias. Por suerte, fue detenida en el aeropuerto. Aun así, tras informar Sage a las empresas afectadas, sus acciones cayeron un 4% (aunque se recuperó rápidamente)
   * **Estrategia**: Limitar el acceso a los usuarios, pudiendo acceder únicamente a lo necesario para su trabajo.
   * **Solucion**: Irónicamente, Sage tiene tutoriales de cómo gestionar los permisos en sus distintas aplicaciones. Bastaría con que aplicara esos pasos internamente (<http://soporte.sage.es/etiquetas/permisos/>) y revisase periódicamente la actividad de los empleados con acceso a datos sensibles.
-  
+
+* [Levandowski admite haber robado la propiedad intelectual de Waymo](https://securityboulevard.com/2020/03/levandowski-admits-to-stealing-waymos-ip/)
+  * **Fuente**: David Arruga
+  * **Descripción**: El ingeniero de Google Anthony Levandowski robó y descargó más de 14000 documentos de Waymo, empresa desarrolladora de vehículos autónomos. Estos datos le permitieron crear su propia empresa de vehículos sin conductor, denominada Otto. Varios meses después del lanzamiento de Otto, Uber adquirió la empresa, aunque realmente lo que había adquirido eran los secretos comerciales que Levandowski le robó a Google. Finalmente, Waymo recibió 245 millones de dólares en acciones de Uber, como compensación por el robo. Además, Uber acordó no utilizar dichos datos robados para el desarrollo de su hardware y software.
+  * **Estrategia**: Una estrategia basada en un sistema de información que podría haber sido utilizada en el caso anterior es el sistema IDPS, sistema que monitorea la red de la empresa en busca de posibles intrusiones y actividades sospechosas. Por tanto, se habría enviado una alerta y los administradores habrían actuado en consecuencia.
+  * **Software**: Un software compatible con la estrategia anterior seria [Oracle HCM Cloud](https://www.oracle.com/pe/human-capital-management/), dicho software, basado en la nube, permitiría monitorear el acceso a la información de los empleados de una empresa.
+
 ### 2017
 
 * [Lawsuit filled in Flowers Hospital identity theft](http://www.dothaneagle.com/news/crime_court/lawsuit-against-flowers-hospital-over-theft-of-personal-information-attains/article_f89c75f0-0da9-11e7-823c-ef3a46dcb4a3.html)
