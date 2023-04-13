@@ -362,7 +362,7 @@ automatizar la generación de logs. El software permite también [bloquear el us
  
 ### 2022
 
-* [Appian: el juez rechaza la moción de Pegasystems para anular el veredicto del jurado de $ 2 mil millones]([https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches](https://markets.businessinsider.com/news/stocks/appian-judge-rejects-pegasystems-motion-to-overturn-2-billion-jury-verdict-1031748212))
+* [Appian: el juez rechaza la moción de Pegasystems para anular el veredicto del jurado de $ 2 mil millones](https://markets.businessinsider.com/news/stocks/appian-judge-rejects-pegasystems-motion-to-overturn-2-billion-jury-verdict-1031748212)
   * **Fuente**: Acher Egido Mairal
   * **Descripción**: Pegasystems fue acusado de apropiación indebida de secretos comerciales de Appian, incluyendo la contratación de un empleado de un contratista del gobierno para obtener acceso al software de Appian. Appian recibió $2.036 mil millones en daños, lo que supone la mayor indemnización por perjuicios en los Tribunales estatales de Virginia.
   * **Estrategia**: Pegasystems contrató a un empleado de un contratista del gobierno para brndarle a Pegasystems acceso al software de Appian. El contratista ayudó a pegasystems a generar docenas de grabaciones de video del entrono de desarrollo de Appian para que pegasystems utilizase en la compilación de materiales competitivos y para la evaluación de mejoras en su plataforma.
