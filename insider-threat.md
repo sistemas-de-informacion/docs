@@ -751,3 +751,10 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   Esto permite que aunque el archivo se suba a la nube (Como por ejemplo Google Drive) de forma pública, únicamente los usuarios de Prot-on a los que se haya dado acceso puedan acceder al contenido del documento.
   También, se puede regular el tráfico desde los puntos de acceso a la nube y aplicar políticas de encriptado en los datos que se transmiten al exterior, mediante un [CASB](https://www.netskope.com/es/Sobre-los-CASB). 
   Además se puede prohibir la descarga de cualquier dato.
+  
+  ### 2023
+ * [IOTW: Mailchimp suffers another social engineering attack](https://www.cshub.com/attacks/news/iotw-mailchimp-suffers-another-social-engineering-attack) 
+   * **Fuente**: Sergio Berges Aguaviva
+   * **Descripción**: Algunos hackers, mediante phishing, consiguieron que empleados de Mailchimp expusieran sus credenciales de acceso a los sistemas de la empresa. El resultado, más de 133 cuentas de usuarios de la empresa resultaron comprometidas. Algunas de esas cuentas pertenecían a otros negocios.
+   * **Estrategia**: Un sistema de información con la herramienta two-factor authentication con, por ejemplo, acceso con credenciales y posterior introducción de un código enviado por SMS al móvil del empleado, habría evitado que estos detractores pudieran acceder a pesar de haber obtenido las credenciales de algunos trabajadores de la empresa.
+   * **Ejemplo de Sistema de Información**: Apple tiene un sistema de inicio de sesión tal que si se accede desde un nuevo dispositivo desconocido, se envía a un dispositivo ya conocido de ese usuario un código con muchos dígitos, el cual se deberá introducir en el dispositivo nuevo. [Aquí](https://support.apple.com/en-us/HT204915) el enlace a la explicación oficial de Apple.
