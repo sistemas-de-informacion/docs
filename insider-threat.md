@@ -365,6 +365,14 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Segun este [comunicado oficial](https://community.shopify.com/c/shopify-discussions/incident-update/m-p/888971) de Shopify, la información personal que fue robada fue debido a que estaban involucrados en un esquema para obtener registros de transacciones de clientes de ciertos comerciantes. Shopify no ha querido dar más datos de como era el esquema en el que estaban operando.
   * **Solución**: Shopify podría haber evitado este infortunio contando con el apoyo software que proporciona [Proofpoint](https://www.proofpoint.com/es/products/information-protection/insider-threat-management) una empresa que ofrece software como servicio y productos para la prevención de pérdida de datos.
 
+### 2022
+
+* [Exposición de credenciales de Microsoft por error](https://www.techspot.com/news/95651-microsoft-employees-accidentally-exposed-login-credentials-important-internal.html)*
+  * **Fuente**: Lucía Beltrán González
+  * **Descripción**: En agosto de 2022, varios empleados de Microsoft expusieron las credenciales de inicio de sesión en la infraestructura de GitHub de la empresa. La información le habría dado a cualquiera, incluidos los atacantes, acceso a los servidores de Azure y potencialmente a otros sistemas internos de Microsoft. Si el error hubiera expuesto la información de los clientes de la Unión Europea (UE), Microsoft podría haber enfrentado una multa de GDPR de hasta 20 millones de euros. Afortunadamente, la firma de seguridad cibernética spiderSilk detectó las credenciales filtradas y notificó a Microsoft. El gigante tecnológico descubrió que nadie accedió a los datos confidenciales y está tomando medidas para evitar que vuelva a suceder.
+  * **Estrategia**: Para evitar incidentes como este, se ve adecuado aumentar el control y la revisión de los documentos que los empleados suben a la red, monitorizando y analizando los datos mediante scripts, asegurandose así de que no hay riesgos ni se exponen vulnerabilidades del sistema. Además de contar con los adecuados algoritmos de encriptación de datos confidenciales y sistemas de autenticación multifactor.
+  * **Solución**: Se puede utilizar un software de análisis de seguridad de contenido para garantizar que los datos se almacenen y utilicen de forma segura, conforme a las políticas de la empresa y de la regulación vigente. Una solución propia de Microsoft es [Microsoft Defender Cloud Apps](https://www.microsoft.com/es-es/security/business/siem-and-xdr/microsoft-defender-cloud-apps), que monitoriza el tráfico de la red y protege datos confidenciales. Complementaria a esta, [Symantec CloudSOC](https://www.broadcom.com/products/cybersecurity/information-protection/data-loss-prevention-cloud/cloud-application-security-cloudsoc) ofrece supervisión de la nube, detectando y previniendo la pérdida de datos.
+
 ## Ladrones de dinero
 
 ### 2015
