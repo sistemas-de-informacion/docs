@@ -365,6 +365,13 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Segun este [comunicado oficial](https://community.shopify.com/c/shopify-discussions/incident-update/m-p/888971) de Shopify, la información personal que fue robada fue debido a que estaban involucrados en un esquema para obtener registros de transacciones de clientes de ciertos comerciantes. Shopify no ha querido dar más datos de como era el esquema en el que estaban operando.
   * **Solución**: Shopify podría haber evitado este infortunio contando con el apoyo software que proporciona [Proofpoint](https://www.proofpoint.com/es/products/information-protection/insider-threat-management) una empresa que ofrece software como servicio y productos para la prevención de pérdida de datos.
 
+### 2022
+* [Yahoo lawsuit alleges employee stole trade secrets upon receiving Trade Desk job offer](https://www.thedrum.com/news/2022/05/19/yahoo-lawsuit-alleges-employee-stole-trade-secrets-upon-receiving-trade-desk-job)
+  * **Fuente**: Daniel Carrizo Pérez
+  * **Descripción**: En mayo de 2022, un científico de investigación de Yahoo llamado Qian Sang supuestamente robó información confidencial de Yahoo y un análisis de The Trade Desk minutos después de recibir una oferta de trabajo de la última empresa. Yahoo presentó una demanda alegando que las acciones de Sang le privaron del control exclusivo de sus secretos comerciales.
+  * **Estrategia**: La implementación de un monitoreo continuo y la revisión regular de los registros de actividad del usuario en la red podría haber sido útil para evitar el robo de propiedad intelectual. Se podría haber establecido una política de clasificación de datos y roles. Por último, se podría haber implementado un sistema de detección de amenazas que alerte a la organización cuando se detecten actividades sospechosas en la red o descargas sin autorizar.
+  * **Solución**: SAP SuccessFactors ofrece herramientas para la gestión de roles y permisos de usuario, autenticación de dos factores, encriptación de datos y monitoreo de actividades del usuario en la red, entre otros.
+
 ## Ladrones de dinero
 
 ### 2015
