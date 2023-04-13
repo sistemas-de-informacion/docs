@@ -115,6 +115,7 @@ Los métodos que utilizó para acceder a los secretos de la empresa fueron: enga
   * **Estrategia**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, dando solo los estrictamente necesarios a cada empleado, e incluso cambiando la forma de autenticarse por algo más difícil de robar que una contraseña. Además, también se debería formar a los empleados (especialmente a los que tengan más privilegios de acceso) para que sean conscientes de que sus credenciales son importantes y que no deben compartirse con otros trabajadores. Otra medida necesaria sería la creación de un historial de acciones que puedan resultar sospechosas o poco habituales para cada empleado, de forma que se pudiera detectar actividad desleal o ilícita más fácil y sistemáticamente.
 En este caso particular, ya que aprovechó una visita guiada para obtener datos confidenciales, la empresa debería asegurarse de tener bajo control a los visitantes.
 
+
 ### 2019
 
 * [Un empleado de Dominion envió a Siemens la oferta confidencial presentada por General Electric](https://www.reuters.com/business/finance/ge-alleges-siemens-energy-used-stolen-trade-secrets-rig-contract-bids-2021-01-14/)*
@@ -576,6 +577,14 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Descripción**: Cuatro hombres están acusados de atacar el servidor informático y destruir los datos de la empresa. De ellos dos eran ex-empleados mientras que, los otros dos continuaban trabajando en la misma y habían pedido hace cuatro meses el finiquito y una indemnización por despido; el dueño de la empresa no aceptó esta propuesta.
   * **Estrategia**: Seleccionar a quien se conceden privilegios, especialmente para acceder y modificar información sensible, tener esta información  encriptada y en backup (al cual solo puedan acceder los empleados de más confianza), además de monitorizar y crear alarmas cuando se modifican o eliminan datos sensibles.
   * **Solución**: Uso de software que audita los ficheros .log como por ejemplo LogSentry (antes llamado Logcheck), el cual avisa cuando ocurre una incidencia. Por ejemplo cuando se introduce mal una contraseña o, en este caso cuando un antiguo empleado accede al sistema o cuando se borra una serie de datos concreta.
+
+### 2017
+
+* [El escándalo de Kobe Steel, la empresa japonesa que le vendió metales falsificados a General Motors, Boeing, Toyota (y otras 500 empresas)](https://www.bbc.com/mundo/noticias-41602077)
+  * **Fuente**: Paula Ezpeleta
+  * **Descripción**: Varios de los empleados de esta empresa falsificaron datos de calidad ed los metales que ofrecían como producto (sobre todo de aluminio y cobre). También algunos de sus empleados falsificaron datos de inspección en algunas de sus plantas de producción. Este escándalo afectó a más de 500 empresas por todo el mundo (entre ellas algunas como General Motors y Toyota). Esto afectó en gran medida al mercado japonés ya que era uno de los principales proveedores de estos metales en el país y además afectó a las empresas ya que muchos de sus clientes tuvieron que retirar del mercado todos sus productos que se habían fabricado con estos metales ya que existian preocupaciones de seguridad.
+  * **Estrategia**: Un sistema de información que podría haber sido utilizado para evitar este insider threat habría sido por ejemplo un sistema que integrase monitoreo contínuo de la actividad de los empleados para detectar comportamientos sospechosos y que además permite controlar quién accede a sus sistemas y qué recursos y acciones pueden utilizar/realizar en estos. Este sistema se trata de un IAM (Identity and Access Management).
+  * **Software**: un software que incluye herramientas para gestión y control de acceso a software es Azure AD.
   
 ### 2020
 
