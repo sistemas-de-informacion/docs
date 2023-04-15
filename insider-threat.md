@@ -466,6 +466,14 @@ automatizar la generación de logs. El software permite también [bloquear el us
 
 * [Stolen DATA laptop had unencrypted employee data](http://www.darkreading.com/attacks-and-breaches/stolen-nasa-laptop-had-unencrypted-employee-data/d/d-id/1107402) (Fuente: Marta Almudena Frías)
 
+### 2012
+
+* [Just 1 Click Of The Mouse Erased Data On 35,000 Computers (Caused By Insider)](https://money.cnn.com/2015/08/05/technology/aramco-hack/) 
+  * **Fuente**: Javier Pardos
+  * **Descripción**: En 2012 un tecnico infomrmatico de la compañia petrolera Saudi Aramaco, hizo clic en un enlace malicioso lo que provoco un de los mayores ataques informaticos de la historia. El ataque afecto a 35.000 ordenadores y costó a la compañía 10 millones de dólares al no poder acceder a sus sistemas. Este ataque provoco que esta compañia volviese a la tecnologia de los años 70, implementando maquinas de escribir y fax.
+  * **Estrategia**: Principalmente esta amenaza se podria evitar con la concienciacion de los empleados que trabajan en sus instalaciones (formacion, etc). Aunque tambien es necesario una inversion en medidas de seguridad adecuadas como firewalls, antivirus, etc. e incluso un plan de recuperacion de datos en caso que se produzca un ataque como este.
+  * **Solucion**: Respecto a la posibilidad de evitar amenazas externas se podria usar [Mimecast](https://www.mimecast.com) que es un software para el control de amenazas que permite a las empresas protegerse de ataques de phishing, ransomware, malware y otras amenazas de seguridad. En cambio para una posible recuperacion de datos se podria usar [Acronis Cyber Backup ](https://www.acronis.com/es-es/products/cyber-protect/backup/) que es un software especializado en la recuperacion de informacion en casos de ransonware o desastres naturales.
+
 ### 2015
 
 * [Australia reveló accidentalmente datos personales de los líderes del G20](https://www.20minutos.es/noticia/2420251/0/australia-revelo-accidentalmente/datos-personales/lideres-g20/)
