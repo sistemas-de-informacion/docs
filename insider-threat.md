@@ -584,7 +584,6 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Fuente**: Paula Ezpeleta
   * **Descripción**: Varios de los empleados de esta empresa falsificaron datos de calidad de los metales que ofrecían como producto (sobre todo de aluminio y cobre). También algunos de sus empleados falsificaron datos de inspección en algunas de sus plantas de producción. Este escándalo afectó a más de 500 empresas por todo el mundo (entre ellas algunas como General Motors y Toyota). También afectó a varias de sus empresas clientes ya que muchos de sus clientes tuvieron que retirar del mercado todos sus productos.
   * **Estrategia**: Un sistema de información que podría haber sido utilizado para evitar este insider threat habría sido por ejemplo un sistema que integrase monitoreo contínuo de la actividad de los empleados. Esto se utilizaría para detectar comportamientos sospechosos de los empleados y además permite controlar quién accede a sus sistemas y qué recursos y acciones pueden utilizar/realizar en estos. Este sistema se trata de un IAM (Identity and Access Management).
-  * **Software**: un software que incluye herramientas para gestión y control de acceso a software es Azure AD.
   
 ### 2020
 
