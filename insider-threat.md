@@ -585,6 +585,13 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 
 ## Saboteadores
 
+### 2002
+
+* [Ex-UBS Systems Admin Sentenced To 97 Months In Jail](https://www.informationweek.com/software/ex-ubs-systems-admin-sentenced-to-97-months-in-jail)
+  * **Fuente**: Álvaro Andrada Gimeno
+  * **Descripción**: Roger Duronio, ex administrador de sistemas de UBS PaineWebber, fue declarado cupable de sabotaje por implantar código malicioso (una "bomba lógica") en los servidores de UBS PaineWebber, el cual provocó el 4 de marzo de 2002 que se cayesen más de 2000 de los servidores de la compañía por todo Estados Unidos, lo que llevó a no poder realizar operaciones durante varios días o varias semanas dependiendo de la oficina.
+  * **Estrategia**: Buscar una forma de monitorizar la actividad de los empleados para poder detectar cualquier actividad sospechosa que pueda poner en peligro a la empresa.
+
 ### 2005
 
 * [4 empleados llevan su empresa a la quiebra](http://www.elmundo.es/elmundo/2011/03/27/valencia/1301223855.html)  
