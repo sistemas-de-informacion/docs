@@ -150,6 +150,19 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**: Instalar un sistema de monitoreo de ficheros, que permita detectar los ficheros descargados por un empleado y así poder comprobar que dicho empleado tenía acceso a esos archivos o si se ha descargado más información que cualquiera de sus compañeros con los mismos privilegios.
   * **Solución**: [File Integrity Monitoring Software](https://www.solarwinds.com/es/security-event-manager/use-cases/file-integrity-monitoring-software) es una tecnología que monitorea y detecta cambios en los archivos. Permite determinar la frecuencia de monitoreo de archivos de suma importancia, así como, enviar alertas en caso de detectar anomalías y realizar informes de resultados.
 
+
+
+
+* [Poland arrests Huawei worker on allegations of spying for China](https://www.theguardian.com/technology/2019/jan/11/huawei-employee-arrested-in-poland-over-chinese-spy-allegations)
+  * **Fuente**: Jorge Borque Benedí
+  * **Descripción**: Polonia arrestó a un empleado chino de Huawei y a un ciudadano polaco involucrado en negocios cibernéticos por acusaciones de espionaje, informaron los medios estatales polacos, lo que profundizó la controversia sobre las críticas occidentales a la compañía de telecomunicaciones china.
+  * **Estrategia**: Para evitar este caso de espionaje se debería de controlar y monitorizar todas las actividades de los usuarios que acceden a la información del sistema, de manera que si exite alguna actividad no supervisada o no esperada que puede resultar sospechosa, se pueda actuar parando la sesión o comenzando un proceso de detención del usuario que la haya llevado a cabo con el objetivo de parar el robo de la información o para evitar pérdidas o modificaciones de esa información almacenada.
+  * **Solución**: Existe una empresa de software de corporación multinacional estadounidense que tiene productos especializados en el tratamiento de los "insider threats" y concretamente con la monitorización de las actividades de los usuarios en una empresa. 
+  Es la siguiente : *[Forcepoint](https://www.forcepoint.com/es/security/insider-threat)*
+
+
+
+
 ### 2020
 
 * [Investigación sobre robo de propiedad intelecutal en General Electric](https://www.fbi.gov/news/stories/two-guilty-in-theft-of-trade-secrets-from-ge-072920)*
