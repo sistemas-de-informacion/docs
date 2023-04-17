@@ -211,12 +211,6 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Solución**: Se podria emplear el software [Ekran system](https://www.ekransystem.com/es), para 
 automatizar la generación de logs. El software permite también [bloquear el uso de memorias USB](https://www.ekransystem.com/es/product/usb-blocking)
 
-* [Yahoo hacked, 450,000 passwords posted online](http://edition.cnn.com/2012/07/12/tech/web/yahoo-users-hacked/) 
-  * **Fuente**: Jan Carlos Franco
-  * **Descripción**: Piratas informáticos publicaron en línea lo que dicen es la información de inicio de sesión de más de 450.000 usuarios de Yahoo.El hackeo, que por supuesto se realizó de forma anónima, pretendía ser una advertencia, según la página web donde se descargaron los documentos.“Esperamos que las partes responsables de administrar la seguridad de este subdominio tomen esto como una llamada de atención y no como una amenaza”, decía una nota en la página.
-  * **Estratregia**: La medida más efectiva para prevenir este tipo de incidentes habría sido implementar un sistema de autenticación multifactorial (MFA), que requiere que los usuarios proporcionen más de una forma de autenticación para acceder a su cuenta. Esto podría incluir el uso de contraseñas fuertes y únicas, junto con la verificación en dos pasos, que podría involucrar una combinación de un código de seguridad generado por una aplicación móvil, un token físico o una clave de seguridad.
-  * **Solución**: Se podria emplear el software [Okta](https://www.okta.com/), para establecer de una forma segura una pasarela de autenticación entre los usuarios (internos, externos, proveedores y partners) y nuestras APIs, aplicaciones, dispositivos o sitios web, en este caso Yahoo.
-  
 ### 2013
 
 * [Woodland Heights Medical Center Employee Stole 450 Patient Records](http://www.ktre.com/story/30704770/woodland-heights-employee-investigated-for-stealing-450-patients-info)
