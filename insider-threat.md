@@ -369,8 +369,14 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Descripción**: Menos de 200 usuarios de Shopify se vieron afectados en la mayor brecha de datos que ha tenido la plataforma. Se trata de datos personales pertenecientes a usuarios que poseen tiendas en la plataforma. Shopify insisten en que no ha sido una vulnerabilidad tecnica de la plataforma si no que achaca el infortunio a dos trabajadores del departamento de soporte que han sido immnediatamente puestos a disposición de los organismos compotentes y despedidos.
   * **Estrategia**: Segun este [comunicado oficial](https://community.shopify.com/c/shopify-discussions/incident-update/m-p/888971) de Shopify, la información personal que fue robada fue debido a que estaban involucrados en un esquema para obtener registros de transacciones de clientes de ciertos comerciantes. Shopify no ha querido dar más datos de como era el esquema en el que estaban operando.
   * **Solución**: Shopify podría haber evitado este infortunio contando con el apoyo software que proporciona [Proofpoint](https://www.proofpoint.com/es/products/information-protection/insider-threat-management) una empresa que ofrece software como servicio y productos para la prevención de pérdida de datos.
-
+ 
 ### 2022
+
+* [Appian: el juez rechaza la moción de Pegasystems para anular el veredicto del jurado de $ 2 mil millones](https://markets.businessinsider.com/news/stocks/appian-judge-rejects-pegasystems-motion-to-overturn-2-billion-jury-verdict-1031748212)
+  * **Fuente**: Acher Egido Mairal
+  * **Descripción**: Pegasystems fue acusado de apropiación indebida de secretos comerciales de Appian, incluyendo la contratación de un empleado de un contratista del gobierno para obtener acceso al software de Appian. Appian recibió $2.036 mil millones en daños, lo que supone la mayor indemnización por perjuicios en los Tribunales estatales de Virginia.
+  * **Estrategia**: Pegasystems contrató a un empleado de un contratista del gobierno para brndarle a Pegasystems acceso al software de Appian. El contratista ayudó a pegasystems a generar docenas de grabaciones de video del entrono de desarrollo de Appian para que pegasystems utilizase en la compilación de materiales competitivos y para la evaluación de mejoras en su plataforma.
+  * **Solución**: Medidas de detección para identificar cualquier actividad sospechosa de robo de datos y alertar a los responsables de la seguridad de dicha información, como por ejemplo la monitorización del tráfico de red o haciendo actualizaciones regulares del software y parches de seguridad. Esto se puede conseguir utilizando un módulo de HRMS que  sea capaz de detectar dichas intrusiones y robos de información como lo puede ser Workday [Workday] (https://www.workday.com/en-us/products/human-capital-management/human-resource-management.html).
 
 * [Exposición de credenciales de Microsoft por error](https://www.techspot.com/news/95651-microsoft-employees-accidentally-exposed-login-credentials-important-internal.html)*
   * **Fuente**: Lucía Beltrán González
