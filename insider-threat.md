@@ -197,6 +197,13 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**: Aumentar el control sobre determinada información sensible o confidencial, es decir, controlar quién accede, cuándo y con qué fin (administrar los controles de acceso).
   * **Solución**: Una posible solución seria [SAP GRC Acces Control](https://www.sap.com/spain/products/access-control.html), mediante la cual se puede asignar [distintos roles](https://www2.deloitte.com/es/es/pages/governance-risk-and-compliance/solutions/SAP-GRC-AccessControl.html) a los usuarios de la empresa, controlando qué permisos posee cada uno de ellos.
 
+* [Exempleado de la Agencia de Seguridad Nacional de Estados Unidos se llevo a casa material clasificado](https://www.zdnet.com/article/ex-nsa-employee-gets-5-5-years-in-prison-for-taking-home-classified-info/)
+  * **Fuente**: Roberto García Peña
+  * **Descripción**:  Exempleado de la Agencia de Seguridad Nacional (NSA) de Estados Unidos, Nghia Hoang Pho, fue condenado a cinco años y medio por llevarse a casa material clasificado de la agencia. Pho era miembro de la unidad de piratería de la NSA, Tailored Access Operations, y comenzó a llevarse material clasificado en 2010. Los investigadores descubrieron la infracción en marzo de 2015. Pho se declaró culpable en diciembre de 2017 de retener información de defensa nacional. El gobierno cree que Pho es el empleado de la NSA que llevó a casa partes del arsenal de piratería de la NSA que luego fueron robadas por agentes de inteligencia rusos a través del software antivirus Kaspersky.
+  * **Estrategia**: Una clara estrategia para solucionar este problema es elevar el control de la información considerada como confidencial o sensible, para ello se debe controlar todo el acceso a esos documentos.
+  * **Solución**: Un software que solocuinaria este problema seria [Microsoft Azure Information Protection](https://azure.microsoft.com/es-es/solutions/information-protection/) ya que proporciona un servicio en la nube con una protección avanzada de datos, incluyendo el control de acceso y la gestión de derechos de autor para archivos y documentos sensibles.
+
+
 ### 2011
 
 * [Insider data theft costs Bank of America $10 million](https://www.computerworld.com/article/2508552/security0/insider-data-theft-costs-bank-of-america--10-million.html).
