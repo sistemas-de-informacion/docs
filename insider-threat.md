@@ -66,7 +66,12 @@ uno de ellos.
 
 ### 2013
 
-* [Soldier Receives 16-Year Sentence for Attempted Espionage](https://www.fbi.gov/news/stories/2013/april/soldier-receives-16-year-sentence-for-attempted-espionage) (Fuente: Manuel Herrero)
+* [Soldier Receives 16-Year Sentence for Attempted Espionage](https://www.fbi.gov/news/stories/2013/april/soldier-receives-16-year-sentence-for-attempted-espionage) 
+  * **Fuente**: Manuel Herrero, Corregido Javier Pardos
+  * **Descripción**: Un oficial de policia militar es condenado a una pena de carcel de 16 años en Alaska por sus intentos de venta de documentos clasificados a un oficial de inteligencia ruso. El oficial habia hablado con otros miembro para solicitar su ayuda para la venta de informacion. Su arresto fue posible debido a que en realidad estaba negociando con un agente encubierto del FBI.
+  * **Estrategia**: En primer lugar, seria importante concienciar a los militares sobre cualquier comportamiento sospechoso o actividad que pueda indicar una posible amenaza interna. Por otra parte, se deberia implementar un sistema para limitar el acceso a informacion clasificada, como controles de acceso a los diferente documentos y la monitorizacion continua de estos.
+  * **Solucion**: [Workday](https://www.workday.com) es un software de recursos humanos que ofrece varias soluciones para el control de acceso y gestion de privilegios. En este caso, esta herramienta tiene un modulo de fraude que esta provisto de inteligencia artificial para analizar comportamientos inusuales / actividades sospechosas en tiempo real y la creacion de informes. 
+
 * [Economic Espionage: Competing For Trade By Stealing Industrial Secrets](https://leb.fbi.gov/2013/october-november/economic-espionage-competing-for-trade-by-stealing-industrial-secrets) (Fuente: Jesús Bintaned)
 * [Submarine Data Leak](https://www.defensenews.com/naval/2016/08/26/submarine-data-leak-roils-three-governments/)
   * **Fuente**: Ramón Jarauta
@@ -373,6 +378,12 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Para evitar incidentes como este, se ve adecuado aumentar el control y la revisión de los documentos que los empleados suben a la red, monitorizando y analizando los datos mediante scripts, asegurandose así de que no hay riesgos ni se exponen vulnerabilidades del sistema. Además de contar con los adecuados algoritmos de encriptación de datos confidenciales y sistemas de autenticación multifactor.
   * **Solución**: Se puede utilizar un software de análisis de seguridad de contenido para garantizar que los datos se almacenen y utilicen de forma segura, conforme a las políticas de la empresa y de la regulación vigente. Una solución propia de Microsoft es [Microsoft Defender Cloud Apps](https://www.microsoft.com/es-es/security/business/siem-and-xdr/microsoft-defender-cloud-apps), que monitoriza el tráfico de la red y protege datos confidenciales. Complementaria a esta, [Symantec CloudSOC](https://www.broadcom.com/products/cybersecurity/information-protection/data-loss-prevention-cloud/cloud-application-security-cloudsoc) ofrece supervisión de la nube, detectando y previniendo la pérdida de datos.
 
+* [Yahoo lawsuit alleges employee stole trade secrets upon receiving Trade Desk job offer](https://www.thedrum.com/news/2022/05/19/yahoo-lawsuit-alleges-employee-stole-trade-secrets-upon-receiving-trade-desk-job)
+  * **Fuente**: Daniel Carrizo Pérez
+  * **Descripción**: En mayo de 2022, un científico de investigación de Yahoo llamado Qian Sang supuestamente robó información confidencial de Yahoo y un análisis de The Trade Desk minutos después de recibir una oferta de trabajo de la última empresa. Yahoo presentó una demanda alegando que las acciones de Sang le privaron del control exclusivo de sus secretos comerciales.
+  * **Estrategia**: La implementación de un monitoreo continuo y la revisión regular de los registros de actividad del usuario en la red podría haber sido útil para evitar el robo de propiedad intelectual. Se podría haber establecido una política de clasificación de datos y roles. Por último, se podría haber implementado un sistema de detección de amenazas que alerte a la organización cuando se detecten actividades sospechosas en la red o descargas sin autorizar.
+  * **Solución**: SAP SuccessFactors ofrece herramientas para la gestión de roles y permisos de usuario, autenticación de dos factores, encriptación de datos y monitoreo de actividades del usuario en la red, entre otros.
+
 ## Ladrones de dinero
 
 ### 2015
@@ -472,6 +483,14 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 ### 2012
 
 * [Stolen DATA laptop had unencrypted employee data](http://www.darkreading.com/attacks-and-breaches/stolen-nasa-laptop-had-unencrypted-employee-data/d/d-id/1107402) (Fuente: Marta Almudena Frías)
+
+### 2012
+
+* [Just 1 Click Of The Mouse Erased Data On 35,000 Computers (Caused By Insider)](https://money.cnn.com/2015/08/05/technology/aramco-hack/) 
+  * **Fuente**: Javier Pardos
+  * **Descripción**: En 2012 un tecnico infomrmatico de la compañia petrolera Saudi Aramaco, hizo clic en un enlace malicioso lo que provoco un de los mayores ataques informaticos de la historia. El ataque afecto a 35.000 ordenadores y costó a la compañía 10 millones de dólares al no poder acceder a sus sistemas. Este ataque provoco que esta compañia volviese a la tecnologia de los años 70, implementando maquinas de escribir y fax.
+  * **Estrategia**: Principalmente esta amenaza se podria evitar con la concienciacion de los empleados que trabajan en sus instalaciones (formacion, etc). Aunque tambien es necesario una inversion en medidas de seguridad adecuadas como firewalls, antivirus, etc. e incluso un plan de recuperacion de datos en caso que se produzca un ataque como este.
+  * **Solucion**: Respecto a la posibilidad de evitar amenazas externas se podria usar [Mimecast](https://www.mimecast.com) que es un software para el control de amenazas que permite a las empresas protegerse de ataques de phishing, ransomware, malware y otras amenazas de seguridad. En cambio para una posible recuperacion de datos se podria usar [Acronis Cyber Backup ](https://www.acronis.com/es-es/products/cyber-protect/backup/) que es un software especializado en la recuperacion de informacion en casos de ransonware o desastres naturales.
 
 ### 2015
 
