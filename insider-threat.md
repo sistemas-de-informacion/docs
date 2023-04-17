@@ -520,11 +520,10 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Solución**: Emplear Software para crear backups como [Veeam](https://www.veeam.com/es/backup-replication-virtual-physical-cloud.html)
   
 ### 2023
+
  * [IOTW: Mailchimp suffers another social engineering attack](https://www.cshub.com/attacks/news/iotw-mailchimp-suffers-another-social-engineering-attack) 
    * **Fuente**: Sergio Berges Aguaviva
    * **Descripción**: Algunos hackers, mediante phishing, consiguieron que empleados de Mailchimp expusieran sus credenciales de acceso a los sistemas de la empresa. El resultado, más de 133 cuentas de usuarios de la empresa resultaron comprometidas. Algunas de esas cuentas pertenecían a otros negocios.
-   * **Estrategia**: Un sistema de información con la herramienta two-factor authentication con, por ejemplo, acceso con credenciales y posterior introducción de un código enviado por SMS al móvil del empleado, habría evitado que estos detractores pudieran acceder a pesar de haber obtenido las credenciales de algunos trabajadores de la empresa.
-   * **Ejemplo de Sistema de Información**: Apple tiene un sistema de inicio de sesión tal que si se accede desde un nuevo dispositivo desconocido, se envía a un dispositivo ya conocido de ese usuario un código con muchos dígitos, el cual se deberá introducir en el dispositivo nuevo. [Aquí](https://support.apple.com/en-us/HT204915) el enlace a la explicación oficial de Apple.
   
 ## Saboteadores
 
