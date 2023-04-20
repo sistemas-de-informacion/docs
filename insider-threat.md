@@ -346,6 +346,14 @@ automatizar la generación de logs. El software permite también [bloquear el us
   * **Estrategia**: El empleado tenía acceso a datos comprometidos que no tenían que ver con su trabajo. Con un sistema de información basado en roles que impiediera al empleado acceder a datos que no tuvieran que ver con su trabajo se podría haber mitigado parcialmente, pero no impide el robo de datos que si le sean relevantes. Para ello se podría hacer una monitorización del trabajo del empleado, impidiendo el uso de herramientas como Dropbox.
   * **Solución**: [Snort](https://www.snort.org/) es un proyecto open-sourced que utiliza una serie de reglas que detectan el uso malicioso de la actividad de una red y genera alertas acorde a ello ([por ejemplo Droxbox](https://www.snort.org/rule-docs/1-18609)). Se puede aplicar directamente en la red de la empresa y se actualiza constantemente.
 
+
+* [Former McAfee employees conspired to take ‘secret sauce’ to Tanium, lawsuit says](https://cyberscoop.com/mcafee-lawsuit-tanium-employees-secret-sauce)
+  * **Fuente**: Alejandro Sanz del Río
+  * **Descripción**: La empresa McAfee denuncia que 3 de sus ex-empleados robaron datos de clientes potenciales, tácticas de ventas y sus estrategias para llevarlas a Tanium, otra empresa dedicada a seguridad.
+  * **Estrategia**: Aparte de realizar acuerdos de confidencialidad y no competencia, la estrategia sería controlar y monitorear el acceso a la información confidencial implementando medidas de seguridad, como sistemas de monitoreo de actividad en línea y restricciones de acceso, para rastrear y controlar el acceso a información.
+  * **Solución**: Una posible solución está en usar un módulo HRMS con estas características como es [Workday](https://www.workday.com/). Este ofrece un sistema de auditoría completo que registra todas las actividades de los usuarios y permite configurar reglas de alerta para detectar acciones inusuales o sospechosas, pudiendo prevenir o mitigar así filtraciones de datos.
+
+
 ### 2020
 
 * [Marriott leaked data because of a compromised third-party app](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
