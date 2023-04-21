@@ -826,6 +826,7 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   También, se puede regular el tráfico desde los puntos de acceso a la nube y aplicar políticas de encriptado en los datos que se transmiten al exterior, mediante un [CASB](https://www.netskope.com/es/Sobre-los-CASB).
   Además se puede prohibir la descarga de cualquier dato.
 
+<<<<<<< Updated upstream
 * [Asesinar a Biden": el New York Post denunció que fue hackeado en Twitter] (https://www.theguardian.com/media/2022/oct/27/for-the-slug-new-york-post-hacked-twitter-website)
   * **Fuente**: Juliana Zordan
   * **Descripción**: El diario de New York Post denunció este jueves que fue "hackeado" por uno de sus empleados que publicó tuits que pedían el asesinato de figuras políticas, incluido el presidente de Estados Unidos, Joe Biden, a menos de un mes de las elecciones de medio término.
@@ -849,3 +850,13 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * Descripción: Personal militar de IT de bajo nivel de Estados Unidos es detenido por el FBI por sospecha de filtracion de documentos clasificados en su servidor de Discord. Estos documentos podrian incluir desde informes de evaluación de la guerra de Rusia y Ucrania hasta informes de inteligencia sobre misiles norcoreanos.
   * Estrategia: Una forma en la que podría haber sido evitado este incidente es que la empresa hubiera implementado un sistema de control de acceso basado en roles, de tal manera que solo los empleados que necesitan acceder a los documentos clasificados puedan hacerlo. Estos sistemas habitualmente se llaman RBAC (Role Based Access Control).
   * Solución: Utilizar un sistema de control de acceso basado en roles, como por ejemplo [Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview). Es muy probable que el ejercito de Estados Unidos ya tenga implementado un sistema de este tipo, pero debería revisarse para asegurarse de que se cumplan las políticas de seguridad.
+=======
+  ### 2015
+
+* [Un tribunal británico ve ilegal compartir datos de inteligencia con EEUU](https://www.reuters.com/article/oesen-vigilancia-reino-unido-idESKBN0LA1ES20150206)
+  * **Fuente**: Carlos Bellvis Irache
+  * **Descripción**: El Tribunal de Poderes de Investigación (IPT) dictaminó que la agencia de seguridad británica GCHQ actuó ilegalmente hasta diciembre de 2014 al acceder a los datos de millones de personas en el Reino Unido que habían sido recopilados por la Agencia de Seguridad Nacional de Estados Unidos (NSA) debido a que los procedimientos eran secretos.
+  * **Estrategia**: Resulta esencial ser muy cuidadoso al elegir quiénes pueden recibiri ciertos permisos o privilegios dentro de una empresa para acceder a una información específica.
+  * **Solución**: Establecer medidas de seguridad: se deben establecer medidas de seguridad robustas para proteger los datos personales y garantizar que no sean vulnerables a intrusiones o hackeos. Esto se puede conseguir con la implementación de sistemas de encriptación, firewalls y otras tecnologías de seguridad.
+  Se puede introducir como ejemplo AceroDocs [IRM] (https://www.acerodocs.com/es/).
+>>>>>>> Stashed changes
