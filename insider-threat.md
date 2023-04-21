@@ -401,6 +401,15 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Segun este [comunicado oficial](https://community.shopify.com/c/shopify-discussions/incident-update/m-p/888971) de Shopify, la información personal que fue robada fue debido a que estaban involucrados en un esquema para obtener registros de transacciones de clientes de ciertos comerciantes. Shopify no ha querido dar más datos de como era el esquema en el que estaban operando.
   * **Solución**: Shopify podría haber evitado este infortunio contando con el apoyo software que proporciona [Proofpoint](https://www.proofpoint.com/es/products/information-protection/insider-threat-management) una empresa que ofrece software como servicio y productos para la prevención de pérdida de datos.
 
+
+### 2021
+
+* [Proofpoint Alleges Ex-Exec Took Trade Secrets To Abnormal Security](https://www.crn.com/news/security/proofpoint-alleges-ex-exec-took-trade-secrets-to-abnormal-security)
+  * **Fuente**: Adrián Arribas Mateo
+  * **Descripción**: En julio de 2021, Samuel Boone, un ex-empleado de Proofpoint robó datos confidenciales antes de empezar un nuevo puesto de trabajo en la empresa competidora Abnormal Security. La solución con la que contaba la propia Proofpoint para prevenir la pérdida de datos no pudo impedir que el empleado descargara documentos de gran valor y los transfiriera a un USB y finalmente, compartirlos con la nueva empresa. Meses después de su salida, Proofpoint descubrió el robo de datos y llevó el caso a los juzgados acusando al ex-empleado de compartir ilegalmente datos que podrían dar a la empresa competidora y al nuevo empleado una ventaja injusta y afirmaron que Boone "ha amenazado con infligir daños competitivos a incalculable largo plazo".
+  * **Estrategia**: Tal y como se ha comentado, el propio software con el que cuenta Proofpoint no puedo prevenir este caso, por este motivo deberían ampliar su seguridad utilizando otro tipo de alternativas para la transferencia y uso de ficheros que ofrezcan servicios de control, como por ejemplo, la nube. Evitando así que un empleado haga un uso fraudulento de los archivos descargándolos a dispositivos como el USB tal y como el caso que se está exponiendo. 
+  * **Solución**: La solución propuesta podría ser el [servicio Storage del Cloud de Google](https://cloud.google.com/storage?hl=es-419), el cual incluye políticas de control de acceso, dando respuesta al problema que sufrió Proofpoint 
+
 ### 2022
 
 * [Appian: el juez rechaza la moción de Pegasystems para anular el veredicto del jurado de $ 2 mil millones](https://markets.businessinsider.com/news/stocks/appian-judge-rejects-pegasystems-motion-to-overturn-2-billion-jury-verdict-1031748212)
