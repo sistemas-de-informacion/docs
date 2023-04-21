@@ -160,8 +160,11 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Solución**: Existe una empresa de software de corporación multinacional estadounidense que tiene productos especializados en el tratamiento de los "insider threats" y concretamente con la monitorización de las actividades de los usuarios en una empresa. 
   Es la siguiente : *[Forcepoint](https://www.forcepoint.com/es/security/insider-threat)*
 
-
-
+* [El exvicepresidente de una subsidiaria de Proofpoint se lleva propiedad intelectual de la empresa a su nuevo empleador](https://www.theregister.com/2021/08/24/proofpoint_wins_14m_vade/)
+  * **Fuente**: Cristina Marzo Pardos
+  * **Descripción**: La empresa de seguridad informática Proofpoint consigue una indemnización de 14 millones de dólares de Oliver Lemarié y la empresa de seguridad informática Vade, rival de Proofpoint. Según un jurado federal de California, Lemarié se apropió indebidamente de secretos comerciales relativos a la plataforma de detección de spear-fishing Trident de Cloudmark, filial de Proofpoint, y los compartió con su nuevo empleador, Vade Secure.
+  * **Estrategia**: Se podría implantar un repositorio central de documentación que incorpore control de versiones y que registre todas las actualizaciones, visualizaciones y descargas por parte de los empleados en cada documento. Además, en el caso de las descargas, se crearía el documento de tal forma que esté vinculado con su identificador de empleado, y una vez este deje de ser válido porque el empleado ya no sigue trabajando en la empresa, el documento sea inaccesible.
+  * **Solución**: Existe una solución en forma de SaaS de detección y respuesta a amenazas internas llamada [Incydr](https://www.code42.com/incydr/), que destaca en primer lugar entre sus funcionalidades la detección de la filtración de documentos a través de navegadores web, USB, aplicaciones de cloud, email, etc.
 
 ### 2020
 
