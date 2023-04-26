@@ -1025,6 +1025,9 @@ La inversión de la empresa taiwanesa Nanshan Life Insurance resultó ser el "ma
 - **Oracle y Universidad Edinburgh**:
  [University of Edinburgh staff paid late due to Oracle ERP troubles](https://www.theregister.com/2022/11/03/oracle_erp_edinburgh_university/) (Fuente: Alejandro Sanz)
 
+- **Oracle y Universidad Edinburgh**:
+ [University of Edinburgh staff paid late due to Oracle ERP troubles](https://www.theregister.com/2022/11/03/oracle_erp_edinburgh_university/) (Fuente: Alejandro Sanz)
+
 ## Década de 2020
 
 ### 2020
