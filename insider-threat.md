@@ -525,7 +525,7 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
    * **Fuente**: Sergio Berges Aguaviva
    * **Descripción**: Algunos hackers, mediante phishing, consiguieron que empleados de Mailchimp expusieran sus credenciales de acceso a los sistemas de la empresa. El resultado, más de 133 cuentas de usuarios de la empresa resultaron comprometidas. Algunas de esas cuentas pertenecían a otros negocios.
    * **Estrategia**: Estos ataques de phishing sufridos por los empleados de la empresa Mailchimp podrían haberse evitado si estos empleados se hubieran apoyado en programas o extensiones que les garantizaran protección frente a las amenazas en línea. Mediante el uso de estos programas se habría evitado por ejemplo el acceso a webs fraudulentas en las que los empleados podrían haber filtrado sus credenciales de acceso a los sistemas de la empresa.
-   * **Solución**: Aunque hay varios, un programa que podrían haber utilizado los empleados de la empresa Mailchimp para protegerse de las amenazas online es [Bitdefender](https://www.bitdefender.es/media/html/consumer/new/2020/cl-offer-opt/?pid=60off&cid=ppc|c|google|60off&gclid=CjwKCAjw__ihBhADEiwAXEazJlu3ulR_K_T6da-XnmU4CVb-o-BzACF1okOjtZi_A2bZjVrH2Y6blhoCiKkQAvD_BwE). Este sistema brinda a los usuarios protección frente al phishing, además de asegurar una manera rápida, segura y anónima de navegar por la web. 
+   * **Solución**: Aunque hay varios, un programa que podrían haber utilizado los empleados de la empresa Mailchimp para protegerse de las amenazas online es [Bitdefender](https://www.bitdefender.es/). Este sistema brinda a los usuarios protección frente al phishing, además de asegurar una manera rápida, segura y anónima de navegar por la web. 
   
 ## Saboteadores
 
