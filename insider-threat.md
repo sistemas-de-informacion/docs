@@ -439,6 +439,12 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 
 ### 2021
 
+* [Proofpoint Alleges Ex-Exec Took Trade Secrets To Abnormal Security](https://www.crn.com/news/security/proofpoint-alleges-ex-exec-took-trade-secrets-to-abnormal-security)
+  * **Fuente**: Adrián Arribas Mateo
+  * **Descripción**: En julio de 2021, Samuel Boone, un ex-empleado de Proofpoint robó datos confidenciales antes de empezar un nuevo puesto de trabajo en la empresa competidora Abnormal Security. La solución con la que contaba la propia Proofpoint para prevenir la pérdida de datos no pudo impedir que el empleado descargara documentos de gran valor y los transfiriera a un USB y finalmente, compartirlos con la nueva empresa. Meses después de su salida, Proofpoint descubrió el robo de datos y llevó el caso a los juzgados acusando al ex-empleado de compartir ilegalmente datos que podrían dar a la empresa competidora y al nuevo empleado una ventaja injusta y afirmaron que Boone "ha amenazado con infligir daños competitivos a incalculable largo plazo".
+  * **Estrategia**: Tal y como se ha comentado, el propio software con el que cuenta Proofpoint no puedo prevenir este caso, por este motivo deberían ampliar su seguridad utilizando otro tipo de alternativas para la transferencia y uso de ficheros que ofrezcan servicios de control, como por ejemplo, la nube. Evitando así que un empleado haga un uso fraudulento de los archivos descargándolos a dispositivos como el USB tal y como el caso que se está exponiendo. 
+  * **Solución**: La solución propuesta podría ser el [servicio Storage del Cloud de Google](https://cloud.google.com/storage?hl=es-419), el cual incluye políticas de control de acceso, dando respuesta al problema que sufrió Proofpoint 
+
 * [Dos exempleados sustraen y divulgan datos personales de clientes al marcharse de su empresa](https://rgpdblog.com/dos-exempleados-sustraen-y-divulgan-datos-personales-de-clientes-al-marcharse-de-su-empresa/)
   * **Fuente**: Jan Carlos Franco
   * **Descripción**:la AEPD publicó el procedimiento sancionador PS/00461/2020 (el “Procedimiento”) sobre la brecha de seguridad de datos personales causada por dos exempleados de CaixaBank S.A. (“CaixaBank”), los cuales, al marcharse de su empresa, sustrajeron y divulgaron a terceros ajenos a la entidad datos personales de clientes.
