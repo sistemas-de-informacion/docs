@@ -175,6 +175,12 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Solución**: Existe una empresa de software de corporación multinacional estadounidense que tiene productos especializados en el tratamiento de los "insider threats" y concretamente con la monitorización de las actividades de los usuarios en una empresa.
   Es la siguiente : *[Forcepoint](https://www.forcepoint.com/es/security/insider-threat)*
 
+* [El exvicepresidente de una subsidiaria de Proofpoint se lleva propiedad intelectual de la empresa a su nuevo empleador](https://www.theregister.com/2021/08/24/proofpoint_wins_14m_vade/)
+  * **Fuente**: Cristina Marzo Pardos
+  * **Descripción**: La empresa de seguridad informática Proofpoint consigue una indemnización de 14 millones de dólares de Oliver Lemarié y la empresa de seguridad informática Vade, rival de Proofpoint. Según un jurado federal de California, Lemarié se apropió indebidamente de secretos comerciales relativos a la plataforma de detección de spear-fishing Trident de Cloudmark, filial de Proofpoint, y los compartió con su nuevo empleador, Vade Secure.
+  * **Estrategia**: Se podría implantar un repositorio central de documentación que incorpore control de versiones y que registre todas las actualizaciones, visualizaciones y descargas por parte de los empleados en cada documento. Además, en el caso de las descargas, se crearía el documento de tal forma que esté vinculado con su identificador de empleado, y una vez este deje de ser válido porque el empleado ya no sigue trabajando en la empresa, el documento sea inaccesible.
+  * **Solución**: Existe una solución en forma de SaaS de detección y respuesta a amenazas internas llamada [Incydr](https://www.code42.com/incydr/), que destaca en primer lugar entre sus funcionalidades la detección de la filtración de documentos a través de navegadores web, USB, aplicaciones de cloud, email, etc.
+
 ### 2020
 
 * [Investigación sobre robo de propiedad intelecutal en General Electric](https://www.fbi.gov/news/stories/two-guilty-in-theft-of-trade-secrets-from-ge-072920)*
@@ -182,6 +188,17 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: Tras siete años de investigación, el FBI ha conseguido desenmascarar la duplicidad de Jean Patrice Delia y su socio Miguel Serna, empleados de GE que robaron más de 8000 archivos confidenciales. Las autoridades demostraron robaron el robo de elementos de un programa informático y un modelo matemático que GE utilizaba para calibrar de forma experta las turbinas utilizadas en las centrales eléctricas, para ello tuvieron la colaboración de un informático que permitió el acceso a Delia a dichos archivos. Para dar salida a estos archivos, constituyeron una empresa en Canadá, la cual se presentó como un competidor de GE para un contrato en Arabia Saudí. Tras mucho tiempo de investigación, las pruebas encontradas en un portátil que llevaba encima Serna al ser detenido en Detroit, hicieron a ambos confesarse culpables del delito.
   * **Estrategia**: Para evitar problemas de este estilo, se debería controlar la concesión de permisos a los nuevos usuarios que tienen acceso a información sensible, monitorizando sus acciones y realizando un seguimiento que permita detectar actividades extrañas, así como bloquear el acceso si estas ocurren (llevando a cabo una investigación).
   * **Solución**:  Existen diversas soluciones a nivel software que podrían aplicarse en determinada compañía como pueden ser *[Openhrms](https://www.openhrms.com/)* que es una base de datos que contiene los permisos de los distintos usuarios de la compañía, o [Forcepoint](https://www.forcepoint.com/es/security/insider-threat)* que tiene servicios encargados de la monitorización de las actividad de un determinado usuario o trabajador. Desde mi punto de vista se podria implementar una solución software que avisase al responsable de la empresa si un permiso de acceso ha sido modificado sin su consentimiento, así como de cada descarga no autorizada que se realice.
+
+
+
+* [Exempleado de General Electric (GE) fue sentenciado por conspirar para robar secretos comerciales para China](https://www.foxbusiness.com/politics/former-ge-employee-sentenced-conspiring-steal-trade-secrets-china)
+  * **Fuente**:  Rubén Albacete Seren
+  * **Descripción**: Un exempleado de GE fue sentenciado en 2020 por conspirar para robar secretos comerciales de la empresa y transferirlos a empresas en China. El empleado había trabajado en GE durante más de 10 años y había accedido a información confidencial relacionada con tecnología de turbinas de gas, que planeaba robar y vender a empresas chinas.
+  * **Estrategia**:  Para prevenir este tipo de amenazas se podría implementar un sistema de gestión de derechos digitales (DRM), de modo que la empresa sería capaz de controlar el acceso a sus activos digitales, establecer políticas claras de acceso y uso, y monitorear la actividad de los usuarios para detectar comportamientos sospechosos. Y más importante aún, podría eliminar automáticamente los derechos de acceso a activos digitales en caso de que un empleado deje la empresa, reduciendo así el riesgo de que se transfieran activos a terceros.
+  * **Solución**:  El software de DRM de Microsoft, [Azure RMS](https://learn.microsoft.com/es-es/azure/information-protection/what-is-azure-rms), permite a las empresas proteger sus datos confidenciales en la nube y controlar el acceso a ellos, tanto dentro como fuera de la organización. Además, también proporciona funciones de monitoreo y generación de informes para detectar comportamientos sospechosos.
+
+
+
 
 ### 2021
 
@@ -398,6 +415,14 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: El empleado tenía acceso a datos comprometidos que no tenían que ver con su trabajo. Con un sistema de información basado en roles que impiediera al empleado acceder a datos que no tuvieran que ver con su trabajo se podría haber mitigado parcialmente, pero no impide el robo de datos que si le sean relevantes. Para ello se podría hacer una monitorización del trabajo del empleado, impidiendo el uso de herramientas como Dropbox.
   * **Solución**: [Snort](https://www.snort.org/) es un proyecto open-sourced que utiliza una serie de reglas que detectan el uso malicioso de la actividad de una red y genera alertas acorde a ello ([por ejemplo Droxbox](https://www.snort.org/rule-docs/1-18609)). Se puede aplicar directamente en la red de la empresa y se actualiza constantemente.
 
+
+* [Former McAfee employees conspired to take ‘secret sauce’ to Tanium, lawsuit says](https://cyberscoop.com/mcafee-lawsuit-tanium-employees-secret-sauce)
+  * **Fuente**: Alejandro Sanz del Río
+  * **Descripción**: La empresa McAfee denuncia que 3 de sus ex-empleados robaron datos de clientes potenciales, tácticas de ventas y sus estrategias para llevarlas a Tanium, otra empresa dedicada a seguridad.
+  * **Estrategia**: Aparte de realizar acuerdos de confidencialidad y no competencia, la estrategia sería controlar y monitorear el acceso a la información confidencial implementando medidas de seguridad, como sistemas de monitoreo de actividad en línea y restricciones de acceso, para rastrear y controlar el acceso a información.
+  * **Solución**: Una posible solución está en usar un módulo HRMS con estas características como es [Workday](https://www.workday.com/). Este ofrece un sistema de auditoría completo que registra todas las actividades de los usuarios y permite configurar reglas de alerta para detectar acciones inusuales o sospechosas, pudiendo prevenir o mitigar así filtraciones de datos.
+
+
 ### 2020
 
 * [Marriott leaked data because of a compromised third-party app](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
@@ -413,6 +438,12 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Solución**: Shopify podría haber evitado este infortunio contando con el apoyo software que proporciona [Proofpoint](https://www.proofpoint.com/es/products/information-protection/insider-threat-management) una empresa que ofrece software como servicio y productos para la prevención de pérdida de datos.
 
 ### 2021
+
+* [Proofpoint Alleges Ex-Exec Took Trade Secrets To Abnormal Security](https://www.crn.com/news/security/proofpoint-alleges-ex-exec-took-trade-secrets-to-abnormal-security)
+  * **Fuente**: Adrián Arribas Mateo
+  * **Descripción**: En julio de 2021, Samuel Boone, un ex-empleado de Proofpoint robó datos confidenciales antes de empezar un nuevo puesto de trabajo en la empresa competidora Abnormal Security. La solución con la que contaba la propia Proofpoint para prevenir la pérdida de datos no pudo impedir que el empleado descargara documentos de gran valor y los transfiriera a un USB y finalmente, compartirlos con la nueva empresa. Meses después de su salida, Proofpoint descubrió el robo de datos y llevó el caso a los juzgados acusando al ex-empleado de compartir ilegalmente datos que podrían dar a la empresa competidora y al nuevo empleado una ventaja injusta y afirmaron que Boone "ha amenazado con infligir daños competitivos a incalculable largo plazo".
+  * **Estrategia**: Tal y como se ha comentado, el propio software con el que cuenta Proofpoint no puedo prevenir este caso, por este motivo deberían ampliar su seguridad utilizando otro tipo de alternativas para la transferencia y uso de ficheros que ofrezcan servicios de control, como por ejemplo, la nube. Evitando así que un empleado haga un uso fraudulento de los archivos descargándolos a dispositivos como el USB tal y como el caso que se está exponiendo. 
+  * **Solución**: La solución propuesta podría ser el [servicio Storage del Cloud de Google](https://cloud.google.com/storage?hl=es-419), el cual incluye políticas de control de acceso, dando respuesta al problema que sufrió Proofpoint 
 
 * [Dos exempleados sustraen y divulgan datos personales de clientes al marcharse de su empresa](https://rgpdblog.com/dos-exempleados-sustraen-y-divulgan-datos-personales-de-clientes-al-marcharse-de-su-empresa/)
   * **Fuente**: Jan Carlos Franco
