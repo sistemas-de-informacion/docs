@@ -64,15 +64,22 @@ uno de ellos.
   * **Estrategia**: El problema estaba en que no habia un control de acceso seguro ya que con la cuenta de otro usuario se podía acceder facílmente a datos sensibles y no había una monitorización de las cuentas de correo de los empleados que eran usadas para transferir los datos. Hay que monitorizar las cuentas de correo para buscar traspaso de grandes volumenes de datos y usar otras técnicas de autentificación mas seguras, como huellas digitales, por ejemplo.
   * **Solución**: Utilizando este software <https://www.aware.com/es/biometricos/workbenchsuite/> , se podrían reconocer a los usuarios que acceden a cualquier sitio mediante huellas dáctilares o mediante reconocimiento facial. Para monitorizar emails se puede usar <https://www.paessler.com/es/email_monitoring> que permite supervisar los mensajes con sensores para POP3, IMAP y SMTP.
 
+* [Tres exempleados de Barclays, culpables de manipular el líbor](https://elpais.com/economia/2016/07/04/actualidad/1467658515_852381.html?event=go&event_log=go&prod=REGCRART&o=cerrado)
+  * **Fuente:** Rael Clariana Pascual
+  * **Descripción**: Tres empleados fueron considerados culpables de manipulación del LIBOR en 2012. Los empleados, incluido un ex director y dos operadores senior, fueron acusados de conspirar para manipular el LIBOR y engañar a los mercados, lo que resultó en beneficios financieros para Barclays y sus operadores. La manipulación del LIBOR afectó a los préstamos y otros productos financieros que se basan en el LIBOR, y tuvo un impacto negativo en la confianza en los mercados financieros. Como resultado, Barclays enfrentó multas y una disminución de su reputación en la industria financiera.
+  * **Estrategia**: La implementación de un sistema de monitoreo y alerta temprana.Este sistema de monitoreo podría estar diseñado para analizar los datos históricos y en tiempo real de la fijación del LIBOR, identificar patrones sospechosos de comportamiento y generar alertas cuando se detecten anomalías.
+  * **Solución**: [Oracle HCM Cloud](https://www.oracle.com/pe/human-capital-management/) permite gestionar y hacer un seguimiento de las políticas y regulaciones relacionadas con la presentación de las tasas de referencia. Además, el sistema utiliza técnicas avanzadas de análisis de datos para identificar patrones de comportamiento inusuales y detectar posibles manipulaciones del LIBOR.
+
 ### 2013
 
-* [Soldier Receives 16-Year Sentence for Attempted Espionage](https://www.fbi.gov/news/stories/2013/april/soldier-receives-16-year-sentence-for-attempted-espionage) 
+* [Soldier Receives 16-Year Sentence for Attempted Espionage](https://www.fbi.gov/news/stories/2013/april/soldier-receives-16-year-sentence-for-attempted-espionage)
   * **Fuente**: Manuel Herrero, Corregido Javier Pardos
   * **Descripción**: Un oficial de policia militar es condenado a una pena de carcel de 16 años en Alaska por sus intentos de venta de documentos clasificados a un oficial de inteligencia ruso. El oficial habia hablado con otros miembro para solicitar su ayuda para la venta de informacion. Su arresto fue posible debido a que en realidad estaba negociando con un agente encubierto del FBI.
   * **Estrategia**: En primer lugar, seria importante concienciar a los militares sobre cualquier comportamiento sospechoso o actividad que pueda indicar una posible amenaza interna. Por otra parte, se deberia implementar un sistema para limitar el acceso a informacion clasificada, como controles de acceso a los diferente documentos y la monitorizacion continua de estos.
-  * **Solucion**: [Workday](https://www.workday.com) es un software de recursos humanos que ofrece varias soluciones para el control de acceso y gestion de privilegios. En este caso, esta herramienta tiene un modulo de fraude que esta provisto de inteligencia artificial para analizar comportamientos inusuales / actividades sospechosas en tiempo real y la creacion de informes. 
+  * **Solucion**: [Workday](https://www.workday.com) es un software de recursos humanos que ofrece varias soluciones para el control de acceso y gestion de privilegios. En este caso, esta herramienta tiene un modulo de fraude que esta provisto de inteligencia artificial para analizar comportamientos inusuales / actividades sospechosas en tiempo real y la creacion de informes.
 
 * [Economic Espionage: Competing For Trade By Stealing Industrial Secrets](https://leb.fbi.gov/2013/october-november/economic-espionage-competing-for-trade-by-stealing-industrial-secrets) (Fuente: Jesús Bintaned)
+
 * [Submarine Data Leak](https://www.defensenews.com/naval/2016/08/26/submarine-data-leak-roils-three-governments/)
   * **Fuente**: Ramón Jarauta
   * **Descripción**: Un empleado descontento expuso detalles confidenciales sobre nuevos submarinos Scorpene de India en una compleja operación que involucró a múltiples gobiernos, empleados y contratistas. Según Defense News, se expusieron unas 24,000 páginas de información clasificada. La noticia relata que un empleado despedido eligió copiar datos en un disco, enviarlos por correo y, finalmente, compartirlos con un periodista.
@@ -125,6 +132,17 @@ Los métodos que utilizó para acceder a los secretos de la empresa fueron: enga
   * **Estrategia**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, dando solo los estrictamente necesarios a cada empleado, e incluso cambiando la forma de autenticarse por algo más difícil de robar que una contraseña. Además, también se debería formar a los empleados (especialmente a los que tengan más privilegios de acceso) para que sean conscientes de que sus credenciales son importantes y que no deben compartirse con otros trabajadores. Otra medida necesaria sería la creación de un historial de acciones que puedan resultar sospechosas o poco habituales para cada empleado, de forma que se pudiera detectar actividad desleal o ilícita más fácil y sistemáticamente.
 En este caso particular, ya que aprovechó una visita guiada para obtener datos confidenciales, la empresa debería asegurarse de tener bajo control a los visitantes.
 
+### 2018
+
+* [NSA Contractor's Alleged Theft 'Breathtaking'. Former Intelligence Officer Convicted of Attempted Espionage Sentenced to 10 Years in Federal Prison](https://www.justice.gov/opa/pr/former-intelligence-officer-convicted-attempted-espionage-sentenced-10-years-federal-prison)
+  * **Fuente**: Victor Garcia
+  * **Descripción**: El ex oficial de inteligencia de EE. UU. Ron Rockwell Hansen fue acusado en 2018 por intentar vender inteligencia clasificada de EE. UU. a China.
+  Hansen tenía una condena penal previa por robar un documento clasificado mientras trabajaba para la Marina de los EE. UU. en 1986.
+  El caso planteó preocupaciones sobre la idoneidad de las verificaciones de antecedentes y los procesos de autorización de seguridad para personas con antecedentes penales.
+  * **Estrategia**: Para evitar este tipo de incidentes  estrategia clave es implementar protocolos de seguridad sólidos, como controles de acceso, sistemas de monitoreo y auditoría, y herramientas de prevención de pérdida de datos. Estas medidas pueden ayudar a detectar y prevenir el acceso no autorizado a datos confidenciales, así como a identificar comportamientos inusuales o sospechosos.
+  En casos como este, es primordial que las organizaciones mejoren sus procesos de investigación y selección para empleados y contratistas con acceso a datos confidenciales. Esto incluye realizar verificaciones exhaustivas de antecedentes, evaluar referencias y realizar revisiones periódicas de autorización de seguridad.
+  * **Solución**: Existe una compañia de ciberseguridad llamada *[Forcepoint](https://www.forcepoint.com/es/security/insider-threat)* que tiene productos especializados en el tratamiento de los "insider threats" y concretamente con la monitorización de las actividades de los usuarios en una empresa primordial para evitar casos como este.
+
 ### 2019
 
 * [Un empleado de Dominion envió a Siemens la oferta confidencial presentada por General Electric](https://www.reuters.com/business/finance/ge-alleges-siemens-energy-used-stolen-trade-secrets-rig-contract-bids-2021-01-14/)*
@@ -150,18 +168,18 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**: Instalar un sistema de monitoreo de ficheros, que permita detectar los ficheros descargados por un empleado y así poder comprobar que dicho empleado tenía acceso a esos archivos o si se ha descargado más información que cualquiera de sus compañeros con los mismos privilegios.
   * **Solución**: [File Integrity Monitoring Software](https://www.solarwinds.com/es/security-event-manager/use-cases/file-integrity-monitoring-software) es una tecnología que monitorea y detecta cambios en los archivos. Permite determinar la frecuencia de monitoreo de archivos de suma importancia, así como, enviar alertas en caso de detectar anomalías y realizar informes de resultados.
 
-
-
-
 * [Poland arrests Huawei worker on allegations of spying for China](https://www.theguardian.com/technology/2019/jan/11/huawei-employee-arrested-in-poland-over-chinese-spy-allegations)
   * **Fuente**: Jorge Borque Benedí
   * **Descripción**: Polonia arrestó a un empleado chino de Huawei y a un ciudadano polaco involucrado en negocios cibernéticos por acusaciones de espionaje, informaron los medios estatales polacos, lo que profundizó la controversia sobre las críticas occidentales a la compañía de telecomunicaciones china.
   * **Estrategia**: Para evitar este caso de espionaje se debería de controlar y monitorizar todas las actividades de los usuarios que acceden a la información del sistema, de manera que si exite alguna actividad no supervisada o no esperada que puede resultar sospechosa, se pueda actuar parando la sesión o comenzando un proceso de detención del usuario que la haya llevado a cabo con el objetivo de parar el robo de la información o para evitar pérdidas o modificaciones de esa información almacenada.
-  * **Solución**: Existe una empresa de software de corporación multinacional estadounidense que tiene productos especializados en el tratamiento de los "insider threats" y concretamente con la monitorización de las actividades de los usuarios en una empresa. 
+  * **Solución**: Existe una empresa de software de corporación multinacional estadounidense que tiene productos especializados en el tratamiento de los "insider threats" y concretamente con la monitorización de las actividades de los usuarios en una empresa.
   Es la siguiente : *[Forcepoint](https://www.forcepoint.com/es/security/insider-threat)*
 
-
-
+* [El exvicepresidente de una subsidiaria de Proofpoint se lleva propiedad intelectual de la empresa a su nuevo empleador](https://www.theregister.com/2021/08/24/proofpoint_wins_14m_vade/)
+  * **Fuente**: Cristina Marzo Pardos
+  * **Descripción**: La empresa de seguridad informática Proofpoint consigue una indemnización de 14 millones de dólares de Oliver Lemarié y la empresa de seguridad informática Vade, rival de Proofpoint. Según un jurado federal de California, Lemarié se apropió indebidamente de secretos comerciales relativos a la plataforma de detección de spear-fishing Trident de Cloudmark, filial de Proofpoint, y los compartió con su nuevo empleador, Vade Secure.
+  * **Estrategia**: Se podría implantar un repositorio central de documentación que incorpore control de versiones y que registre todas las actualizaciones, visualizaciones y descargas por parte de los empleados en cada documento. Además, en el caso de las descargas, se crearía el documento de tal forma que esté vinculado con su identificador de empleado, y una vez este deje de ser válido porque el empleado ya no sigue trabajando en la empresa, el documento sea inaccesible.
+  * **Solución**: Existe una solución en forma de SaaS de detección y respuesta a amenazas internas llamada [Incydr](https://www.code42.com/incydr/), que destaca en primer lugar entre sus funcionalidades la detección de la filtración de documentos a través de navegadores web, USB, aplicaciones de cloud, email, etc.
 
 ### 2020
 
@@ -170,6 +188,17 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: Tras siete años de investigación, el FBI ha conseguido desenmascarar la duplicidad de Jean Patrice Delia y su socio Miguel Serna, empleados de GE que robaron más de 8000 archivos confidenciales. Las autoridades demostraron robaron el robo de elementos de un programa informático y un modelo matemático que GE utilizaba para calibrar de forma experta las turbinas utilizadas en las centrales eléctricas, para ello tuvieron la colaboración de un informático que permitió el acceso a Delia a dichos archivos. Para dar salida a estos archivos, constituyeron una empresa en Canadá, la cual se presentó como un competidor de GE para un contrato en Arabia Saudí. Tras mucho tiempo de investigación, las pruebas encontradas en un portátil que llevaba encima Serna al ser detenido en Detroit, hicieron a ambos confesarse culpables del delito.
   * **Estrategia**: Para evitar problemas de este estilo, se debería controlar la concesión de permisos a los nuevos usuarios que tienen acceso a información sensible, monitorizando sus acciones y realizando un seguimiento que permita detectar actividades extrañas, así como bloquear el acceso si estas ocurren (llevando a cabo una investigación).
   * **Solución**:  Existen diversas soluciones a nivel software que podrían aplicarse en determinada compañía como pueden ser *[Openhrms](https://www.openhrms.com/)* que es una base de datos que contiene los permisos de los distintos usuarios de la compañía, o [Forcepoint](https://www.forcepoint.com/es/security/insider-threat)* que tiene servicios encargados de la monitorización de las actividad de un determinado usuario o trabajador. Desde mi punto de vista se podria implementar una solución software que avisase al responsable de la empresa si un permiso de acceso ha sido modificado sin su consentimiento, así como de cada descarga no autorizada que se realice.
+
+
+
+* [Exempleado de General Electric (GE) fue sentenciado por conspirar para robar secretos comerciales para China](https://www.foxbusiness.com/politics/former-ge-employee-sentenced-conspiring-steal-trade-secrets-china)
+  * **Fuente**:  Rubén Albacete Seren
+  * **Descripción**: Un exempleado de GE fue sentenciado en 2020 por conspirar para robar secretos comerciales de la empresa y transferirlos a empresas en China. El empleado había trabajado en GE durante más de 10 años y había accedido a información confidencial relacionada con tecnología de turbinas de gas, que planeaba robar y vender a empresas chinas.
+  * **Estrategia**:  Para prevenir este tipo de amenazas se podría implementar un sistema de gestión de derechos digitales (DRM), de modo que la empresa sería capaz de controlar el acceso a sus activos digitales, establecer políticas claras de acceso y uso, y monitorear la actividad de los usuarios para detectar comportamientos sospechosos. Y más importante aún, podría eliminar automáticamente los derechos de acceso a activos digitales en caso de que un empleado deje la empresa, reduciendo así el riesgo de que se transfieran activos a terceros.
+  * **Solución**:  El software de DRM de Microsoft, [Azure RMS](https://learn.microsoft.com/es-es/azure/information-protection/what-is-azure-rms), permite a las empresas proteger sus datos confidenciales en la nube y controlar el acceso a ellos, tanto dentro como fuera de la organización. Además, también proporciona funciones de monitoreo y generación de informes para detectar comportamientos sospechosos.
+
+
+
 
 ### 2021
 
@@ -195,7 +224,7 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Fuente**: Miguel Beltrán Pardos
   * **Descripción**: Boeing, una empresa aeroespacial veterana, experimentó un ataque prolongado. De 1979 hasta 2006, un empleado de Boeing robó información de la empresa y de Rockwell. El beneficiado de este empleado era la inteligencia china, que le encargó adquirir información para mejorar sus operaciones espaciales. Además también robó información de fabricación militar.
   * **Estrategia**: El uso de un SIEM hubiera facilitado la localizacion de dicho empleado. Un SIEM es una plataforma que permite la recopilación, correlación, análisis y presentación de eventos y registros de seguridad. Puede funciones de monitoreo continuo de eventos de seguridad, lo que permite una revisión retrospectiva de actividades de usuarios y entidades para identificar patrones de comportamiento sospechoso en el pasado y ayudar en la investigación de incidentes.
-  * **Solución**: [Oracle HCM Cloud](https://www.oracle.com/ar/human-capital-management/), este sistema de gestión de recursos humanos ofrece capacidades de seguimiento de actividades de usuario, incluyendo el seguimiento de cambios en los datos de los empleados, registro de actividades de reclutamiento y selección, y seguimiento de accesos y permisos de usuario. También puede generar informes y alertas en caso de actividades inusuales o sospechosas. 
+  * **Solución**: [Oracle HCM Cloud](https://www.oracle.com/ar/human-capital-management/), este sistema de gestión de recursos humanos ofrece capacidades de seguimiento de actividades de usuario, incluyendo el seguimiento de cambios en los datos de los empleados, registro de actividades de reclutamiento y selección, y seguimiento de accesos y permisos de usuario. También puede generar informes y alertas en caso de actividades inusuales o sospechosas.
   
 ### 2008
 
@@ -220,7 +249,6 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**:  Exempleado de la Agencia de Seguridad Nacional (NSA) de Estados Unidos, Nghia Hoang Pho, fue condenado a cinco años y medio por llevarse a casa material clasificado de la agencia. Pho era miembro de la unidad de piratería de la NSA, Tailored Access Operations, y comenzó a llevarse material clasificado en 2010. Los investigadores descubrieron la infracción en marzo de 2015. Pho se declaró culpable en diciembre de 2017 de retener información de defensa nacional. El gobierno cree que Pho es el empleado de la NSA que llevó a casa partes del arsenal de piratería de la NSA que luego fueron robadas por agentes de inteligencia rusos a través del software antivirus Kaspersky.
   * **Estrategia**: Una clara estrategia para solucionar este problema es elevar el control de la información considerada como confidencial o sensible, para ello se debe controlar todo el acceso a esos documentos.
   * **Solución**: Un software que solocuinaria este problema seria [Microsoft Azure Information Protection](https://azure.microsoft.com/es-es/solutions/information-protection/) ya que proporciona un servicio en la nube con una protección avanzada de datos, incluyendo el control de acceso y la gestión de derechos de autor para archivos y documentos sensibles.
-
 
 ### 2011
 
@@ -387,6 +415,14 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: El empleado tenía acceso a datos comprometidos que no tenían que ver con su trabajo. Con un sistema de información basado en roles que impiediera al empleado acceder a datos que no tuvieran que ver con su trabajo se podría haber mitigado parcialmente, pero no impide el robo de datos que si le sean relevantes. Para ello se podría hacer una monitorización del trabajo del empleado, impidiendo el uso de herramientas como Dropbox.
   * **Solución**: [Snort](https://www.snort.org/) es un proyecto open-sourced que utiliza una serie de reglas que detectan el uso malicioso de la actividad de una red y genera alertas acorde a ello ([por ejemplo Droxbox](https://www.snort.org/rule-docs/1-18609)). Se puede aplicar directamente en la red de la empresa y se actualiza constantemente.
 
+
+* [Former McAfee employees conspired to take ‘secret sauce’ to Tanium, lawsuit says](https://cyberscoop.com/mcafee-lawsuit-tanium-employees-secret-sauce)
+  * **Fuente**: Alejandro Sanz del Río
+  * **Descripción**: La empresa McAfee denuncia que 3 de sus ex-empleados robaron datos de clientes potenciales, tácticas de ventas y sus estrategias para llevarlas a Tanium, otra empresa dedicada a seguridad.
+  * **Estrategia**: Aparte de realizar acuerdos de confidencialidad y no competencia, la estrategia sería controlar y monitorear el acceso a la información confidencial implementando medidas de seguridad, como sistemas de monitoreo de actividad en línea y restricciones de acceso, para rastrear y controlar el acceso a información.
+  * **Solución**: Una posible solución está en usar un módulo HRMS con estas características como es [Workday](https://www.workday.com/). Este ofrece un sistema de auditoría completo que registra todas las actividades de los usuarios y permite configurar reglas de alerta para detectar acciones inusuales o sospechosas, pudiendo prevenir o mitigar así filtraciones de datos.
+
+
 ### 2020
 
 * [Marriott leaked data because of a compromised third-party app](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
@@ -401,13 +437,27 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Segun este [comunicado oficial](https://community.shopify.com/c/shopify-discussions/incident-update/m-p/888971) de Shopify, la información personal que fue robada fue debido a que estaban involucrados en un esquema para obtener registros de transacciones de clientes de ciertos comerciantes. Shopify no ha querido dar más datos de como era el esquema en el que estaban operando.
   * **Solución**: Shopify podría haber evitado este infortunio contando con el apoyo software que proporciona [Proofpoint](https://www.proofpoint.com/es/products/information-protection/insider-threat-management) una empresa que ofrece software como servicio y productos para la prevención de pérdida de datos.
 
+### 2021
+
+* [Proofpoint Alleges Ex-Exec Took Trade Secrets To Abnormal Security](https://www.crn.com/news/security/proofpoint-alleges-ex-exec-took-trade-secrets-to-abnormal-security)
+  * **Fuente**: Adrián Arribas Mateo
+  * **Descripción**: En julio de 2021, Samuel Boone, un ex-empleado de Proofpoint robó datos confidenciales antes de empezar un nuevo puesto de trabajo en la empresa competidora Abnormal Security. La solución con la que contaba la propia Proofpoint para prevenir la pérdida de datos no pudo impedir que el empleado descargara documentos de gran valor y los transfiriera a un USB y finalmente, compartirlos con la nueva empresa. Meses después de su salida, Proofpoint descubrió el robo de datos y llevó el caso a los juzgados acusando al ex-empleado de compartir ilegalmente datos que podrían dar a la empresa competidora y al nuevo empleado una ventaja injusta y afirmaron que Boone "ha amenazado con infligir daños competitivos a incalculable largo plazo".
+  * **Estrategia**: Tal y como se ha comentado, el propio software con el que cuenta Proofpoint no puedo prevenir este caso, por este motivo deberían ampliar su seguridad utilizando otro tipo de alternativas para la transferencia y uso de ficheros que ofrezcan servicios de control, como por ejemplo, la nube. Evitando así que un empleado haga un uso fraudulento de los archivos descargándolos a dispositivos como el USB tal y como el caso que se está exponiendo. 
+  * **Solución**: La solución propuesta podría ser el [servicio Storage del Cloud de Google](https://cloud.google.com/storage?hl=es-419), el cual incluye políticas de control de acceso, dando respuesta al problema que sufrió Proofpoint 
+
+* [Dos exempleados sustraen y divulgan datos personales de clientes al marcharse de su empresa](https://rgpdblog.com/dos-exempleados-sustraen-y-divulgan-datos-personales-de-clientes-al-marcharse-de-su-empresa/)
+  * **Fuente**: Jan Carlos Franco
+  * **Descripción**:la AEPD publicó el procedimiento sancionador PS/00461/2020 (el “Procedimiento”) sobre la brecha de seguridad de datos personales causada por dos exempleados de CaixaBank S.A. (“CaixaBank”), los cuales, al marcharse de su empresa, sustrajeron y divulgaron a terceros ajenos a la entidad datos personales de clientes.
+  * **Estrategia**: Monitorización del acceso a datos: La empresa debería supervisar el acceso a información confidencial para detectar actividades sospechosas y tomar medidas preventivas en caso de que se detecte una violación de seguridad.
+  * **Solución**: Una posible solución reside en el uso de un software que permita monitorear el acceso a los datos. [BambooHR](https://www.bamboohr.com/blog/access-levels-bamboohr) es una plataforma de gestión de recursos humanos que ofrece una serie de características de seguridad, incluyendo la monitorización del acceso a datos
+  
 ### 2022
 
 * [Appian: el juez rechaza la moción de Pegasystems para anular el veredicto del jurado de $ 2 mil millones](https://markets.businessinsider.com/news/stocks/appian-judge-rejects-pegasystems-motion-to-overturn-2-billion-jury-verdict-1031748212)
   * **Fuente**: Acher Egido Mairal
   * **Descripción**: Pegasystems fue acusado de apropiación indebida de secretos comerciales de Appian, incluyendo la contratación de un empleado de un contratista del gobierno para obtener acceso al software de Appian. Appian recibió $2.036 mil millones en daños, lo que supone la mayor indemnización por perjuicios en los Tribunales estatales de Virginia.
   * **Estrategia**: Pegasystems contrató a un empleado de un contratista del gobierno para brndarle a Pegasystems acceso al software de Appian. El contratista ayudó a pegasystems a generar docenas de grabaciones de video del entrono de desarrollo de Appian para que pegasystems utilizase en la compilación de materiales competitivos y para la evaluación de mejoras en su plataforma.
-  * **Solución**: Medidas de detección para identificar cualquier actividad sospechosa de robo de datos y alertar a los responsables de la seguridad de dicha información, como por ejemplo la monitorización del tráfico de red o haciendo actualizaciones regulares del software y parches de seguridad. Esto se puede conseguir utilizando un módulo de HRMS que  sea capaz de detectar dichas intrusiones y robos de información como lo puede ser Workday [Workday] (https://www.workday.com/en-us/products/human-capital-management/human-resource-management.html).
+  * **Solución**: Medidas de detección para identificar cualquier actividad sospechosa de robo de datos y alertar a los responsables de la seguridad de dicha información, como por ejemplo la monitorización del tráfico de red o haciendo actualizaciones regulares del software y parches de seguridad. Esto se puede conseguir utilizando un módulo de HRMS que  sea capaz de detectar dichas intrusiones y robos de información como lo puede ser Workday [Workday](https://www.workday.com/en-us/products/human-capital-management/human-resource-management.html).
 
 * [Exposición de credenciales de Microsoft por error](https://www.techspot.com/news/95651-microsoft-employees-accidentally-exposed-login-credentials-important-internal.html)*
   * **Fuente**: Lucía Beltrán González
@@ -523,11 +573,11 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 
 ### 2012
 
-* [Just 1 Click Of The Mouse Erased Data On 35,000 Computers (Caused By Insider)](https://money.cnn.com/2015/08/05/technology/aramco-hack/) 
+* [Just 1 Click Of The Mouse Erased Data On 35,000 Computers (Caused By Insider)](https://money.cnn.com/2015/08/05/technology/aramco-hack/)
   * **Fuente**: Javier Pardos
   * **Descripción**: En 2012 un tecnico infomrmatico de la compañia petrolera Saudi Aramaco, hizo clic en un enlace malicioso lo que provoco un de los mayores ataques informaticos de la historia. El ataque afecto a 35.000 ordenadores y costó a la compañía 10 millones de dólares al no poder acceder a sus sistemas. Este ataque provoco que esta compañia volviese a la tecnologia de los años 70, implementando maquinas de escribir y fax.
   * **Estrategia**: Principalmente esta amenaza se podria evitar con la concienciacion de los empleados que trabajan en sus instalaciones (formacion, etc). Aunque tambien es necesario una inversion en medidas de seguridad adecuadas como firewalls, antivirus, etc. e incluso un plan de recuperacion de datos en caso que se produzca un ataque como este.
-  * **Solucion**: Respecto a la posibilidad de evitar amenazas externas se podria usar [Mimecast](https://www.mimecast.com) que es un software para el control de amenazas que permite a las empresas protegerse de ataques de phishing, ransomware, malware y otras amenazas de seguridad. En cambio para una posible recuperacion de datos se podria usar [Acronis Cyber Backup ](https://www.acronis.com/es-es/products/cyber-protect/backup/) que es un software especializado en la recuperacion de informacion en casos de ransonware o desastres naturales.
+  * **Solucion**: Respecto a la posibilidad de evitar amenazas externas se podria usar [Mimecast](https://www.mimecast.com) que es un software para el control de amenazas que permite a las empresas protegerse de ataques de phishing, ransomware, malware y otras amenazas de seguridad. En cambio para una posible recuperacion de datos se podria usar [Acronis Cyber Backup](https://www.acronis.com/es-es/products/cyber-protect/backup/) que es un software especializado en la recuperacion de informacion en casos de ransonware o desastres naturales.
 
 ### 2015
 
@@ -582,7 +632,15 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Descripción**: Un empleado de la policía de Dallas borró 8,7 millones de antecedentes policiales equivalentes a 23 TB de información. Estos datos estaban relacionados con aproximadamente 17.500 casos activos, lo que provocó la ralentización de estos procesos judiciales. De los 23TB borrados, solo 3TB consiguieron ser recuperados.
   * **Estrategia**: el incidente ocurrió al mover los datos al cloud y fue debido a que el responsable de IT no tenía los conocimientos necesarios para realizar esta tarea (solo había tomado 2 clases acerca de como realizar el traslado de información). El departamento debió haber monitorizado todas las sesiones en las que se interactuaba con estos datos, de esta forma se habrían dado cuenta del borrado de los datos en tiempo real o se podrían haber creado backups de esta información regularmente.
   * **Solución**: Emplear Software para crear backups como [Veeam](https://www.veeam.com/es/backup-replication-virtual-physical-cloud.html)
+  
+### 2023
 
+* [IOTW: Mailchimp suffers another social engineering attack](https://www.cshub.com/attacks/news/iotw-mailchimp-suffers-another-social-engineering-attack)
+  * **Fuente**: Sergio Berges Aguaviva
+  * **Descripción**: Algunos hackers, mediante phishing, consiguieron que empleados de Mailchimp expusieran sus credenciales de acceso a los sistemas de la empresa. El resultado, más de 133 cuentas de usuarios de la empresa resultaron comprometidas. Algunas de esas cuentas pertenecían a otros negocios.
+  * **Estrategia**: Estos ataques de phishing sufridos por los empleados de la empresa Mailchimp podrían haberse evitado si estos empleados se hubieran apoyado en programas o extensiones que les garantizaran protección frente a las amenazas en línea. Mediante el uso de estos programas se habría evitado por ejemplo el acceso a webs fraudulentas en las que los empleados podrían haber filtrado sus credenciales de acceso a los sistemas de la empresa.
+  * **Solución**: Aunque hay varios, un programa que podrían haber utilizado los empleados de la empresa Mailchimp para protegerse de las amenazas online es [Bitdefender](https://www.bitdefender.es/). Este sistema brinda a los usuarios protección frente al phishing, además de asegurar una manera rápida, segura y anónima de navegar por la web.
+  
 ## Saboteadores
 
 ### 2002
@@ -608,7 +666,7 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 
 ### 2012
 
-* [IT pro gets prison time for sabotaging ex-employer's system](http://www.pcworld.com/article/2158020/it-pro-gets-prison-time-for-sabotaging-exemployers-system.html) 
+* [IT pro gets prison time for sabotaging ex-employer's system](http://www.pcworld.com/article/2158020/it-pro-gets-prison-time-for-sabotaging-exemployers-system.html)
   * **Fuente**: Marina Ariño
   * **Descripción**: Ricky Joe Mitchell exingeniero de la empresa de petróleo y gas EnerVest se enteró en 2012 que iba a ser despedido y decidió restablecer los servidores de la compañía a su configuración de fábrica. También desactivó el equipo de enfriamiento para los sistemas y deshabilitó un proceso de replicación de datos. Esto dejo a EnerVest incapaz de "*comunicarse plenamente o llevar a cabo operaciones comerciales*" durante unos 30 días. Las acciones de Mitchell costaron a EnerVest más de 1 millon de dolares.
   * **Estrategia**: Seleccionar muy bien a quién conceder privilegios (en este caso, para restablecer los servidores o deshabilitar proceso replicación de datos), tener información sensible encriptada, control de presencia: vigilar quién accede o puede acceder a zonas criticas como los servidores o las maquinas de enfriamiento.
@@ -805,6 +863,14 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Estrategia**: Resulta complicado evitar la arrogancia del hombre y su búsqueda de dinero y de poder, pero se puede intentar limitarla guardando información de todas las acciones tomadas por la empresa, dónde más de una persona pueda consultarlos. Además, se debería comprobar el alto riesgo de soborno en los países en los que se hacen negocios (ver [Transparency International](https://www.transparency.org/)). Se deberán llevar registros claros y mantenerlos actualizados (donde se incluya todos los pagos, transacciones...), accediendo a ellos de manera transparente. Para eso, requerirá de un ERP que destaque en las finanzas, gestión documental y transacciones. Como, por ejemplo, Dynamics 365 Business Central.
   * **Solución**: Un módulo de HRMS que permite la gestión central, recuperación y digitalización de documentos es [Document Capture](https://www.continia.com/es/soluciones-para-nav-business-central-on-premises/document-capture/), que viene integrado con Dynamics 365 Business. Además, permite acceder a los documentos desde cualquier lugar.
 
+### 2022
+
+* [Un contratista de defensa de San Diego es sentenciado por vender información al gobierno chino](https://www.sandiegouniontribune.com/en-espanol/noticias/ut-espanol/articulo/2022-11-08/un-contratista-de-defensa-de-san-diego-es-sentenciado-por-vender-informacion-al-gobierno-chino)
+  * **Fuente**: Jesús Lizama Moreno
+  * **Descripción**: Un contratista de defensa de San Diego, Shapour Moinian, vendió información confidencial de sus empleadores a un agente del gobierno chino. El contratista tenía acceso privilegiado a información y materiales de defensa que eran propiedad de las empresas contratistas para las que trabajaba, lo que le permitió aprovecharse de su posición para vender dicha información a una entidad extranjera. 
+  * **Estrategia**: La implementación de una política de seguridad de la información y una capacitación continua para los empleados sobre los riesgos de la divulgación de información confidencial. Además de mentalizar a los empleados se podría realizar una gerarquia de roles y que un usario no pudiese descargar información de la empresa, via USB en este caso, sin consentimiento de un superior y una justificación.
+  * **Solución**: Un software compatible con esta estrategia podría ser el módulo de gestión de la seguridad de la información (ISM) de SAP  [SuccessFactors](https://www.sap.com/products/hcm.html), que ayuda a las empresas a implementar una política de seguridad de la información y a monitorear y mitigar los riesgos de seguridad. Ademas de un software que no permita descargar información via [USB](https://www.ekransystem.com/en/product/usb-blocking/) 
+
 ### 2020
 
 * [Nintendo source code for N64, wii and gamecube leaked](https://www.bankinfosecurity.com/nintendo-source-code-for-n64-wii-gamecube-leaked-a-14220)
@@ -826,32 +892,23 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   También, se puede regular el tráfico desde los puntos de acceso a la nube y aplicar políticas de encriptado en los datos que se transmiten al exterior, mediante un [CASB](https://www.netskope.com/es/Sobre-los-CASB).
   Además se puede prohibir la descarga de cualquier dato.
 
-<<<<<<< Updated upstream
-* [Asesinar a Biden": el New York Post denunció que fue hackeado en Twitter] (https://www.theguardian.com/media/2022/oct/27/for-the-slug-new-york-post-hacked-twitter-website)
+* [Asesinar a Biden: el New York Post denunció que fue hackeado en Twitter](https://www.theguardian.com/media/2022/oct/27/for-the-slug-new-york-post-hacked-twitter-website)
   * **Fuente**: Juliana Zordan
   * **Descripción**: El diario de New York Post denunció este jueves que fue "hackeado" por uno de sus empleados que publicó tuits que pedían el asesinato de figuras políticas, incluido el presidente de Estados Unidos, Joe Biden, a menos de un mes de las elecciones de medio término.
   * **Estrategia**: La empresa debe restringir el acceso solo a aquellos empleados que necesiten ingresar a la cuenta para realizar su trabajo. Además, es importante restringirlo mediante el uso de contraseñas fuertes y autenticación de dos factores, y en entrenamiento en seguridad a otros empleados.
-  * **Solución**: Utilizar  Hootsite para el monitoreo de la actividad de la cuenta [HootSuite] (https://hootsuite.com).
+  * **Solución**: Utilizar  Hootsite para el monitoreo de la actividad de la cuenta [HootSuite](https://hootsuite.com).
   HootSuite es una plataforma web y móvil para gestionar redes sociales por parte de personas u organizaciones. Con esta herramienta se pueden realizar diferentes funciones (programación de publicaciones,monitoreo de redes sociales, análisis de redes sociales e integración de aplicaciones de terceros).
-  De esta aplicación nos interesa el monitoreo de la cuenta pues facilita el seguimiento de la actividad y la participación en las redes sociales y a tener control sobre estas. 
-
-* [Asesinar a Biden": el New York Post denunció que fue hackeado en Twitter] (https://www.theguardian.com/media/2022/oct/27/for-the-slug-new-york-post-hacked-twitter-website)
-  * **Fuente**: Juliana Zordan
-  * **Descripción**: El diario de New York Post denunció este jueves que fue "hackeado" por uno de sus empleados que publicó tuits que pedían el asesinato de figuras políticas, incluido el presidente de Estados Unidos, Joe Biden, a menos de un mes de las elecciones de medio término.
-  * **Estrategia**: La empresa debe restringir el acceso solo a aquellos empleados que necesiten ingresar a la cuenta para realizar su trabajo. Además, es importante restringirlo mediante el uso de contraseñas fuertes y autenticación de dos factores, y en entrenamiento en seguridad a otros empleados.
-  * **Solución**: Utilizar  Hootsite para el monitoreo de la actividad de la cuenta [HootSuite] (https://hootsuite.com).
-  HootSuite es una plataforma web y móvil para gestionar redes sociales por parte de personas u organizaciones. Con esta herramienta se pueden realizar diferentes funciones (programación de publicaciones,monitoreo de redes sociales, análisis de redes sociales e integración de aplicaciones de terceros).
-  De esta aplicación nos interesa el monitoreo de la cuenta pues facilita el seguimiento de la actividad y la participación en las redes sociales y a tener control sobre estas. 
+  De esta aplicación nos interesa el monitoreo de la cuenta pues facilita el seguimiento de la actividad y la participación en las redes sociales y a tener control sobre estas.
 
 ### 2023
 
-* [Feds Describe Intelligence Leak Probe as Criminal Matter] (https://www.bankinfosecurity.com/feds-describe-intelligence-leak-probe-as-criminal-matter-a-21682)
+* [Feds Describe Intelligence Leak Probe as Criminal Matter](https://www.bankinfosecurity.com/feds-describe-intelligence-leak-probe-as-criminal-matter-a-21682)
   * Fuente: Pablo López
   * Descripción: Personal militar de IT de bajo nivel de Estados Unidos es detenido por el FBI por sospecha de filtracion de documentos clasificados en su servidor de Discord. Estos documentos podrian incluir desde informes de evaluación de la guerra de Rusia y Ucrania hasta informes de inteligencia sobre misiles norcoreanos.
   * Estrategia: Una forma en la que podría haber sido evitado este incidente es que la empresa hubiera implementado un sistema de control de acceso basado en roles, de tal manera que solo los empleados que necesitan acceder a los documentos clasificados puedan hacerlo. Estos sistemas habitualmente se llaman RBAC (Role Based Access Control).
   * Solución: Utilizar un sistema de control de acceso basado en roles, como por ejemplo [Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview). Es muy probable que el ejercito de Estados Unidos ya tenga implementado un sistema de este tipo, pero debería revisarse para asegurarse de que se cumplan las políticas de seguridad.
-=======
-  ### 2015
+
+### 2015
 
 * [Un tribunal británico ve ilegal compartir datos de inteligencia con EEUU](https://www.reuters.com/article/oesen-vigilancia-reino-unido-idESKBN0LA1ES20150206)
   * **Fuente**: Carlos Bellvis Irache
@@ -859,4 +916,3 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Estrategia**: Resulta esencial ser muy cuidadoso al elegir quiénes pueden recibiri ciertos permisos o privilegios dentro de una empresa para acceder a una información específica.
   * **Solución**: Establecer medidas de seguridad: se deben establecer medidas de seguridad robustas para proteger los datos personales y garantizar que no sean vulnerables a intrusiones o hackeos. Esto se puede conseguir con la implementación de sistemas de encriptación, firewalls y otras tecnologías de seguridad.
   Se puede introducir como ejemplo AceroDocs [IRM] (https://www.acerodocs.com/es/).
->>>>>>> Stashed changes
