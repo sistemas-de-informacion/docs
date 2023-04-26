@@ -131,6 +131,17 @@ Los métodos que utilizó para acceder a los secretos de la empresa fueron: enga
   * **Estrategia**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, dando solo los estrictamente necesarios a cada empleado, e incluso cambiando la forma de autenticarse por algo más difícil de robar que una contraseña. Además, también se debería formar a los empleados (especialmente a los que tengan más privilegios de acceso) para que sean conscientes de que sus credenciales son importantes y que no deben compartirse con otros trabajadores. Otra medida necesaria sería la creación de un historial de acciones que puedan resultar sospechosas o poco habituales para cada empleado, de forma que se pudiera detectar actividad desleal o ilícita más fácil y sistemáticamente.
 En este caso particular, ya que aprovechó una visita guiada para obtener datos confidenciales, la empresa debería asegurarse de tener bajo control a los visitantes.
 
+### 2018
+* [NSA Contractor's Alleged Theft 'Breathtaking'Former Intelligence Officer Convicted of Attempted Espionage Sentenced to 10 Years in Federal Prison](https://www.justice.gov/opa/pr/former-intelligence-officer-convicted-attempted-espionage-sentenced-10-years-federal-prison)
+  * **Fuente**: Victor Garcia
+  * **Descripción**: El ex oficial de inteligencia de EE. UU. Ron Rockwell Hansen fue acusado en 2018 por intentar vender inteligencia clasificada de EE. UU. a China.
+Hansen tenía una condena penal previa por robar un documento clasificado mientras trabajaba para la Marina de los EE. UU. en 1986.
+El caso planteó preocupaciones sobre la idoneidad de las verificaciones de antecedentes y los procesos de autorización de seguridad para personas con antecedentes penales.
+ * **Estrategia**: Para evitar este tipo de incidentes  estrategia clave es implementar protocolos de seguridad sólidos, como controles de acceso, sistemas de monitoreo y auditoría, y herramientas de prevención de pérdida de datos. Estas medidas pueden ayudar a detectar y prevenir el acceso no autorizado a datos confidenciales, así como a identificar comportamientos inusuales o sospechosos.
+En casos como este, es primordial que las organizaciones mejoren sus procesos de investigación y selección para empleados y contratistas con acceso a datos confidenciales. Esto incluye realizar verificaciones exhaustivas de antecedentes, evaluar referencias y realizar revisiones periódicas de autorización de seguridad.
+ * **Solución**: Existe una compañia de ciberseguridad llamada *[Forcepoint](https://www.forcepoint.com/es/security/insider-threat)* que tiene productos especializados en el tratamiento de los "insider threats" y concretamente con la monitorización de las actividades de los usuarios en una empresa primordial para evitar casos como este.
+
+
 ### 2019
 
 * [Un empleado de Dominion envió a Siemens la oferta confidencial presentada por General Electric](https://www.reuters.com/business/finance/ge-alleges-siemens-energy-used-stolen-trade-secrets-rig-contract-bids-2021-01-14/)*
