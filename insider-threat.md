@@ -832,6 +832,14 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Estrategia**: Resulta complicado evitar la arrogancia del hombre y su búsqueda de dinero y de poder, pero se puede intentar limitarla guardando información de todas las acciones tomadas por la empresa, dónde más de una persona pueda consultarlos. Además, se debería comprobar el alto riesgo de soborno en los países en los que se hacen negocios (ver [Transparency International](https://www.transparency.org/)). Se deberán llevar registros claros y mantenerlos actualizados (donde se incluya todos los pagos, transacciones...), accediendo a ellos de manera transparente. Para eso, requerirá de un ERP que destaque en las finanzas, gestión documental y transacciones. Como, por ejemplo, Dynamics 365 Business Central.
   * **Solución**: Un módulo de HRMS que permite la gestión central, recuperación y digitalización de documentos es [Document Capture](https://www.continia.com/es/soluciones-para-nav-business-central-on-premises/document-capture/), que viene integrado con Dynamics 365 Business. Además, permite acceder a los documentos desde cualquier lugar.
 
+### 2022
+
+* [Un contratista de defensa de San Diego es sentenciado por vender información al gobierno chino](https://www.sandiegouniontribune.com/en-espanol/noticias/ut-espanol/articulo/2022-11-08/un-contratista-de-defensa-de-san-diego-es-sentenciado-por-vender-informacion-al-gobierno-chino)
+  * **Fuente**: Jesús Lizama Moreno
+  * **Descripción**: Un contratista de defensa de San Diego, Shapour Moinian, vendió información confidencial de sus empleadores a un agente del gobierno chino. El contratista tenía acceso privilegiado a información y materiales de defensa que eran propiedad de las empresas contratistas para las que trabajaba, lo que le permitió aprovecharse de su posición para vender dicha información a una entidad extranjera. 
+  * **Estrategia**: La implementación de una política de seguridad de la información y una capacitación continua para los empleados sobre los riesgos de la divulgación de información confidencial. Además de mentalizar a los empleados se podría realizar una gerarquia de roles y que un usario no pudiese descargar información de la empresa, via USB en este caso, sin consentimiento de un superior y una justificación.
+  * **Solución**: Un software compatible con esta estrategia podría ser el módulo de gestión de la seguridad de la información (ISM) de SAP  [SuccessFactors](https://www.sap.com/products/hcm.html), que ayuda a las empresas a implementar una política de seguridad de la información y a monitorear y mitigar los riesgos de seguridad. Ademas de un software que no permita descargar información via [USB](https://www.ekransystem.com/en/product/usb-blocking/) 
+
 ### 2020
 
 * [Nintendo source code for N64, wii and gamecube leaked](https://www.bankinfosecurity.com/nintendo-source-code-for-n64-wii-gamecube-leaked-a-14220)
