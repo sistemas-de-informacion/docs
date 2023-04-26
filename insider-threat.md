@@ -401,6 +401,14 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Segun este [comunicado oficial](https://community.shopify.com/c/shopify-discussions/incident-update/m-p/888971) de Shopify, la información personal que fue robada fue debido a que estaban involucrados en un esquema para obtener registros de transacciones de clientes de ciertos comerciantes. Shopify no ha querido dar más datos de como era el esquema en el que estaban operando.
   * **Solución**: Shopify podría haber evitado este infortunio contando con el apoyo software que proporciona [Proofpoint](https://www.proofpoint.com/es/products/information-protection/insider-threat-management) una empresa que ofrece software como servicio y productos para la prevención de pérdida de datos.
 
+### 2021
+
+* [Dos exempleados sustraen y divulgan datos personales de clientes al marcharse de su empresa](https://rgpdblog.com/dos-exempleados-sustraen-y-divulgan-datos-personales-de-clientes-al-marcharse-de-su-empresa/)
+  * **Fuente**: Jan Carlos Franco
+  * **Descripción**:la AEPD publicó el procedimiento sancionador PS/00461/2020 (el “Procedimiento”) sobre la brecha de seguridad de datos personales causada por dos exempleados de CaixaBank S.A. (“CaixaBank”), los cuales, al marcharse de su empresa, sustrajeron y divulgaron a terceros ajenos a la entidad datos personales de clientes.
+  * **Estrategia**: Monitorización del acceso a datos: La empresa debería supervisar el acceso a información confidencial para detectar actividades sospechosas y tomar medidas preventivas en caso de que se detecte una violación de seguridad.
+  * **Solución**: Una posible solución reside en el uso de un software que permita monitorear el acceso a los datos. [BambooHR](https://www.bamboohr.com/blog/access-levels-bamboohr) es una plataforma de gestión de recursos humanos que ofrece una serie de características de seguridad, incluyendo la monitorización del acceso a datos
+  
 ### 2022
 
 * [Appian: el juez rechaza la moción de Pegasystems para anular el veredicto del jurado de $ 2 mil millones](https://markets.businessinsider.com/news/stocks/appian-judge-rejects-pegasystems-motion-to-overturn-2-billion-jury-verdict-1031748212)
