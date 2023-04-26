@@ -67,18 +67,19 @@ uno de ellos.
 * [Tres exempleados de Barclays, culpables de manipular el líbor](https://elpais.com/economia/2016/07/04/actualidad/1467658515_852381.html?event=go&event_log=go&prod=REGCRART&o=cerrado)
   * **Fuente:** Rael Clariana Pascual
   * **Descripción**: Tres empleados fueron considerados culpables de manipulación del LIBOR en 2012. Los empleados, incluido un ex director y dos operadores senior, fueron acusados de conspirar para manipular el LIBOR y engañar a los mercados, lo que resultó en beneficios financieros para Barclays y sus operadores. La manipulación del LIBOR afectó a los préstamos y otros productos financieros que se basan en el LIBOR, y tuvo un impacto negativo en la confianza en los mercados financieros. Como resultado, Barclays enfrentó multas y una disminución de su reputación en la industria financiera.
-  * **Estrategia**: La implementación de un sistema de monitoreo y alerta temprana.Este sistema de monitoreo podría estar diseñado para analizar los datos históricos y en tiempo real de la fijación del LIBOR, identificar patrones sospechosos de comportamiento y generar alertas cuando se detecten anomalías. 
+  * **Estrategia**: La implementación de un sistema de monitoreo y alerta temprana.Este sistema de monitoreo podría estar diseñado para analizar los datos históricos y en tiempo real de la fijación del LIBOR, identificar patrones sospechosos de comportamiento y generar alertas cuando se detecten anomalías.
   * **Solución**: [Oracle HCM Cloud](https://www.oracle.com/pe/human-capital-management/) permite gestionar y hacer un seguimiento de las políticas y regulaciones relacionadas con la presentación de las tasas de referencia. Además, el sistema utiliza técnicas avanzadas de análisis de datos para identificar patrones de comportamiento inusuales y detectar posibles manipulaciones del LIBOR.
 
 ### 2013
 
-* [Soldier Receives 16-Year Sentence for Attempted Espionage](https://www.fbi.gov/news/stories/2013/april/soldier-receives-16-year-sentence-for-attempted-espionage) 
+* [Soldier Receives 16-Year Sentence for Attempted Espionage](https://www.fbi.gov/news/stories/2013/april/soldier-receives-16-year-sentence-for-attempted-espionage)
   * **Fuente**: Manuel Herrero, Corregido Javier Pardos
   * **Descripción**: Un oficial de policia militar es condenado a una pena de carcel de 16 años en Alaska por sus intentos de venta de documentos clasificados a un oficial de inteligencia ruso. El oficial habia hablado con otros miembro para solicitar su ayuda para la venta de informacion. Su arresto fue posible debido a que en realidad estaba negociando con un agente encubierto del FBI.
   * **Estrategia**: En primer lugar, seria importante concienciar a los militares sobre cualquier comportamiento sospechoso o actividad que pueda indicar una posible amenaza interna. Por otra parte, se deberia implementar un sistema para limitar el acceso a informacion clasificada, como controles de acceso a los diferente documentos y la monitorizacion continua de estos.
-  * **Solucion**: [Workday](https://www.workday.com) es un software de recursos humanos que ofrece varias soluciones para el control de acceso y gestion de privilegios. En este caso, esta herramienta tiene un modulo de fraude que esta provisto de inteligencia artificial para analizar comportamientos inusuales / actividades sospechosas en tiempo real y la creacion de informes. 
+  * **Solucion**: [Workday](https://www.workday.com) es un software de recursos humanos que ofrece varias soluciones para el control de acceso y gestion de privilegios. En este caso, esta herramienta tiene un modulo de fraude que esta provisto de inteligencia artificial para analizar comportamientos inusuales / actividades sospechosas en tiempo real y la creacion de informes.
 
 * [Economic Espionage: Competing For Trade By Stealing Industrial Secrets](https://leb.fbi.gov/2013/october-november/economic-espionage-competing-for-trade-by-stealing-industrial-secrets) (Fuente: Jesús Bintaned)
+
 * [Submarine Data Leak](https://www.defensenews.com/naval/2016/08/26/submarine-data-leak-roils-three-governments/)
   * **Fuente**: Ramón Jarauta
   * **Descripción**: Un empleado descontento expuso detalles confidenciales sobre nuevos submarinos Scorpene de India en una compleja operación que involucró a múltiples gobiernos, empleados y contratistas. Según Defense News, se expusieron unas 24,000 páginas de información clasificada. La noticia relata que un empleado despedido eligió copiar datos en un disco, enviarlos por correo y, finalmente, compartirlos con un periodista.
@@ -132,15 +133,15 @@ Los métodos que utilizó para acceder a los secretos de la empresa fueron: enga
 En este caso particular, ya que aprovechó una visita guiada para obtener datos confidenciales, la empresa debería asegurarse de tener bajo control a los visitantes.
 
 ### 2018
-* [NSA Contractor's Alleged Theft 'Breathtaking'Former Intelligence Officer Convicted of Attempted Espionage Sentenced to 10 Years in Federal Prison](https://www.justice.gov/opa/pr/former-intelligence-officer-convicted-attempted-espionage-sentenced-10-years-federal-prison)
+
+* [NSA Contractor's Alleged Theft 'Breathtaking'. Former Intelligence Officer Convicted of Attempted Espionage Sentenced to 10 Years in Federal Prison](https://www.justice.gov/opa/pr/former-intelligence-officer-convicted-attempted-espionage-sentenced-10-years-federal-prison)
   * **Fuente**: Victor Garcia
   * **Descripción**: El ex oficial de inteligencia de EE. UU. Ron Rockwell Hansen fue acusado en 2018 por intentar vender inteligencia clasificada de EE. UU. a China.
-Hansen tenía una condena penal previa por robar un documento clasificado mientras trabajaba para la Marina de los EE. UU. en 1986.
-El caso planteó preocupaciones sobre la idoneidad de las verificaciones de antecedentes y los procesos de autorización de seguridad para personas con antecedentes penales.
- * **Estrategia**: Para evitar este tipo de incidentes  estrategia clave es implementar protocolos de seguridad sólidos, como controles de acceso, sistemas de monitoreo y auditoría, y herramientas de prevención de pérdida de datos. Estas medidas pueden ayudar a detectar y prevenir el acceso no autorizado a datos confidenciales, así como a identificar comportamientos inusuales o sospechosos.
-En casos como este, es primordial que las organizaciones mejoren sus procesos de investigación y selección para empleados y contratistas con acceso a datos confidenciales. Esto incluye realizar verificaciones exhaustivas de antecedentes, evaluar referencias y realizar revisiones periódicas de autorización de seguridad.
- * **Solución**: Existe una compañia de ciberseguridad llamada *[Forcepoint](https://www.forcepoint.com/es/security/insider-threat)* que tiene productos especializados en el tratamiento de los "insider threats" y concretamente con la monitorización de las actividades de los usuarios en una empresa primordial para evitar casos como este.
-
+  Hansen tenía una condena penal previa por robar un documento clasificado mientras trabajaba para la Marina de los EE. UU. en 1986.
+  El caso planteó preocupaciones sobre la idoneidad de las verificaciones de antecedentes y los procesos de autorización de seguridad para personas con antecedentes penales.
+  * **Estrategia**: Para evitar este tipo de incidentes  estrategia clave es implementar protocolos de seguridad sólidos, como controles de acceso, sistemas de monitoreo y auditoría, y herramientas de prevención de pérdida de datos. Estas medidas pueden ayudar a detectar y prevenir el acceso no autorizado a datos confidenciales, así como a identificar comportamientos inusuales o sospechosos.
+  En casos como este, es primordial que las organizaciones mejoren sus procesos de investigación y selección para empleados y contratistas con acceso a datos confidenciales. Esto incluye realizar verificaciones exhaustivas de antecedentes, evaluar referencias y realizar revisiones periódicas de autorización de seguridad.
+  * **Solución**: Existe una compañia de ciberseguridad llamada *[Forcepoint](https://www.forcepoint.com/es/security/insider-threat)* que tiene productos especializados en el tratamiento de los "insider threats" y concretamente con la monitorización de las actividades de los usuarios en una empresa primordial para evitar casos como este.
 
 ### 2019
 
@@ -167,18 +168,12 @@ En casos como este, es primordial que las organizaciones mejoren sus procesos de
   * **Estrategia**: Instalar un sistema de monitoreo de ficheros, que permita detectar los ficheros descargados por un empleado y así poder comprobar que dicho empleado tenía acceso a esos archivos o si se ha descargado más información que cualquiera de sus compañeros con los mismos privilegios.
   * **Solución**: [File Integrity Monitoring Software](https://www.solarwinds.com/es/security-event-manager/use-cases/file-integrity-monitoring-software) es una tecnología que monitorea y detecta cambios en los archivos. Permite determinar la frecuencia de monitoreo de archivos de suma importancia, así como, enviar alertas en caso de detectar anomalías y realizar informes de resultados.
 
-
-
-
 * [Poland arrests Huawei worker on allegations of spying for China](https://www.theguardian.com/technology/2019/jan/11/huawei-employee-arrested-in-poland-over-chinese-spy-allegations)
   * **Fuente**: Jorge Borque Benedí
   * **Descripción**: Polonia arrestó a un empleado chino de Huawei y a un ciudadano polaco involucrado en negocios cibernéticos por acusaciones de espionaje, informaron los medios estatales polacos, lo que profundizó la controversia sobre las críticas occidentales a la compañía de telecomunicaciones china.
   * **Estrategia**: Para evitar este caso de espionaje se debería de controlar y monitorizar todas las actividades de los usuarios que acceden a la información del sistema, de manera que si exite alguna actividad no supervisada o no esperada que puede resultar sospechosa, se pueda actuar parando la sesión o comenzando un proceso de detención del usuario que la haya llevado a cabo con el objetivo de parar el robo de la información o para evitar pérdidas o modificaciones de esa información almacenada.
-  * **Solución**: Existe una empresa de software de corporación multinacional estadounidense que tiene productos especializados en el tratamiento de los "insider threats" y concretamente con la monitorización de las actividades de los usuarios en una empresa. 
+  * **Solución**: Existe una empresa de software de corporación multinacional estadounidense que tiene productos especializados en el tratamiento de los "insider threats" y concretamente con la monitorización de las actividades de los usuarios en una empresa.
   Es la siguiente : *[Forcepoint](https://www.forcepoint.com/es/security/insider-threat)*
-
-
-
 
 ### 2020
 
@@ -212,7 +207,7 @@ En casos como este, es primordial que las organizaciones mejoren sus procesos de
   * **Fuente**: Miguel Beltrán Pardos
   * **Descripción**: Boeing, una empresa aeroespacial veterana, experimentó un ataque prolongado. De 1979 hasta 2006, un empleado de Boeing robó información de la empresa y de Rockwell. El beneficiado de este empleado era la inteligencia china, que le encargó adquirir información para mejorar sus operaciones espaciales. Además también robó información de fabricación militar.
   * **Estrategia**: El uso de un SIEM hubiera facilitado la localizacion de dicho empleado. Un SIEM es una plataforma que permite la recopilación, correlación, análisis y presentación de eventos y registros de seguridad. Puede funciones de monitoreo continuo de eventos de seguridad, lo que permite una revisión retrospectiva de actividades de usuarios y entidades para identificar patrones de comportamiento sospechoso en el pasado y ayudar en la investigación de incidentes.
-  * **Solución**: [Oracle HCM Cloud](https://www.oracle.com/ar/human-capital-management/), este sistema de gestión de recursos humanos ofrece capacidades de seguimiento de actividades de usuario, incluyendo el seguimiento de cambios en los datos de los empleados, registro de actividades de reclutamiento y selección, y seguimiento de accesos y permisos de usuario. También puede generar informes y alertas en caso de actividades inusuales o sospechosas. 
+  * **Solución**: [Oracle HCM Cloud](https://www.oracle.com/ar/human-capital-management/), este sistema de gestión de recursos humanos ofrece capacidades de seguimiento de actividades de usuario, incluyendo el seguimiento de cambios en los datos de los empleados, registro de actividades de reclutamiento y selección, y seguimiento de accesos y permisos de usuario. También puede generar informes y alertas en caso de actividades inusuales o sospechosas.
   
 ### 2008
 
@@ -237,7 +232,6 @@ En casos como este, es primordial que las organizaciones mejoren sus procesos de
   * **Descripción**:  Exempleado de la Agencia de Seguridad Nacional (NSA) de Estados Unidos, Nghia Hoang Pho, fue condenado a cinco años y medio por llevarse a casa material clasificado de la agencia. Pho era miembro de la unidad de piratería de la NSA, Tailored Access Operations, y comenzó a llevarse material clasificado en 2010. Los investigadores descubrieron la infracción en marzo de 2015. Pho se declaró culpable en diciembre de 2017 de retener información de defensa nacional. El gobierno cree que Pho es el empleado de la NSA que llevó a casa partes del arsenal de piratería de la NSA que luego fueron robadas por agentes de inteligencia rusos a través del software antivirus Kaspersky.
   * **Estrategia**: Una clara estrategia para solucionar este problema es elevar el control de la información considerada como confidencial o sensible, para ello se debe controlar todo el acceso a esos documentos.
   * **Solución**: Un software que solocuinaria este problema seria [Microsoft Azure Information Protection](https://azure.microsoft.com/es-es/solutions/information-protection/) ya que proporciona un servicio en la nube con una protección avanzada de datos, incluyendo el control de acceso y la gestión de derechos de autor para archivos y documentos sensibles.
-
 
 ### 2011
 
@@ -432,7 +426,7 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Fuente**: Acher Egido Mairal
   * **Descripción**: Pegasystems fue acusado de apropiación indebida de secretos comerciales de Appian, incluyendo la contratación de un empleado de un contratista del gobierno para obtener acceso al software de Appian. Appian recibió $2.036 mil millones en daños, lo que supone la mayor indemnización por perjuicios en los Tribunales estatales de Virginia.
   * **Estrategia**: Pegasystems contrató a un empleado de un contratista del gobierno para brndarle a Pegasystems acceso al software de Appian. El contratista ayudó a pegasystems a generar docenas de grabaciones de video del entrono de desarrollo de Appian para que pegasystems utilizase en la compilación de materiales competitivos y para la evaluación de mejoras en su plataforma.
-  * **Solución**: Medidas de detección para identificar cualquier actividad sospechosa de robo de datos y alertar a los responsables de la seguridad de dicha información, como por ejemplo la monitorización del tráfico de red o haciendo actualizaciones regulares del software y parches de seguridad. Esto se puede conseguir utilizando un módulo de HRMS que  sea capaz de detectar dichas intrusiones y robos de información como lo puede ser Workday [Workday] (https://www.workday.com/en-us/products/human-capital-management/human-resource-management.html).
+  * **Solución**: Medidas de detección para identificar cualquier actividad sospechosa de robo de datos y alertar a los responsables de la seguridad de dicha información, como por ejemplo la monitorización del tráfico de red o haciendo actualizaciones regulares del software y parches de seguridad. Esto se puede conseguir utilizando un módulo de HRMS que  sea capaz de detectar dichas intrusiones y robos de información como lo puede ser Workday [Workday](https://www.workday.com/en-us/products/human-capital-management/human-resource-management.html).
 
 * [Exposición de credenciales de Microsoft por error](https://www.techspot.com/news/95651-microsoft-employees-accidentally-exposed-login-credentials-important-internal.html)*
   * **Fuente**: Lucía Beltrán González
@@ -548,11 +542,11 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 
 ### 2012
 
-* [Just 1 Click Of The Mouse Erased Data On 35,000 Computers (Caused By Insider)](https://money.cnn.com/2015/08/05/technology/aramco-hack/) 
+* [Just 1 Click Of The Mouse Erased Data On 35,000 Computers (Caused By Insider)](https://money.cnn.com/2015/08/05/technology/aramco-hack/)
   * **Fuente**: Javier Pardos
   * **Descripción**: En 2012 un tecnico infomrmatico de la compañia petrolera Saudi Aramaco, hizo clic en un enlace malicioso lo que provoco un de los mayores ataques informaticos de la historia. El ataque afecto a 35.000 ordenadores y costó a la compañía 10 millones de dólares al no poder acceder a sus sistemas. Este ataque provoco que esta compañia volviese a la tecnologia de los años 70, implementando maquinas de escribir y fax.
   * **Estrategia**: Principalmente esta amenaza se podria evitar con la concienciacion de los empleados que trabajan en sus instalaciones (formacion, etc). Aunque tambien es necesario una inversion en medidas de seguridad adecuadas como firewalls, antivirus, etc. e incluso un plan de recuperacion de datos en caso que se produzca un ataque como este.
-  * **Solucion**: Respecto a la posibilidad de evitar amenazas externas se podria usar [Mimecast](https://www.mimecast.com) que es un software para el control de amenazas que permite a las empresas protegerse de ataques de phishing, ransomware, malware y otras amenazas de seguridad. En cambio para una posible recuperacion de datos se podria usar [Acronis Cyber Backup ](https://www.acronis.com/es-es/products/cyber-protect/backup/) que es un software especializado en la recuperacion de informacion en casos de ransonware o desastres naturales.
+  * **Solucion**: Respecto a la posibilidad de evitar amenazas externas se podria usar [Mimecast](https://www.mimecast.com) que es un software para el control de amenazas que permite a las empresas protegerse de ataques de phishing, ransomware, malware y otras amenazas de seguridad. En cambio para una posible recuperacion de datos se podria usar [Acronis Cyber Backup](https://www.acronis.com/es-es/products/cyber-protect/backup/) que es un software especializado en la recuperacion de informacion en casos de ransonware o desastres naturales.
 
 ### 2015
 
@@ -610,11 +604,11 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   
 ### 2023
 
- * [IOTW: Mailchimp suffers another social engineering attack](https://www.cshub.com/attacks/news/iotw-mailchimp-suffers-another-social-engineering-attack) 
-   * **Fuente**: Sergio Berges Aguaviva
-   * **Descripción**: Algunos hackers, mediante phishing, consiguieron que empleados de Mailchimp expusieran sus credenciales de acceso a los sistemas de la empresa. El resultado, más de 133 cuentas de usuarios de la empresa resultaron comprometidas. Algunas de esas cuentas pertenecían a otros negocios.
-   * **Estrategia**: Estos ataques de phishing sufridos por los empleados de la empresa Mailchimp podrían haberse evitado si estos empleados se hubieran apoyado en programas o extensiones que les garantizaran protección frente a las amenazas en línea. Mediante el uso de estos programas se habría evitado por ejemplo el acceso a webs fraudulentas en las que los empleados podrían haber filtrado sus credenciales de acceso a los sistemas de la empresa.
-   * **Solución**: Aunque hay varios, un programa que podrían haber utilizado los empleados de la empresa Mailchimp para protegerse de las amenazas online es [Bitdefender](https://www.bitdefender.es/). Este sistema brinda a los usuarios protección frente al phishing, además de asegurar una manera rápida, segura y anónima de navegar por la web. 
+* [IOTW: Mailchimp suffers another social engineering attack](https://www.cshub.com/attacks/news/iotw-mailchimp-suffers-another-social-engineering-attack)
+  * **Fuente**: Sergio Berges Aguaviva
+  * **Descripción**: Algunos hackers, mediante phishing, consiguieron que empleados de Mailchimp expusieran sus credenciales de acceso a los sistemas de la empresa. El resultado, más de 133 cuentas de usuarios de la empresa resultaron comprometidas. Algunas de esas cuentas pertenecían a otros negocios.
+  * **Estrategia**: Estos ataques de phishing sufridos por los empleados de la empresa Mailchimp podrían haberse evitado si estos empleados se hubieran apoyado en programas o extensiones que les garantizaran protección frente a las amenazas en línea. Mediante el uso de estos programas se habría evitado por ejemplo el acceso a webs fraudulentas en las que los empleados podrían haber filtrado sus credenciales de acceso a los sistemas de la empresa.
+  * **Solución**: Aunque hay varios, un programa que podrían haber utilizado los empleados de la empresa Mailchimp para protegerse de las amenazas online es [Bitdefender](https://www.bitdefender.es/). Este sistema brinda a los usuarios protección frente al phishing, además de asegurar una manera rápida, segura y anónima de navegar por la web.
   
 ## Saboteadores
 
@@ -641,7 +635,7 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 
 ### 2012
 
-* [IT pro gets prison time for sabotaging ex-employer's system](http://www.pcworld.com/article/2158020/it-pro-gets-prison-time-for-sabotaging-exemployers-system.html) 
+* [IT pro gets prison time for sabotaging ex-employer's system](http://www.pcworld.com/article/2158020/it-pro-gets-prison-time-for-sabotaging-exemployers-system.html)
   * **Fuente**: Marina Ariño
   * **Descripción**: Ricky Joe Mitchell exingeniero de la empresa de petróleo y gas EnerVest se enteró en 2012 que iba a ser despedido y decidió restablecer los servidores de la compañía a su configuración de fábrica. También desactivó el equipo de enfriamiento para los sistemas y deshabilitó un proceso de replicación de datos. Esto dejo a EnerVest incapaz de "*comunicarse plenamente o llevar a cabo operaciones comerciales*" durante unos 30 días. Las acciones de Mitchell costaron a EnerVest más de 1 millon de dolares.
   * **Estrategia**: Seleccionar muy bien a quién conceder privilegios (en este caso, para restablecer los servidores o deshabilitar proceso replicación de datos), tener información sensible encriptada, control de presencia: vigilar quién accede o puede acceder a zonas criticas como los servidores o las maquinas de enfriamiento.
@@ -859,17 +853,17 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   También, se puede regular el tráfico desde los puntos de acceso a la nube y aplicar políticas de encriptado en los datos que se transmiten al exterior, mediante un [CASB](https://www.netskope.com/es/Sobre-los-CASB).
   Además se puede prohibir la descarga de cualquier dato.
 
-* [Asesinar a Biden: el New York Post denunció que fue hackeado en Twitter] (https://www.theguardian.com/media/2022/oct/27/for-the-slug-new-york-post-hacked-twitter-website)
+* [Asesinar a Biden: el New York Post denunció que fue hackeado en Twitter](https://www.theguardian.com/media/2022/oct/27/for-the-slug-new-york-post-hacked-twitter-website)
   * **Fuente**: Juliana Zordan
   * **Descripción**: El diario de New York Post denunció este jueves que fue "hackeado" por uno de sus empleados que publicó tuits que pedían el asesinato de figuras políticas, incluido el presidente de Estados Unidos, Joe Biden, a menos de un mes de las elecciones de medio término.
   * **Estrategia**: La empresa debe restringir el acceso solo a aquellos empleados que necesiten ingresar a la cuenta para realizar su trabajo. Además, es importante restringirlo mediante el uso de contraseñas fuertes y autenticación de dos factores, y en entrenamiento en seguridad a otros empleados.
-  * **Solución**: Utilizar  Hootsite para el monitoreo de la actividad de la cuenta [HootSuite] (https://hootsuite.com).
+  * **Solución**: Utilizar  Hootsite para el monitoreo de la actividad de la cuenta [HootSuite](https://hootsuite.com).
   HootSuite es una plataforma web y móvil para gestionar redes sociales por parte de personas u organizaciones. Con esta herramienta se pueden realizar diferentes funciones (programación de publicaciones,monitoreo de redes sociales, análisis de redes sociales e integración de aplicaciones de terceros).
-  De esta aplicación nos interesa el monitoreo de la cuenta pues facilita el seguimiento de la actividad y la participación en las redes sociales y a tener control sobre estas. 
+  De esta aplicación nos interesa el monitoreo de la cuenta pues facilita el seguimiento de la actividad y la participación en las redes sociales y a tener control sobre estas.
 
 ### 2023
 
-* [Feds Describe Intelligence Leak Probe as Criminal Matter] (https://www.bankinfosecurity.com/feds-describe-intelligence-leak-probe-as-criminal-matter-a-21682)
+* [Feds Describe Intelligence Leak Probe as Criminal Matter](https://www.bankinfosecurity.com/feds-describe-intelligence-leak-probe-as-criminal-matter-a-21682)
   * Fuente: Pablo López
   * Descripción: Personal militar de IT de bajo nivel de Estados Unidos es detenido por el FBI por sospecha de filtracion de documentos clasificados en su servidor de Discord. Estos documentos podrian incluir desde informes de evaluación de la guerra de Rusia y Ucrania hasta informes de inteligencia sobre misiles norcoreanos.
   * Estrategia: Una forma en la que podría haber sido evitado este incidente es que la empresa hubiera implementado un sistema de control de acceso basado en roles, de tal manera que solo los empleados que necesitan acceder a los documentos clasificados puedan hacerlo. Estos sistemas habitualmente se llaman RBAC (Role Based Access Control).
