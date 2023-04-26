@@ -64,6 +64,12 @@ uno de ellos.
   * **Estrategia**: El problema estaba en que no habia un control de acceso seguro ya que con la cuenta de otro usuario se podía acceder facílmente a datos sensibles y no había una monitorización de las cuentas de correo de los empleados que eran usadas para transferir los datos. Hay que monitorizar las cuentas de correo para buscar traspaso de grandes volumenes de datos y usar otras técnicas de autentificación mas seguras, como huellas digitales, por ejemplo.
   * **Solución**: Utilizando este software <https://www.aware.com/es/biometricos/workbenchsuite/> , se podrían reconocer a los usuarios que acceden a cualquier sitio mediante huellas dáctilares o mediante reconocimiento facial. Para monitorizar emails se puede usar <https://www.paessler.com/es/email_monitoring> que permite supervisar los mensajes con sensores para POP3, IMAP y SMTP.
 
+* [Tres exempleados de Barclays, culpables de manipular el líbor](https://elpais.com/economia/2016/07/04/actualidad/1467658515_852381.html?event=go&event_log=go&prod=REGCRART&o=cerrado)
+  * **Fuente:** Rael Clariana Pascual
+  * **Descripción**: Tres empleados fueron considerados culpables de manipulación del LIBOR en 2012. Los empleados, incluido un ex director y dos operadores senior, fueron acusados de conspirar para manipular el LIBOR y engañar a los mercados, lo que resultó en beneficios financieros para Barclays y sus operadores. La manipulación del LIBOR afectó a los préstamos y otros productos financieros que se basan en el LIBOR, y tuvo un impacto negativo en la confianza en los mercados financieros. Como resultado, Barclays enfrentó multas y una disminución de su reputación en la industria financiera.
+  * **Estrategia**: La implementación de un sistema de monitoreo y alerta temprana.Este sistema de monitoreo podría estar diseñado para analizar los datos históricos y en tiempo real de la fijación del LIBOR, identificar patrones sospechosos de comportamiento y generar alertas cuando se detecten anomalías. 
+  * **Solución**: [Oracle HCM Cloud](https://www.oracle.com/pe/human-capital-management/) permite gestionar y hacer un seguimiento de las políticas y regulaciones relacionadas con la presentación de las tasas de referencia. Además, el sistema utiliza técnicas avanzadas de análisis de datos para identificar patrones de comportamiento inusuales y detectar posibles manipulaciones del LIBOR.
+
 ### 2013
 
 * [Soldier Receives 16-Year Sentence for Attempted Espionage](https://www.fbi.gov/news/stories/2013/april/soldier-receives-16-year-sentence-for-attempted-espionage) 
