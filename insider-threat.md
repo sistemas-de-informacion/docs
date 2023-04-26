@@ -590,7 +590,15 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Descripción**: Un empleado de la policía de Dallas borró 8,7 millones de antecedentes policiales equivalentes a 23 TB de información. Estos datos estaban relacionados con aproximadamente 17.500 casos activos, lo que provocó la ralentización de estos procesos judiciales. De los 23TB borrados, solo 3TB consiguieron ser recuperados.
   * **Estrategia**: el incidente ocurrió al mover los datos al cloud y fue debido a que el responsable de IT no tenía los conocimientos necesarios para realizar esta tarea (solo había tomado 2 clases acerca de como realizar el traslado de información). El departamento debió haber monitorizado todas las sesiones en las que se interactuaba con estos datos, de esta forma se habrían dado cuenta del borrado de los datos en tiempo real o se podrían haber creado backups de esta información regularmente.
   * **Solución**: Emplear Software para crear backups como [Veeam](https://www.veeam.com/es/backup-replication-virtual-physical-cloud.html)
+  
+### 2023
 
+ * [IOTW: Mailchimp suffers another social engineering attack](https://www.cshub.com/attacks/news/iotw-mailchimp-suffers-another-social-engineering-attack) 
+   * **Fuente**: Sergio Berges Aguaviva
+   * **Descripción**: Algunos hackers, mediante phishing, consiguieron que empleados de Mailchimp expusieran sus credenciales de acceso a los sistemas de la empresa. El resultado, más de 133 cuentas de usuarios de la empresa resultaron comprometidas. Algunas de esas cuentas pertenecían a otros negocios.
+   * **Estrategia**: Estos ataques de phishing sufridos por los empleados de la empresa Mailchimp podrían haberse evitado si estos empleados se hubieran apoyado en programas o extensiones que les garantizaran protección frente a las amenazas en línea. Mediante el uso de estos programas se habría evitado por ejemplo el acceso a webs fraudulentas en las que los empleados podrían haber filtrado sus credenciales de acceso a los sistemas de la empresa.
+   * **Solución**: Aunque hay varios, un programa que podrían haber utilizado los empleados de la empresa Mailchimp para protegerse de las amenazas online es [Bitdefender](https://www.bitdefender.es/). Este sistema brinda a los usuarios protección frente al phishing, además de asegurar una manera rápida, segura y anónima de navegar por la web. 
+  
 ## Saboteadores
 
 ### 2002
@@ -834,15 +842,7 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   También, se puede regular el tráfico desde los puntos de acceso a la nube y aplicar políticas de encriptado en los datos que se transmiten al exterior, mediante un [CASB](https://www.netskope.com/es/Sobre-los-CASB).
   Además se puede prohibir la descarga de cualquier dato.
 
-* [Asesinar a Biden": el New York Post denunció que fue hackeado en Twitter] (https://www.theguardian.com/media/2022/oct/27/for-the-slug-new-york-post-hacked-twitter-website)
-  * **Fuente**: Juliana Zordan
-  * **Descripción**: El diario de New York Post denunció este jueves que fue "hackeado" por uno de sus empleados que publicó tuits que pedían el asesinato de figuras políticas, incluido el presidente de Estados Unidos, Joe Biden, a menos de un mes de las elecciones de medio término.
-  * **Estrategia**: La empresa debe restringir el acceso solo a aquellos empleados que necesiten ingresar a la cuenta para realizar su trabajo. Además, es importante restringirlo mediante el uso de contraseñas fuertes y autenticación de dos factores, y en entrenamiento en seguridad a otros empleados.
-  * **Solución**: Utilizar  Hootsite para el monitoreo de la actividad de la cuenta [HootSuite] (https://hootsuite.com).
-  HootSuite es una plataforma web y móvil para gestionar redes sociales por parte de personas u organizaciones. Con esta herramienta se pueden realizar diferentes funciones (programación de publicaciones,monitoreo de redes sociales, análisis de redes sociales e integración de aplicaciones de terceros).
-  De esta aplicación nos interesa el monitoreo de la cuenta pues facilita el seguimiento de la actividad y la participación en las redes sociales y a tener control sobre estas. 
-
-* [Asesinar a Biden": el New York Post denunció que fue hackeado en Twitter] (https://www.theguardian.com/media/2022/oct/27/for-the-slug-new-york-post-hacked-twitter-website)
+* [Asesinar a Biden: el New York Post denunció que fue hackeado en Twitter] (https://www.theguardian.com/media/2022/oct/27/for-the-slug-new-york-post-hacked-twitter-website)
   * **Fuente**: Juliana Zordan
   * **Descripción**: El diario de New York Post denunció este jueves que fue "hackeado" por uno de sus empleados que publicó tuits que pedían el asesinato de figuras políticas, incluido el presidente de Estados Unidos, Joe Biden, a menos de un mes de las elecciones de medio término.
   * **Estrategia**: La empresa debe restringir el acceso solo a aquellos empleados que necesiten ingresar a la cuenta para realizar su trabajo. Además, es importante restringirlo mediante el uso de contraseñas fuertes y autenticación de dos factores, y en entrenamiento en seguridad a otros empleados.
