@@ -132,9 +132,6 @@ En este informe oficial del Gobierno de Estados Unidos se hace un estudio de la 
 
 ### 1999
 
-- **Baan y Poolrite (Australia)**:
-[Manufacturer mends failed ERP project](http://www.computerworld.com.au/article/149421/manufacturer_mends_failed_erp_project/2) (Fuente: Álvaro Gómez Muñoz)
-
 - **ERP desconocido y Mobile One**:
 Mención en [The Enterprise Resource Planning Decade: Lessons Learned and Issues for the future](https://books.google.es/books?id=XHTt1mYJYPgC&pg=PA140&lpg=PA140&dq=Allied+Waste+Industries+erp+failure&source=bl&ots=BXqitsy8M1&sig=kwFuYxTBi0c4B6hxkNsQb7Min1U&hl=es&sa=X&ved=0ahUKEwj-_6O09NjZAhWLvxQKHbolCXMQ6AEINTAC#v=onepage&q=Allied%20Waste%20Industries%20erp%20failure&f=false) (Fuente: Héctor Martínez Moreno)
 
@@ -833,7 +830,7 @@ El despliegue se hizo finalmente el 2 de enero de 2018 con resultados catastróf
 Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocado gastos por valor de 56 millones de libras, tras lo cual el proyecto se ha trasladado a una empresa externa. [Steria, the MoJ and a £56 MILLION Shared Services write-off](https://www.theregister.com/2014/06/27/steria_the_moj_and_a_56m_shared_services_writeoff/) (Fuente: Eduardo Sánchez)
 
 - **SAP, Oracle, Baan y otros y SME indias**:
-El estudio identificó los principales factores críticos de fracaso en la implementación de ERP en las PYMEs indias, incluyendo la resistencia de los empleados, una mala dirección superior y los problemas presupuestarios. [Erp in Indian Smes - A Study of Critical Failure Factorsa](http://www.iosrjournals.org/iosr-jmce/papers/vol11-issue4/Version-6/G011467479.pdf) (Fuente: Jesús Lizama)
+El estudio identificó los principales factores críticos de fracaso en la implementación de ERP en las PYMEs indias, incluyendo la resistencia de los empleados, una mala dirección superior y los problemas presupuestarios. [Erp in Indian Smes - A Study of Critical Failure Factors](http://www.iosrjournals.org/iosr-jmce/papers/vol11-issue4/Version-6/G011467479.pdf) (Fuente: Jesús Lizama)
 
 ### 2015
 
@@ -1021,6 +1018,9 @@ Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 201
 
 - **SAP y Nanshan Life Insurance**:
 La inversión de la empresa taiwanesa Nanshan Life Insurance resultó ser el "major failure", cuya historia se encubrió por la prensa no taiwanesa. [The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/the-hidden-s-4hana-failure-at-nanshan-life-insurance/) (Fuente: Jorge Borque Benedí)
+
+- **Oracle y Universidad Edinburgh**:
+ [University of Edinburgh staff paid late due to Oracle ERP troubles](https://www.theregister.com/2022/11/03/oracle_erp_edinburgh_university/) (Fuente: Alejandro Sanz)
 
 - **Oracle y Universidad Edinburgh**:
  [University of Edinburgh staff paid late due to Oracle ERP troubles](https://www.theregister.com/2022/11/03/oracle_erp_edinburgh_university/) (Fuente: Alejandro Sanz)
