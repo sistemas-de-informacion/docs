@@ -21,6 +21,14 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Estrategia**: Usó sus credenciales para la consulta y descarga de multitud de información de la empresa.
   * **Solución**: Para evitar casos similares a este, se deberían controlar los privilegios de acceso a los datos de la empresa, unido a un buen sistema de monitorización y alarmas en la base de datos que permita obtener y avisar si el número de lecturas y escrituras de un determinado usuario está siendo mayor al esperado.
 
+* [El banquero de Lucifer: cómo el mayor soplón financiero pasó de la cárcel a ser rico](https://www.elconfidencial.com/alma-corazon-vida/2016-10-22/bradley-birkenfeld-whistleblower-evasion-fiscal_1276421/)
+  * **Fuente:** Iván Bes Zamorano
+  * **Descripción**:  Un ex banquero suizo que reveló información sobre evasión fiscal a las autoridades de EE. UU. y recibió una recompensa de $104 millones por su colaboración. Birkenfeld tenía acceso a información confidencial de la banca suiza y la utilizó para destapar el escándalo.
+  * **Estrategia**: Como gerente de relaciones con clientes en el banco, Birkenfeld tenía acceso a información confidencial de los clientes y de sus cuentas bancarias, incluyendo detalles sobre las cuentas offshore utilizadas para evadir impuestos. Usó sus credenciales para la consulta y descarga de multitud de toda clase de documentos.
+  * **Solución**: Para prevenir casos como el de Bradley Birkenfeld, las empresas pueden tomar medidas como la investigación de antecedentes para identificar posibles problemas de integridad o comportamiento inapropiado antes de contratar a un empleado, el establecimiento de controles de acceso para limitar el acceso solo a aquellos empleados que lo necesiten en función de su trabajo (como [Active Directory](https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/ad-ds-getting-started)), la implementación de sistemas de monitoreo y detección de comportamiento sospechoso que alerten sobre cualquier actividad inusual o sospechosa (como [Microsoft Advanced Threat Analytics](https://learn.microsoft.com/en-us/advanced-threat-analytics/install-ata-step1)), y la educación y entrenamiento de los empleados sobre la importancia de mantener la confidencialidad de la información y las consecuencias legales y financieras de la divulgación de información confidencial.
+
+
+
 ### 2008
 
 * [Chinese Agent Sentenced to Over 24 Years in Prison for Exporting United States Defense Articles to China](http://www.justice.gov/opa/pr/2008/March/08_nsd_229.html) (Fuente: Sergio Josa)
