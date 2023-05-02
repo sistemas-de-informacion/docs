@@ -203,6 +203,12 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**:  Para evitar casos de este estilo se podría realizar una revisión periódica a intervalos cortos de tiempo en el que se comprobase el flujo de descarga de los empleados. De igual forma se podrían instalar alertas diversas que indicasen cuando se accede a información delicada la cual es de una fecha antigua y en caso de que un usuario realizase muchos accesos a este estilo de archivos activar una alarma en el sistema y bloquear la información sensible de la empresa.
   * **Solución**:  El sistema [kickidler](https://www.kickidler.com/es/dlp.html) se encarga de estudiar no solo el trazado de los datos dentro de la empresa, si no también la actividad que realizan los trabajadores, permitiendo detectar estas amenazas de una forma más sencilla. Además los datos se pueden definir con un formato especifico y bloquear su descarga, o que se impriman estos datos.
 
+* [The departing employee at Yahoo who allegedly stole trade secrets](https://www.cyberhaven.com/blog/yahoos-lawsuit-alleged-engineer-stole-sensitive-data/)
+  * **Fuente**: Juan Mediano 
+  * **Descripción**: En mayo de 2022 un trabajador de Yahoo llamado Qian Sang robó información patentada sobre el producto de Yahoo AdLearn. Qian recibió una oferta de trabajo de Trade Desk, un competidor directo de Yahoo. Yahoo descubrió que 45 minutos después de recibir la oferta Qian descargó 570000 páginas de código fuente desde su portátil de Yahoo a dos portátiles personales. Además Qian se quedó los dispositivos hasta que Yahoo presentó una orden de cese semanas después.
+  * **Estrategia**: La mayoría de los insider threats por robo se efectúan por cargos relativamente altos en la organización. Para evitar este tipo de robos se puede instalar en la empresa un software para monitorizar los archivos, los correos electrónicos y la actividad en las fuentes de datos principales para así poder saber que se está haciendo en todo momento con los archivos.
+  * **Solución** Para el monitoreo de redes existe la herramienta [Nagios](https://www.nagios.org/downloads/) que permite monitorear la actividad en la red de la organización, así como el tráfico de correo electrónico y el intercambio de archivos. Para monitorear los archivos se puede utilizar [FileAudit](https://www.manageengine.com/products/active-directory-audit/sem/lp/how-to-track-file-changes.html) que monitorea los cambios en archivos, incluyendo creación, modificación y eliminación.
+  
 ## Ladrones de datos
 
 ### 2005
