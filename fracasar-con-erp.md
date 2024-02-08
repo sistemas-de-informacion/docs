@@ -183,7 +183,6 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **i2 y Nike**:
 [Nike Rebounds and Why Nike Recovered from its Supply Chain Disaster](http://www.cio.com/article/2439601/supply-chain-management/nike-rebounds--how--and-why--nike-recovered-from-its-supply-chain-disaster.html) (Fuente: Adrián Gañán, corregido por Rubén Moreno).
 [Operations Management at Nike: from breakdown to achievement](http://ijmrr.com/admin/upload_data/journal_rajesh%20arora%20%20%20%2018au12.pdf) (Fuente: Lucía Beltrán, sustituye trabajo anterior de Adirán Crespo)
-
 - **Intentia AB y CosmeticCo (nombre ficticio, China)**:
 [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
 
@@ -428,6 +427,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 
 - **SAP y Portland City (Oregon)**:
 [Oregon SAP project wracked by leadership woes](http://www.computerworld.com/article/2514125/enterprise-applications/oregon-sap-project-wracked-by-leadership-woes.html) (Fuente: Pablo Lanaspa)
+[Portland, Ore.'s Citywide ERP Shows They Don't Come Easy](https://www.govtech.com/dc/articles/portland-ores-citywide-erp-shows-they.html) (Fuente: Pablo Lanaspa corregido por Alain Cascán)
 
 - **SAP y Shane (EE.UU)**:
 [Shane Company: Lessons Learned From an ERP Implementation Failure](https://www.computerworld.com/article/2769475/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html) (Fuente: Andrés Soldevilla corregido por Daniel Carrizo)
@@ -445,6 +445,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 
 - **Ross Systems y Woolf Enterprises**:
 [Customer alleges broken pledges, lies in ERP software suit](https://www.computerworld.com/article/2510613/technology-law-regulation/customer-alleges-broken-pledges--lies-in-erp-software-suit.html) (Fuente : Alberto Mur)
+[Customer Alleges Broken Pledges, Lies in ERP Software Suit](https://www.pcworld.com/article/482112/article-879.html) (Fuente : Alberto Mur corregido por Alain Cascán)
 
 - **SAP y Avison and Malaurent**:
 [Erp Introduction in China: Analysing Cultural Problems Using Structuration Theory.](https://www.sciencedirect.com/science/article/pii/S0268401215000602) (Fuente: Israel Solanas corregido por Daniel Carrizo)
@@ -547,6 +548,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 - **SAP y [Shane Co](http://www.shaneco.com/)**:
 [Shane Company: Lessons Learned From an ERP Implementation Failure](http://panorama-consulting.com/shane-company-lessons-learned-from-an-erp-implementation-failure/) (Fuente: Alejandro Bean), [Shane says SAP costs helped cause jeweler’s decline](https://www.computerworld.com/article/2530405/it-careers/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html) (Fuente: Iván Escuín)
 
+
 - **Fujitsu y [UK Council of Research](https://www.ukri.org/)**:
 65% extra en costes y casi dos años de retraso.
 [Shared services in the Research Councils](https://www.nao.org.uk/wp-content/uploads/2011/10/n10121459.pdf) (Fuente: Javier Ortega)
@@ -633,14 +635,17 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 - **Oracle y [Montclair State University](http://www.montclair.edu/)**:
 [Oracle Sued by University for Alleged ERP Failure](http://www.pcworld.com/article/228412/article.html) (Fuente: Guillermo Sesé) [Oracle says ERP software woes are school's own fault](http://www.computerworld.com/article/2508677/enterprise-applications/oracle-says-erp-software-woes-are-school-s-own-fault.html) (Fuente: Jorge Beamud)
 
+
 - **Oracle PeopleSoft y la ciudad de [Fort Worth](http://fortworthtexas.gov/)**:
 [Oracle PeopleSoft payroll problems still peeve police](http://www.computerworld.com/article/2511953/it-management/oracle-peoplesoft-payroll-problems-still-peeve-police.html) (Fuente: Luis Pellicer)
+[Biggest ERP failures of 2010](https://www.computerworld.com/article/2745265/biggest-erp-failures-of-2010.html)(Fuente: Luis Pellicer corregido por Alain Cascán)
 
 - **SAP e [Ingram Micro](http://www.ingrammicro.com/)**:
 [SAP project issues hurt Ingram Micro profits again](https://www.networkworld.com/article/2179735/sap-project-issues-hurt-ingram-micro-profits-again.html) (Fuente: Juliana Zordan, actualiza aportación de William Kokora)
 
 - **SAP y [Avantor](https://www.avantormaterials.com/)**:
 [Manufacturer sues IBM over SAP project 'disaster'](http://www.computerworld.com/s/article/9233432/Manufacturer_sues_IBM_over_SAP_project_39_disaster_39_) (Fuente: Diego Grande)
+[Manufacturer sues IBM over SAP project 'disaster'](https://www.computerworld.com/article/2717761/manufacturer-sues-ibm-over-sap-project--disaster-.html)( Fuente: Diego Grande corregido por Alain Cascán)
 
 - **SAP y Banco Columbia (Argentina)**:
 [Crónica de un fracaso: implementación ERP SAP de USD 30 Millones](https://www.evaluandoerp.com/cronica-de-un-fracaso-implementacion-erp-sap-de-usd-30-millones/) (Fuente: Israel Solanas)
@@ -711,6 +716,7 @@ El sistema ECSS fue un error de desarrollo que terminó después de gastar US $ 
 
 - **Oracle JD Edwards ERP y New Enterprise Stone & Lime Co**:
 [Oracle ERP Project Woes Force Construction Firm to Delay Financial Filing](http://www.cio.com/article/2395555/enterprise-resource-planning/oracle-erp-project-woes-force-construction-firm-to-delay-financial-fili.html) (Fuente : Manuel Herrero)
+[Oracle ERP project woes force construction firm to delay financial filing](https://www.computerworld.com/article/2727468/oracle-erp-project-woes-force-construction-firm-to-delay-financial-filing.html)(Fuente: Manuel Herrero corregido por Alain Cascán)
 
 - **Oracle PeopleSoft, Ciber y HTC**:
 [Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) (Fuente: Alberto Mur)
