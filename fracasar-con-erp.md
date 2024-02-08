@@ -598,7 +598,7 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) El fracaso de un proyecto iniciado en 2007, donde la falta de planificación y testing le cuesta millones al estado de Idaho. (Fuente: Óscar Murillo) [Auditors: ERP software woes could cost Idaho millions](https://www.networkworld.com/article/2201979/auditors--erp-software-woes-could-cost-idaho-millions.html) (Fuente: Paula Ezpeleta, actualiza contribución de Javier Morón)
 
 - **ERP y Empresas de Retail en India**
-[Informe que habla sobre los principales factores de fallo en la instalación de ERPs en India](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8B9A6A3D24D98344EDA5B1371EA48948?doi=10.1.1.463.4223&rep=rep1&type=pdf) (Fuente: José Félix Yagüe)
+[Informe que habla sobre los principales factores de fallo en la instalación de ERPs en India](https://www.scribd.com/document/391324946/10-1-1-463-4223) (Fuente: José Félix Yagüe, link actualizado por Alain Villagrasa)
 
 - **Oracle y Omantel (Omán)** [Examines environmental factors that impacted on the adoption of ERP by The Oman Telecommunication Company, highlights the particular problems of large organisations that operate disparate legacy systems.](https://www.emerald.com/insight/content/doi/10.1108/02635571011008416/full/html) (Fuente: Felipe Nonay)
 
@@ -727,7 +727,7 @@ Un año de desarrollo, 35M$ y un año después del go-live (2014) se siguen haci
 [Case Study 3: How a Screwed-Up SAP Implementation Almost Brought Down National Grid](https://www.henricodolfing.com/2019/04/case-study-sap-wipro-national-grid.html) (Fuente : Jorge Fernandez, José Navarro)
 
 - **SAP y NPower (UK)**:
-[Npower's SAP billing fiasco still making a dent on profits](http://www.computerworlduk.com/news/it-vendors/npowers-billing-fiasco-will-be-resolved-in-two-months-3517010/) (Fuente: Alejandro Guiu)
+[Npower's SAP billing fiasco still making a dent on profits](https://www.computerweekly.com/news/4500278174/RWE-chief-executive-points-to-SAP-billing-system-as-cause-of-npower-losses) (Fuente: Alejandro Guiu, link actualizado por Alain Villagrasa)
 
 - **SAP y H.B.Fuller**:
 El proyecto *Project One* valorado en 60M$ se inicia en 2012 y cuando se despliega en 2014 causa 20M$ de pérdidas directas.
@@ -1091,3 +1091,5 @@ y [Ranpak Holdings Corp. Reports First Quarter 2022 Financial Results](https://i
 La empresa implantó un nuevo ERP que causó pérdidas de 20 millones de dólares en el Q2: [ERP implementation woes cost J&J Snack Foods estimated $20M](https://www.supplychaindive.com/news/j-and-j-snacks-erp-implementation-operation-woes/623226/) (Fuente: Paula Ezpeleta)
 
 ### 2023
+
+- **SAP y Spar**: El fracaso en la implementación de SAP en el centro de distribución "KwaZulu-Natal" en Sudáfrica del famoso supermercado alemán Spar supuso una pérdida de R1.6 billones en 2023 (en torno a 78 millones de €), y R720 millones (alredededor de 35 millones de €) en pérdidas de beneficios. [Spar Group's Failed SAP ERP Implementation](https://www.warehouseautomation.ai/top-stories/spar-groups-failed-sap-implementation-results-in-r786-million), [Spar ‘ignored whistle-blower’ on botched SAP project](https://techcentral.co.za/spar-ignored-whistle-blower-botched-sap/236272/#:~:text=The%20botched%20upgrade%20to%20SAP,result%20of%20the%20project's%20problems.), [Spar loses R1.6bn due to failed SAP project](https://www.itweb.co.za/article/spar-loses-r16bn-due-to-failed-sap-project/Pero3qZ35JyvQb6m) (Fuente: Alain Villagrasa)
