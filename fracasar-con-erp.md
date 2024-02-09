@@ -139,7 +139,8 @@ Mención en [The Enterprise Resource Planning Decade: Lessons Learned and Issues
 [Systems integration with merger target Consolidated Rail Corp.](https://books.google.es/books?id=EtwRJJ9BI90C&pg=PT73#v=onepage&q&f=false) (Fuente: Gregorio Largo Mayor)
 
 - **MOVEX y StoneCo (China)**:
-[ERP implementation failures in China: Case studies with implications for ERP vendors](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.6344&rep=rep1&type=pdf) (Fuente: Álvaro Gómez Muñoz)
+[ERP implementation failures in China: Case studies with implications for ERP vendors](https://www.sciencedirect.com/science/article/abs/pii/S0925527304003226) (Fuente: Álvaro Gómez Muñoz, link actualizado por Gari Arellano)
+
 
 - **OneWorld y Evans Industries Inc.**:
 [J.D. Edwards user wins nearly $2M over ERP rollout gone bad](http://www.computerworld.com/article/2573740/enterprise-resource-planning/j-d--edwards-user-wins-nearly--2m-over-erp-rollout-gone-bad.html) (Fuente: David Abián)
@@ -669,6 +670,9 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 - **SAP y Victorian Orden of Nurses (Canada)**:
 [VON struggles to reimburse nurses with pay problems](http://www.cbc.ca/news/canada/von-struggles-to-reimburse-nurses-with-pay-problems-1.1097943) (Fuente: Guillermo Robles) y [SAP-IBM payroll system woes fouled up nurses' pay](http://www.computerworld.com/article/2510412/enterprise-applications/sap-ibm-payroll-system-woes-fouled-up-nurses--pay.html) (Fuente: Nerea Torres)
 
+- **SAP y Victorian Orden of Nurses (Canada)**:
+[VON struggles to reimburse nurses with pay problems](http://www.cbc.ca/news/canada/von-struggles-to-reimburse-nurses-with-pay-problems-1.1097943) (Fuente: Guillermo Robles) y [SAP-IBM payroll system woes fouled up nurses' pay](https://www.pcworld.com/article/481021/article-649.html) (Fuente: Nerea Torres, link actualizado por Gari Arellano )
+
 - **SAP y [Woodward](http://www.woodward.com/) (EE. UU.)**:
 [ERP Software Woes Ding Aerospace Company's Profits](https://www.computerworld.com/article/2723756/erp-software-woes-ding-aerospace-company-s-profits.html) (Fuente: Laura Calderón y Rubén Albacete); el artículo no cita a SAP pero una investigación posterior revela que SAP era el ERP involucrado
 
@@ -682,7 +686,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
  [UK Retailer Superdry Still Hurting from IT Upgrade Problems Stock price hasn't recovered from news of problems](https://spectrum.ieee.org/uk-retailer-superdry-still-hurting-from-it-upgrade-problems) (Fuente: Raúl Rustarazo)
 
 - **Oracle y el Gobierno de Sudáfrica**:
- A pesar de no saber el año exacto donde se originaron las dificultades, el artículo describe como el gobierno de Sudáfrica sigue teniendo problemas con el sistema de gestión financiero (IFMS) desarollado por Oracle que podrían estar relacionados con negligencias, incompetencias y corrupción.  [Government’s Integrated Financial Management System (IFMS): another example of the wrong thing done badly](https://www.dkeats.com/index.php/2017/06/19/governments-integrated-financial-management-system-ifms-another-example-of-the-wrong-thing-done-badly/) También se incluye un reportaje de una hora de duración hablando sobre el tema. [Treasury's fall from grace: Part 6](https://www.youtube.com/watch?v=w1MPM78b0bo)(Fuente: Adrián Arribas)
+ A pesar de no saber el año exacto donde se originaron las dificultades, el artículo describe como el gobierno de Sudáfrica sigue teniendo problemas con el sistema de gestión financiero (IFMS) desarollado por Oracle que podrían estar relacionados con negligencias, incompetencias y corrupción.  [Government’s Integrated Financial Management System (IFMS): another example of the wrong thing done badly](https://michaelparry.com/wp-content/uploads/2013/07/How-to-stop-IFMS-going-wrong.pdf) También se incluye un reportaje de una hora de duración hablando sobre el tema. [Treasury's fall from grace: Part 6](https://www.youtube.com/watch?v=w1MPM78b0bo)(Fuente: Adrián Arribas link actualizado por Gari Arellano)
 
 ### 2012
 
