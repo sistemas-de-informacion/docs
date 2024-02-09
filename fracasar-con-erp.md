@@ -427,7 +427,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 [Nonprofit Sues Lawson Over Alleged ERP Failure](https://www.pcworld.com/article/525092/article-6165.html) (Fuente: Fernando Bercedo corregido por Jaime Berruete Díaz)
 
 - **SAP y Portland City (Oregon)**:
-[Oregon SAP project wracked by leadership woes](http://www.computerworld.com/article/2514125/enterprise-applications/oregon-sap-project-wracked-by-leadership-woes.html) (Fuente: Pablo Lanaspa)
+[Portland, Ore.'s Citywide ERP Shows They Don't Come Easy](https://www.govtech.com/dc/articles/portland-ores-citywide-erp-shows-they.html) (Fuente: Pablo Lanaspa corregido por Alain Cascán)
 
 - **SAP y Shane (EE.UU)**:
 [Shane Company: Lessons Learned From an ERP Implementation Failure](https://www.computerworld.com/article/2769475/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html) (Fuente: Andrés Soldevilla corregido por Daniel Carrizo)
@@ -444,7 +444,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 [Philly flushes Oracle out of water bill project](http://www.computerworld.com/article/2549303/government-it/philly-flushes-oracle-out-of-water-bill-project.html) siendo resuelto el problema en 2008 con un nuevo proveedor y [Philadelphia's 'Ocean' Finally in Full Flow](http://www.computerworld.com/article/2551756/government-it/philadelphia-s--ocean--finally-in-full-flow.html) (Fuente: Juan Vela)
 
 - **Ross Systems y Woolf Enterprises**:
-[Customer alleges broken pledges, lies in ERP software suit](https://www.computerworld.com/article/2510613/technology-law-regulation/customer-alleges-broken-pledges--lies-in-erp-software-suit.html) (Fuente : Alberto Mur)
+[Customer Alleges Broken Pledges, Lies in ERP Software Suit](https://www.pcworld.com/article/482112/article-879.html) (Fuente : Alberto Mur corregido por Alain Cascán)
 
 - **SAP y Avison and Malaurent**:
 [Erp Introduction in China: Analysing Cultural Problems Using Structuration Theory.](https://www.sciencedirect.com/science/article/pii/S0268401215000602) (Fuente: Israel Solanas corregido por Daniel Carrizo)
@@ -634,13 +634,13 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 [Oracle Sued by University for Alleged ERP Failure](http://www.pcworld.com/article/228412/article.html) (Fuente: Guillermo Sesé) [Oracle says ERP software woes are school's own fault](http://www.computerworld.com/article/2508677/enterprise-applications/oracle-says-erp-software-woes-are-school-s-own-fault.html) (Fuente: Jorge Beamud)
 
 - **Oracle PeopleSoft y la ciudad de [Fort Worth](http://fortworthtexas.gov/)**:
-[Oracle PeopleSoft payroll problems still peeve police](http://www.computerworld.com/article/2511953/it-management/oracle-peoplesoft-payroll-problems-still-peeve-police.html) (Fuente: Luis Pellicer)
+[Biggest ERP failures of 2010](https://www.computerworld.com/article/2745265/biggest-erp-failures-of-2010.html)(Fuente: Luis Pellicer corregido por Alain Cascán)
 
 - **SAP e [Ingram Micro](http://www.ingrammicro.com/)**:
 [SAP project issues hurt Ingram Micro profits again](https://www.networkworld.com/article/2179735/sap-project-issues-hurt-ingram-micro-profits-again.html) (Fuente: Juliana Zordan, actualiza aportación de William Kokora)
 
 - **SAP y [Avantor](https://www.avantormaterials.com/)**:
-[Manufacturer sues IBM over SAP project 'disaster'](http://www.computerworld.com/s/article/9233432/Manufacturer_sues_IBM_over_SAP_project_39_disaster_39_) (Fuente: Diego Grande)
+[Manufacturer sues IBM over SAP project 'disaster'](https://www.computerworld.com/article/2717761/manufacturer-sues-ibm-over-sap-project--disaster-.html)( Fuente: Diego Grande corregido por Alain Cascán)
 
 - **SAP y Banco Columbia (Argentina)**:
 [Crónica de un fracaso: implementación ERP SAP de USD 30 Millones](https://www.evaluandoerp.com/cronica-de-un-fracaso-implementacion-erp-sap-de-usd-30-millones/) (Fuente: Israel Solanas)
@@ -710,7 +710,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 El sistema ECSS fue un error de desarrollo que terminó después de gastar US $ 1.030 millones durante siete años y producir un sistema sin "*ninguna capacidad militar significativa*". [El proyecto comenzó en 2004 con intención de integrar unos 240 sistemas obsoletos de la Fuerza Aérea con un único sistema integrado de planificación de recursos empresariales (ERP) destinado a modernizar la cadena de suministro global del servicio.](https://spectrum.ieee.org/riskfactor/aerospace/military/the-us-air-force-explains-its-billion-ecss-bonfire) (Fuente: Marta Morales y Pablo Piedrafita) [Billion dollar Oracle ERP project shot down by US Air Force](http://www.computing.co.uk/ctg/news/2225312/billion-dollar-oracle-erp-project-scrapped-by-us-air-force) (Fuente: Christian Simón) [Billion-Dollar Flop: Air Force Stumbles on Software Plan](http://www.nytimes.com/2012/12/09/technology/air-force-stumbles-over-software-modernization-project.html?pagewanted=all) (Fuente: Guilermo Sesé)
 
 - **Oracle JD Edwards ERP y New Enterprise Stone & Lime Co**:
-[Oracle ERP Project Woes Force Construction Firm to Delay Financial Filing](http://www.cio.com/article/2395555/enterprise-resource-planning/oracle-erp-project-woes-force-construction-firm-to-delay-financial-fili.html) (Fuente : Manuel Herrero)
+[Oracle ERP project woes force construction firm to delay financial filing](https://www.computerworld.com/article/2727468/oracle-erp-project-woes-force-construction-firm-to-delay-financial-filing.html)(Fuente: Manuel Herrero corregido por Alain Cascán)
 
 - **Oracle PeopleSoft, Ciber y HTC**:
 [Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) (Fuente: Alberto Mur)
