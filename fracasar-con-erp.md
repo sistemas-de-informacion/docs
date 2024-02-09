@@ -139,7 +139,8 @@ Mención en [The Enterprise Resource Planning Decade: Lessons Learned and Issues
 [Systems integration with merger target Consolidated Rail Corp.](https://books.google.es/books?id=EtwRJJ9BI90C&pg=PT73#v=onepage&q&f=false) (Fuente: Gregorio Largo Mayor)
 
 - **MOVEX y StoneCo (China)**:
-[ERP implementation failures in China: Case studies with implications for ERP vendors](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.6344&rep=rep1&type=pdf) (Fuente: Álvaro Gómez Muñoz)
+La empresa china StoneCo quiso implementar un sistema ERP. Eligió a la empresa Intentia AD de Suecia como proveedor de paquete software y a la empresa Legend Advanced Systems (LAS) como su proveedor de servicio. Durante la implementación del ERP surgieron varios imprevistos como la falta de soporte para ciertos pagos y la incapacidad para calcular precios con precisión. Finalmente, tras un juicio en el que se enfrentaban StoneCo y LAS, se decidió que ambos deberían compartir la responsabilidad del fracaso producido.
+[ERP implementation failures in China: Case studies with implications for ERP vendors](https://www.researchgate.net/publication/223320477_ERP_implementation_failures_in_China_Case_studies_with_implications_for_ERP_vendors) (Fuente: Álvaro Gómez Muñoz, link actualizado por Sarah Maria Constantinescu)
 
 - **OneWorld y Evans Industries Inc.**:
 [J.D. Edwards user wins nearly $2M over ERP rollout gone bad](http://www.computerworld.com/article/2573740/enterprise-resource-planning/j-d--edwards-user-wins-nearly--2m-over-erp-rollout-gone-bad.html) (Fuente: David Abián)
@@ -793,6 +794,10 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 - **ERP desconocido y PC Connection**:
 PC Connection experimentó una falla en su sistema ERP que se relacionó con una mala adaptación del proveedor del sistema.
 [Causas de fallas en la implementación de ERP y 11 ejemplos de alto perfil](https://softwareconnect.com/erp/implementation-failures/) (Fuente: Miguel Beltrán)
+
+- **PeopleSoft ERP y SBCTC**:
+El estado de Washington firmó un contrato para implementación del sistema PeopleSoft ERP en 34 escuelas y universidades comunitarias. El valor de dicho sistema era de aproximadamente 43.95 millones de dólares y su lanzamiento se preveía para el año 2012. Sin embargo, hubo varios factores por los cuales no se llevó a cabo. Uno de ellos fue la delcaración de bancarrota de la empresa externa Ciber, contratada para implementar dicho sistema. Sus activos fueron adquiridos por la empresa HTC que posteriormente canceló el contrato por supuestas disfunciones internas de los colegios.
+[Sistema de colegios comunitarios de Washington: cuando fracasan los terceros](https://es.slideshare.net/luisjaya2/exito-y-fracaso-en-el-uso-de-software) (Fuente: Sarah Maria Constantinescu)
 
 ### 2014
 
