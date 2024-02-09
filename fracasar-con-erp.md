@@ -859,6 +859,10 @@ La sustitución de un ERP desarrollado internamente durante 30 años por SAP cau
 El cuarto mayor productor de petróleo del mundo gastó 32 millones de dólares para implementar un ERP, que permitía la monitorización continua de los procesos comerciales. Finalmente, la conclusión de un estudio en enero de 2015 concluyó que la implementación de dicho sistema en la NNPC (Nigerian National Petroleum Corporation) fue ineficaz.
 [How NNPC officials waste billions on failed electronic management contract](https://www.premiumtimesng.com/news/headlines/191065-how-nnpc-officials-waste-billions-on-failed-electronic-management-contract.html) (Fuente: David Arruga)
 
+- **SAP y [Componentes industriales Maser (MASER)](https://www.cimaser.com/es/)**:
+La empresa MASER demandó a SAP SE, SAP ESPAÑA y SCPTI por la mala implementación del ERP SAP Bussines By Design. El juzgado de madrid falló a favor de MASER, condenando a las tres empresas a pagarle 146.650,02 euros más intereses.
+[El Grupo SAP tiene que indemnizar a una empresa con más de 146.000 euros por la implantación fallida de su tecnología](https://www.economistjurist.es/articulos-juridicos-destacados/derecho-mercantil/el-grupo-sap-tiene-que-indemnizar-a-una-empresa-con-mas-de-146-000-euros-por-la-implantacion-fallida-de-su-tecnologia/) (Fuente: Diego Lasheras)
+
 ### 2016
 
 - **ERP desconocido y PG&E**:
@@ -977,6 +981,10 @@ La crisis informática del banco TSB de abril de 2018 que deja a clientes bloque
 - **Unit4 y el Ayuntamiento de Edimburgo**
 El Ayuntamiento de Edimburgo planeó reemplazar Oracle con Unit4 para 2018, pero abandonó la misión de seguir con Big Red, un movimiento que llevó a los contratistas Agilysis y CGI a los juzgados. [City of Edinburgh Council selects services-slinger CGI for £102m contract despite abandoned Unit4 ERP project](https://www.theregister.com/2020/11/03/city_of_edinburgh_council_selected/) (Fuente: Adrián Arribas)
 
+- **ERP de Oracle y [Birmingham City Council]**
+El mayor gobierno local de Europa, Birmingham City Council, enfrenta dificultades financieras debido a problemas con la implementación de su sistema ERP de Oracle, que pretendía reemplazar su sistema SAP. Los costos del proyecto se dispararon de £20 millones a alrededor de £100 millones, causando retrasos y preocupaciones financieras.
+[Largest local government body in Europe goes under amid Oracle disaster](https://www.theregister.com/2023/09/05/birmingham_city_council_oracle/)(Fuente: Diego Lasheras)
+
 ### 2019
 
 - **Oracle y la policía de Cheshire**: El sistema fue puesto en marcha en 2019 con un contrato inicial de 3 millones £, pero debido al riesgo de acceso interno se ha decidido cambiar de sistema, llegando los acuerdos contractuales con Oracle a su fin en 2022 [Unit4 handed police ERP deal after 'significant deficiency' found in Oracle Fusion system](https://www.theregister.com/2021/05/18/unit4_3m_police_erp/) (Fuente: Ayelen Nuño Gracia)
@@ -1089,6 +1097,13 @@ y [Ranpak Holdings Corp. Reports First Quarter 2022 Financial Results](https://i
 
 - **JD Edwards ERP y J&J Snack Foods**:
 La empresa implantó un nuevo ERP que causó pérdidas de 20 millones de dólares en el Q2: [ERP implementation woes cost J&J Snack Foods estimated $20M](https://www.supplychaindive.com/news/j-and-j-snacks-erp-implementation-operation-woes/623226/) (Fuente: Paula Ezpeleta)
+
+- **Migración de ERP y [C&C Group]**:
+El CEO de C&C Group renunció después de que una actualización del sistema ERP en su unidad Matthew Clark y Bibendum resultara en una pérdida de €25 millones en ingresos. La actualización fue más desafiante de lo esperado, lo que llevó a la renuncia del CEO y a la designación del CFO como nuevo CEO. [Botched ERP migration costs CEO his job, company €25m](https://www.thestack.technology/cc-group-erp-update-ceo/) (Fuente: Diego Lasheras)
+
+- **Migración de SAP ECC y [UK university]**:
+La Universidad de la Ciudad de Londres abandonó un proyecto de reemplazo de su sistema SAP ECC de £17 millones ($20 millones) debido a la complejidad de sus requisitos. Aunque inicialmente buscaban una solución SaaS para mejorar la gestión de información, admitieron no comprender completamente sus necesidades y planean combinar el proyecto con una iniciativa más amplia de modernización de IT.
+[$20m SAP ECC replacement project delayed because UK university unsure what it wants](https://www.theregister.com/2023/01/03/city_london_delays_sap_rollout/) (Fuente: Diego Lasheras)
 
 ### 2023
 
