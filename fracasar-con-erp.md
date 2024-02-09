@@ -861,7 +861,7 @@ El cuarto mayor productor de petróleo del mundo gastó 32 millones de dólares 
 
 - **SAP y [Componentes industriales Maser (MASER)](https://www.cimaser.com/es/)**:
 La empresa MASER demandó a SAP SE, SAP ESPAÑA y SCPTI por la mala implementación del ERP SAP Bussines By Design. El juzgado de madrid falló a favor de MASER, condenando a las tres empresas a pagarle 146.650,02 euros más intereses.
-[El Grupo SAP tiene que indemnizar a una empresa con más de 146.000 euros por la implantación fallida de su tecnología](https://www.economistjurist.es/articulos-juridicos-destacados/derecho-mercantil/el-grupo-sap-tiene-que-indemnizar-a-una-empresa-con-mas-de-146-000-euros-por-la-implantacion-fallida-de-su-tecnologia/)(Fuente: Diego Lasheras)
+[El Grupo SAP tiene que indemnizar a una empresa con más de 146.000 euros por la implantación fallida de su tecnología](https://www.economistjurist.es/articulos-juridicos-destacados/derecho-mercantil/el-grupo-sap-tiene-que-indemnizar-a-una-empresa-con-mas-de-146-000-euros-por-la-implantacion-fallida-de-su-tecnologia/) (Fuente: Diego Lasheras)
 
 ### 2016
 
@@ -1099,11 +1099,10 @@ y [Ranpak Holdings Corp. Reports First Quarter 2022 Financial Results](https://i
 La empresa implantó un nuevo ERP que causó pérdidas de 20 millones de dólares en el Q2: [ERP implementation woes cost J&J Snack Foods estimated $20M](https://www.supplychaindive.com/news/j-and-j-snacks-erp-implementation-operation-woes/623226/) (Fuente: Paula Ezpeleta)
 
 - **Migración de ERP y [C&C Group]**:
-El CEO de C&C Group renunció después de que una actualización del sistema ERP en su unidad Matthew Clark y Bibendum resultara en una pérdida de €25 millones en ingresos. La actualización fue más desafiante de lo esperado, lo que llevó a la renuncia del CEO y a la designación del CFO como nuevo CEO.
-[Botched ERP migration costs CEO his job, company €25m](https://www.thestack.technology/cc-group-erp-update-ceo/)(Fuente: Diego Lasheras)
+El CEO de C&C Group renunció después de que una actualización del sistema ERP en su unidad Matthew Clark y Bibendum resultara en una pérdida de €25 millones en ingresos. La actualización fue más desafiante de lo esperado, lo que llevó a la renuncia del CEO y a la designación del CFO como nuevo CEO. [Botched ERP migration costs CEO his job, company €25m](https://www.thestack.technology/cc-group-erp-update-ceo/) (Fuente: Diego Lasheras)
 
 - **Migración de SAP ECC y [UK university]**:
 La Universidad de la Ciudad de Londres abandonó un proyecto de reemplazo de su sistema SAP ECC de £17 millones ($20 millones) debido a la complejidad de sus requisitos. Aunque inicialmente buscaban una solución SaaS para mejorar la gestión de información, admitieron no comprender completamente sus necesidades y planean combinar el proyecto con una iniciativa más amplia de modernización de IT.
-[$20m SAP ECC replacement project delayed because UK university unsure what it wants](https://www.theregister.com/2023/01/03/city_london_delays_sap_rollout/)(Fuente: Diego Lasheras)
+[$20m SAP ECC replacement project delayed because UK university unsure what it wants](https://www.theregister.com/2023/01/03/city_london_delays_sap_rollout/) (Fuente: Diego Lasheras)
 
 ### 2023
