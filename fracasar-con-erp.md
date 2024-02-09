@@ -574,7 +574,7 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 [Hospital Chain Sues Lawson Software Over Retiring ERP Apps](http://www.pcworld.com/article/159105/article.html) (Fuente : Samuel Gascón)
 
 - **Oracle PeopleSoft y [Washington State University](https://wsu.edu/)**:
-[Oracle software glitch mars semester's start for university, students](http://www.computerworld.com/article/2491510/enterprise-resource-planning/oracle-software-glitch-mars-semester-s-start-for-university--students.html) (Fuente: Alejandro Ramón).
+[Oracle software glitch mars semester's start for university, students](https://www.computerworld.com/article/2720270/oracle-software-glitch-mars-semester-s-start-for-university--students.html) (Fuente: Alejandro Ramón, link actualizado por Gari Arellano).
 
 - **SAP y el condado de Dorset (RU)**:
 [Dorset County Council computer problems continue](http://www.dorsetecho.co.uk/news/8625142.Dorset_County_Council_computer_problems_continue/?ref=mr) (Fuente Alvaro Juan)
@@ -656,7 +656,7 @@ Tras 1000M$ de inversión, entrar en go-live en 2013, el sistema fue desmantelad
 [Getting I.T. Right: What forwarders can learn from DHL’s struggle](https://aircargoworld.com/allposts/getting-i-t-right-what-forwarders-can-learn-from-dhls-struggle/) (Fuente: Antonio Lecina)
 
 - **SAP y Kentuky's Goverment**:
-[Auditor: state's HR software system has series of material](https://www.computerworld.com/article/2501737/auditor--state-s-hr-software-system-has-series-of--material-weaknesses-.html) (Fuente: David Ubide).
+[Auditor: state's HR software system has series of material](https://www.cio.com/article/284486/developer-auditor-state-s-hr-software-system-has-series-of-material-weaknesses.html) (Fuente: David Ubide, link actualizado por Gari Arellano).
 
 - **SAP y [Lidl](https://www.lidl.es/es/index.htm)**:
 Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a su viejo sistema.
