@@ -576,6 +576,9 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 - **Oracle PeopleSoft y [Washington State University](https://wsu.edu/)**:
 [Oracle software glitch mars semester's start for university, students](http://www.computerworld.com/article/2491510/enterprise-resource-planning/oracle-software-glitch-mars-semester-s-start-for-university--students.html) (Fuente: Alejandro Ramón).
 
+- **Oracle PeopleSoft y [Washington State University](https://wsu.edu/)**:
+[Oracle software glitch mars semester's start for university, students](https://www.computerworld.com/article/2720270/oracle-software-glitch-mars-semester-s-start-for-university--students.html) (Fuente: Alejandro Ramón, link actualizado por Gari Arellano).
+
 - **SAP y el condado de Dorset (RU)**:
 [Dorset County Council computer problems continue](http://www.dorsetecho.co.uk/news/8625142.Dorset_County_Council_computer_problems_continue/?ref=mr) (Fuente Alvaro Juan)
 
@@ -658,6 +661,9 @@ Tras 1000M$ de inversión, entrar en go-live en 2013, el sistema fue desmantelad
 - **SAP y Kentuky's Goverment**:
 [Auditor: state's HR software system has series of material](https://www.computerworld.com/article/2501737/auditor--state-s-hr-software-system-has-series-of--material-weaknesses-.html) (Fuente: David Ubide).
 
+- **SAP y Kentuky's Goverment**:
+[Auditor: state's HR software system has series of material](https://www.cio.com/article/284486/developer-auditor-state-s-hr-software-system-has-series-of-material-weaknesses.html) (Fuente: David Ubide, link actualizado por Gari Arellano).
+
 - **SAP y [Lidl](https://www.lidl.es/es/index.htm)**:
 Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a su viejo sistema.
 [Lidl cancels SAP introduction having sunk €500 million into it](https://www.consultancy.uk/news/18243/lidl-cancels-sap-introduction-having-sunk-500-million-into-it) (Fuente: Miguel López)
@@ -712,6 +718,9 @@ El sistema ECSS fue un error de desarrollo que terminó después de gastar US $ 
 - **Oracle JD Edwards ERP y New Enterprise Stone & Lime Co**:
 [Oracle ERP Project Woes Force Construction Firm to Delay Financial Filing](http://www.cio.com/article/2395555/enterprise-resource-planning/oracle-erp-project-woes-force-construction-firm-to-delay-financial-fili.html) (Fuente : Manuel Herrero)
 
+- **Oracle JD Edwards ERP y New Enterprise Stone & Lime Co**:
+[Oracle ERP Project Woes Force Construction Firm to Delay Financial Filing](https://www.computerworld.com/article/2727468/oracle-erp-project-woes-force-construction-firm-to-delay-financial-filing.html) (Fuente : Manuel Herrero, link actualizado por Gari Arellano)
+
 - **Oracle PeopleSoft, Ciber y HTC**:
 [Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) (Fuente: Alberto Mur)
 
@@ -761,6 +770,9 @@ Crearon un escenario en el que el proyecto se volvio tan enorme que no pudieron 
 
 - **SAP y el estado de [California](http://www.ca.gov/)**:
 [California sues SAP over failed payroll software project](http://www.computerworld.com/s/article/9244287/California_sues_SAP_over_failed_payroll_software_project) (Fuente: Sergio Josa) [California payroll: Another failure waiting to happen?](http://www.zdnet.com/article/california-payroll-another-failure-waiting-to-happen/) (Fuente: Guillermo Sesé)
+
+- **SAP y el estado de [California](http://www.ca.gov/)**:
+[California sues SAP over failed payroll software project](https://www.computerworld.com/article/2702946/california-sues-sap-over-failed-payroll-software-project.html) (Fuente: Sergio Josa, link actualizado por Gari Arellano) [California payroll: Another failure waiting to happen?](http://www.zdnet.com/article/california-payroll-another-failure-waiting-to-happen/) (Fuente: Guillermo Sesé)
 
 - **SAP y [Fujitsu](http://www.fujitsu.com/es/)**:
 [Another big SAP project hits the rocks in Oz](https://www.theregister.co.uk/2013/08/28/another_big_sap_project_hits_the_rocks_in_oz/) (Fuente: Ignacio Palacios)
@@ -836,6 +848,10 @@ El estudio identificó los principales factores críticos de fracaso en la imple
 
 - **IBM y el [Ministry of Community and Social Services](https://www.mcss.gov.on.ca/en/mcss/) de Ontario**:
 [Breach of Contract: Ontario vs. IBM](http://www.petrillolaw.com/breach-of-contract-ontario-vs-ibm/), [Ontario government, IBM smacked for bungled software project](https://www.itworldcanada.com/article/ontario-government-ibm-smacked-for-bungled-software-project/379060) (Fuente: Enrique Palacín)
+
+- **Oracle, Siebel CRM y [Select Comfort](https://www.sleepnumber.com/)** :
+Tras tener problemas en 2008 con SAP, Select Confort vuelve a tener problemas en un ERP go-live.
+[Losing Sleep at Select Comfort - ERP Implementation is a Nightmare](https://www.linkedin.com/pulse/losing-sleep-select-comfort-erp-implementation-nightmare-belden) (Fuente: Pablo Piedrafita)
 
 - **Oracle, Siebel CRM y [Select Comfort](https://www.sleepnumber.com/)** :
 Tras tener problemas en 2008 con SAP, Select Confort vuelve a tener problemas en un ERP go-live.
