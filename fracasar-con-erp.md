@@ -427,7 +427,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 [Nonprofit Sues Lawson Over Alleged ERP Failure](https://www.pcworld.com/article/525092/article-6165.html) (Fuente: Fernando Bercedo corregido por Jaime Berruete Díaz)
 
 - **SAP y Portland City (Oregon)**:
-[Oregon SAP project wracked by leadership woes](http://www.computerworld.com/article/2514125/enterprise-applications/oregon-sap-project-wracked-by-leadership-woes.html) (Fuente: Pablo Lanaspa)
+[Portland, Ore.'s Citywide ERP Shows They Don't Come Easy](https://www.govtech.com/dc/articles/portland-ores-citywide-erp-shows-they.html) (Fuente: Pablo Lanaspa corregido por Alain Cascán)
 
 - **SAP y Shane (EE.UU)**:
 [Shane Company: Lessons Learned From an ERP Implementation Failure](https://www.computerworld.com/article/2769475/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html) (Fuente: Andrés Soldevilla corregido por Daniel Carrizo)
@@ -444,7 +444,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 [Philly flushes Oracle out of water bill project](http://www.computerworld.com/article/2549303/government-it/philly-flushes-oracle-out-of-water-bill-project.html) siendo resuelto el problema en 2008 con un nuevo proveedor y [Philadelphia's 'Ocean' Finally in Full Flow](http://www.computerworld.com/article/2551756/government-it/philadelphia-s--ocean--finally-in-full-flow.html) (Fuente: Juan Vela)
 
 - **Ross Systems y Woolf Enterprises**:
-[Customer alleges broken pledges, lies in ERP software suit](https://www.computerworld.com/article/2510613/technology-law-regulation/customer-alleges-broken-pledges--lies-in-erp-software-suit.html) (Fuente : Alberto Mur)
+[Customer Alleges Broken Pledges, Lies in ERP Software Suit](https://www.pcworld.com/article/482112/article-879.html) (Fuente : Alberto Mur corregido por Alain Cascán)
 
 - **SAP y Avison and Malaurent**:
 [Erp Introduction in China: Analysing Cultural Problems Using Structuration Theory.](https://www.sciencedirect.com/science/article/pii/S0268401215000602) (Fuente: Israel Solanas corregido por Daniel Carrizo)
@@ -598,7 +598,7 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 [The Woe of Idaho: How Ignoring End-Users Derailed an ERP Implementation](http://panorama-consulting.com/the-woe-of-idaho-how-ignoring-end-users-derailed-an-erp-implementation/) El fracaso de un proyecto iniciado en 2007, donde la falta de planificación y testing le cuesta millones al estado de Idaho. (Fuente: Óscar Murillo) [Auditors: ERP software woes could cost Idaho millions](https://www.networkworld.com/article/2201979/auditors--erp-software-woes-could-cost-idaho-millions.html) (Fuente: Paula Ezpeleta, actualiza contribución de Javier Morón)
 
 - **ERP y Empresas de Retail en India**
-[Informe que habla sobre los principales factores de fallo en la instalación de ERPs en India](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8B9A6A3D24D98344EDA5B1371EA48948?doi=10.1.1.463.4223&rep=rep1&type=pdf) (Fuente: José Félix Yagüe)
+[Informe que habla sobre los principales factores de fallo en la instalación de ERPs en India](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=576ceec4c6e854c8a9e952c4e652897054c55c9c) (Fuente: José Félix Yagüe, link actualizado por Alain Villagrasa)
 
 - **Oracle y Omantel (Omán)** [Examines environmental factors that impacted on the adoption of ERP by The Oman Telecommunication Company, highlights the particular problems of large organisations that operate disparate legacy systems.](https://www.emerald.com/insight/content/doi/10.1108/02635571011008416/full/html) (Fuente: Felipe Nonay)
 
@@ -634,13 +634,13 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 [Oracle Sued by University for Alleged ERP Failure](http://www.pcworld.com/article/228412/article.html) (Fuente: Guillermo Sesé) [Oracle says ERP software woes are school's own fault](http://www.computerworld.com/article/2508677/enterprise-applications/oracle-says-erp-software-woes-are-school-s-own-fault.html) (Fuente: Jorge Beamud)
 
 - **Oracle PeopleSoft y la ciudad de [Fort Worth](http://fortworthtexas.gov/)**:
-[Oracle PeopleSoft payroll problems still peeve police](http://www.computerworld.com/article/2511953/it-management/oracle-peoplesoft-payroll-problems-still-peeve-police.html) (Fuente: Luis Pellicer)
+[Biggest ERP failures of 2010](https://www.computerworld.com/article/2745265/biggest-erp-failures-of-2010.html)(Fuente: Luis Pellicer corregido por Alain Cascán)
 
 - **SAP e [Ingram Micro](http://www.ingrammicro.com/)**:
 [SAP project issues hurt Ingram Micro profits again](https://www.networkworld.com/article/2179735/sap-project-issues-hurt-ingram-micro-profits-again.html) (Fuente: Juliana Zordan, actualiza aportación de William Kokora)
 
 - **SAP y [Avantor](https://www.avantormaterials.com/)**:
-[Manufacturer sues IBM over SAP project 'disaster'](http://www.computerworld.com/s/article/9233432/Manufacturer_sues_IBM_over_SAP_project_39_disaster_39_) (Fuente: Diego Grande)
+[Manufacturer sues IBM over SAP project 'disaster'](https://www.computerworld.com/article/2717761/manufacturer-sues-ibm-over-sap-project--disaster-.html)( Fuente: Diego Grande corregido por Alain Cascán)
 
 - **SAP y Banco Columbia (Argentina)**:
 [Crónica de un fracaso: implementación ERP SAP de USD 30 Millones](https://www.evaluandoerp.com/cronica-de-un-fracaso-implementacion-erp-sap-de-usd-30-millones/) (Fuente: Israel Solanas)
@@ -710,7 +710,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 El sistema ECSS fue un error de desarrollo que terminó después de gastar US $ 1.030 millones durante siete años y producir un sistema sin "*ninguna capacidad militar significativa*". [El proyecto comenzó en 2004 con intención de integrar unos 240 sistemas obsoletos de la Fuerza Aérea con un único sistema integrado de planificación de recursos empresariales (ERP) destinado a modernizar la cadena de suministro global del servicio.](https://spectrum.ieee.org/riskfactor/aerospace/military/the-us-air-force-explains-its-billion-ecss-bonfire) (Fuente: Marta Morales y Pablo Piedrafita) [Billion dollar Oracle ERP project shot down by US Air Force](http://www.computing.co.uk/ctg/news/2225312/billion-dollar-oracle-erp-project-scrapped-by-us-air-force) (Fuente: Christian Simón) [Billion-Dollar Flop: Air Force Stumbles on Software Plan](http://www.nytimes.com/2012/12/09/technology/air-force-stumbles-over-software-modernization-project.html?pagewanted=all) (Fuente: Guilermo Sesé)
 
 - **Oracle JD Edwards ERP y New Enterprise Stone & Lime Co**:
-[Oracle ERP Project Woes Force Construction Firm to Delay Financial Filing](https://www.computerworld.com/article/2727468/oracle-erp-project-woes-force-construction-firm-to-delay-financial-filing.html) (Fuente : Manuel Herrero, link actualizado por Gari Arellano)
+[Oracle ERP project woes force construction firm to delay financial filing](https://www.computerworld.com/article/2727468/oracle-erp-project-woes-force-construction-firm-to-delay-financial-filing.html)(Fuente: Manuel Herrero corregido por Alain Cascán)
 
 - **Oracle PeopleSoft, Ciber y HTC**:
 [Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) (Fuente: Alberto Mur)
@@ -727,7 +727,7 @@ Un año de desarrollo, 35M$ y un año después del go-live (2014) se siguen haci
 [Case Study 3: How a Screwed-Up SAP Implementation Almost Brought Down National Grid](https://www.henricodolfing.com/2019/04/case-study-sap-wipro-national-grid.html) (Fuente : Jorge Fernandez, José Navarro)
 
 - **SAP y NPower (UK)**:
-[Npower's SAP billing fiasco still making a dent on profits](http://www.computerworlduk.com/news/it-vendors/npowers-billing-fiasco-will-be-resolved-in-two-months-3517010/) (Fuente: Alejandro Guiu)
+[Npower's SAP billing fiasco still making a dent on profits](https://www.computerweekly.com/news/4500278174/RWE-chief-executive-points-to-SAP-billing-system-as-cause-of-npower-losses) (Fuente: Alejandro Guiu, link actualizado por Alain Villagrasa)
 
 - **SAP y H.B.Fuller**:
 El proyecto *Project One* valorado en 60M$ se inicia en 2012 y cuando se despliega en 2014 causa 20M$ de pérdidas directas.
@@ -859,6 +859,10 @@ La sustitución de un ERP desarrollado internamente durante 30 años por SAP cau
 El cuarto mayor productor de petróleo del mundo gastó 32 millones de dólares para implementar un ERP, que permitía la monitorización continua de los procesos comerciales. Finalmente, la conclusión de un estudio en enero de 2015 concluyó que la implementación de dicho sistema en la NNPC (Nigerian National Petroleum Corporation) fue ineficaz.
 [How NNPC officials waste billions on failed electronic management contract](https://www.premiumtimesng.com/news/headlines/191065-how-nnpc-officials-waste-billions-on-failed-electronic-management-contract.html) (Fuente: David Arruga)
 
+- **SAP y [Componentes industriales Maser (MASER)](https://www.cimaser.com/es/)**:
+La empresa MASER demandó a SAP SE, SAP ESPAÑA y SCPTI por la mala implementación del ERP SAP Bussines By Design. El juzgado de madrid falló a favor de MASER, condenando a las tres empresas a pagarle 146.650,02 euros más intereses.
+[El Grupo SAP tiene que indemnizar a una empresa con más de 146.000 euros por la implantación fallida de su tecnología](https://www.economistjurist.es/articulos-juridicos-destacados/derecho-mercantil/el-grupo-sap-tiene-que-indemnizar-a-una-empresa-con-mas-de-146-000-euros-por-la-implantacion-fallida-de-su-tecnologia/) (Fuente: Diego Lasheras)
+
 ### 2016
 
 - **ERP desconocido y PG&E**:
@@ -977,6 +981,10 @@ La crisis informática del banco TSB de abril de 2018 que deja a clientes bloque
 - **Unit4 y el Ayuntamiento de Edimburgo**
 El Ayuntamiento de Edimburgo planeó reemplazar Oracle con Unit4 para 2018, pero abandonó la misión de seguir con Big Red, un movimiento que llevó a los contratistas Agilysis y CGI a los juzgados. [City of Edinburgh Council selects services-slinger CGI for £102m contract despite abandoned Unit4 ERP project](https://www.theregister.com/2020/11/03/city_of_edinburgh_council_selected/) (Fuente: Adrián Arribas)
 
+- **ERP de Oracle y [Birmingham City Council]**
+El mayor gobierno local de Europa, Birmingham City Council, enfrenta dificultades financieras debido a problemas con la implementación de su sistema ERP de Oracle, que pretendía reemplazar su sistema SAP. Los costos del proyecto se dispararon de £20 millones a alrededor de £100 millones, causando retrasos y preocupaciones financieras.
+[Largest local government body in Europe goes under amid Oracle disaster](https://www.theregister.com/2023/09/05/birmingham_city_council_oracle/)(Fuente: Diego Lasheras)
+
 ### 2019
 
 - **Oracle y la policía de Cheshire**: El sistema fue puesto en marcha en 2019 con un contrato inicial de 3 millones £, pero debido al riesgo de acceso interno se ha decidido cambiar de sistema, llegando los acuerdos contractuales con Oracle a su fin en 2022 [Unit4 handed police ERP deal after 'significant deficiency' found in Oracle Fusion system](https://www.theregister.com/2021/05/18/unit4_3m_police_erp/) (Fuente: Ayelen Nuño Gracia)
@@ -1090,4 +1098,13 @@ y [Ranpak Holdings Corp. Reports First Quarter 2022 Financial Results](https://i
 - **JD Edwards ERP y J&J Snack Foods**:
 La empresa implantó un nuevo ERP que causó pérdidas de 20 millones de dólares en el Q2: [ERP implementation woes cost J&J Snack Foods estimated $20M](https://www.supplychaindive.com/news/j-and-j-snacks-erp-implementation-operation-woes/623226/) (Fuente: Paula Ezpeleta)
 
+- **Migración de ERP y [C&C Group]**:
+El CEO de C&C Group renunció después de que una actualización del sistema ERP en su unidad Matthew Clark y Bibendum resultara en una pérdida de €25 millones en ingresos. La actualización fue más desafiante de lo esperado, lo que llevó a la renuncia del CEO y a la designación del CFO como nuevo CEO. [Botched ERP migration costs CEO his job, company €25m](https://www.thestack.technology/cc-group-erp-update-ceo/) (Fuente: Diego Lasheras)
+
+- **Migración de SAP ECC y [UK university]**:
+La Universidad de la Ciudad de Londres abandonó un proyecto de reemplazo de su sistema SAP ECC de £17 millones ($20 millones) debido a la complejidad de sus requisitos. Aunque inicialmente buscaban una solución SaaS para mejorar la gestión de información, admitieron no comprender completamente sus necesidades y planean combinar el proyecto con una iniciativa más amplia de modernización de IT.
+[$20m SAP ECC replacement project delayed because UK university unsure what it wants](https://www.theregister.com/2023/01/03/city_london_delays_sap_rollout/) (Fuente: Diego Lasheras)
+
 ### 2023
+
+- **SAP y Spar**: El fracaso en la implementación de SAP en el centro de distribución de KwaZulu-Natal en Sudáfrica del famoso supermercado alemán Spar supuso una pérdida de R1.6 billones en 2023 (en torno a 78 millones de €), y R720 millones (alredededor de 35 millones de €) en pérdidas de beneficios. [Spar Group's Failed SAP ERP Implementation](https://www.warehouseautomation.ai/top-stories/spar-groups-failed-sap-implementation-results-in-r786-million), [Spar ‘ignored whistle-blower’ on botched SAP project](https://techcentral.co.za/spar-ignored-whistle-blower-botched-sap/236272/), [Spar loses R1.6bn due to failed SAP project](https://www.itweb.co.za/article/spar-loses-r16bn-due-to-failed-sap-project/Pero3qZ35JyvQb6m) (Fuente: Alain Villagrasa)
