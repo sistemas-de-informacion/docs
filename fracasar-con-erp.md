@@ -365,6 +365,10 @@ En este paper se hace un pequeño estudio de la implementación de SAP en esta c
 - **ERP desconocido y Multi-national Electronics Components Manufacturing Company**:
 [Examining the ERP Implementation Process from a Failure Case](http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
 
+- **ERP desconocido, estudio de fallos de implementación en China**:
+En este artículo se estudian algunos casos de fallos de implementación de ERP (europeos o norte-americanos) en compañías chinas, además de un estudio acerca de los ERP desarrollados en el país. [ERP implementation failures in China: Case studies with implications for ERP vendors](https://www.sciencedirect.com/science/article/abs/pii/S0925527304003226)
+
+
 ### 2005
 
 - **Ciber y [Pennsylvania Turnpike Commission](https://www.paturnpike.com/)**:
@@ -476,7 +480,7 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [Epicor Sued Over Alleged ERP Project Failure](http://www.pcworld.com/article/237939/article.html) (Fuente: David Enjuanes y Paula Lardiés) y [What Was the Cause of the Recent Epicor ERP Implementation Failure and Lawsuit?](http://panorama-consulting.com/what-was-the-cause-of-the-recent-epicor-erp-implementation-failure-and-lawsuit/) (Fuente: Alejandro Ramón)
 
 - **ERP X (Ficticio) y un gobierno X de los UAE**:
-[ERP Failure Implementation: Case Study](https://vdocuments.mx/erp-failure-implementationcase-study.html) (Fuente: Miguel López)
+[ERP Failure Implementation: Case Study](https://www.scribd.com/document/88423414/ERP-Failure-Implementation-case-Study) (Fuente: Miguel López, link actualizado por Alain Villagrasa)
 
 - **ERP ficticio y Bodegas Olaya (Colombia, empresa ficticia)**:
 [Hay vida después de un ERP?](https://www.icesi.edu.co/blogs/hayvidadespuesdeunerp/) (Fuente: Marta Frías) es un caso de implementación problemática de un ERP en una empresa colombiana grande.
