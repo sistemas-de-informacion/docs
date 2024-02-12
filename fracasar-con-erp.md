@@ -795,6 +795,9 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 PC Connection experimentó una falla en su sistema ERP que se relacionó con una mala adaptación del proveedor del sistema.
 [Causas de fallas en la implementación de ERP y 11 ejemplos de alto perfil](https://softwareconnect.com/erp/implementation-failures/) (Fuente: Miguel Beltrán)
 
+- **Estudio de implementaciones de ERP en PYMES y caso de estudio concreto (ambos anonimizados)**:
+[ERP Implementation in an SME: A Failure Case](https://link.springer.com/chapter/10.1007/978-3-642-38244-4_11) (Fuente: Alain Villagrasa)
+
 ### 2014
 
 - **Israel Chemical Limited y SAP**:
