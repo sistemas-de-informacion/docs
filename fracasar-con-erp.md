@@ -28,7 +28,8 @@ ERP implementado por Andersen resulta en sistemas inutilizables. (Fuente: Jan Ca
 - **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/)**:
 En el primer enlace se encuentra el informe detallado del caso y en el segundo se encuentra un resumen de dicho informe que permite una fácil consulta
 [London Ambulance Service Software Failure Case](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
-[London Ambulance Service Software Failure Report](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/Report_London_Ambulance_Service-Jan2015.pdf) (Fuente: Lorena Mehavilla)
+[London Ambulance Service Software Failure Report](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/Report_London_Ambulance_Service-Jan2015.pdf) (Fuente: Lorena Mehavilla). Se puede profundizar sobre el problema generado tras añadir un ERP al sistema de ambulancias de Londres en los siguientes dos enlaces:  [The 1992 London Ambulance Service Computer Aided Dispatch System Failure](https://erichmusick.com/writings/technology/1992-london-ambulance-cad-failure.html)  y [The turnaround of the London Ambulance Service Computer-Aided Despatch system (LASCAD)](https://link.springer.com/article/10.1057/palgrave.ejis.3000541)
+
 
 ### 1993
 
