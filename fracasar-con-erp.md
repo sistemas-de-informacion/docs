@@ -476,9 +476,6 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 - **Epicor y [Whaley Foodservice Repairs](http://www.whaleyfoodservice.com/)**:
 [Epicor Sued Over Alleged ERP Project Failure](http://www.pcworld.com/article/237939/article.html) (Fuente: David Enjuanes y Paula Lardiés) y [What Was the Cause of the Recent Epicor ERP Implementation Failure and Lawsuit?](http://panorama-consulting.com/what-was-the-cause-of-the-recent-epicor-erp-implementation-failure-and-lawsuit/) (Fuente: Alejandro Ramón)
 
-- **ERP X (Ficticio) y un gobierno X de los UAE**:
-[ERP Failure Implementation: Case Study](https://vdocuments.mx/erp-failure-implementationcase-study.html) (Fuente: Miguel López)
-
 - **ERP ficticio y Bodegas Olaya (Colombia, empresa ficticia)**:
 [Hay vida después de un ERP?](https://www.icesi.edu.co/blogs/hayvidadespuesdeunerp/) (Fuente: Marta Frías) es un caso de implementación problemática de un ERP en una empresa colombiana grande.
 
