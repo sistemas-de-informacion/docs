@@ -365,10 +365,6 @@ En este paper se hace un pequeño estudio de la implementación de SAP en esta c
 - **ERP desconocido y Multi-national Electronics Components Manufacturing Company**:
 [Examining the ERP Implementation Process from a Failure Case](http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
 
-- **ERP desconocido, estudio de fallos de implementación en China**:
-En este artículo se estudian algunos casos de fallos de implementación de ERP (europeos o norte-americanos) en compañías chinas, además de un estudio acerca de los ERP desarrollados en el país. [ERP implementation failures in China: Case studies with implications for ERP vendors](https://www.sciencedirect.com/science/article/abs/pii/S0925527304003226)
-
-
 ### 2005
 
 - **Ciber y [Pennsylvania Turnpike Commission](https://www.paturnpike.com/)**:
