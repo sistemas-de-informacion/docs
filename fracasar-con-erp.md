@@ -139,7 +139,8 @@ Mención en [The Enterprise Resource Planning Decade: Lessons Learned and Issues
 [Systems integration with merger target Consolidated Rail Corp.](https://books.google.es/books?id=EtwRJJ9BI90C&pg=PT73#v=onepage&q&f=false) (Fuente: Gregorio Largo Mayor)
 
 - **MOVEX y StoneCo (China)**:
-[ERP implementation failures in China: Case studies with implications for ERP vendors](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.6344&rep=rep1&type=pdf) (Fuente: Álvaro Gómez Muñoz)
+La empresa china StoneCo quiso implementar un sistema ERP. Eligió a la empresa Intentia AD de Suecia como proveedor de paquete software y a la empresa Legend Advanced Systems (LAS) como su proveedor de servicio. Durante la implementación del ERP surgieron varios imprevistos como la falta de soporte para ciertos pagos y la incapacidad para calcular precios con precisión. Finalmente, tras un juicio en el que se enfrentaban StoneCo y LAS, se decidió que ambos deberían compartir la responsabilidad del fracaso producido.
+[ERP implementation failures in China: Case studies with implications for ERP vendors](https://www.researchgate.net/publication/223320477_ERP_implementation_failures_in_China_Case_studies_with_implications_for_ERP_vendors) (Fuente: Álvaro Gómez Muñoz, link actualizado por Sarah Maria Constantinescu)
 
 - **OneWorld y Evans Industries Inc.**:
 [J.D. Edwards user wins nearly $2M over ERP rollout gone bad](http://www.computerworld.com/article/2573740/enterprise-resource-planning/j-d--edwards-user-wins-nearly--2m-over-erp-rollout-gone-bad.html) (Fuente: David Abián)
@@ -475,9 +476,6 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 - **Epicor y [Whaley Foodservice Repairs](http://www.whaleyfoodservice.com/)**:
 [Epicor Sued Over Alleged ERP Project Failure](http://www.pcworld.com/article/237939/article.html) (Fuente: David Enjuanes y Paula Lardiés) y [What Was the Cause of the Recent Epicor ERP Implementation Failure and Lawsuit?](http://panorama-consulting.com/what-was-the-cause-of-the-recent-epicor-erp-implementation-failure-and-lawsuit/) (Fuente: Alejandro Ramón)
 
-- **ERP X (Ficticio) y un gobierno X de los UAE**:
-[ERP Failure Implementation: Case Study](https://vdocuments.mx/erp-failure-implementationcase-study.html) (Fuente: Miguel López)
-
 - **ERP ficticio y Bodegas Olaya (Colombia, empresa ficticia)**:
 [Hay vida después de un ERP?](https://www.icesi.edu.co/blogs/hayvidadespuesdeunerp/) (Fuente: Marta Frías) es un caso de implementación problemática de un ERP en una empresa colombiana grande.
 
@@ -669,6 +667,9 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 - **SAP y Victorian Orden of Nurses (Canada)**:
 [VON struggles to reimburse nurses with pay problems](http://www.cbc.ca/news/canada/von-struggles-to-reimburse-nurses-with-pay-problems-1.1097943) (Fuente: Guillermo Robles) y [SAP-IBM payroll system woes fouled up nurses' pay](http://www.computerworld.com/article/2510412/enterprise-applications/sap-ibm-payroll-system-woes-fouled-up-nurses--pay.html) (Fuente: Nerea Torres)
 
+- **SAP y Victorian Orden of Nurses (Canada)**:
+[VON struggles to reimburse nurses with pay problems](http://www.cbc.ca/news/canada/von-struggles-to-reimburse-nurses-with-pay-problems-1.1097943) (Fuente: Guillermo Robles) y [SAP-IBM payroll system woes fouled up nurses' pay](https://www.pcworld.com/article/481021/article-649.html) (Fuente: Nerea Torres, link actualizado por Gari Arellano )
+
 - **SAP y [Woodward](http://www.woodward.com/) (EE. UU.)**:
 [ERP Software Woes Ding Aerospace Company's Profits](https://www.computerworld.com/article/2723756/erp-software-woes-ding-aerospace-company-s-profits.html) (Fuente: Laura Calderón y Rubén Albacete); el artículo no cita a SAP pero una investigación posterior revela que SAP era el ERP involucrado
 
@@ -682,7 +683,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
  [UK Retailer Superdry Still Hurting from IT Upgrade Problems Stock price hasn't recovered from news of problems](https://spectrum.ieee.org/uk-retailer-superdry-still-hurting-from-it-upgrade-problems) (Fuente: Raúl Rustarazo)
 
 - **Oracle y el Gobierno de Sudáfrica**:
- A pesar de no saber el año exacto donde se originaron las dificultades, el artículo describe como el gobierno de Sudáfrica sigue teniendo problemas con el sistema de gestión financiero (IFMS) desarollado por Oracle que podrían estar relacionados con negligencias, incompetencias y corrupción.  [Government’s Integrated Financial Management System (IFMS): another example of the wrong thing done badly](https://www.dkeats.com/index.php/2017/06/19/governments-integrated-financial-management-system-ifms-another-example-of-the-wrong-thing-done-badly/) También se incluye un reportaje de una hora de duración hablando sobre el tema. [Treasury's fall from grace: Part 6](https://www.youtube.com/watch?v=w1MPM78b0bo)(Fuente: Adrián Arribas)
+ A pesar de no saber el año exacto donde se originaron las dificultades, el artículo describe como el gobierno de Sudáfrica sigue teniendo problemas con el sistema de gestión financiero (IFMS) desarollado por Oracle que podrían estar relacionados con negligencias, incompetencias y corrupción.  [Government’s Integrated Financial Management System (IFMS): another example of the wrong thing done badly](https://michaelparry.com/wp-content/uploads/2013/07/How-to-stop-IFMS-going-wrong.pdf) También se incluye un reportaje de una hora de duración hablando sobre el tema. [Treasury's fall from grace: Part 6](https://www.youtube.com/watch?v=w1MPM78b0bo)(Fuente: Adrián Arribas link actualizado por Gari Arellano)
 
 ### 2012
 
@@ -713,7 +714,7 @@ El sistema ECSS fue un error de desarrollo que terminó después de gastar US $ 
 [Oracle ERP project woes force construction firm to delay financial filing](https://www.computerworld.com/article/2727468/oracle-erp-project-woes-force-construction-firm-to-delay-financial-filing.html)(Fuente: Manuel Herrero corregido por Alain Cascán)
 
 - **Oracle PeopleSoft, Ciber y HTC**:
-[Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) (Fuente: Alberto Mur)
+[Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) El estado de Washington firmó un contrato para implementación del sistema PeopleSoft ERP en 34 escuelas y universidades comunitarias. El valor de dicho sistema era de aproximadamente 43.95 millones de dólares y su lanzamiento se preveía para el año 2012. Sin embargo, hubo varios factores por los cuales no se llevó a cabo. Uno de ellos fue la delcaración de bancarrota de la empresa externa Ciber, contratada para implementar dicho sistema. Sus activos fueron adquiridos por la empresa HTC que posteriormente canceló el contrato por supuestas disfunciones internas de los colegios. (Fuente: Alberto Mur, actualizado por Sarah Maria Constantinescu)
 
 - **Oracle y Estado de Oregon (EE. UU.)** :
 Un año de desarrollo, 35M$ y un año después del go-live (2014) se siguen haciendo los procesos en papel.
