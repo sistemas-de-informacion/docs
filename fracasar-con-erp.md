@@ -292,7 +292,7 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 [NASA systems: Houston, we have a problem](https://www.computerworld.com/article/2580248/nasa-reinvents-troubled-it-with-help-of-private-sector.html) (Fuente: Juan Vela y Jan Carlos Franco)
 
 - **SAP y XYZ (nombre ficticio, diferente del caso 2002)**:
-[Learning from failed ERP implementation](http://www.apps2fusion.com/training_demo/ranu/erp_success_factors_ranu.pdf) (Fuente: Fernando Alegre)
+[Learning from failed ERP implementation](https://docplayer.net/9381832-Learning-from-failed-erp-implementation-or-how-to-make-em-successful-ranu-srivastava.html) (Fuente: Fernando Alegre, link actualizado por Pablo Moreno)
 
 - **SAP, PeopleSoft and Oracle y [Walt Disney Corporation](https://thewaltdisneycompany.com/)**:
 [Disney keeps global SAP roll-out on track by making local executives responsible](http://www.computerweekly.com/feature/Disney-keeps-global-SAP-roll-out-on-track-by-making-local-executives-responsible) (Fuente: Adrián Ibáñez)
