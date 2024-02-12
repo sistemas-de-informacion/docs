@@ -714,7 +714,7 @@ El sistema ECSS fue un error de desarrollo que terminó después de gastar US $ 
 [Oracle ERP project woes force construction firm to delay financial filing](https://www.computerworld.com/article/2727468/oracle-erp-project-woes-force-construction-firm-to-delay-financial-filing.html)(Fuente: Manuel Herrero corregido por Alain Cascán)
 
 - **Oracle PeopleSoft, Ciber y HTC**:
-[Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) (Fuente: Alberto Mur)
+[Washington community college system: When third parties flop](https://crosscut.com/2017/06/washington-community-colleges-tech-upgrade-student-tuition-ciber) El estado de Washington firmó un contrato para implementación del sistema PeopleSoft ERP en 34 escuelas y universidades comunitarias. El valor de dicho sistema era de aproximadamente 43.95 millones de dólares y su lanzamiento se preveía para el año 2012. Sin embargo, hubo varios factores por los cuales no se llevó a cabo. Uno de ellos fue la delcaración de bancarrota de la empresa externa Ciber, contratada para implementar dicho sistema. Sus activos fueron adquiridos por la empresa HTC que posteriormente canceló el contrato por supuestas disfunciones internas de los colegios. (Fuente: Alberto Mur, actualizado por Sarah Maria Constantinescu)
 
 - **Oracle y Estado de Oregon (EE. UU.)** :
 Un año de desarrollo, 35M$ y un año después del go-live (2014) se siguen haciendo los procesos en papel.
@@ -794,10 +794,6 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 - **ERP desconocido y PC Connection**:
 PC Connection experimentó una falla en su sistema ERP que se relacionó con una mala adaptación del proveedor del sistema.
 [Causas de fallas en la implementación de ERP y 11 ejemplos de alto perfil](https://softwareconnect.com/erp/implementation-failures/) (Fuente: Miguel Beltrán)
-
-- **PeopleSoft ERP y SBCTC**:
-El estado de Washington firmó un contrato para implementación del sistema PeopleSoft ERP en 34 escuelas y universidades comunitarias. El valor de dicho sistema era de aproximadamente 43.95 millones de dólares y su lanzamiento se preveía para el año 2012. Sin embargo, hubo varios factores por los cuales no se llevó a cabo. Uno de ellos fue la delcaración de bancarrota de la empresa externa Ciber, contratada para implementar dicho sistema. Sus activos fueron adquiridos por la empresa HTC que posteriormente canceló el contrato por supuestas disfunciones internas de los colegios.
-[Sistema de colegios comunitarios de Washington: cuando fracasan los terceros](https://es.slideshare.net/luisjaya2/exito-y-fracaso-en-el-uso-de-software) (Fuente: Sarah Maria Constantinescu)
 
 ### 2014
 
