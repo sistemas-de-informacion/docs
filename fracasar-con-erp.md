@@ -868,6 +868,8 @@ La empresa MASER demandó a SAP SE, SAP ESPAÑA y SCPTI por la mala implementaci
 - **ERP desconocido y PG&E**:
 [Pacific Gas and Electric Database Exposed](https://mackeeper.com/blog/post/231-pacific-gas-and-electric-database-exposed) (Fuente: Alberto Mur).
 [Enlace añadido](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) con conclusiones del error, explicaciones extendidas y video analizador de riesgos de contratar grandes sistemas integradores (Fuente: Oscar Anadon).
+[Enlace añadido](https://www.panorama-consulting.com/pge-data-breach/) (Fuente: Lucía Olmos).
+
 
 - **Oracle PeopleSoft, IBM (implementador) y Public Services and Procurement Canada (PSPC)**:
 Las personalizaciones hacen imposible migrar de la versión 9.1 a la versión 9.2 de PeopleSoft.
@@ -927,7 +929,7 @@ Instalación en 2017. Problemas en 2018.
 ([Revlon Report](https://investors.revlon.com/news-releases/news-release-details/revlon-reports-second-quarter-2018-results)) (Fuente: Naval Alcalá)
 [How Revlon got sued by its own shareholders because of a failed SAP implementation](https://www.henricodolfing.com/2019/08/case-study-revlon-sued-because-sap-implementation.html) (Fuente: Juliana Zordan, actualiza aportación de Pedro Tamarga)
 [Lessons from Revlon’s SAP Implementation Disaster](https://www.thirdstage-consulting.com/lessons-from-revlons-sap-implementation-disaster/) (Fuente: Antonio Lecina)
-[What was the Real Story with the Revlon S/4 HANA failure?](https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López) [ERP Implementation Failure at Revlon](https://www.thecasecentre.org/products/view?id=173346) (Fuente: Jaime Roncal) [Case Study: How Revlon Got Sued by Its Own Shareholders Because of a Failed Sap Implementation](https://www.henricodolfing.com/2019/08/case-study-revlon-sued-because-sap-implementation.html) (Fuente: Ismael Penacho
+[What was the Real Story with the Revlon S/4 HANA failure?](https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López) [ERP Implementation Failure at Revlon](https://www.thecasecentre.org/products/view?id=173346) (Fuente: Jaime Roncal) [Case Study: How Revlon Got Sued by Its Own Shareholders Because of a Failed Sap Implementation](https://www.henricodolfing.com/2019/08/case-study-revlon-sued-because-sap-implementation.html) (Fuente: Ismael Penacho)
 
 - **SAP y [Under Armour](https://www.underarmour.com/)**:
 [Under Armour’s SAP implementation issues contribute to disappointing quarter](https://explorewms.com/under-armour-sap-implementation.html), [Under Armour Links Sales Decline to Software Upgrade](https://blogs.wsj.com/cio/2017/10/31/under-armour-links-sales-decline-to-software-upgrade/) (Fuente: Enrique Palacín), [Under Armour faces losses after ERP update](https://www.supplychaindive.com/news/under-armour-losses-ERP-update-supply-chain-disruption/510078/) (Hector Herrmann)
@@ -974,6 +976,8 @@ La compañía habló con el distribuidor de ERP para gestionar las ventas de tod
 - **SAP y Lidl**:
 Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada. [Esto desencadenó una cadena de problemas de implementación](https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Marta Morales)
 [Case Study 12: Lidl’s €500 Million SAP Debacle](https://www.henricodolfing.com/2020/05/case-study-lidl-sap-debacle.html) (Fuente: Cristina Marzo)
+
+[SAP LIDL-CASE STUDY] (https://www.humology.com/lidl-case-study) (Fuente: Lucía Olmos)
 
 - **ERP no especicado y [TSB Bank](https://www.tsb.co.uk/)**:
 La crisis informática del banco TSB de abril de 2018 que deja a clientes bloqueados en sus cuentas bancarias, cuentas hipotecarias que desaparecen, pequeñas empresas que informan de que no pueden pagar a su personal y de tarjetas de débito que dejan de funcionar. [The Epic Meltdown of TSB Bank](https://www.henricodolfing.com/2019/03/case-study-epic-meltdown-of-tsb-bank.html) (Fuente: Sergio Hernández)
