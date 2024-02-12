@@ -833,6 +833,9 @@ Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocad
 - **SAP, Oracle, Baan y otros y SME indias**:
 El estudio identificó los principales factores críticos de fracaso en la implementación de ERP en las PYMEs indias, incluyendo la resistencia de los empleados, una mala dirección superior y los problemas presupuestarios. [Erp in Indian Smes - A Study of Critical Failure Factors](http://www.iosrjournals.org/iosr-jmce/papers/vol11-issue4/Version-6/G011467479.pdf) (Fuente: Jesús Lizama)
 
+- **Infor y Felleskjöpet**:
+Infor Noruega fue condenado a pagar a Felleskjöpet (un minorista con 1.700 empleados) en concepto de daños y perjuicios. Esto fue causado por una pausa no contractual en el proyecto, y posteriormente la solicitud de cambios significativos en los términos del contrato. Todo ello llevó a la empresa afectada a rescindir el contrato. [Felleskjøpet seiret i tingretten](https://bondebladet.no/felleskjopet-seiret-i-tingretten/s/5-150-46621) (Fuente: Nerea Fernández)
+
 ### 2015
 
 - **IBM y el [Ministry of Community and Social Services](https://www.mcss.gov.on.ca/en/mcss/) de Ontario**:
