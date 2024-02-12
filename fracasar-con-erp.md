@@ -846,7 +846,9 @@ Tras tener problemas en 2008 con SAP, Select Confort vuelve a tener problemas en
 [L'échec du projet SAP fait vaciller les comptes de Stallergenes](http://www.lemondeinformatique.fr/actualites/lire-l-echec-du-projet-sap-fait-vaciller-les-comptes-de-stallergenes-65770.html) (Fuente: David Abián)
 
 - **Siebel CRM y [Vodafone(UK)](https://www.vodafone.co.uk/)**:
+Vodafone enfrentó problemas en su implementación de ERP en 2012, con una migración incompleta de cuentas y violaciones de normas de protección al consumidor. En 2016, Ofcom multó a Vodafone con £4.6 millones por deficiencias en la acreditación de cuentas y falta de rapidez en la correccion de los problemas. El proyecto resultó en pérdidas financieras de unos £59 millones y un impacto negativo en las operaciones y la satisfacción de los clientes.
 [Vodafone’s £4.6m CRM fine – when IT projects attack](https://diginomica.com/2016/10/26/vodafones-4-6m-customer-service-fine-when-it-projects-attack/) (Fuente: Marta Blanco).
+[Failed ERP Implementation: Vodafone’s £59 Million CRM Failure](https://finansys.com/blog/failed-erp-implementation-vodafone/) (Fuente: Pablo Angusto).
 
 - **SAP y Woolworth (Australia)** :
 La sustitución de un ERP desarrollado internamente durante 30 años por SAP causa más problemas de los esperados.
