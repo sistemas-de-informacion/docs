@@ -352,7 +352,7 @@ La implementación fallida de ERP le costó a la empresa 160 millones de dólare
 - **SAP, Deloitte (implementador) y el condado de [Marin](http://www.marincounty.org/) en California**:
 El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el Condado de Marin está tan harto del proyecto que demanda a Deloitte por 30M$ utilizando una ley que se aplica contra actividades de crimen organizado (Ley RICO).
 [Understanding Marin County's $30 million ERP failure](http://www.zdnet.com/blog/projectfailures/understanding-marin-countys-30-million-erp-failure/10678) (Fuente: Alejandro Gálvez)
-[Marin County settles legal claims against Deloitte, SAP over software project](http://www.computerworld.com/article/2494092/government-it/marin-county-settles-legal-claims-against-deloitte--sap-over-software-project.html) (Fuente: Andrea Alexendry)
+[Marin County settles legal claims against Deloitte, SAP over software project](https://www.computerworld.com/article/2715108/marin-county-settles-legal-claims-against-deloitte--sap-over-software-project.html) (Fuente: Andrea Alexendry, link actualizado por Pablo Moreno)
 [County Alleges SAP, Deloitte Engaged in Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés),
 [Deloitte hit with $30M lawsuit over ERP project](https://www.computerworld.com/article/2518518/deloitte-hit-with--30m-lawsuit-over-erp-project.html) (Fuente: Daniel Royo)
 
