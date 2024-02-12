@@ -527,7 +527,7 @@ Una implementación en PYME abaca con los mismos fallos que en una gran empresa.
 ### 2009
 
 - **Epicor y Ferrazzoli (EE. UU.)**:
-La empresa Ferrazzoli demandó a la empresa proveedora de software Epicor, debido a que según Ferrazzoli, Epicor no cumplió con sus compromisos de implementación (lo que provocó el fracaso y la demanda pertinente). [Epicor ERP project sparks customer lawsuit](https://www.computerworld.com/article/2525233/epicor-erp-project-sparks-customer-lawsuit.html) (Fuente: Álvaro Julen, completado por Nerea Fernández)
+La empresa Ferrazzoli demandó a la empresa proveedora de software Epicor, debido a que según Ferrazzoli, Epicor no cumplió con sus compromisos de implementación (lo que provocó el fracaso y la demanda pertinente). [Epicor ERP project sparks customer lawsuit](https://www.computerworld.com/article/2525233/epicor-erp-project-sparks-customer-lawsuit.html) (Fuente: Álvaro Juen, completado por Nerea Fernández)
 
 - **IBM y el estado de Pennsylvania**:
 [Pennsylvania Kills An IBM Contract That's 3 Years Late And $60 Million Over Budget](http://www.businessinsider.com/pennsylvania-kills-ibm-project-2013-8) (Fuente: Pablo Lanaspa)
