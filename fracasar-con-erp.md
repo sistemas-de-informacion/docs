@@ -986,6 +986,10 @@ El Ayuntamiento de Edimburgo planeó reemplazar Oracle con Unit4 para 2018, pero
 El mayor gobierno local de Europa, Birmingham City Council, enfrenta dificultades financieras debido a problemas con la implementación de su sistema ERP de Oracle, que pretendía reemplazar su sistema SAP. Los costos del proyecto se dispararon de £20 millones a alrededor de £100 millones, causando retrasos y preocupaciones financieras.
 [Largest local government body in Europe goes under amid Oracle disaster](https://www.theregister.com/2023/09/05/birmingham_city_council_oracle/)(Fuente: Diego Lasheras)
 
+- **Case Study in an Indonesian Mining Company**
+El caso describe la implementación de un sistema ERP en la empresa XYZ, una compañía minera en Indonesia, que comenzó en 2017 y se lanzó en 2018. Sin embargo, después de la implementación, se encontraron problemas no identificados que afectaron las operaciones financieras de la empresa.
+[Analysis of ERP Critical Failure Factors: A Case Study in an Indonesian Mining Company](https://jsi.cs.ui.ac.id/index.php/jsi/article/view/1291/437) (Fuente: Kamal Bouizy)
+
 ### 2019
 
 - **Oracle y la policía de Cheshire**: El sistema fue puesto en marcha en 2019 con un contrato inicial de 3 millones £, pero debido al riesgo de acceso interno se ha decidido cambiar de sistema, llegando los acuerdos contractuales con Oracle a su fin en 2022 [Unit4 handed police ERP deal after 'significant deficiency' found in Oracle Fusion system](https://www.theregister.com/2021/05/18/unit4_3m_police_erp/) (Fuente: Ayelen Nuño Gracia)
