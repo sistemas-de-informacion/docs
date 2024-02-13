@@ -293,6 +293,9 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **SAP y XYZ (nombre ficticio, diferente del caso 2002)**:
 [Learning from failed ERP implementation](http://www.apps2fusion.com/training_demo/ranu/erp_success_factors_ranu.pdf) (Fuente: Fernando Alegre)
 
+- **ERP X(nombre ficticio) y NYE (nombre ficticio)**:
+[WHY ERP POST-IMPLEMENTATION FAILS? LESSONS LEARNED FROM A FAILURE CASE IN CHINA](https://eprints.whiterose.ac.uk/79147/2/WRRO_79147.pdf) (Fuente: Kamal Bouizy)
+
 - **SAP, PeopleSoft and Oracle y [Walt Disney Corporation](https://thewaltdisneycompany.com/)**:
 [Disney keeps global SAP roll-out on track by making local executives responsible](http://www.computerweekly.com/feature/Disney-keeps-global-SAP-roll-out-on-track-by-making-local-executives-responsible) (Fuente: Adrián Ibáñez)
 
