@@ -434,7 +434,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 [Shane Company: Lessons Learned From an ERP Implementation Failure](https://www.computerworld.com/article/2769475/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html) (Fuente: Andrés Soldevilla corregido por Daniel Carrizo)
 
 - **ERP y UK furniture manufacturer’s (nombre ficticio) (United Kingdom)**:
-[ERP Non-Implementation: A Case Study](https://www.scitepress.org/PublishedPapers/2007/24264/24264.pdf) (Fuente: Sergio Hernández corregido por Kamal Bouizy)
+[ERP Non-Implementation: A Case Study](https://usir.salford.ac.uk/id/eprint/37933/8/ERP%20Non%20Implementation%20-%20FDraft-07.pdf) (Fuente: Sergio Hernández)
 
 ### 2007
 
