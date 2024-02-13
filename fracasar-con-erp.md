@@ -216,7 +216,7 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 [SAP Conversion Causing Headaches for Fabric Retailer](https://www.computerworld.com/article/2589484/sap-conversion-causing-headaches-for-fabric-retailer.html) (Fuente: Jaime Roncal)
 
 - **SAP y Rolls-Royce**:
-Rolls-Royce, tras asociarse con EDS en 1996, enfrentó desafíos debido a sus más de 1500 sistemas heredados, costosos y difíciles de mantener. La implementación del ERP incluyó un equipo de gestión de EDS y consultores de SAP, pero se encontraron problemas culturales, comerciales y técnicos durante el proceso. (https://www.umassd.edu/media/umassdartmouth/businessinnovationresearchcenter/publications/erp_rolls-royce.pdf) (Fuente: Clara Cerdán)
+[Rolls-Royce, tras asociarse con EDS en 1996, enfrentó desafíos debido a sus más de 1500 sistemas heredados, costosos y difíciles de mantener. La implementación del ERP incluyó un equipo de gestión de EDS y consultores de SAP, pero se encontraron problemas culturales, comerciales y técnicos durante el proceso](https://www.umassd.edu/media/umassdartmouth/businessinnovationresearchcenter/publications/erp_rolls-royce.pdf) (Fuente: Clara Cerdán)
 
 ### 2001
 
