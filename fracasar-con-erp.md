@@ -176,6 +176,9 @@ El proyecto Everest se despliega en el año 2000 y se abandona en 2004.
 - **Baan y Dexter Axle (EE. UU.)**:
 [DEXTER AXLE COMPANY v. BAAN USA INC](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) (Fuente: Guillermo Azón)
 
+- **Volkswagen AG**:
+[Factors impacting the Success of ERP Implementations in Small and Medium Enterprises:An empirical assessment from Latin America.](https://www.tdx.cat/bitstream/handle/10803/9204/MALDONADO_Tesis_Final_II_2010_03_10.pdf)Experimentó dificultades para entregar repuestos a los concesionarios de automóviles. (Fuente: Kamal Bouizy)
+
 - **EDS y [British Sky Broadcasting (BSkyB)](https://corporate.sky.com/)**:
 El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un coste 5 veces mayor.
 [BSkyB and EDS settle IT dispute for £318 million](http://www.out-law.com/page-11089) (Fuente: Jorge Beamud)
@@ -985,10 +988,6 @@ El Ayuntamiento de Edimburgo planeó reemplazar Oracle con Unit4 para 2018, pero
 - **ERP de Oracle y [Birmingham City Council]**
 El mayor gobierno local de Europa, Birmingham City Council, enfrenta dificultades financieras debido a problemas con la implementación de su sistema ERP de Oracle, que pretendía reemplazar su sistema SAP. Los costos del proyecto se dispararon de £20 millones a alrededor de £100 millones, causando retrasos y preocupaciones financieras.
 [Largest local government body in Europe goes under amid Oracle disaster](https://www.theregister.com/2023/09/05/birmingham_city_council_oracle/)(Fuente: Diego Lasheras)
-
-- **Case Study in an Indonesian Mining Company**
-El caso describe la implementación de un sistema ERP en la empresa XYZ, una compañía minera en Indonesia, que comenzó en 2017 y se lanzó en 2018. Sin embargo, después de la implementación, se encontraron problemas no identificados que afectaron las operaciones financieras de la empresa.
-[Analysis of ERP Critical Failure Factors: A Case Study in an Indonesian Mining Company](https://jsi.cs.ui.ac.id/index.php/jsi/article/view/1291/437) (Fuente: Kamal Bouizy)
 
 ### 2019
 
