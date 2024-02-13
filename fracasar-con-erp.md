@@ -176,9 +176,6 @@ El proyecto Everest se despliega en el año 2000 y se abandona en 2004.
 - **Baan y Dexter Axle (EE. UU.)**:
 [DEXTER AXLE COMPANY v. BAAN USA INC](http://caselaw.findlaw.com/in-court-of-appeals/1330180.html) (Fuente: Guillermo Azón)
 
-- **Volkswagen AG**:
-[Factors impacting the Success of ERP Implementations in Small and Medium Enterprises:An empirical assessment from Latin America.](https://www.tdx.cat/bitstream/handle/10803/9204/MALDONADO_Tesis_Final_II_2010_03_10.pdf)Experimentó dificultades para entregar repuestos a los concesionarios de automóviles. (Fuente: Kamal Bouizy)
-
 - **EDS y [British Sky Broadcasting (BSkyB)](https://corporate.sky.com/)**:
 El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un coste 5 veces mayor.
 [BSkyB and EDS settle IT dispute for £318 million](http://www.out-law.com/page-11089) (Fuente: Jorge Beamud)
@@ -886,6 +883,7 @@ Cómo el 25% de los funcionarios de Canadá sufrieron errores en sus nóminas. [
 
 - **Oracle y School District of Manatee County**:
 [New Manatee schools computer system: Millions over budget and late. What went wrong?](https://www.bradenton.com/news/local/education/article223183180.html)
+(https://www.govtech.com/computing/florida-school-district-reassesses-troubled-erp-project.html)(Fuente: Ampliación de fuentes por Kamal Bouizy)
 
 - **SAP y [Gobierno de Nueva Gales del Sur (Australia)](https://www.nsw.gov.au/)**:
 [Government blows nearly half IT project budget on corrections](https://www.brisbanetimes.com.au/national/nsw/government-blows-nearly-half-it-project-budget-on-corrections-20161222-gtggma.html) (Fuente: Ignacio Palacios)
