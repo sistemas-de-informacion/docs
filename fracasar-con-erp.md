@@ -82,6 +82,9 @@ Una implementación con éxitos y fracasos que se completó en 2003.
 [Nestlé's Enterprise Resource Planning (ERP) Odyssey](https://www.cio.com/article/2440821/nestl--s-enterprise-resource-planning--erp--odyssey.html) (Fuente: Alejandro Piedrafita),
 [ERP Implementation at Nestlé](https://www.uwosh.edu/faculty_staff/wresch/ERPNestle.htm)(Fuente: Marta López),
 
+- **IKON y SAP**:
+[El intento de ERP en Ikon](https://es.scribd.com/document/459532519/Caso-Ikon-docx)(Fuente: Óscar Brizuela)
+
 ### 1998
 
 - **Baan y AML (Egipto)**:
