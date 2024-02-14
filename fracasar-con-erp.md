@@ -216,6 +216,9 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **SAP y [Jo-Ann Stores](https://www.joann.com/)**:
 [SAP Conversion Causing Headaches for Fabric Retailer](https://www.computerworld.com/article/2589484/sap-conversion-causing-headaches-for-fabric-retailer.html) (Fuente: Jaime Roncal)
 
+- **SAP y Rolls-Royce**:
+[Rolls-Royce, tras asociarse con EDS en 1996, enfrentó desafíos debido a sus más de 1500 sistemas heredados, costosos y difíciles de mantener. La implementación del ERP incluyó un equipo de gestión de EDS y consultores de SAP, pero se encontraron problemas culturales, comerciales y técnicos durante el proceso](https://www.umassd.edu/media/umassdartmouth/businessinnovationresearchcenter/publications/erp_rolls-royce.pdf) (Fuente: Clara Cerdán)
+
 ### 2001
 
 - **HPT(nombre ficticio) y Vicro Communications**:
@@ -409,6 +412,9 @@ Los problemas para implantar un ERP le costó a la compañía unos 30 millones d
 
 - **ERP failure in South African Airways (SAA)**
 [SAA implemented an ERP system from SAP, which resulted in a major financial loss due to system glitches and lack of proper implementation. The project cost the airline approximately R1.3 billion and was eventually scrapped. I cannot find a specific link for the failure but I'm attaching a link from 2018 where it explains how the company made its turnaround and the importance of an ERP specialist as a key to the company's growth and properity.](https://newsroom.aviator.aero/south-african-airways-fills-critical-skills-gap-with-key-appointments/)(Fuente: Jorge Bernal Romero)
+
+- **SAP y Caterpillar Tunneling Corporation Harvard Case**:
+[CTCC was a family-owned firm prior to being acquired by Caterpillar Inc., which transformed it into a subsidiary of the parent corporation. The firm employed 330 people and had sales representatives located all over the world. The CTCC was struggling with a number of problems, including inaccurate data, poorly defined procedures, a deficient ERP system, and reporting that was too inconsistent and used an excessive number of different formats.](https://www.thecasesolutions.com/caterpillar-tunneling-corporation-142131) (Fuente: Clara Cerdán)
 
 ### 2006
 
