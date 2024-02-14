@@ -273,8 +273,7 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **PeopleSoft y [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au/)**:
 [Why the RMIT Project failed](https://www.theage.com.au/education/rmit-to-scrap-47m-software-system-20030228-gdvart.html), [Analysis on Failed Australian Projects](http://www2.cio.com.au/article/172420/it_business_stupid/) (Fuente: Carmen Real)
 
-- **ERP desconocido**:
-[Kmart](https://www.kmart.com.au/about-kmart/)
+- **ERP desconocido y [Kmart](https://www.kmart.com.au/about-kmart/)**:
 Kmart se declaró en bancarrota en 2002 debido a su incapacidad para competir con rivales tecnológicamente avanzados y su fallida estrategia de modernización de sistemas de información y gestión de cadena de suministro.
 [CASE STUDY—What Happened to Kmart?](https://trg-cc.com/portfolio/uw-cs/cs330/Assign/w2005-A1CaseStudy-8thEd.pdf) (Fuente: Zineb Helali)
 
@@ -371,10 +370,9 @@ En este paper se hace un pequeño estudio de la implementación de SAP en esta c
 - **ERP desconocido y Multi-national Electronics Components Manufacturing Company**:
 [Examining the ERP Implementation Process from a Failure Case](http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
 
-- **ERP Warehouse Automation System**:
+- **ERP Warehouse Automation System y [Sainsbury's](https://www.sainsburys.co.uk/)**:
 Sainsbury's, una de las cadenas de supermercados líderes en el Reino Unido, experimentó un significativo revés tecnológico en 2004 con el fracaso de su proyecto de automatización de almacén. Este proyecto tenía como objetivo mejorar la eficiencia de la cadena de suministro mediante la instalación de sistemas de cumplimiento automatizado en su centro de distribución en Waltham Point, Essex. Se esperaba que un sistema basado en códigos de barras aumentara la eficiencia de las operaciones de almacenamiento. Sin embargo, problemas con la lectura de códigos de barras llevaron a pérdidas de 39 millones de euros en el primer semestre de 2004, conflictos contractuales con Accenture, y una disminución en la competitividad de mercado de Sainsbury's frente a rivales como Asda y Tesco.
-[Sainsbury's Warehouse Automation Failure](https://studytiger.com/free-essay/analysis-of-the-warehouse-automation-failure-at-sainsburys/)
-[Sainsbury's](https://www.sainsburys.co.uk/) (Fuente: Zineb Helali)
+[Sainsbury's Warehouse Automation Failure](https://studytiger.com/free-essay/analysis-of-the-warehouse-automation-failure-at-sainsburys/) (Fuente: Zineb Helali)
 
 ### 2005
 
