@@ -970,6 +970,9 @@ Instalación en 2017. Problemas en 2018.
 Fallos en la implementación del ERP provocan inconsistencias en los reportes. El auditor no puede aceptar los informes por lo que tienen
 que introducir los registros a mano, obstaculizando la actividad de la empresa. [Analysis of ERP Critical Failure Factors: A Case Study in an Indonesian Mining Company](https://jsi.cs.ui.ac.id/index.php/jsi/article/view/1291/437) (Fuente: Álvaro de Francisco)
 
+- **SAP y Cabshachu(nombre ficticio para una compañía australiana de recursos naturales)**:
+Este caso se centra en las lecciones aprendidas de las implementaciones de sistemas ERP en una gran compañía global de recursos naturales australiana. A través de un estudio cualitativo, se recogieron experiencias y consejos de participantes clave en la implementación de un sistema ERP basado en SAP, enfocándose en mejorar futuras implementaciones y aumentar las posibilidades de éxito. La empresa y los detalles específicos de la implementación se mantienen anónimos por confidencialidad. [Lessons Learned from Enterprise Resource Planning (ERP) Implementations in an Australian Company](https://www.researchgate.net/profile/Ritesh-Chugh/publication/318163130_Lessons_Learned_from_Enterprise_Resource_Planning_ERP_Implementations_in_an_Australian_Company/links/5c32a270a6fdccd6b598563d/Lessons-Learned-from-Enterprise-Resource-Planning-ERP-Implementations-in-an-Australian-Company.pdf) (Fuente: Ismael Berdusán)
+
 ### 2018
 
 - **ERP desconocido y [Dogi](http://www.dogi.es/)**:
