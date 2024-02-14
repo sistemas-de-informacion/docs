@@ -483,7 +483,7 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [Customer blames bankruptcy on IBM IT failure](http://www.zdnet.com/blog/projectfailures/customer-blames-bankruptcy-on-ibm-it-failure/583) (Fuente: William Kokora)
 
 - **Infor y Carver Pump Company**:
-[Infor battles customers in court over licences fees](http://www.itjungle.com/tfh/tfh030909-printer03.html) (Fuente: Beatriz Franco) [CARVER PUMP COMPANY V. INFOR GLOBAL SOLUTIONS (MICHIGAN), INC.](https://www.juralindex.com/civil/carver-pump-company-v-infor-global-solutions-michigan-inc-case-details-ca55040376a18f82cb18be4f2188f485.html) (Fuente: Marina Ariño)
+[Infor Battles Customers in Court Over License Fees](https://www.itjungle.com/2009/03/09/tfh030909-story03/) (Fuente: Beatriz Franco corregido por Nerea Fernández) [CARVER PUMP COMPANY V. INFOR GLOBAL SOLUTIONS (MICHIGAN), INC.](https://www.juralindex.com/civil/carver-pump-company-v-infor-global-solutions-michigan-inc-case-details-ca55040376a18f82cb18be4f2188f485.html) (Fuente: Marina Ariño)
 
 - **Lawson Software y [Finning Canada](https://www.finning.com/en_CA.html)**:
 [How an ERP Debacle Triggered Supply-Chain Transformation at Finning Canada](http://www.supplychainbrain.com/nc/single-article/article/how-an-erp-debacle-triggered-supply-chain-transformation-at-finning-canada/) (Fuente: Adrián Ibáñez)
@@ -531,7 +531,7 @@ La empresa Ferrazzoli demandó a la empresa proveedora de software Epicor, debid
 [Pennsylvania Kills An IBM Contract That's 3 Years Late And $60 Million Over Budget](http://www.businessinsider.com/pennsylvania-kills-ibm-project-2013-8) (Fuente: Pablo Lanaspa)
 
 - **Infor y [Vaughan & Bushnell Manufacturing Co](http://www.vaughanmfg.com/)**:
-[Vaughan & Bushnell Manufacturing Co. v. Infor Global Solutions (Michigan), Inc. et al](https://dockets.justia.com/docket/illinois/ilndce/1:2009cv00668/228051) (Fuente: Marina Ariño)
+[Infor Battles Customers in Court Over License Fees](https://www.itjungle.com/2009/03/09/tfh030909-story03/) (Fuente: Marina Ariño, actualizado por Nerea Fernández)
 
 - **Oracle PeopleSoft y [US Department of Defense](http://www.defense.gov/)**:
 [Defense Integrated Military Human Resources System, Issues and Cancellation](http://en.wikipedia.org/wiki/Defense_Integrated_Military_Human_Resources_System#Issues_and_cancellation) (Fuente: Javier Murillo)
@@ -832,6 +832,9 @@ Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocad
 
 - **SAP, Oracle, Baan y otros y SME indias**:
 El estudio identificó los principales factores críticos de fracaso en la implementación de ERP en las PYMEs indias, incluyendo la resistencia de los empleados, una mala dirección superior y los problemas presupuestarios. [Erp in Indian Smes - A Study of Critical Failure Factors](http://www.iosrjournals.org/iosr-jmce/papers/vol11-issue4/Version-6/G011467479.pdf) (Fuente: Jesús Lizama)
+
+- **Infor y Felleskjöpet**:
+Infor Noruega fue condenado a pagar a Felleskjöpet (un minorista con 1.700 empleados) en concepto de daños y perjuicios. Esto fue causado por una pausa no contractual en el proyecto, y posteriormente la solicitud de cambios significativos en los términos del contrato. Todo ello llevó a la empresa afectada a rescindir el contrato. [Felleskjøpet seiret i tingretten](https://bondebladet.no/felleskjopet-seiret-i-tingretten/s/5-150-46621) (Fuente: Nerea Fernández)
 
 ### 2015
 
