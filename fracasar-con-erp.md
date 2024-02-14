@@ -297,6 +297,9 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **SAP y XYZ (nombre ficticio, diferente del caso 2002)**:
 [Learning from failed ERP implementation](https://docplayer.net/9381832-Learning-from-failed-erp-implementation-or-how-to-make-em-successful-ranu-srivastava.html) (Fuente: Fernando Alegre, link actualizado por Pablo Moreno)
 
+- **ERP X(nombre ficticio) y NYE (nombre ficticio)**:
+[Why ERP post-implementation fails? Lessons learned from a failure case in China](https://eprints.whiterose.ac.uk/79147/2/WRRO_79147.pdf) (Fuente: Kamal Bouizy)
+
 - **SAP, PeopleSoft and Oracle y [Walt Disney Corporation](https://thewaltdisneycompany.com/)**:
 [Disney keeps global SAP roll-out on track by making local executives responsible](http://www.computerweekly.com/feature/Disney-keeps-global-SAP-roll-out-on-track-by-making-local-executives-responsible) (Fuente: Adrián Ibáñez)
 
@@ -441,7 +444,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 [Shane Company: Lessons Learned From an ERP Implementation Failure](https://www.computerworld.com/article/2769475/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html) (Fuente: Andrés Soldevilla corregido por Daniel Carrizo)
 
 - **ERP y UK furniture manufacturer’s (nombre ficticio) (United Kingdom)**:
-[ERP Non-Implementation: A Case Study](https://usir.salford.ac.uk/id/eprint/37933/8/ERP%20Non%20Implementation%20-%20FDraft-07.pdf) (Fuente: Sergio Hernández)
+[ERP Non-Implementation: A Case Study](https://www.scitepress.org/PublishedPapers/2007/24264/24264.pdf) (Fuente: Sergio Hernández corregido por Kamal Bouizy) 
 
 ### 2007
 
@@ -894,7 +897,7 @@ Cómo el 25% de los funcionarios de Canadá sufrieron errores en sus nóminas. [
 [An assessment to Identify Causes of ERP Implementation Failure and to Predict its Success: A Case Study on Beximco Pharmaceuticals Limited](https://www.researchgate.net/publication/303100797_An_Assessment_to_Identify_Causes_of_ERP_Implementation_Failure_and_to_Predict_Its_Success_A_Case_Study_on_Beximco_Pharmaceuticals_Limited) (Fuente: David Ubide)
 
 - **Oracle y School District of Manatee County**:
-[New Manatee schools computer system: Millions over budget and late. What went wrong?](https://www.bradenton.com/news/local/education/article223183180.html)
+[Florida School District Reassesses Troubled ERP Project](https://www.govtech.com/computing/florida-school-district-reassesses-troubled-erp-project.html)(Fuente: Ampliación de fuentes por Kamal Bouizy)
 
 - **SAP y [Gobierno de Nueva Gales del Sur (Australia)](https://www.nsw.gov.au/)**:
 [Government blows nearly half IT project budget on corrections](https://www.brisbanetimes.com.au/national/nsw/government-blows-nearly-half-it-project-budget-on-corrections-20161222-gtggma.html) (Fuente: Ignacio Palacios)
