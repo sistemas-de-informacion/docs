@@ -42,6 +42,7 @@ En el primer enlace se encuentra el informe detallado del caso y en el segundo s
 
 - **BAE y el [aeropuerto internacional de Denver](http://flydenver.com/)**:
 [Case Study – Denver International Airport Baggage Handling System](http://calleam.com/WTPF/wp-content/uploads/articles/DIABaggage.pdf), [illustration of ineffectual decision making](http://calleam.com/WTPF/wp-content/uploads/articles/DIABaggage.pdf) (Fuente: Daniel Pardo)
+[Fracaso 1: Sistema automático de manipulación de equipaje del Aeropuerto Internacional de Denver] (https://www.itmplatform.com/es/blog/tres-desastrosos-fracasos-de-gestion-de-proyectos/)(Fuente: Lucía Olmos)
 
 ### 1995
 
@@ -81,6 +82,7 @@ Oracle saca Oracle CPG, un software que prometía integrar paquetes de software 
 Una implementación con éxitos y fracasos que se completó en 2003.
 [Nestlé's Enterprise Resource Planning (ERP) Odyssey](https://www.cio.com/article/2440821/nestl--s-enterprise-resource-planning--erp--odyssey.html) (Fuente: Alejandro Piedrafita),
 [ERP Implementation at Nestlé](https://www.uwosh.edu/faculty_staff/wresch/ERPNestle.htm)(Fuente: Marta López),
+[Caso Nestle](https://www.studocu.com/pe/document/universidad-nacional-mayor-de-san-marcos/sistemas-contables/caso-nestle-y-otros-temas-a-tratar-respecto-a-sistemas/21473818?origin=course-suggestion-3)(Fuente: Lucía Olmos)
 
 ### 1998
 
@@ -347,6 +349,7 @@ La implementación fallida de ERP le costó a la empresa 160 millones de dólare
 [When Bad Things Happen to Good Projects](https://www.cio.com/article/272263/project-management-when-bad-things-happen-to-good-projects.html) (Fuente: Adrián Gañán corregido por Jaime Berruete Díaz),
 [ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López), y
 [HP's CIO Points to Internal Issues in ERP Project Snafus](https://www.computerworld.com/article/2565928/hp-s-cio-points-to-internal-issues-in-erp-project-snafus.html) (Fuente: Víctor Jarreta)
+[Caso: La «tormenta perfecta» de HP con los problemas del ERP] (https://es.linkedin.com/pulse caso-la-tormenta-perfecta-de-hp-con-los-problemas-del-jorge-casas)(Fuente: Lucía Olmos)
 
 - **SAP, Deloitte (implementador) y el condado de [Marin](http://www.marincounty.org/) en California**:
 El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el Condado de Marin está tan harto del proyecto que demanda a Deloitte por 30M$ utilizando una ley que se aplica contra actividades de crimen organizado (Ley RICO).
@@ -354,6 +357,7 @@ El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el 
 [Marin County settles legal claims against Deloitte, SAP over software project](http://www.computerworld.com/article/2494092/government-it/marin-county-settles-legal-claims-against-deloitte--sap-over-software-project.html) (Fuente: Andrea Alexendry)
 [County Alleges SAP, Deloitte Engaged in Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés),
 [Deloitte hit with $30M lawsuit over ERP project](https://www.computerworld.com/article/2518518/deloitte-hit-with--30m-lawsuit-over-erp-project.html) (Fuente: Daniel Royo)
+[CRÓNICA DE UN FRACASO: IMPLEMENTACIÓN ERP SAP DEUSD 30 MILLONES](https://www.academia.edu/28251575/Caso_de_Estudio_CR%C3%93NICA_DE_UN_FRACASO_IMPLEMENTACI%C3%93N_ERP_SAP_DE_USD_30_MILLONES)(Fuente: Lucía Olmos)
 
 - **PeopleSoft y Companhia Siderurgica de Tubarao (CST) (Brasil)**:
 Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
