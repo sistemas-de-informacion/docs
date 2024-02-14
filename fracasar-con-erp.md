@@ -42,7 +42,7 @@ En el primer enlace se encuentra el informe detallado del caso y en el segundo s
 
 - **BAE y el [aeropuerto internacional de Denver](http://flydenver.com/)**:
 [Case Study – Denver International Airport Baggage Handling System](http://calleam.com/WTPF/wp-content/uploads/articles/DIABaggage.pdf), [illustration of ineffectual decision making](http://calleam.com/WTPF/wp-content/uploads/articles/DIABaggage.pdf) (Fuente: Daniel Pardo)
-[Fracaso 1: Sistema automático de manipulación de equipaje del Aeropuerto Internacional de Denver] (https://www.itmplatform.com/es/blog/tres-desastrosos-fracasos-de-gestion-de-proyectos/)(Fuente: Lucía Olmos)
+[Fracaso 1: Sistema automático de manipulación de equipaje del Aeropuerto Internacional de Denver] (https://www.itmplatform.com/es/blog/tres-desastrosos-fracasos-de-gestion-de-proyectos/)(Fuente: Lucía Olmos )
 
 ### 1995
 
