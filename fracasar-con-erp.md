@@ -28,7 +28,8 @@ ERP implementado por Andersen resulta en sistemas inutilizables. (Fuente: Jan Ca
 - **System Options y [London Ambulance Service](http://www.londonambulance.nhs.uk/)**:
 En el primer enlace se encuentra el informe detallado del caso y en el segundo se encuentra un resumen de dicho informe que permite una fácil consulta
 [London Ambulance Service Software Failure Case](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf) (Fuente: Daniel Pardo)
-[London Ambulance Service Software Failure Report](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/Report_London_Ambulance_Service-Jan2015.pdf) (Fuente: Lorena Mehavilla)
+[London Ambulance Service Software Failure Report](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/Report_London_Ambulance_Service-Jan2015.pdf) (Fuente: Lorena Mehavilla). Se puede profundizar sobre el problema generado tras añadir un ERP al sistema de ambulancias de Londres en los siguientes dos enlaces:  [The 1992 London Ambulance Service Computer Aided Dispatch System Failure](https://erichmusick.com/writings/technology/1992-london-ambulance-cad-failure.html) (Fuente: Miguel Aréjula)  y [The turnaround of the London Ambulance Service Computer-Aided Despatch system (LASCAD)](https://link.springer.com/article/10.1057/palgrave.ejis.3000541) (Fuente: Miguel Aréjula)
+
 
 ### 1993
 
@@ -183,7 +184,7 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 
 - **i2 y Nike**:
 [Nike Rebounds and Why Nike Recovered from its Supply Chain Disaster](http://www.cio.com/article/2439601/supply-chain-management/nike-rebounds--how--and-why--nike-recovered-from-its-supply-chain-disaster.html) (Fuente: Adrián Gañán, corregido por Rubén Moreno).
-[Operations Management at Nike: from breakdown to achievement](http://ijmrr.com/admin/upload_data/journal_rajesh%20arora%20%20%20%2018au12.pdf) (Fuente: Lucía Beltrán, sustituye trabajo anterior de Adirán Crespo)
+[Operations Management at Nike: from breakdown to achievement](https://www.proquest.com/docview/1417477847?sourcetype=Scholarly%20Journals) (Fuente: Lucía Beltrán, sustituye trabajo anterior de Adirán Crespo, corregido por Miguel Aréjula).
 
 - **Intentia AB y CosmeticCo (nombre ficticio, China)**:
 [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
