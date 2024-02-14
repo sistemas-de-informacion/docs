@@ -184,7 +184,7 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 
 - **i2 y Nike**:
 [Nike Rebounds and Why Nike Recovered from its Supply Chain Disaster](http://www.cio.com/article/2439601/supply-chain-management/nike-rebounds--how--and-why--nike-recovered-from-its-supply-chain-disaster.html) (Fuente: Adrián Gañán, corregido por Rubén Moreno).
-[Operations Management at Nike: from breakdown to achievement](https://www.academia.edu/37375506/INTERNATIONAL_JOURNAL_OF_MANAGEMENT_RESEARCH_AND_REVIEW_OPERATIONS_MANAGEMENT_AT_NIKE_FROM_BREAKDOWN_TO_ACHIEVEMENT) (Es necesario iniciar sesión para ver el documento al completo) (Fuente: Lucía Beltrán, sustituye trabajo anterior de Adirán Crespo, corregido por Miguel Aréjula).
+[Operations Management at Nike: from breakdown to achievement](https://www.proquest.com/docview/1417477847?sourcetype=Scholarly%20Journals) (Fuente: Lucía Beltrán, sustituye trabajo anterior de Adirán Crespo, corregido por Miguel Aréjula).
 
 - **Intentia AB y CosmeticCo (nombre ficticio, China)**:
 [ERP implementation failures in China: Case studies with implications for ERP vendors](http://www.sciencedirect.com/science/article/pii/S0925527304003226) (Fuente: Julián Liaño)
