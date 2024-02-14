@@ -216,6 +216,9 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **SAP y [Jo-Ann Stores](https://www.joann.com/)**:
 [SAP Conversion Causing Headaches for Fabric Retailer](https://www.computerworld.com/article/2589484/sap-conversion-causing-headaches-for-fabric-retailer.html) (Fuente: Jaime Roncal)
 
+- **SAP y Rolls-Royce**:
+[Rolls-Royce, tras asociarse con EDS en 1996, enfrentó desafíos debido a sus más de 1500 sistemas heredados, costosos y difíciles de mantener. La implementación del ERP incluyó un equipo de gestión de EDS y consultores de SAP, pero se encontraron problemas culturales, comerciales y técnicos durante el proceso](https://www.umassd.edu/media/umassdartmouth/businessinnovationresearchcenter/publications/erp_rolls-royce.pdf) (Fuente: Clara Cerdán)
+
 ### 2001
 
 - **HPT(nombre ficticio) y Vicro Communications**:
@@ -274,6 +277,10 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 - **PeopleSoft y [Royal Melbourne Institute of Technology (RMIT)](https://www.rmit.edu.au/)**:
 [Why the RMIT Project failed](https://www.theage.com.au/education/rmit-to-scrap-47m-software-system-20030228-gdvart.html), [Analysis on Failed Australian Projects](http://www2.cio.com.au/article/172420/it_business_stupid/) (Fuente: Carmen Real)
 
+- **ERP desconocido y [Kmart](https://www.kmart.com.au/about-kmart/)**:
+Kmart se declaró en bancarrota en 2002 debido a su incapacidad para competir con rivales tecnológicamente avanzados y su fallida estrategia de modernización de sistemas de información y gestión de cadena de suministro.
+[CASE STUDY—What Happened to Kmart?](https://trg-cc.com/portfolio/uw-cs/cs330/Assign/w2005-A1CaseStudy-8thEd.pdf) (Fuente: Zineb Helali)
+
 ### 2003
 
 - **Baan y Dexter Axle**:
@@ -292,7 +299,10 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 [NASA systems: Houston, we have a problem](https://www.computerworld.com/article/2580248/nasa-reinvents-troubled-it-with-help-of-private-sector.html) (Fuente: Juan Vela y Jan Carlos Franco)
 
 - **SAP y XYZ (nombre ficticio, diferente del caso 2002)**:
-[Learning from failed ERP implementation](http://www.apps2fusion.com/training_demo/ranu/erp_success_factors_ranu.pdf) (Fuente: Fernando Alegre)
+[Learning from failed ERP implementation](https://docplayer.net/9381832-Learning-from-failed-erp-implementation-or-how-to-make-em-successful-ranu-srivastava.html) (Fuente: Fernando Alegre, link actualizado por Pablo Moreno)
+
+- **ERP X(nombre ficticio) y NYE (nombre ficticio)**:
+[Why ERP post-implementation fails? Lessons learned from a failure case in China](https://eprints.whiterose.ac.uk/79147/2/WRRO_79147.pdf) (Fuente: Kamal Bouizy)
 
 - **SAP, PeopleSoft and Oracle y [Walt Disney Corporation](https://thewaltdisneycompany.com/)**:
 [Disney keeps global SAP roll-out on track by making local executives responsible](http://www.computerweekly.com/feature/Disney-keeps-global-SAP-roll-out-on-track-by-making-local-executives-responsible) (Fuente: Adrián Ibáñez)
@@ -352,7 +362,7 @@ La implementación fallida de ERP le costó a la empresa 160 millones de dólare
 - **SAP, Deloitte (implementador) y el condado de [Marin](http://www.marincounty.org/) en California**:
 El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el Condado de Marin está tan harto del proyecto que demanda a Deloitte por 30M$ utilizando una ley que se aplica contra actividades de crimen organizado (Ley RICO).
 [Understanding Marin County's $30 million ERP failure](http://www.zdnet.com/blog/projectfailures/understanding-marin-countys-30-million-erp-failure/10678) (Fuente: Alejandro Gálvez)
-[Marin County settles legal claims against Deloitte, SAP over software project](http://www.computerworld.com/article/2494092/government-it/marin-county-settles-legal-claims-against-deloitte--sap-over-software-project.html) (Fuente: Andrea Alexendry)
+[Marin County settles legal claims against Deloitte, SAP over software project](https://www.computerworld.com/article/2715108/marin-county-settles-legal-claims-against-deloitte--sap-over-software-project.html) (Fuente: Andrea Alexendry, link actualizado por Pablo Moreno)
 [County Alleges SAP, Deloitte Engaged in Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés),
 [Deloitte hit with $30M lawsuit over ERP project](https://www.computerworld.com/article/2518518/deloitte-hit-with--30m-lawsuit-over-erp-project.html) (Fuente: Daniel Royo)
 
@@ -366,6 +376,10 @@ En este paper se hace un pequeño estudio de la implementación de SAP en esta c
 
 - **ERP desconocido y Multi-national Electronics Components Manufacturing Company**:
 [Examining the ERP Implementation Process from a Failure Case](http://www.pacis-net.org/file/2004/P04-005.pdf) (Fuente: Marta Lampaya)
+
+- **ERP Warehouse Automation System y [Sainsbury's](https://www.sainsburys.co.uk/)**:
+Sainsbury's, una de las cadenas de supermercados líderes en el Reino Unido, experimentó un significativo revés tecnológico en 2004 con el fracaso de su proyecto de automatización de almacén. Este proyecto tenía como objetivo mejorar la eficiencia de la cadena de suministro mediante la instalación de sistemas de cumplimiento automatizado en su centro de distribución en Waltham Point, Essex. Se esperaba que un sistema basado en códigos de barras aumentara la eficiencia de las operaciones de almacenamiento. Sin embargo, problemas con la lectura de códigos de barras llevaron a pérdidas de 39 millones de euros en el primer semestre de 2004, conflictos contractuales con Accenture, y una disminución en la competitividad de mercado de Sainsbury's frente a rivales como Asda y Tesco.
+[Sainsbury's Warehouse Automation Failure](https://studytiger.com/free-essay/analysis-of-the-warehouse-automation-failure-at-sainsburys/) (Fuente: Zineb Helali)
 
 ### 2005
 
@@ -410,6 +424,9 @@ Los problemas para implantar un ERP le costó a la compañía unos 30 millones d
 - **ERP failure in South African Airways (SAA)**
 [SAA implemented an ERP system from SAP, which resulted in a major financial loss due to system glitches and lack of proper implementation. The project cost the airline approximately R1.3 billion and was eventually scrapped. I cannot find a specific link for the failure but I'm attaching a link from 2018 where it explains how the company made its turnaround and the importance of an ERP specialist as a key to the company's growth and properity.](https://newsroom.aviator.aero/south-african-airways-fills-critical-skills-gap-with-key-appointments/)(Fuente: Jorge Bernal Romero)
 
+- **SAP y Caterpillar Tunneling Corporation Harvard Case**:
+[CTCC was a family-owned firm prior to being acquired by Caterpillar Inc., which transformed it into a subsidiary of the parent corporation. The firm employed 330 people and had sales representatives located all over the world. The CTCC was struggling with a number of problems, including inaccurate data, poorly defined procedures, a deficient ERP system, and reporting that was too inconsistent and used an excessive number of different formats.](https://www.thecasesolutions.com/caterpillar-tunneling-corporation-142131) (Fuente: Clara Cerdán)
+
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE. UU.)**:
@@ -435,7 +452,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 [Shane Company: Lessons Learned From an ERP Implementation Failure](https://www.computerworld.com/article/2769475/sap-project-costs-cited-in-jeweler-s-bankruptcy-filing.html) (Fuente: Andrés Soldevilla corregido por Daniel Carrizo)
 
 - **ERP y UK furniture manufacturer’s (nombre ficticio) (United Kingdom)**:
-[ERP Non-Implementation: A Case Study](https://usir.salford.ac.uk/id/eprint/37933/8/ERP%20Non%20Implementation%20-%20FDraft-07.pdf) (Fuente: Sergio Hernández)
+[ERP Non-Implementation: A Case Study](https://www.scitepress.org/PublishedPapers/2007/24264/24264.pdf) (Fuente: Sergio Hernández corregido por Kamal Bouizy) 
 
 ### 2007
 
@@ -484,7 +501,7 @@ La ingeniería de los procesos de negocio no estaba en marcha, el tamaño de la 
 [Customer blames bankruptcy on IBM IT failure](http://www.zdnet.com/blog/projectfailures/customer-blames-bankruptcy-on-ibm-it-failure/583) (Fuente: William Kokora)
 
 - **Infor y Carver Pump Company**:
-[Infor battles customers in court over licences fees](http://www.itjungle.com/tfh/tfh030909-printer03.html) (Fuente: Beatriz Franco) [CARVER PUMP COMPANY V. INFOR GLOBAL SOLUTIONS (MICHIGAN), INC.](https://www.juralindex.com/civil/carver-pump-company-v-infor-global-solutions-michigan-inc-case-details-ca55040376a18f82cb18be4f2188f485.html) (Fuente: Marina Ariño)
+[Infor Battles Customers in Court Over License Fees](https://www.itjungle.com/2009/03/09/tfh030909-story03/) (Fuente: Beatriz Franco corregido por Nerea Fernández) [CARVER PUMP COMPANY V. INFOR GLOBAL SOLUTIONS (MICHIGAN), INC.](https://www.juralindex.com/civil/carver-pump-company-v-infor-global-solutions-michigan-inc-case-details-ca55040376a18f82cb18be4f2188f485.html) (Fuente: Marina Ariño)
 
 - **Lawson Software y [Finning Canada](https://www.finning.com/en_CA.html)**:
 [How an ERP Debacle Triggered Supply-Chain Transformation at Finning Canada](http://www.supplychainbrain.com/nc/single-article/article/how-an-erp-debacle-triggered-supply-chain-transformation-at-finning-canada/) (Fuente: Adrián Ibáñez)
@@ -532,7 +549,7 @@ La empresa Ferrazzoli demandó a la empresa proveedora de software Epicor, debid
 [Pennsylvania Kills An IBM Contract That's 3 Years Late And $60 Million Over Budget](http://www.businessinsider.com/pennsylvania-kills-ibm-project-2013-8) (Fuente: Pablo Lanaspa)
 
 - **Infor y [Vaughan & Bushnell Manufacturing Co](http://www.vaughanmfg.com/)**:
-[Vaughan & Bushnell Manufacturing Co. v. Infor Global Solutions (Michigan), Inc. et al](https://dockets.justia.com/docket/illinois/ilndce/1:2009cv00668/228051) (Fuente: Marina Ariño)
+[Infor Battles Customers in Court Over License Fees](https://www.itjungle.com/2009/03/09/tfh030909-story03/) (Fuente: Marina Ariño, actualizado por Nerea Fernández)
 
 - **Oracle PeopleSoft y [US Department of Defense](http://www.defense.gov/)**:
 [Defense Integrated Military Human Resources System, Issues and Cancellation](http://en.wikipedia.org/wiki/Defense_Integrated_Military_Human_Resources_System#Issues_and_cancellation) (Fuente: Javier Murillo)
@@ -834,6 +851,9 @@ Un ERP desarrollado de forma interna por el gobierno del Reino Unido ha provocad
 - **SAP, Oracle, Baan y otros y SME indias**:
 El estudio identificó los principales factores críticos de fracaso en la implementación de ERP en las PYMEs indias, incluyendo la resistencia de los empleados, una mala dirección superior y los problemas presupuestarios. [Erp in Indian Smes - A Study of Critical Failure Factors](http://www.iosrjournals.org/iosr-jmce/papers/vol11-issue4/Version-6/G011467479.pdf) (Fuente: Jesús Lizama)
 
+- **Infor y Felleskjöpet**:
+Infor Noruega fue condenado a pagar a Felleskjöpet (un minorista con 1.700 empleados) en concepto de daños y perjuicios. Esto fue causado por una pausa no contractual en el proyecto, y posteriormente la solicitud de cambios significativos en los términos del contrato. Todo ello llevó a la empresa afectada a rescindir el contrato. [Felleskjøpet seiret i tingretten](https://bondebladet.no/felleskjopet-seiret-i-tingretten/s/5-150-46621) (Fuente: Nerea Fernández)
+
 ### 2015
 
 - **IBM y el [Ministry of Community and Social Services](https://www.mcss.gov.on.ca/en/mcss/) de Ontario**:
@@ -847,7 +867,9 @@ Tras tener problemas en 2008 con SAP, Select Confort vuelve a tener problemas en
 [L'échec du projet SAP fait vaciller les comptes de Stallergenes](http://www.lemondeinformatique.fr/actualites/lire-l-echec-du-projet-sap-fait-vaciller-les-comptes-de-stallergenes-65770.html) (Fuente: David Abián)
 
 - **Siebel CRM y [Vodafone(UK)](https://www.vodafone.co.uk/)**:
+Vodafone enfrentó problemas en su implementación de ERP en 2012, con una migración incompleta de cuentas y violaciones de normas de protección al consumidor. En 2016, Ofcom multó a Vodafone con £4.6 millones por deficiencias en la acreditación de cuentas y falta de rapidez en la correccion de los problemas. El proyecto resultó en pérdidas financieras de unos £59 millones y un impacto negativo en las operaciones y la satisfacción de los clientes.
 [Vodafone’s £4.6m CRM fine – when IT projects attack](https://diginomica.com/2016/10/26/vodafones-4-6m-customer-service-fine-when-it-projects-attack/) (Fuente: Marta Blanco).
+[Failed ERP Implementation: Vodafone’s £59 Million CRM Failure](https://finansys.com/blog/failed-erp-implementation-vodafone/) (Fuente: Pablo Angusto).
 
 - **SAP y Woolworth (Australia)** :
 La sustitución de un ERP desarrollado internamente durante 30 años por SAP causa más problemas de los esperados.
@@ -883,7 +905,7 @@ Cómo el 25% de los funcionarios de Canadá sufrieron errores en sus nóminas. [
 [An assessment to Identify Causes of ERP Implementation Failure and to Predict its Success: A Case Study on Beximco Pharmaceuticals Limited](https://www.researchgate.net/publication/303100797_An_Assessment_to_Identify_Causes_of_ERP_Implementation_Failure_and_to_Predict_Its_Success_A_Case_Study_on_Beximco_Pharmaceuticals_Limited) (Fuente: David Ubide)
 
 - **Oracle y School District of Manatee County**:
-[New Manatee schools computer system: Millions over budget and late. What went wrong?](https://www.bradenton.com/news/local/education/article223183180.html)
+[Florida School District Reassesses Troubled ERP Project](https://www.govtech.com/computing/florida-school-district-reassesses-troubled-erp-project.html)(Fuente: Ampliación de fuentes por Kamal Bouizy)
 
 - **SAP y [Gobierno de Nueva Gales del Sur (Australia)](https://www.nsw.gov.au/)**:
 [Government blows nearly half IT project budget on corrections](https://www.brisbanetimes.com.au/national/nsw/government-blows-nearly-half-it-project-budget-on-corrections-20161222-gtggma.html) (Fuente: Ignacio Palacios)
@@ -943,6 +965,10 @@ Instalación en 2017. Problemas en 2018.
 
 - **Accenture y Police Scottish Police Authority’s (SPA)**:
 [Sistema de gestión de información policial Policía de Escocia](https://calleam.com/WTPF/?p=9150) (Fuente: Elena Romero de Tejada)
+
+- **ERP desconocido y compañía minera en Indonesia**
+Fallos en la implementación del ERP provocan inconsistencias en los reportes. El auditor no puede aceptar los informes por lo que tienen
+que introducir los registros a mano, obstaculizando la actividad de la empresa. [Analysis of ERP Critical Failure Factors: A Case Study in an Indonesian Mining Company](https://jsi.cs.ui.ac.id/index.php/jsi/article/view/1291/437) (Fuente: Álvaro de Francisco)
 
 ### 2018
 
