@@ -885,8 +885,7 @@ Cómo el 25% de los funcionarios de Canadá sufrieron errores en sus nóminas. [
 [An assessment to Identify Causes of ERP Implementation Failure and to Predict its Success: A Case Study on Beximco Pharmaceuticals Limited](https://www.researchgate.net/publication/303100797_An_Assessment_to_Identify_Causes_of_ERP_Implementation_Failure_and_to_Predict_Its_Success_A_Case_Study_on_Beximco_Pharmaceuticals_Limited) (Fuente: David Ubide)
 
 - **Oracle y School District of Manatee County**:
-[New Manatee schools computer system: Millions over budget and late. What went wrong?](https://www.bradenton.com/news/local/education/article223183180.html)
-(https://www.govtech.com/computing/florida-school-district-reassesses-troubled-erp-project.html)(Fuente: Ampliación de fuentes por Kamal Bouizy)
+[Florida School District Reassesses Troubled ERP Project](https://www.govtech.com/computing/florida-school-district-reassesses-troubled-erp-project.html)(Fuente: Ampliación de fuentes por Kamal Bouizy)
 
 - **SAP y [Gobierno de Nueva Gales del Sur (Australia)](https://www.nsw.gov.au/)**:
 [Government blows nearly half IT project budget on corrections](https://www.brisbanetimes.com.au/national/nsw/government-blows-nearly-half-it-project-budget-on-corrections-20161222-gtggma.html) (Fuente: Ignacio Palacios)
