@@ -892,7 +892,7 @@ La empresa MASER demandó a SAP SE, SAP ESPAÑA y SCPTI por la mala implementaci
 ### 2016
 
 - **ERP desconocido y PG&E**:
-[Pacific Gas and Electric Database Exposed](https://mackeeper.com/blog/post/231-pacific-gas-and-electric-database-exposed) (Fuente: Alberto Mur).
+[Pacific Gas and Electric Database Exposed](https://www.securityweek.com/database-california-electric-utility-exposed-online/#:~:text=A%20researcher%20reported%20finding%20an,the%20data%20was%20%E2%80%9Cfake.%E2%80%9D) (Fuente: Alberto Mur, Actualizado: Guillermo Bajo).
 [Enlace añadido](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) con conclusiones del error, explicaciones extendidas y video analizador de riesgos de contratar grandes sistemas integradores (Fuente: Oscar Anadon).
 
 - **Oracle PeopleSoft, IBM (implementador) y Public Services and Procurement Canada (PSPC)**:
