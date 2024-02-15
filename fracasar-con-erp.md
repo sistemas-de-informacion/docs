@@ -1054,7 +1054,7 @@ Adidas eligió un software de gestión de almacenes que no era compatible con el
 [Payroll disasters become HR software gravy train](https://www.itnews.com.au/news/payroll-disasters-become-hr-software-gravy-train-533519) (Fuente: Israel Gimeno)
 
 - **Infor y [Travis Perkins](https://www.travisperkins.co.uk/)**:
-Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor. [Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández)
+Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor. [Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández). Tras el fallido intento de implementar el ERP de Infor, Travis Perkins eligió la solución financiera de Oracle Fusion Cloud. A pesar de los problemas tecnológicos pasados, se optó por un enfoque diferente con productos de terceros y un nuevo programa de transformación financiera [Brit builders merchant Travis Perkins opts for Oracle after ERP disaster with Infor](https://www.theregister.com/2021/10/06/travis_perkins_opts_for_oracle/) (Fuente: Guillermo Bajo)
 
 - **SAP y Nanshan Life Insurance**:
 La inversión de la empresa taiwanesa Nanshan Life Insurance resultó ser el "major failure", cuya historia se encubrió por la prensa no taiwanesa. [The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/the-hidden-s-4hana-failure-at-nanshan-life-insurance/) (Fuente: Jorge Borque Benedí)
