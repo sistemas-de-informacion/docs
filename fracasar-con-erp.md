@@ -624,7 +624,7 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 - **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
 
 - **Computer Science Corporation y [NHS](http://www.nhs.uk/Pages/HomePage.aspx) (Reino Unido)**:
-[Government to scrap NPfIT NHS IT programme today](http://www.computerworlduk.com/news/it-business/government-to-scrap-npfit-nhs-it-programme-today-3305247/) (Fuente: Nerea Torres) y [Abandoned NHS IT system has cost £10bn so far](http://www.theguardian.com/society/2013/sep/18/nhs-records-system-10bn) (Fuente: Christian Simón, corregido Mario Navarro) y [Case Study - The National Programme for IT in the NHS](https://www.cl.cam.ac.uk/~rja14/Papers/npfit-mpp-2014-case-history.pdf) (Fuente: Víctor Lafaja)
+[Computer Sciences Corporation could retain £1bn in health contracts](https://www.theguardian.com/society/2012/mar/06/computer-sciences-corporation-retain-health-contracts) (Fuente: Guillermo Bajo) y [Abandoned NHS IT system has cost £10bn so far](http://www.theguardian.com/society/2013/sep/18/nhs-records-system-10bn) (Fuente: Christian Simón, corregido Mario Navarro) y [Case Study - The National Programme for IT in the NHS](https://www.cl.cam.ac.uk/~rja14/Papers/npfit-mpp-2014-case-history.pdf) (Fuente: Víctor Lafaja)
 
 - **EPICOR y [ParknPool](https://www.parknpool.com/)**:
 [Customer Sues Epicor After ERP Software Project Attempt Ends in 'big Mess'](http://www.pcworld.com/article/245151/customer_sues_epicor_after_erp_software_project_attempt_ends_in_big_mess.html) (Fuente: Diego Grande)
