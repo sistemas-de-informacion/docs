@@ -859,7 +859,7 @@ Infor Noruega fue condenado a pagar a Felleskjöpet (un minorista con 1.700 empl
 ### 2015
 
 - **IBM y el [Ministry of Community and Social Services](https://www.mcss.gov.on.ca/en/mcss/) de Ontario**:
-[Breach of Contract: Ontario vs. IBM](http://www.petrillolaw.com/breach-of-contract-ontario-vs-ibm/), [Ontario government, IBM smacked for bungled software project](https://www.itworldcanada.com/article/ontario-government-ibm-smacked-for-bungled-software-project/379060) (Fuente: Enrique Palacín)
+[Special Costs for Special Occasions including Breach of Settlement Agreement](https://mcmillan.ca/insights/publications/special-costs-for-special-occasions-including-breach-of-settlement-agreement/), [Ontario government, IBM smacked for bungled software project](https://www.itworldcanada.com/article/ontario-government-ibm-smacked-for-bungled-software-project/379060) (Fuente: Enrique Palacín)
 
 - **Oracle, Siebel CRM y [Select Comfort](https://www.sleepnumber.com/)** :
 Tras tener problemas en 2008 con SAP, Select Confort vuelve a tener problemas en un ERP go-live.
