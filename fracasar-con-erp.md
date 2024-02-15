@@ -811,6 +811,10 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 PC Connection experimentó una falla en su sistema ERP que se relacionó con una mala adaptación del proveedor del sistema.
 [Causas de fallas en la implementación de ERP y 11 ejemplos de alto perfil](https://softwareconnect.com/erp/implementation-failures/) (Fuente: Miguel Beltrán)
 
+- **Oracle EBusiness y gobierno de Australia Occidental (Wa)**:
+El gobierno de Australia Occidental desmantela la sección de Servicios Compartidos (finanzas, adquisiciones, soporte, servicio online, RRHH...) basada en Oracle eBusiness. Solo el 37% de las agencias habían adoptado la solución Oracle, llevando a la pérdida de decenas de millones de dólares, a pesar de haber sido implementado en un principio para ahorrarle al estado hasta 56 millones de dólares al año.
+[WA to pay $370m to scrap Shared Services](https://www.itnews.com.au/news/wa-to-pay-370m-to-scrap-shared-services-353082) (Fuente: Óscar Brizuela)
+
 ### 2014
 
 - **Israel Chemical Limited y SAP**:
