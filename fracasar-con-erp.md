@@ -777,7 +777,7 @@ Crearon un escenario en el que el proyecto se volvio tan enorme que no pudieron 
 [Projeto SAP no BB subiu no telhado?](http://www.baguete.com.br/noticias/07/01/2014/projeto-sap-no-bb-subiu-no-telhado) (Fuente: David Abián)
 
 - **SAP y el estado de [California](http://www.ca.gov/)**:
-[California sues SAP over failed payroll software project](http://www.computerworld.com/s/article/9244287/California_sues_SAP_over_failed_payroll_software_project) (Fuente: Sergio Josa) [California payroll: Another failure waiting to happen?](http://www.zdnet.com/article/california-payroll-another-failure-waiting-to-happen/) (Fuente: Guillermo Sesé)
+[California sues SAP over failed payroll software project](https://www.computerworld.com/article/2702946/california-sues-sap-over-failed-payroll-software-project.html) (Fuente: Sergio Josa, Actualizado: Guillermo Bajo) [California payroll: Another failure waiting to happen?](http://www.zdnet.com/article/california-payroll-another-failure-waiting-to-happen/) (Fuente: Guillermo Sesé)
 
 - **SAP y [Fujitsu](http://www.fujitsu.com/es/)**:
 [Another big SAP project hits the rocks in Oz](https://www.theregister.co.uk/2013/08/28/another_big_sap_project_hits_the_rocks_in_oz/) (Fuente: Ignacio Palacios)
