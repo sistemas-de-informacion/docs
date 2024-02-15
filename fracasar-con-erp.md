@@ -429,7 +429,7 @@ Los problemas para implantar un ERP le costó a la compañía unos 30 millones d
 
 - **Eclipsys Corporation y [El Camino Hospital](http://www.elcaminohospital.org/)**:
 Implementación fallida del ERP de la compañía Eclipsys, que casi provoca la desaparición del hospital y tuvo que retrasarse en 6 meses su despliegue, ver
-[HIStalk Interviews Mark Zielazinski, CIO of Children’s Hospital of Central California](HIStalk Interviews Mark Zielazinski, CIO of Children’s Hospital of Central California) (Alain Villagrasa)
+[HIStalk Interviews Mark Zielazinski, CIO of Children’s Hospital of Central California](https://histalk2.com/2008/01/21/histalk-interviews-mark-zielazinski-cio-of-childrens-hospital-of-central-california/) (Alain Villagrasa)
 
 - **Infor y Western Textile Company**:
 [Enterprise Software Companies are Human Too](http://www.erp.com/component/content/article/337-articles-a-news/erp-software/9372-enterprise-software-companies-are-human-too--part-four.html) ( Fuente: Adrián Crespo ).
