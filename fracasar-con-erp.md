@@ -647,7 +647,7 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 [Ansell moves to SAP after Oracle Erp bungle](https://www.itnews.com.au/news/ansell-moves-to-sap-after-oracle-erp-bungle-372499) (Fuente: Raquel Roy)
 
 - **Oracle y [Montclair State University](http://www.montclair.edu/)**:  caso de fracaso en la implementación del software ERP de Oracle en la Universidad Montclair State (MSU) en 2011. La universidad buscaba modernizar sus servicios mediante un nuevo sistema, pero el proyecto, que implicó una inversión de $20 millones, no cumplió con las expectativas.
-[Oracle Sued by University for Alleged ERP Failure](http://www.pcworld.com/article/228412/article.html) (Fuente: Guillermo Sesé) [Revisiting an Oracle ERP Failure: Implementation Challenges in Higher Education](https://www.panorama-consulting.com/oracle-erp-failure/#:~:text=A%20%2420%20million%20deployment%20of,to%20higher%20education%20IT%20implementations)(Fuente: Pablo Angusto)
+[Oracle Sued by University for Alleged ERP Failure](http://www.pcworld.com/article/228412/article.html) (Fuente: Guillermo Sesé) [Revisiting an Oracle ERP Failure: Implementation Challenges in Higher Education](https://www.panorama-consulting.com/oracle-erp-failure/) (Fuente: Pablo Angusto)
 
 - **Oracle PeopleSoft y la ciudad de [Fort Worth](http://fortworthtexas.gov/)**:
 [Biggest ERP failures of 2010](https://www.computerworld.com/article/2745265/biggest-erp-failures-of-2010.html)(Fuente: Luis Pellicer corregido por Alain Cascán)
@@ -932,7 +932,7 @@ La mala implantación de un ERP había causado pérdidas millonarias a los labor
 
 - **ERP desconocido y Oriola (Finlandia)**:
 Los problemas en la implementación del ERP llevaron al fracaso del proyecto, lo que costó a Oriola millones de euros y dañó su reputación. Nota: Buscar entre todos los casos, el ejemplo de Oriola.
-[4 ERP IMPLEMENTATION FAILURES WITH VALUABLE LESSONS](https://www.novacura.com/why-do-erp-implementations-fail/), [9 High-Profile ERP Implementation Failures (& How to Avoid Them)](https://www.apty.io/blog/failed-erp-implementation/)(Fuente: Pablo Angusto)
+[4 ERP implemetnation failures with valuale lessons](https://www.novacura.com/why-do-erp-implementations-fail/), [9 High-Profile ERP Implementation Failures (& How to Avoid Them)](https://www.apty.io/blog/failed-erp-implementation/) (Fuente: Pablo Angusto)
 
 
 - **Kronos y Toronto Paramedic Services (Canadá)**:
