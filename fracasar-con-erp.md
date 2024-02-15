@@ -1004,7 +1004,7 @@ La compañía habló con el distribuidor de ERP para gestionar las ventas de tod
 [Articulo sobre los fallos de PG&E al digitalizar su sistema](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) (Fuente: José Félix Yagüe)
 
 - **SAP y Lidl**:
-Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada. [Esto desencadenó una cadena de problemas de implementación](https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Marta Morales)
+Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada. [Esto desencadenó una cadena de problemas de implementación](https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html)  (Fuente: Marta Morales) [Lidl cancela un contrato de 500 millones de euros con SAP](https://www.computerworld.es/negocio/lidl-cancela-un-contrato-de-500-millones-de-euros-con-sap) (Fuente: Guillermo Bajo)
 [Case Study 12: Lidl’s €500 Million SAP Debacle](https://www.henricodolfing.com/2020/05/case-study-lidl-sap-debacle.html) (Fuente: Cristina Marzo)
 
 - **ERP no especicado y [TSB Bank](https://www.tsb.co.uk/)**:
