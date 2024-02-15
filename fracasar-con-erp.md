@@ -465,7 +465,7 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 [Erp Introduction in China: Analysing Cultural Problems Using Structuration Theory.](https://www.sciencedirect.com/science/article/pii/S0268401215000602) (Fuente: Israel Solanas corregido por Daniel Carrizo)
 
 - **SAP y Distrito Escolar de Los Ángeles (EE. UU.)**:
-[LA school district and Deloitte in $18m failure settlement](http://www.zdnet.com/article/la-school-district-and-deloitte-in-18m-failure-settlement/) (Fuente: Alejandro Guiu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
+[LAUSD accepts $15 million settlement in payroll mess](https://www.dailynews.com/2008/11/27/lausd-accepts-15-million-settlement-in-payroll-mess/) (Fuente: Alejandro Guiu, link actualizado por Sarah Maria Constantinescu) y [Los Angeles School District ERP Snarls Teacher Pay](http://www.eweek.com/c/a/Enterprise-Applications/Los-Angeles-School-District-ERP-Snarls-Teacher-Pay) (Fuente: Samuel Gascón)
 
 - **Oracle y Arizona State University (ASU)**:
 El coste de la implementación fue sustancialmente por debajo del presupuesto, una rareza extrema en el mundo de las implementaciones de ERP. Sin embargo, esto se produce a expensas de la calidad, la usabilidad y la moral de los empleados de la ASU.
