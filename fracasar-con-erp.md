@@ -692,7 +692,7 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 
 - **ERP desconocido y Tesco Bank**:
 [Lessons from an IT crisis – Tesco Bank](https://ukcampaign4change.com/2011/07/06/lessons-from-an-it-crisis-%E2%80%93-tesco-bank/) (Fuente: Raúl Rustarazo)
-[Tesco Bank slams brakes on system migration after major IT failure](https://www.computerworld.com/article/3415458/tesco-bank-slams-brakes-on-system-migration-after-major-it-failure.html) (Fuente: Pablo Moreno)
+[Tesco Bank slams brakes on system migration after major IT failure](https://www.computerworld.com/article/3415458/tesco-bank-slams-brakes-on-system-migration-after-major-it-failure.html)(Fuente: Pablo Moreno)
 
 
 - **ERP desconocido y SuperDry**:
@@ -901,6 +901,7 @@ Cómo el 25% de los funcionarios de Canadá sufrieron errores en sus nóminas. [
 
 - **Oracle & Beximco Pharma**:
 [An assessment to Identify Causes of ERP Implementation Failure and to Predict its Success: A Case Study on Beximco Pharmaceuticals Limited](https://www.researchgate.net/publication/303100797_An_Assessment_to_Identify_Causes_of_ERP_Implementation_Failure_and_to_Predict_Its_Success_A_Case_Study_on_Beximco_Pharmaceuticals_Limited) (Fuente: David Ubide)
+[A Case Study on Beximco Pharmaceuticals Limited](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759277) (Fuente:Pablo Moreno)
 
 - **Oracle y School District of Manatee County**:
 [Florida School District Reassesses Troubled ERP Project](https://www.govtech.com/computing/florida-school-district-reassesses-troubled-erp-project.html)(Fuente: Ampliación de fuentes por Kamal Bouizy)
