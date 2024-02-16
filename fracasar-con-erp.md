@@ -624,7 +624,9 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 - **Accenture (implementador) y la ciudad de [Nueva York](http://www1.nyc.gov/)** [For Bloomberg, Waste Mars Another Digital Project](http://www.nytimes.com/2011/09/24/nyregion/bloombergs-computer-project-for-personnel-data-leads-to-waste.html?_r=1) (Fuente: Eduardo Criado)
 
 - **Computer Science Corporation y [NHS](http://www.nhs.uk/Pages/HomePage.aspx) (Reino Unido)**:
-[Computer Sciences Corporation could retain £1bn in health contracts](https://www.theguardian.com/society/2012/mar/06/computer-sciences-corporation-retain-health-contracts) (Fuente: Guillermo Bajo) y [Abandoned NHS IT system has cost £10bn so far](http://www.theguardian.com/society/2013/sep/18/nhs-records-system-10bn) (Fuente: Christian Simón, corregido Mario Navarro) y [Case Study - The National Programme for IT in the NHS](https://www.cl.cam.ac.uk/~rja14/Papers/npfit-mpp-2014-case-history.pdf) (Fuente: Víctor Lafaja)
+[Computer Sciences Corporation could retain £1bn in health contracts](https://www.theguardian.com/society/2012/mar/06/computer-sciences-corporation-retain-health-contracts) (Fuente: Guillermo Bajo),
+[Abandoned NHS IT system has cost £10bn so far](http://www.theguardian.com/society/2013/sep/18/nhs-records-system-10bn) (Fuente: Christian Simón, corregido Mario Navarro) y
+[Case Study - The National Programme for IT in the NHS](https://www.cl.cam.ac.uk/~rja14/Papers/npfit-mpp-2014-case-history.pdf) (Fuente: Víctor Lafaja)
 
 - **EPICOR y [ParknPool](https://www.parknpool.com/)**:
 [Customer Sues Epicor After ERP Software Project Attempt Ends in 'big Mess'](http://www.pcworld.com/article/245151/customer_sues_epicor_after_erp_software_project_attempt_ends_in_big_mess.html) (Fuente: Diego Grande)
@@ -777,7 +779,8 @@ Crearon un escenario en el que el proyecto se volvio tan enorme que no pudieron 
 [Projeto SAP no BB subiu no telhado?](http://www.baguete.com.br/noticias/07/01/2014/projeto-sap-no-bb-subiu-no-telhado) (Fuente: David Abián)
 
 - **SAP y el estado de [California](http://www.ca.gov/)**:
-[California sues SAP over failed payroll software project](https://www.computerworld.com/article/2702946/california-sues-sap-over-failed-payroll-software-project.html) (Fuente: Sergio Josa, Actualizado: Guillermo Bajo) [California payroll: Another failure waiting to happen?](http://www.zdnet.com/article/california-payroll-another-failure-waiting-to-happen/) (Fuente: Guillermo Sesé)
+[California sues SAP over failed payroll software project](https://www.computerworld.com/article/2702946/california-sues-sap-over-failed-payroll-software-project.html) (Fuente: Sergio Josa, Actualizado: Guillermo Bajo)
+[California payroll: Another failure waiting to happen?](http://www.zdnet.com/article/california-payroll-another-failure-waiting-to-happen/) (Fuente: Guillermo Sesé)
 
 - **SAP y [Fujitsu](http://www.fujitsu.com/es/)**:
 [Another big SAP project hits the rocks in Oz](https://www.theregister.co.uk/2013/08/28/another_big_sap_project_hits_the_rocks_in_oz/) (Fuente: Ignacio Palacios)
@@ -892,7 +895,7 @@ La empresa MASER demandó a SAP SE, SAP ESPAÑA y SCPTI por la mala implementaci
 ### 2016
 
 - **ERP desconocido y PG&E**:
-[Pacific Gas and Electric Database Exposed](https://www.securityweek.com/database-california-electric-utility-exposed-online/#:~:text=A%20researcher%20reported%20finding%20an,the%20data%20was%20%E2%80%9Cfake.%E2%80%9D) (Fuente: Alberto Mur, Actualizado: Guillermo Bajo).
+[Pacific Gas and Electric Database Exposed](https://www.securityweek.com/database-california-electric-utility-exposed-online/) (Fuente: Alberto Mur, Actualizado: Guillermo Bajo).
 [Enlace añadido](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) con conclusiones del error, explicaciones extendidas y video analizador de riesgos de contratar grandes sistemas integradores (Fuente: Oscar Anadon).
 
 - **Oracle PeopleSoft, IBM (implementador) y Public Services and Procurement Canada (PSPC)**:
@@ -1004,7 +1007,8 @@ La compañía habló con el distribuidor de ERP para gestionar las ventas de tod
 [Articulo sobre los fallos de PG&E al digitalizar su sistema](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) (Fuente: José Félix Yagüe)
 
 - **SAP y Lidl**:
-Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada. [Esto desencadenó una cadena de problemas de implementación](https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html)  (Fuente: Marta Morales) [Lidl cancela un contrato de 500 millones de euros con SAP](https://www.computerworld.es/negocio/lidl-cancela-un-contrato-de-500-millones-de-euros-con-sap) (Fuente: Guillermo Bajo)
+Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada.
+[Esto desencadenó una cadena de problemas de implementación](https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Marta Morales) 
 [Case Study 12: Lidl’s €500 Million SAP Debacle](https://www.henricodolfing.com/2020/05/case-study-lidl-sap-debacle.html) (Fuente: Cristina Marzo)
 
 - **ERP no especicado y [TSB Bank](https://www.tsb.co.uk/)**:
@@ -1054,7 +1058,10 @@ Adidas eligió un software de gestión de almacenes que no era compatible con el
 [Payroll disasters become HR software gravy train](https://www.itnews.com.au/news/payroll-disasters-become-hr-software-gravy-train-533519) (Fuente: Israel Gimeno)
 
 - **Infor y [Travis Perkins](https://www.travisperkins.co.uk/)**:
-Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor. [Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández). Tras el fallido intento de implementar el ERP de Infor, Travis Perkins eligió la solución financiera de Oracle Fusion Cloud. A pesar de los problemas tecnológicos pasados, se optó por un enfoque diferente con productos de terceros y un nuevo programa de transformación financiera [Brit builders merchant Travis Perkins opts for Oracle after ERP disaster with Infor](https://www.theregister.com/2021/10/06/travis_perkins_opts_for_oracle/) (Fuente: Guillermo Bajo)
+Travis Perkins, reveló un deterioro de 108 millones de libras esterlinas en 2019 relacionado con la interrupción del reemplazo del ERP Infor
+[Warning Signs: Inside Travis Perkins’ Failed ERP Migration](https://www.itjungle.com/2021/11/03/warning-signs-inside-travis-perkins-failed-erp-migration/) (Fuente: Sergio Hernández).
+Tras el fallido intento de implementar el ERP de Infor, Travis Perkins eligió la solución financiera de Oracle Fusion Cloud. A pesar de los problemas tecnológicos pasados, se optó por un enfoque diferente con productos de terceros y un nuevo programa de transformación financiera
+[Brit builders merchant Travis Perkins opts for Oracle after ERP disaster with Infor](https://www.theregister.com/2021/10/06/travis_perkins_opts_for_oracle/) (Fuente: Guillermo Bajo)
 
 - **SAP y Nanshan Life Insurance**:
 La inversión de la empresa taiwanesa Nanshan Life Insurance resultó ser el "major failure", cuya historia se encubrió por la prensa no taiwanesa. [The Hidden S/4 HANNA Failure at LeasePlan](https://www.brightworkresearch.com/the-hidden-s-4hana-failure-at-nanshan-life-insurance/) (Fuente: Jorge Borque Benedí)
