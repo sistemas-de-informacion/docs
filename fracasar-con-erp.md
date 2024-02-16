@@ -767,6 +767,9 @@ Mala calidad de datos, problemas de suministros derivados y TPV con problemas ll
 y [Cover Oregon's outsized project](https://www.techtarget.com/searcherp/feature/7-reasons-for-ERP-implementation-failure)
 Crearon un escenario en el que el proyecto se volvio tan enorme que no pudieron cumplir las fechas de vencimiento, gastos de 300 millones de dolares para no procesar ni una solicitud. (Fuente: Miguel Beltrán)
 
+- **Un fallo de software y [Knight Capital Group](https://www.knight.capital)**:
+Un error en el despliegue de su software de trading resultó en la compra no intencionada de \$7 mil millones en acciones, forzando a la empresa a vender estas acciones a pérdida, costándole $440 millones. La situación casi lleva a la quiebra de la empresa, salvada solo por una inyección de capital de \$400 millones y su posterior adquisición por Getco LLC. [Case Study 4: The \$440 Million Software Error at Knight Capital](https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html). (Fuente: Ismael Berdusán)
+
 ### 2013
 
 - **Microsoft Dynamics y [ScanSource](http://www.scansource.com/en)**:
@@ -977,9 +980,6 @@ Instalación en 2017. Problemas en 2018.
 - **ERP desconocido y compañía minera en Indonesia**
 Fallos en la implementación del ERP provocan inconsistencias en los reportes. El auditor no puede aceptar los informes por lo que tienen
 que introducir los registros a mano, obstaculizando la actividad de la empresa. [Analysis of ERP Critical Failure Factors: A Case Study in an Indonesian Mining Company](https://jsi.cs.ui.ac.id/index.php/jsi/article/view/1291/437) (Fuente: Álvaro de Francisco)
-
-- **SAP y Cabshachu(nombre ficticio para una compañía australiana de recursos naturales)**:
-Este caso se centra en las lecciones aprendidas de las implementaciones de sistemas ERP en una gran compañía global de recursos naturales australiana. A través de un estudio cualitativo, se recogieron experiencias y consejos de participantes clave en la implementación de un sistema ERP basado en SAP, enfocándose en mejorar futuras implementaciones y aumentar las posibilidades de éxito. La empresa y los detalles específicos de la implementación se mantienen anónimos por confidencialidad. [Lessons Learned from Enterprise Resource Planning (ERP) Implementations in an Australian Company](https://www.researchgate.net/profile/Ritesh-Chugh/publication/318163130_Lessons_Learned_from_Enterprise_Resource_Planning_ERP_Implementations_in_an_Australian_Company/links/5c32a270a6fdccd6b598563d/Lessons-Learned-from-Enterprise-Resource-Planning-ERP-Implementations-in-an-Australian-Company.pdf) (Fuente: Ismael Berdusán)
 
 ### 2018
 
