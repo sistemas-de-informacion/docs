@@ -692,8 +692,6 @@ Iniciado en 2011, el proyecto eLWIS se cancela en 2017 y Lidl intenta volver a s
 
 - **ERP desconocido y Tesco Bank**:
 [Lessons from an IT crisis – Tesco Bank](https://ukcampaign4change.com/2011/07/06/lessons-from-an-it-crisis-%E2%80%93-tesco-bank/) (Fuente: Raúl Rustarazo)
-[Tesco Bank slams brakes on system migration after major IT failure](https://www.computerworld.com/article/3415458/tesco-bank-slams-brakes-on-system-migration-after-major-it-failure.html)(Fuente: Pablo Moreno)
-
 
 - **ERP desconocido y SuperDry**:
  [UK Retailer Superdry Still Hurting from IT Upgrade Problems Stock price hasn't recovered from news of problems](https://spectrum.ieee.org/uk-retailer-superdry-still-hurting-from-it-upgrade-problems) (Fuente: Raúl Rustarazo)
@@ -900,8 +898,7 @@ En 2019 aún están planificando cómo hacerla.
 Cómo el 25% de los funcionarios de Canadá sufrieron errores en sus nóminas. [ANATOMY OF AN ERP PAYROLL FAILURE](https://freebalance.com/en/blog/economic-growth-development/anatomy-of-an-erp-payroll-failure/)(Fuente: Adrián Francisco y Rubén Albacete)
 
 - **Oracle & Beximco Pharma**:
-[An assessment to Identify Causes of ERP Implementation Failure and to Predict its Success: A Case Study on Beximco Pharmaceuticals Limited](https://www.researchgate.net/publication/303100797_An_Assessment_to_Identify_Causes_of_ERP_Implementation_Failure_and_to_Predict_Its_Success_A_Case_Study_on_Beximco_Pharmaceuticals_Limited) (Fuente: David Ubide)
-[A Case Study on Beximco Pharmaceuticals Limited](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759277) (Fuente:Pablo Moreno)
+[An assessment to Identify Causes of ERP Implementation Failure and to Predict its Success: A Case Study on Beximco Pharmaceuticals Limited](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759277) (Fuente: David Ubide, enlace por Pablo Moreno)
 
 - **Oracle y School District of Manatee County**:
 [Florida School District Reassesses Troubled ERP Project](https://www.govtech.com/computing/florida-school-district-reassesses-troubled-erp-project.html)(Fuente: Ampliación de fuentes por Kamal Bouizy)
