@@ -43,6 +43,8 @@ En el primer enlace se encuentra el informe detallado del caso y en el segundo s
 
 - **BAE y el [aeropuerto internacional de Denver](http://flydenver.com/)**:
 [Case Study – Denver International Airport Baggage Handling System](http://calleam.com/WTPF/wp-content/uploads/articles/DIABaggage.pdf), [illustration of ineffectual decision making](http://calleam.com/WTPF/wp-content/uploads/articles/DIABaggage.pdf) (Fuente: Daniel Pardo)
+[CasoaeropuertoDenverLufinCorreaJorge] (https://www.coursesidekick.com/business/734271)(Fuente: Pablo Moreno)
+[Un caso de mala gestión de stakeholders y gestión de riesgos](https://eadic.com/blog/entrada/un-caso-de-mala-gestion-de-stakeholders-y-gestion-de-riesgos/)(Fuente: Pablo Moreno)
 
 ### 1995
 
