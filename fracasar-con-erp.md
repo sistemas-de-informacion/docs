@@ -331,7 +331,8 @@ Kmart se declaró en bancarrota en 2002 debido a su incapacidad para competir co
 [Why Western vendors don't dominate China's ERP market](https://www.researchgate.net/publication/220424191_Why_Western_vendors_don%27t_dominate_China%27s_ERP_market) (Fuente:Iván Escuín)
 
 - **PeopleSoft y Avis**:
-[Avis bins PeopleSoft system after €45m IT failure](http://www.zdnet.com/article/avis-bins-peoplesoft-system-after-eur45m-it-failure/) (Fuente: Jesús Bintaned)
+Avis Europe PLC abandona el desarrollo de un nuevo sistema de planificación de recursos empresariales (ERP) basado en el software de PeopleSoft debido a importantes sobrecostos y retrasos. Además, planea reducir considerablemente su proyecto general de reestructuración de TI, incluyendo contratos de externalización, y asumirá un cargo excepcional de entre $50.5 millones y $56.8 millones relacionado con problemas de TI y el cierre de su negocio de alquiler de crédito Centrus.
+[Avis bins PeopleSoft system after €45m IT failure](http://www.zdnet.com/article/avis-bins-peoplesoft-system-after-eur45m-it-failure/) (Fuente: Jesús Bintaned), [Avis Europe is latest to get stung by IT](https://www.computerworld.com/article/2567553/avis-europe-is-latest-to-get-stung-by-it.html) (Fuente: Pablo Angusto)
 
 - **PeopleSoft y varias universidades americanas**:
 [University ERP: Big mess on Campus](https://www.cio.com/article/272120/enterprise-resource-planning-university-erp-big-mess-on-campus.html) (Fuente: Alejandro Gálvez corregido por Jaime Berruete Díaz). En la Universidad de Massachusetts el componente que causó problemas fue un desarrollo personalizado denominado SPIRE utilizado para registrar alumnos en cursos.
