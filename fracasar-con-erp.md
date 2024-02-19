@@ -293,7 +293,7 @@ El proyecto comenzó en 2000 y finalizó en 2006, con 5 años de retraso y un co
 [NASA systems: Houston, we have a problem](https://www.computerworld.com/article/2580248/nasa-reinvents-troubled-it-with-help-of-private-sector.html) (Fuente: Juan Vela y Jan Carlos Franco)
 
 - **SAP y XYZ (nombre ficticio, diferente del caso 2002)**:
-[Learning from failed ERP implementation](http://www.apps2fusion.com/training_demo/ranu/erp_success_factors_ranu.pdf) (Fuente: Fernando Alegre)
+[Learning from failed ERP implementation](http://www.apps2fusion.com/training_demo/ranu/erp_success_factors_ranu.pdf) (Fuente: Fernando Alegre) 
 
 - **SAP, PeopleSoft and Oracle y [Walt Disney Corporation](https://thewaltdisneycompany.com/)**:
 [Disney keeps global SAP roll-out on track by making local executives responsible](http://www.computerweekly.com/feature/Disney-keeps-global-SAP-roll-out-on-track-by-making-local-executives-responsible) (Fuente: Adrián Ibáñez)
@@ -607,6 +607,9 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 - **SAP, Nexus education y la Comunidad de Madrid**:
 [Nexus educación](http://algoquedaquedecir.blogspot.com/2018/04/nexus-educacion.html) (Fuente: Rael Clariana)
 
+- **ERP desconocido, Beta(nombe ficticio)**:
+[Explaining ERP Failure in Developing Countries: A Jordanian Case Study] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3477359) (Fuente: Lucía Olmos)
+
 ### 2011
 
 -**SAP y Chorus**: [Chorus : les SSII en concurrence pour le marché de l'année](https://www.lemagit.fr/actualites/2240191222/Chorus-les-SSII-en-concurrence-pour-le-marche-de-lannee) (Fuente: Ayelen Nuño Gracia)
@@ -906,10 +909,13 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 [ERP Failure in Developing Countries: A Case Study in India](https://ieeexplore.ieee.org/abstract/document/7443222) (Fuente: Jaime Conchello)
 
 - **Oracle y Condado de Loudoun, Virginia**:
-Costes adicionales por valor de 2 millones de dólares para completar un proyecto abierto desde hace 5 años, buscando actualizar software de hace 20. [Troubled ERP Upgrades Gets $2M More, Supervisors seek a new vendor to complete third phase](https://loudounnow.com/2016/05/24/troubled-erp-upgrades-gets-2m-more-supervisors-seek-a-new-vendor-to-complete-third-phase/) (Fuente: Eduardo Sánchez)
+[Condado USA gasta 40 millones de USD en ERP Oracle y aún no logra arrancarlo](https://www.erp-spain.com/articulo/75880/oracle/administracion-publica/condado-usa-gasta-40-millones-de-usd-en-erp-oracle-y-aun-no-logra-arrancarlo) (Fuente: Lucía Olmos)
 
 - **ERP desconocido y Stallergenes (Francia)**:
 La mala implantación de un ERP había causado pérdidas millonarias a los laboratorios farmacéuticos franceses Stallergenes. [¿Por qué falló la implementación del ERP?](https://sigessolutions.com/por-que-fallo-la-implementacion-del-erp/) (Fuente: Roberto García)
+
+- **SAP y  Company XYZ(nombre ficticio) **:
+[Analysis of ERP Critical Failure Factors: A Case Study in an Indonesian Mining Company](https://jsi.cs.ui.ac.id/index.php/jsi/article/view/1291/437)(Fuente: Lucía Olmos)
 
 ### 2017
 
@@ -1117,3 +1123,5 @@ La Universidad de la Ciudad de Londres abandonó un proyecto de reemplazo de su 
 ### 2023
 
 - **SAP y Spar**: El fracaso en la implementación de SAP en el centro de distribución de KwaZulu-Natal en Sudáfrica del famoso supermercado alemán Spar supuso una pérdida de R1.6 billones en 2023 (en torno a 78 millones de €), y R720 millones (alredededor de 35 millones de €) en pérdidas de beneficios. [Spar Group's Failed SAP ERP Implementation](https://www.warehouseautomation.ai/top-stories/spar-groups-failed-sap-implementation-results-in-r786-million), [Spar ‘ignored whistle-blower’ on botched SAP project](https://techcentral.co.za/spar-ignored-whistle-blower-botched-sap/236272/), [Spar loses R1.6bn due to failed SAP project](https://www.itweb.co.za/article/spar-loses-r16bn-due-to-failed-sap-project/Pero3qZ35JyvQb6m) (Fuente: Alain Villagrasa)
+
+
