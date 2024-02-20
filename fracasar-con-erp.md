@@ -606,9 +606,6 @@ La empresa había implementado un nuevo sistema ERP para mejorar la eficiencia e
 - **SAP, Nexus education y la Comunidad de Madrid**:
 [Nexus educación](http://algoquedaquedecir.blogspot.com/2018/04/nexus-educacion.html) (Fuente: Rael Clariana)
 
-- **ERP desconocido, Beta(nombe ficticio)**:
-[Explaining ERP Failure in Developing Countries: A Jordanian Case Study] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3477359) (Fuente: Lucía Olmos)
-
 ### 2011
 
 -**SAP y Chorus**: [Chorus : les SSII en concurrence pour le marché de l'année](https://www.lemagit.fr/actualites/2240191222/Chorus-les-SSII-en-concurrence-pour-le-marche-de-lannee) (Fuente: Ayelen Nuño Gracia)
@@ -875,8 +872,6 @@ La empresa MASER demandó a SAP SE, SAP ESPAÑA y SCPTI por la mala implementaci
 - **ERP desconocido y PG&E**:
 [Pacific Gas and Electric Database Exposed](https://mackeeper.com/blog/post/231-pacific-gas-and-electric-database-exposed) (Fuente: Alberto Mur).
 [Enlace añadido](https://www.thirdstage-consulting.com/digital-transformation-gone-wrong-at-pge/) con conclusiones del error, explicaciones extendidas y video analizador de riesgos de contratar grandes sistemas integradores (Fuente: Oscar Anadon).
-[Enlace añadido](https://www.panorama-consulting.com/pge-data-breach/) (Fuente: Lucía Olmos).
-
 
 - **Oracle PeopleSoft, IBM (implementador) y Public Services and Procurement Canada (PSPC)**:
 Las personalizaciones hacen imposible migrar de la versión 9.1 a la versión 9.2 de PeopleSoft.
@@ -912,9 +907,6 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 
 - **ERP desconocido y Stallergenes (Francia)**:
 La mala implantación de un ERP había causado pérdidas millonarias a los laboratorios farmacéuticos franceses Stallergenes. [¿Por qué falló la implementación del ERP?](https://sigessolutions.com/por-que-fallo-la-implementacion-del-erp/) (Fuente: Roberto García)
-
-- **SAP y  Company XYZ(nombre ficticio) **:
-[Analysis of ERP Critical Failure Factors: A Case Study in an Indonesian Mining Company](https://jsi.cs.ui.ac.id/index.php/jsi/article/view/1291/437)(Fuente: Lucía Olmos)
 
 ### 2017
 
