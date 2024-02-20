@@ -93,7 +93,7 @@ Power Relations and Market Forces](https://doi.org/10.1108/18325910710820292) (F
 [ERP LECTURE 1 LEARNINGS](https://es.scribd.com/presentation/149512631/ERP-Ppt-Lecture1), [Handbook of Research on Enterprise Systems](https://books.google.es/books?id=4rZf-Jt93ioC&pg=PT116&lpg=PT116&dq=Applied+Materials++%E2%80%93+overwhelmed+by+the+organizationalchanges+involved&source=bl&ots=2sFDRnA-tJ&sig=ACfU3U0KmC-105qPc1AHyiU6oePHj9VH_w&hl=es&sa=X&ved=2ahUKEwjvjLCWvoLhAhUk-YUKHUZPB3kQ6AEwAXoECAIQAQ#v=onepage&q=Applied%20Materials%20%20%E2%80%93%20overwhelmed%20by%20the%20organizationalchanges%20involved&f=false)(Fuente: Israel Solanas)
 
 - **MOVEX y Beijing Dabao Cosmetics Co. (China)**:
-[Case study on failed implementation of ERP systems](http://www.academia.edu/28508065/CASE_STUDY_ON_FAILED_IMPLEMENTATION_OF_ERP_SYSTEMS) (Fuente: Jorge Blázquez)
+[ERP implementation failures in China: Case studies with implications for ERP vendors](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f54b16adef1a1c1929c8dd33b950a9cb960fba21) (Fuente: Salma Hernández)
 
 - **Oracle y [ABC Corporation](http://www.abcgroupindia.com/) (India)**:
 [Case Study - Learning from failure](http://shodhganga.inflibnet.ac.in/bitstream/10603/9902/9/09_chapter%204.pdf) (Fuente: Andrés Julián)
@@ -433,7 +433,7 @@ Implementación fallida del ERP de la compañía Eclipsys, que casi provoca la d
 [HIStalk Interviews Mark Zielazinski, CIO of Children’s Hospital of Central California](https://histalk2.com/2008/01/21/histalk-interviews-mark-zielazinski-cio-of-childrens-hospital-of-central-california/) (Alain Villagrasa)
 
 - **Infor y Western Textile Company**:
-[Enterprise Software Companies are Human Too](http://www.erp.com/component/content/article/337-articles-a-news/erp-software/9372-enterprise-software-companies-are-human-too--part-four.html) ( Fuente: Adrián Crespo ).
+[ERP train wrecks, failures, and lawsuits](https://www.zdnet.com/article/erp-train-wrecks-failures-and-lawsuits/) (Fuente: Salma Hernández)
 
 - **Infor y Scientific Components**:
 [ERP train wrecks, failures and lawsuits](https://www.zdnet.com/article/erp-train-wrecks-failures-and-lawsuits/) (Fuente: Oscar Potrony corregido por Sergio Berges) Mención breve del caso en una tabla de fracasos.
