@@ -767,6 +767,9 @@ Mala calidad de datos, problemas de suministros derivados y TPV con problemas ll
 y [Cover Oregon's outsized project](https://www.techtarget.com/searcherp/feature/7-reasons-for-ERP-implementation-failure)
 Crearon un escenario en el que el proyecto se volvio tan enorme que no pudieron cumplir las fechas de vencimiento, gastos de 300 millones de dolares para no procesar ni una solicitud. (Fuente: Miguel Beltrán)
 
+- **Un fallo de software y [Knight Capital Group](https://www.knight.capital)**:
+Un error en el despliegue de su software de trading resultó en la compra no intencionada de \$7 mil millones en acciones, forzando a la empresa a vender estas acciones a pérdida, costándole $440 millones. La situación casi lleva a la quiebra de la empresa, salvada solo por una inyección de capital de \$400 millones y su posterior adquisición por Getco LLC. [Case Study 4: The \$440 Million Software Error at Knight Capital](https://www.henricodolfing.com/2019/06/project-failure-case-study-knight-capital.html). (Fuente: Ismael Berdusán)
+
 ### 2013
 
 - **Microsoft Dynamics y [ScanSource](http://www.scansource.com/en)**:
