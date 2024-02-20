@@ -83,6 +83,7 @@ Una implementación con éxitos y fracasos que se completó en 2003.
 [Nestlé's Enterprise Resource Planning (ERP) Odyssey](https://www.cio.com/article/2440821/nestl--s-enterprise-resource-planning--erp--odyssey.html) (Fuente: Alejandro Piedrafita),
 [ERP Implementation at Nestlé](https://www.uwosh.edu/faculty_staff/wresch/ERPNestle.htm)(Fuente: Marta López),
 
+
 ### 1998
 
 - **Baan y AML (Egipto)**:
@@ -296,7 +297,7 @@ Kmart se declaró en bancarrota en 2002 debido a su incapacidad para competir co
 [NASA systems: Houston, we have a problem](https://www.computerworld.com/article/2580248/nasa-reinvents-troubled-it-with-help-of-private-sector.html) (Fuente: Juan Vela y Jan Carlos Franco)
 
 - **SAP y XYZ (nombre ficticio, diferente del caso 2002)**:
-[Learning from failed ERP implementation](https://docplayer.net/9381832-Learning-from-failed-erp-implementation-or-how-to-make-em-successful-ranu-srivastava.html) (Fuente: Fernando Alegre, link actualizado por Pablo Moreno)
+[Learning from failed ERP implementation](http://www.apps2fusion.com/training_demo/ranu/erp_success_factors_ranu.pdf) (Fuente: Fernando Alegre) 
 
 - **ERP X(nombre ficticio) y NYE (nombre ficticio)**:
 [Why ERP post-implementation fails? Lessons learned from a failure case in China](https://eprints.whiterose.ac.uk/79147/2/WRRO_79147.pdf) (Fuente: Kamal Bouizy)
@@ -357,12 +358,14 @@ La implementación fallida de ERP le costó a la empresa 160 millones de dólare
 [ERP Implementation Failure at HP](https://docplayer.net/1540443-Erp-implementation-failure-at-hp.html) (Fuente: Marta López), y
 [HP's CIO Points to Internal Issues in ERP Project Snafus](https://www.computerworld.com/article/2565928/hp-s-cio-points-to-internal-issues-in-erp-project-snafus.html) (Fuente: Víctor Jarreta)
 
+
 - **SAP, Deloitte (implementador) y el condado de [Marin](http://www.marincounty.org/) en California**:
 El proyecto se desarrolla entre 2004 y 2007, y tres años después, en 2010, el Condado de Marin está tan harto del proyecto que demanda a Deloitte por 30M$ utilizando una ley que se aplica contra actividades de crimen organizado (Ley RICO).
 [Understanding Marin County's $30 million ERP failure](http://www.zdnet.com/blog/projectfailures/understanding-marin-countys-30-million-erp-failure/10678) (Fuente: Alejandro Gálvez)
 [Marin County settles legal claims against Deloitte, SAP over software project](https://www.computerworld.com/article/2715108/marin-county-settles-legal-claims-against-deloitte--sap-over-software-project.html) (Fuente: Andrea Alexendry, link actualizado por Pablo Moreno)
 [County Alleges SAP, Deloitte Engaged in Racketeering](https://www.pcworld.com/article/218515/article.html) (Fuente: Paula Lardiés),
 [Deloitte hit with $30M lawsuit over ERP project](https://www.computerworld.com/article/2518518/deloitte-hit-with--30m-lawsuit-over-erp-project.html) (Fuente: Daniel Royo)
+
 
 - **PeopleSoft y Companhia Siderurgica de Tubarao (CST) (Brasil)**:
 Resistencia y falta de indicadores de éxito tras la instalación de un ERP.
@@ -932,7 +935,7 @@ Una apuesta por SAP S/4 se cancela tres años después tras gastar 100M€.
 [ERP Failure in Developing Countries: A Case Study in India](https://ieeexplore.ieee.org/abstract/document/7443222) (Fuente: Jaime Conchello)
 
 - **Oracle y Condado de Loudoun, Virginia**:
-Costes adicionales por valor de 2 millones de dólares para completar un proyecto abierto desde hace 5 años, buscando actualizar software de hace 20. [Troubled ERP Upgrades Gets $2M More, Supervisors seek a new vendor to complete third phase](https://loudounnow.com/2016/05/24/troubled-erp-upgrades-gets-2m-more-supervisors-seek-a-new-vendor-to-complete-third-phase/) (Fuente: Eduardo Sánchez)
+[Condado USA gasta 40 millones de USD en ERP Oracle y aún no logra arrancarlo](https://www.erp-spain.com/articulo/75880/oracle/administracion-publica/condado-usa-gasta-40-millones-de-usd-en-erp-oracle-y-aun-no-logra-arrancarlo) (Fuente: Lucía Olmos)
 
 - **ERP desconocido y Stallergenes (Francia)**:
 La mala implantación de un ERP había causado pérdidas millonarias a los laboratorios farmacéuticos franceses Stallergenes. [¿Por qué falló la implementación del ERP?](https://sigessolutions.com/por-que-fallo-la-implementacion-del-erp/) (Fuente: Roberto García)
@@ -962,7 +965,7 @@ Instalación en 2017. Problemas en 2018.
 ([Revlon Report](https://investors.revlon.com/news-releases/news-release-details/revlon-reports-second-quarter-2018-results)) (Fuente: Naval Alcalá)
 [How Revlon got sued by its own shareholders because of a failed SAP implementation](https://www.henricodolfing.com/2019/08/case-study-revlon-sued-because-sap-implementation.html) (Fuente: Juliana Zordan, actualiza aportación de Pedro Tamarga)
 [Lessons from Revlon’s SAP Implementation Disaster](https://www.thirdstage-consulting.com/lessons-from-revlons-sap-implementation-disaster/) (Fuente: Antonio Lecina)
-[What was the Real Story with the Revlon S/4 HANA failure?](https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López) [ERP Implementation Failure at Revlon](https://www.thecasecentre.org/products/view?id=173346) (Fuente: Jaime Roncal) [Case Study: How Revlon Got Sued by Its Own Shareholders Because of a Failed Sap Implementation](https://www.henricodolfing.com/2019/08/case-study-revlon-sued-because-sap-implementation.html) (Fuente: Ismael Penacho
+[What was the Real Story with the Revlon S/4 HANA failure?](https://www.brightworkresearch.com/saphana/2019/06/03/what-was-the-real-story-with-the-revlon-s-4hana-failure/) (Fuente: Marta López) [ERP Implementation Failure at Revlon](https://www.thecasecentre.org/products/view?id=173346) (Fuente: Jaime Roncal) [Case Study: How Revlon Got Sued by Its Own Shareholders Because of a Failed Sap Implementation](https://www.henricodolfing.com/2019/08/case-study-revlon-sued-because-sap-implementation.html) (Fuente: Ismael Penacho)
 
 - **SAP y [Under Armour](https://www.underarmour.com/)**:
 [Under Armour’s SAP implementation issues contribute to disappointing quarter](https://explorewms.com/under-armour-sap-implementation.html), [Under Armour Links Sales Decline to Software Upgrade](https://blogs.wsj.com/cio/2017/10/31/under-armour-links-sales-decline-to-software-upgrade/) (Fuente: Enrique Palacín), [Under Armour faces losses after ERP update](https://www.supplychaindive.com/news/under-armour-losses-ERP-update-supply-chain-disruption/510078/) (Hector Herrmann)
@@ -1014,6 +1017,7 @@ La compañía habló con el distribuidor de ERP para gestionar las ventas de tod
 Lidl no quiso cambiar sus sistemas de inventario y la implementación de SAP tuvo que ser personalizada.
 [Esto desencadenó una cadena de problemas de implementación](https://www.cio.com/article/2429865/enterprise-resource-planning-10-famous-erp-disasters-dustups-and-disappointments.html) (Fuente: Marta Morales) 
 [Case Study 12: Lidl’s €500 Million SAP Debacle](https://www.henricodolfing.com/2020/05/case-study-lidl-sap-debacle.html) (Fuente: Cristina Marzo)
+
 
 - **ERP no especicado y [TSB Bank](https://www.tsb.co.uk/)**:
 La crisis informática del banco TSB de abril de 2018 que deja a clientes bloqueados en sus cuentas bancarias, cuentas hipotecarias que desaparecen, pequeñas empresas que informan de que no pueden pagar a su personal y de tarjetas de débito que dejan de funcionar. [The Epic Meltdown of TSB Bank](https://www.henricodolfing.com/2019/03/case-study-epic-meltdown-of-tsb-bank.html) (Fuente: Sergio Hernández)
@@ -1151,3 +1155,5 @@ La Universidad de la Ciudad de Londres abandonó un proyecto de reemplazo de su 
 ### 2023
 
 - **SAP y Spar**: El fracaso en la implementación de SAP en el centro de distribución de KwaZulu-Natal en Sudáfrica del famoso supermercado alemán Spar supuso una pérdida de R1.6 billones en 2023 (en torno a 78 millones de €), y R720 millones (alredededor de 35 millones de €) en pérdidas de beneficios. [Spar Group's Failed SAP ERP Implementation](https://www.warehouseautomation.ai/top-stories/spar-groups-failed-sap-implementation-results-in-r786-million), [Spar ‘ignored whistle-blower’ on botched SAP project](https://techcentral.co.za/spar-ignored-whistle-blower-botched-sap/236272/), [Spar loses R1.6bn due to failed SAP project](https://www.itweb.co.za/article/spar-loses-r16bn-due-to-failed-sap-project/Pero3qZ35JyvQb6m) (Fuente: Alain Villagrasa)
+
+
