@@ -42,7 +42,7 @@ En el primer enlace se encuentra el informe detallado del caso y en el segundo s
 ### 1994
 
 - **BAE y el [aeropuerto internacional de Denver](http://flydenver.com/)**:
-[Case Study – Denver International Airport Baggage Handling System](http://calleam.com/WTPF/wp-content/uploads/articles/DIABaggage.pdf), [illustration of ineffectual decision making](http://calleam.com/WTPF/wp-content/uploads/articles/DIABaggage.pdf) (Fuente: Daniel Pardo)
+[Case Study – Denver International Airport Baggage Handling System](http://calleam.com/WTPF/wp-content/uploads/articles/DIABaggage.pdf)(Fuente: Daniel Pardo)
 
 ### 1995
 
@@ -908,7 +908,7 @@ En 2019 aún están planificando cómo hacerla.
 Cómo el 25% de los funcionarios de Canadá sufrieron errores en sus nóminas. [ANATOMY OF AN ERP PAYROLL FAILURE](https://freebalance.com/en/blog/economic-growth-development/anatomy-of-an-erp-payroll-failure/)(Fuente: Adrián Francisco y Rubén Albacete)
 
 - **Oracle & Beximco Pharma**:
-[An assessment to Identify Causes of ERP Implementation Failure and to Predict its Success: A Case Study on Beximco Pharmaceuticals Limited](https://www.researchgate.net/publication/303100797_An_Assessment_to_Identify_Causes_of_ERP_Implementation_Failure_and_to_Predict_Its_Success_A_Case_Study_on_Beximco_Pharmaceuticals_Limited) (Fuente: David Ubide)
+[An assessment to Identify Causes of ERP Implementation Failure and to Predict its Success: A Case Study on Beximco Pharmaceuticals Limited](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759277) (Fuente: David Ubide, enlace por Pablo Moreno)
 
 - **Oracle y School District of Manatee County**:
 [Florida School District Reassesses Troubled ERP Project](https://www.govtech.com/computing/florida-school-district-reassesses-troubled-erp-project.html)(Fuente: Ampliación de fuentes por Kamal Bouizy)
