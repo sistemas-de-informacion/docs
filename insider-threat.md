@@ -809,6 +809,13 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Para evitar filtraciones de información se debería eliminar el procesamiento manual de dichos datos y reducir lo máximo posible el número de empleados que tienen acceso a los mismos. Además se deberían utilizar sistemas cifrados en los sistemas de información que protegieran suficientemente los datos frente a amenazas tanto internas como externas. Tal y como se puede leer en el [comunicado (en ruso)](https://yandex.ru/company/services_news/2022/01-03-2022) publicado en la web de Yandex, se van a adoptar medidas en este sentido dentro de la compañía.
   * **Solución**: Con el objetivo de reducir lo máximo posible el número de empleados que tienen acceso a los datos sensibles se podría utilizar el sistema [Pathlock Control](https://pathlock.com/), el cual permite gestionar automáticamente permisos (entre ellos de acceso a información), eliminando dichos permisos a usuarios sospechosos de insider threat. Además se debería implementar un sistema automático de procesamiento de datos que actualizase directamente la base de datos con los pedidos.
 
+* [Airline employee misconfigures Cloud bucket](https://www.grcilaw.com/blog/5-real-life-examples-of-data-breaches-caused-by-insider-threats)
+  * **Fuente**: Kamal Bouizy Ghazzal
+  * **Clasificación**: Brecha de seguridad en la configuración de la base de datos
+  * **Descripción**:Pegasus Airline dejó accidentalmente expuestos en línea 23 millones de archivos que contenían datos personales después de que un empleado configurara incorrectamente una base de datos. Esto resultó en la filtración de información sensible, incluidos datos de vuelo, materiales de navegación y datos de la tripulación de vuelo.
+  * **Estrategia**:Para evitar futuras brechas de seguridad, Pegasus Airline podría implementar un sistema de monitoreo y gestión de accesos más riguroso, como Identity Access Management (IAM), que limitaría el acceso de los empleados a datos sensibles según sus roles y responsabilidades. Además de una continua revisión del personal que trabaja en los puntos más delicados del sistema, asegurando sus capacidades técnicas y mentales.
+  * **Solución**: Nombre y enlace de software HRMS compatible con la estrategia mencionada. [Workday] (https://www.workday.com/en-us/solutions/role/enterprise-hr/overview.html)
+
 ## Vengativos
 
 ### 1996
