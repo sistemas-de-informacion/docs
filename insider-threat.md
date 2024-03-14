@@ -217,6 +217,16 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**: La mayoría de los insider threats por robo se efectúan por cargos relativamente altos en la organización. Para evitar este tipo de robos se puede instalar en la empresa un software para monitorizar los archivos, los correos electrónicos y la actividad en las fuentes de datos principales para así poder saber que se está haciendo en todo momento con los archivos.
   * **Solución** Para el monitoreo de redes existe la herramienta [Nagios](https://www.nagios.org/downloads/) que permite monitorear la actividad en la red de la organización, así como el tráfico de correo electrónico y el intercambio de archivos. Para monitorear los archivos se puede utilizar [FileAudit](https://www.manageengine.com/products/active-directory-audit/sem/lp/how-to-track-file-changes.html) que monitorea los cambios en archivos, incluyendo creación, modificación y eliminación.
   
+
+### 2023
+* [FBI arrests 21-year-old Air Force guardsman in Pentagon leak case](https://edition.cnn.com/2023/04/13/politics/us-government-intel-leak/index.html)
+  * **Fuente**: Diego Lasheras Blasco
+  * **Descripción**:Jack Teixeira, miembro de la Guardia Nacional Aérea de Massachusetts, fue arrestado por el FBI por filtrar documentos clasificados del gobierno y militares de EE. UU. Los documentos, que incluían evaluaciones de inteligencia sobre la guerra en Ucrania, fueron compartidos en una plataforma de redes sociales popular entre los jugadores de videojuegos. Teixeira es sospechoso de liderar el grupo donde se publicaron los documentos clasificados. La investigación se centró en Teixeira después de una rápida búsqueda por parte del gobierno de EE. UU., y fue arrestado en Massachusetts sin incidentes. El FBI continúa investigando el caso para identificar y responsabilizar a quienes pongan en riesgo la seguridad nacional.
+ * **Estrategia**: Una estrategia efectiva podría haber sido implementar un sistema de monitoreo continuo de actividad de usuarios en los sistemas y redes de la Guardia Nacional Aérea. Esto habría permitido detectar comportamientos sospechosos, como el acceso no autorizado a documentos clasificados o la transferencia de grandes volúmenes de datos, y tomar medidas preventivas de manera oportuna. Además, la educación y concienciación del personal sobre la importancia de proteger la información clasificada habría fortalecido la seguridad interna.
+  * **Solución** Un software compatible con esta estrategia sería el módulo de gestión de recursos humanos (HRMS) de Oracle, que incluye funciones de monitoreo de actividad de usuarios y análisis de comportamiento para detectar anomalías y posibles amenazas internas. [Oracle HRMS](https://www.oracle.com/es/human-capital-management/hrms/)
+  
+  
+  
 ## Ladrones de datos
 
 ### 2005
