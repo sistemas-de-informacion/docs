@@ -46,7 +46,9 @@ uno de ellos.
 
 ### 2011
 
-* [Former Microsoft Manager Accused of Confidential Data Theft](http://blog.alertsec.com/2011/02/former-microsoft-manager-accused-of-confidential-data-theft) (Fuente: Diego Grande)
+* [Microsoft accuses former manager of stealing 600MB of confidential docs](https://www.computerworld.com/article/2513079/microsoft-accuses-former-manager-of-stealing-600mb-of-confidential-docs.html)
+  * **Fuente**: Diego Grande actualizada por Nerea Fernández
+  * **Descripción**: El exgerente de Microsoft Matt Miszewski fue acusado de robar 600 MB de documentos confidenciales cuando dejó la empresa yéndose a ocupar un puesto en la empresa rival Salesforce. Según la noticia, Microsoft presentó una moción para llevar el caso a juicio y el exgerente no quiso contestar a ningún comentario.
 * [Tres años de prisión por robar y revelar información de su empresa](http://www.expansion.com/2011/01/05/juridico/1294267832.html) (Fuente: Andrés Julian)
 * [Sinovel Wind Group found guilty of IP theft, fined $1.5 million](https://www.csoonline.com/article/3256305/sinovel-wind-group-found-guilty-of-ip-theft-valued-at-800-million.html)
   * **Fuente**: Alejandro Piedrafita
