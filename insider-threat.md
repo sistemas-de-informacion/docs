@@ -810,6 +810,8 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Solución**: Con el objetivo de reducir lo máximo posible el número de empleados que tienen acceso a los datos sensibles se podría utilizar el sistema [Pathlock Control](https://pathlock.com/), el cual permite gestionar automáticamente permisos (entre ellos de acceso a información), eliminando dichos permisos a usuarios sospechosos de insider threat. Además se debería implementar un sistema automático de procesamiento de datos que actualizase directamente la base de datos con los pedidos.
 ## Vengativos
 
+### 2022
+
 * [Airline employee misconfigures Cloud bucket](https://www.grcilaw.com/blog/5-real-life-examples-of-data-breaches-caused-by-insider-threats)
   * **Fuente**: Kamal Bouizy Ghazzal
   * **Descripción**:Pegasus Airline dejó accidentalmente expuestos en línea 23 millones de archivos que contenían datos personales después de que un empleado configurara incorrectamente una base de datos. Esto resultó en la filtración de información sensible, incluidos datos de vuelo, materiales de navegación y datos de la tripulación de vuelo.
