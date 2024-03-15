@@ -478,6 +478,14 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: La implementación de un monitoreo continuo y la revisión regular de los registros de actividad del usuario en la red podría haber sido útil para evitar el robo de propiedad intelectual. Se podría haber establecido una política de clasificación de datos y roles. Por último, se podría haber implementado un sistema de detección de amenazas que alerte a la organización cuando se detecten actividades sospechosas en la red o descargas sin autorizar.
   * **Solución**: SAP SuccessFactors ofrece herramientas para la gestión de roles y permisos de usuario, autenticación de dos factores, encriptación de datos y monitoreo de actividades del usuario en la red, entre otros.
 
+### 2023
+
+* [Tesla points to insider wrongdoing as cause of massive employee data leak](https://www.theverge.com/2023/8/21/23839940/tesla-data-leak-inside-job-handelsblatt)
+  * **Fuente**: Ismael Berdusán Muñoz
+  * **Descripción**: Tesla descubre que dos de sus ex empleados son responsables de una fuga masiva de datos, afectando a más de 75,000 empleados. La información filtrada incluye datos personales identificables, como números de seguridad social. Los ex empleados violaron las políticas de seguridad de IT y protección de datos al compartir esta información con un medio de comunicación. Además, el incidente reveló problemas de seguridad en los sistemas de Tesla, incluyendo quejas de clientes sobre el sistema de conducción autónoma de la compañía.
+  * **Estrategia**: Implementar un control de acceso más estricto y un seguimiento detallado del acceso a los datos para identificar comportamientos sospechosos entre los empleados. Es crucial revisar y ajustar regularmente los permisos de acceso a la información, especialmente después de la terminación del empleo, para prevenir el acceso no autorizado a datos sensibles.
+  * **Solución**: Monitorizar y controlar el acceso a la información sensible y asegurar que se revocan todos los permisos de los empleados al salir de la empresa mediante sistemas de gestión de identidades y accesos, como [SAP S/4HANA](https://www.sap.com/spain/products/s4hana-erp.html), que facilita la administración centralizada de los permisos de usuario.
+
 ## Ladrones de dinero
 
 ### 2015
