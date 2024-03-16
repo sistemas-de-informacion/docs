@@ -42,12 +42,6 @@ uno de ellos.
 
 * [Chesterfield Man Sentenced To 18 Months In Prison For Theft Of DuPont Trade Secrets](https://www.justice.gov/opa/pr/kolon-industries-inc-pleads-guilty-conspiring-steal-dupont-trade-secrets-involving-kevlar) (Fuente: Rubén Quílez, corregido Alejandro Ramón)
 
-* [Chelsea Manning shared secrets with WikiLeaks. Now she's telling her own story](https://www.npr.org/2022/10/17/1129416671/chelsea-manning-wikileaks-memoir-readme)
-  * **Fuente**: Miguel Aréjula
-  * **Descripción**: Chelsea Manning, anteriormente conocido como Bradley Manning, es una exsoldado del Ejercito de Estados Unidos. Era analista de inteligencia en 2009 durante el conflicto en Irak. Gracias a su trabajo tenía acceso a una gran cantidad de información confidencial, videos, informes y documentos militares y diplomáticos. En 2010 comenzó a filtrar información clasificada a _WikiLeaks_. Estas filtraciones incluyeron un video conocido como _Collateral Murder_, en el cual aparecen imágenes de un ataque aéreo en 2017 sobre la ciudad de Bagdad. Un helicópetero estadounidense bombareadeó la ciudad. Este ataque resultó con víctimas civiles, incluyendo dos periodistas.
-  * **Estrategia**: Para evitar un caso como este se debe aumentar las medidas de seguridad  y los procedimientos, de esta forma se evitan el riesgo de filtarciones. Para aumentar la seguridad se puede implementar medidas de seguridad cibernética ( autentificación de dos factores). Conroles de acceso y provilegios más restringidos, limitando el acceso a las personas que deben conocerla. Tambiés se podría monitorear el comportamiento de tus empleados, tanto para detectar comportamientos anomalos y conocer el estado de tus empleados. Por último, es importante concienciar y educar a las personas de la importancia de proteger la información confidencial. 
-  * **Solución**: Una solución sencilla es introducir un sistema de administración y protección de información con [https://www.microsoft.com/es-es/security/business/identity-access/microsoft-entra-id](Microsoft Entra ID).
-
 ### 2011
 
 * [Microsoft accuses former manager of stealing 600MB of confidential docs](https://www.computerworld.com/article/2513079/microsoft-accuses-former-manager-of-stealing-600mb-of-confidential-docs.html)
@@ -773,11 +767,15 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 ### 2010
 
 * [After verdict, debate rages in Terry Childs case](http://www.computerworld.com/s/article/9110278/Update_City_IT_admin_pleads_innocent_to_network_tampering_charges)
+* [Chelsea Manning shared secrets with WikiLeaks. Now she's telling her own story](https://www.npr.org/2022/10/17/1129416671/chelsea-manning-wikileaks-memoir-readme)
+  * **Fuente**: Miguel Aréjula
+  * **Descripción**: Chelsea Manning, anteriormente conocido como Bradley Manning, es una exsoldado del Ejercito de Estados Unidos. Era analista de inteligencia en 2009 durante el conflicto en Irak. Gracias a su trabajo tenía acceso a una gran cantidad de información confidencial, videos, informes y documentos militares y diplomáticos. En 2010 comenzó a filtrar información clasificada a _WikiLeaks_. Estas filtraciones incluyeron un video conocido como _Collateral Murder_, en el cual aparecen imágenes de un ataque aéreo en 2017 sobre la ciudad de Bagdad. Un helicópetero estadounidense bombareadeó la ciudad. Este ataque resultó con víctimas civiles, incluyendo dos periodistas.
+  * **Estrategia**: Para evitar un caso como este se debe aumentar las medidas de seguridad  y los procedimientos, de esta forma se evitan el riesgo de filtarciones. Para aumentar la seguridad se puede implementar medidas de seguridad cibernética ( autentificación de dos factores). Conroles de acceso y provilegios más restringidos, limitando el acceso a las personas que deben conocerla. Tambiés se podría monitorear el comportamiento de tus empleados, tanto para detectar comportamientos anomalos y conocer el estado de tus empleados. Por último, es importante concienciar y educar a las personas de la importancia de proteger la información confidencial. 
+  * **Solución**: Una solución sencilla es introducir un sistema de administración y protección de información con [https://www.microsoft.com/es-es/security/business/identity-access/microsoft-entra-id](Microsoft Entra ID).
 
 ### 2013
 
 * [Edward Snowden and the NSA: A Lesson About Insider Threats](http://www.businessweek.com/articles/2013-07-03/edward-snowden-and-the-nsa-a-lesson-in-the-insider-threat) (Fuente: Sandra Campos)
-* [Manning, condenado por revelar crímenes de guerra sin responsables políticos](http://www.huffingtonpost.es/2013/08/21/documentos-manning-prision_n_3790700.html) (Fuente: Luis Jesús Pellicer)
 
 ### 2015
 
