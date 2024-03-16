@@ -27,8 +27,6 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Estrategia**: Como gerente de relaciones con clientes en el banco, Birkenfeld tenía acceso a información confidencial de los clientes y de sus cuentas bancarias, incluyendo detalles sobre las cuentas offshore utilizadas para evadir impuestos. Usó sus credenciales para la consulta y descarga de multitud de toda clase de documentos.
   * **Solución**: Para prevenir casos como el de Bradley Birkenfeld, las empresas pueden tomar medidas como la investigación de antecedentes para identificar posibles problemas de integridad o comportamiento inapropiado antes de contratar a un empleado, el establecimiento de controles de acceso para limitar el acceso solo a aquellos empleados que lo necesiten en función de su trabajo (como [Active Directory](https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/ad-ds-getting-started)), la implementación de sistemas de monitoreo y detección de comportamiento sospechoso que alerten sobre cualquier actividad inusual o sospechosa (como [Microsoft Advanced Threat Analytics](https://learn.microsoft.com/en-us/advanced-threat-analytics/install-ata-step1)), y la educación y entrenamiento de los empleados sobre la importancia de mantener la confidencialidad de la información y las consecuencias legales y financieras de la divulgación de información confidencial.
 
-
-
 ### 2008
 
 * [Chinese Agent Sentenced to Over 24 Years in Prison for Exporting United States Defense Articles to China](http://www.justice.gov/opa/pr/2008/March/08_nsd_229.html) (Fuente: Sergio Josa)
@@ -212,7 +210,7 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Solución**:  El sistema [kickidler](https://www.kickidler.com/es/dlp.html) se encarga de estudiar no solo el trazado de los datos dentro de la empresa, si no también la actividad que realizan los trabajadores, permitiendo detectar estas amenazas de una forma más sencilla. Además los datos se pueden definir con un formato especifico y bloquear su descarga, o que se impriman estos datos.
 
 * [The departing employee at Yahoo who allegedly stole trade secrets](https://www.cyberhaven.com/blog/yahoos-lawsuit-alleged-engineer-stole-sensitive-data/)
-  * **Fuente**: Juan Mediano 
+  * **Fuente**: Juan Mediano
   * **Descripción**: En mayo de 2022 un trabajador de Yahoo llamado Qian Sang robó información patentada sobre el producto de Yahoo AdLearn. Qian recibió una oferta de trabajo de Trade Desk, un competidor directo de Yahoo. Yahoo descubrió que 45 minutos después de recibir la oferta Qian descargó 570000 páginas de código fuente desde su portátil de Yahoo a dos portátiles personales. Además Qian se quedó los dispositivos hasta que Yahoo presentó una orden de cese semanas después.
   * **Estrategia**: La mayoría de los insider threats por robo se efectúan por cargos relativamente altos en la organización. Para evitar este tipo de robos se puede instalar en la empresa un software para monitorizar los archivos, los correos electrónicos y la actividad en las fuentes de datos principales para así poder saber que se está haciendo en todo momento con los archivos.
   * **Solución** Para el monitoreo de redes existe la herramienta [Nagios](https://www.nagios.org/downloads/) que permite monitorear la actividad en la red de la organización, así como el tráfico de correo electrónico y el intercambio de archivos. Para monitorear los archivos se puede utilizar [FileAudit](https://www.manageengine.com/products/active-directory-audit/sem/lp/how-to-track-file-changes.html) que monitorea los cambios en archivos, incluyendo creación, modificación y eliminación.
@@ -931,9 +929,11 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * Solución: Utilizar un sistema de control de acceso basado en roles, como por ejemplo [Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview). Es muy probable que el ejercito de Estados Unidos ya tenga implementado un sistema de este tipo, pero debería revisarse para asegurarse de que se cumplan las políticas de seguridad.
 
 ### 2020
+
 * [RCMP review following employee’s arrest calls for changes to reinforce internal security](https://globalnews.ca/news/9237124/rcmp-review-internal-security/)
   * **Fuente**: Carlos Bellvis
   * **Descripción**: La RCMP (Royal Canadian Mounted Police) llevó a cabo una revisión interna después de que uno de sus empleados fuera arrestado por revelar información confidencial. Se encontraron deficiencias en la gestión de la privacidad de información confidencial.
   * **Estrategia**: En la noticia nombran medidas que van a ser tomadas, a partir de este hecho, como: actualizar los formularios de autorización de seguridad, crear un nuevo centro de políticas para amenazas internas dentro de la rama de seguridad, hacer un análisis de los puestos que requieren acceso a la Canadian Top Secret Network.
   Resulta primordial que las organizaciones fortalezcan sus procedimientos de investigación y selección de empleados y contratistas que tengan acceso a información confidencial. Esto implica llevar a cabo, por ejemplo, realizar revisiones regulares de autorización de seguridad.
   * **Solución**: Existe una empresa de software de corporación estadounidense llamada [Forcepoint](https://www.forcepoint.com/es/security/insider-threat)* que es la compañía líder en ciberseguridad de protección de datos y usuarios y se especializa en la monitorización las actividades de los usuarios en una empresa.
+  
