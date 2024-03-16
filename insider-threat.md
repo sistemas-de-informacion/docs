@@ -27,8 +27,6 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   * **Estrategia**: Como gerente de relaciones con clientes en el banco, Birkenfeld tenía acceso a información confidencial de los clientes y de sus cuentas bancarias, incluyendo detalles sobre las cuentas offshore utilizadas para evadir impuestos. Usó sus credenciales para la consulta y descarga de multitud de toda clase de documentos.
   * **Solución**: Para prevenir casos como el de Bradley Birkenfeld, las empresas pueden tomar medidas como la investigación de antecedentes para identificar posibles problemas de integridad o comportamiento inapropiado antes de contratar a un empleado, el establecimiento de controles de acceso para limitar el acceso solo a aquellos empleados que lo necesiten en función de su trabajo (como [Active Directory](https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/ad-ds-getting-started)), la implementación de sistemas de monitoreo y detección de comportamiento sospechoso que alerten sobre cualquier actividad inusual o sospechosa (como [Microsoft Advanced Threat Analytics](https://learn.microsoft.com/en-us/advanced-threat-analytics/install-ata-step1)), y la educación y entrenamiento de los empleados sobre la importancia de mantener la confidencialidad de la información y las consecuencias legales y financieras de la divulgación de información confidencial.
 
-
-
 ### 2008
 
 * [Chinese Agent Sentenced to Over 24 Years in Prison for Exporting United States Defense Articles to China](http://www.justice.gov/opa/pr/2008/March/08_nsd_229.html) (Fuente: Sergio Josa)
@@ -52,7 +50,9 @@ uno de ellos.
 
 ### 2011
 
-* [Former Microsoft Manager Accused of Confidential Data Theft](http://blog.alertsec.com/2011/02/former-microsoft-manager-accused-of-confidential-data-theft) (Fuente: Diego Grande)
+* [Microsoft accuses former manager of stealing 600MB of confidential docs](https://www.computerworld.com/article/2513079/microsoft-accuses-former-manager-of-stealing-600mb-of-confidential-docs.html)
+  * **Fuente**: Diego Grande actualizada por Nerea Fernández
+  * **Descripción**: El exgerente de Microsoft Matt Miszewski fue acusado de robar 600 MB de documentos confidenciales cuando dejó la empresa yéndose a ocupar un puesto en la empresa rival Salesforce. Según la noticia, Microsoft presentó una moción para llevar el caso a juicio y el exgerente no quiso contestar a ningún comentario.
 * [Tres años de prisión por robar y revelar información de su empresa](http://www.expansion.com/2011/01/05/juridico/1294267832.html) (Fuente: Andrés Julian)
 * [Sinovel Wind Group found guilty of IP theft, fined $1.5 million](https://www.csoonline.com/article/3256305/sinovel-wind-group-found-guilty-of-ip-theft-valued-at-800-million.html)
   * **Fuente**: Alejandro Piedrafita
@@ -218,7 +218,7 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Solución**:  El sistema [kickidler](https://www.kickidler.com/es/dlp.html) se encarga de estudiar no solo el trazado de los datos dentro de la empresa, si no también la actividad que realizan los trabajadores, permitiendo detectar estas amenazas de una forma más sencilla. Además los datos se pueden definir con un formato especifico y bloquear su descarga, o que se impriman estos datos.
 
 * [The departing employee at Yahoo who allegedly stole trade secrets](https://www.cyberhaven.com/blog/yahoos-lawsuit-alleged-engineer-stole-sensitive-data/)
-  * **Fuente**: Juan Mediano 
+  * **Fuente**: Juan Mediano
   * **Descripción**: En mayo de 2022 un trabajador de Yahoo llamado Qian Sang robó información patentada sobre el producto de Yahoo AdLearn. Qian recibió una oferta de trabajo de Trade Desk, un competidor directo de Yahoo. Yahoo descubrió que 45 minutos después de recibir la oferta Qian descargó 570000 páginas de código fuente desde su portátil de Yahoo a dos portátiles personales. Además Qian se quedó los dispositivos hasta que Yahoo presentó una orden de cese semanas después.
   * **Estrategia**: La mayoría de los insider threats por robo se efectúan por cargos relativamente altos en la organización. Para evitar este tipo de robos se puede instalar en la empresa un software para monitorizar los archivos, los correos electrónicos y la actividad en las fuentes de datos principales para así poder saber que se está haciendo en todo momento con los archivos.
   * **Solución** Para el monitoreo de redes existe la herramienta [Nagios](https://www.nagios.org/downloads/) que permite monitorear la actividad en la red de la organización, así como el tráfico de correo electrónico y el intercambio de archivos. Para monitorear los archivos se puede utilizar [FileAudit](https://www.manageengine.com/products/active-directory-audit/sem/lp/how-to-track-file-changes.html) que monitorea los cambios en archivos, incluyendo creación, modificación y eliminación.
@@ -322,7 +322,10 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Fuente**: Daniel Cabrera, completado por Alfonso Delgado
   * **Descripcion**: El empleado de Mercedes, Benjamin Hoyle, fue denunciado por la compañía Mercedes, al conocer que había accedido a documentos confidenciales, para luego entregarselos a Ferrari. Benjamin Hoyle era uno de los 4 jefes de ingeniería de rendimiento de Mercedes en la F1. Sin embargo, un día Hoyle anunció que había decidido cambiarse a Ferrari, por lo que se le restringió el acceso a documentos relacionados con la F1 hasta que su contrato en Mercedes finalizara. Sin embargo Hoyle logró acceder a los servidores de Mercedes y obtener documentos clasificados, aunque finalmente se descubrió todo al analizar su portátil.  
   * **Estrategia**: En este caso, la mejor solución habría sido que el sistema de permisos para acceder a los datos confidenciales de Mercedes hubieran funcionado de forma adecuada, para evitar que haya accesos a datos sensibles por parte de personas no deseadas. Además otra solución podría ser la encriptación de los ficheros en sus servidores, de tal forma que los ficheros accedidos por Hoyle hubieran sido inservibles para Ferrari.
-* [CDOT employee stole contractors' personal information](http://www.9news.com/news/cdot-employee-stole-contractors-personal-information/175000302) (Fuente: Santiago Morón)
+* [CDOT employee stole contractors' personal information](https://www.denverpost.com/2016/05/05/cdot-data-breach-may-lead-to-identity-theft-investigation-ongoing/)
+  * **Fuente**: Santiago Morón, actualizado por: Sarah Maria Constantinescu
+  * **Descripción**: El Departamento de Transporte de Colorado sufrió una violación de datos por parte de un ex empleado, que involucró el uso indebido de información personal de los trabajadores. Tanto el CBI (Colorado Bureau of Investigation) como el CDoT (Colorado Department of Transportation) llevaron a cabo una investigación para abordar el incidente.
+
 * [Profile in Espionage – Curtailing a Satellite Spy with an Insider Threat Program](https://news.clearancejobs.com/2016/07/18/when-is-espionage-espionage/)
   * **Fuente**: Alberto Mur
   * **Descripción**: El ingeniero Gregory Allen Justice, ex-trabajador de un contratista para departamento de defensa de EEUU, fue encarcelado en 2017 por copiar en varios dispositivos USB varios GB de información relacionada con satélites y sistemas GPS con el objetivo de vender dicha información a Rusia, violando no solo diversas políticas de la empresa, sino también varias leyes del gobierno. Según el detenido, necesitaba el dinero por motivos médicos de su pareja, aunque otras fuentes afirman también que fue por resentimiento después de llevar desde el año 2000 sin recibir un aumento, así como por tener una amante.
@@ -892,6 +895,13 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Estrategia**: La implementación de una política de seguridad de la información y una capacitación continua para los empleados sobre los riesgos de la divulgación de información confidencial. Además de mentalizar a los empleados se podría realizar una gerarquia de roles y que un usario no pudiese descargar información de la empresa, via USB en este caso, sin consentimiento de un superior y una justificación.
   * **Solución**: Un software compatible con esta estrategia podría ser el módulo de gestión de la seguridad de la información (ISM) de SAP  [SuccessFactors](https://www.sap.com/products/hcm.html), que ayuda a las empresas a implementar una política de seguridad de la información y a monitorear y mitigar los riesgos de seguridad. Ademas de un software que no permita descargar información via [USB](https://www.ekransystem.com/en/product/usb-blocking/)
 
+* [Leak of Cash App’s customer data by a disgruntled employee](https://www.upguard.com/blog/how-did-the-cash-app-data-breach-happen)
+  * **Fuente**: Pablo Angusto Delgado
+  * **Descripción**: Cash App sufrió una violación de datos debido a que un antiguo empleado pudo acceder tras su despido a informes financieros de clientes por venganza, comprometiendo información de 8.2 millones de usuarios. La notificación de la brecha ocurrió cuatro meses después del incidente, esto aumentó el riesgo de ciberataques. La débil respuesta de Cash App, junto con la falta de un soporte al cliente efectivo, mostró las deficiencias de seguridad de la compañia y provocó el comienzo de una investigación jurídica de lo ocurrido.
+  * **Estrategia**: La creación de un procedimiento de terminación adecuado y la realización de revisiones regulares de acceso de usuario podrían haber evitado este incidente. Además, la implementación de una solución que permitiese monitorizar continuamente la actividad del usuario habría permitido a Cash App darse cuenta de la actividad sospechosa en la cuenta de su ex empleado y responder de manera rápida.
+  * **Solución**: Para implementar la estrategia se podría utilizar un software de gestión de identidad y acceso como [Microsoft Entra](https://www.microsoft.com/es-es/security/business/microsoft-entra) que permite revocar accesos a empleados en caso de despido. También, se podría utilizar un módulo capaz de monitorizar la actividad de los empleados mediante [Ekran System](https://www.ekransystem.com/es)
+
+
 ### 2020
 
 * [Nintendo source code for N64, wii and gamecube leaked](https://www.bankinfosecurity.com/nintendo-source-code-for-n64-wii-gamecube-leaked-a-14220)
@@ -930,9 +940,11 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * Solución: Utilizar un sistema de control de acceso basado en roles, como por ejemplo [Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview). Es muy probable que el ejercito de Estados Unidos ya tenga implementado un sistema de este tipo, pero debería revisarse para asegurarse de que se cumplan las políticas de seguridad.
 
 ### 2020
+
 * [RCMP review following employee’s arrest calls for changes to reinforce internal security](https://globalnews.ca/news/9237124/rcmp-review-internal-security/)
   * **Fuente**: Carlos Bellvis
   * **Descripción**: La RCMP (Royal Canadian Mounted Police) llevó a cabo una revisión interna después de que uno de sus empleados fuera arrestado por revelar información confidencial. Se encontraron deficiencias en la gestión de la privacidad de información confidencial.
   * **Estrategia**: En la noticia nombran medidas que van a ser tomadas, a partir de este hecho, como: actualizar los formularios de autorización de seguridad, crear un nuevo centro de políticas para amenazas internas dentro de la rama de seguridad, hacer un análisis de los puestos que requieren acceso a la Canadian Top Secret Network.
   Resulta primordial que las organizaciones fortalezcan sus procedimientos de investigación y selección de empleados y contratistas que tengan acceso a información confidencial. Esto implica llevar a cabo, por ejemplo, realizar revisiones regulares de autorización de seguridad.
   * **Solución**: Existe una empresa de software de corporación estadounidense llamada [Forcepoint](https://www.forcepoint.com/es/security/insider-threat)* que es la compañía líder en ciberseguridad de protección de datos y usuarios y se especializa en la monitorización las actividades de los usuarios en una empresa.
+  
