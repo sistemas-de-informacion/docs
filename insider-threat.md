@@ -884,6 +884,13 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Estrategia**: La implementación de una política de seguridad de la información y una capacitación continua para los empleados sobre los riesgos de la divulgación de información confidencial. Además de mentalizar a los empleados se podría realizar una gerarquia de roles y que un usario no pudiese descargar información de la empresa, via USB en este caso, sin consentimiento de un superior y una justificación.
   * **Solución**: Un software compatible con esta estrategia podría ser el módulo de gestión de la seguridad de la información (ISM) de SAP  [SuccessFactors](https://www.sap.com/products/hcm.html), que ayuda a las empresas a implementar una política de seguridad de la información y a monitorear y mitigar los riesgos de seguridad. Ademas de un software que no permita descargar información via [USB](https://www.ekransystem.com/en/product/usb-blocking/)
 
+* [Leak of Cash App’s customer data by a disgruntled employee](https://www.upguard.com/blog/how-did-the-cash-app-data-breach-happen)
+  * **Fuente**: Pablo Angusto Delgado
+  * **Descripción**: Cash App sufrió una violación de datos debido a que un antiguo empleado pudo acceder tras su despido a informes financieros de clientes por venganza, comprometiendo información de 8.2 millones de usuarios. La notificación de la brecha ocurrió cuatro meses después del incidente, esto aumentó el riesgo de ciberataques. La débil respuesta de Cash App, junto con la falta de un soporte al cliente efectivo, mostró las deficiencias de seguridad de la compañia y provocó el comienzo de una investigación jurídica de lo ocurrido.
+  * **Estrategia**: La creación de un procedimiento de terminación adecuado y la realización de revisiones regulares de acceso de usuario podrían haber evitado este incidente. Además, la implementación de una solución que permitiese monitorizar continuamente la actividad del usuario habría permitido a Cash App darse cuenta de la actividad sospechosa en la cuenta de su ex empleado y responder de manera rápida.
+  * **Solución**: Para implementar la estrategia se podría utilizar un software de gestión de identidad y acceso como [Microsoft Entra](https://www.microsoft.com/es-es/security/business/microsoft-entra) que permite revocar accesos a empleados en caso de despido. También, se podría utilizar un módulo capaz de monitorizar la actividad de los empleados mediante [Ekran System](https://www.ekransystem.com/es)
+
+
 ### 2020
 
 * [Nintendo source code for N64, wii and gamecube leaked](https://www.bankinfosecurity.com/nintendo-source-code-for-n64-wii-gamecube-leaked-a-14220)
