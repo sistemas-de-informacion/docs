@@ -457,6 +457,13 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Descripción**:la AEPD publicó el procedimiento sancionador PS/00461/2020 (el “Procedimiento”) sobre la brecha de seguridad de datos personales causada por dos exempleados de CaixaBank S.A. (“CaixaBank”), los cuales, al marcharse de su empresa, sustrajeron y divulgaron a terceros ajenos a la entidad datos personales de clientes.
   * **Estrategia**: Monitorización del acceso a datos: La empresa debería supervisar el acceso a información confidencial para detectar actividades sospechosas y tomar medidas preventivas en caso de que se detecte una violación de seguridad.
   * **Solución**: Una posible solución reside en el uso de un software que permita monitorear el acceso a los datos. [BambooHR](https://www.bamboohr.com/blog/access-levels-bamboohr) es una plataforma de gestión de recursos humanos que ofrece una serie de características de seguridad, incluyendo la monitorización del acceso a datos
+
+* [Robo de datos por parte de un ex empleado de SGMC](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
+  * **Fuente**: Lucía Olmos Ortega
+  * **Descripción**:En noviembre de 2021, un ex empleado del South Georgia Medical Center en Valdosta, Georgia, descargó datos privados de los sistemas del centro médico a su unidad USB sin motivo aparente el día después de renunciar. Este incidente ilustra los riesgos de seguridad asociados con los ex empleados que aún tienen acceso a los sistemas de una organización
+  * **Estrategia**: Para evitar incidentes similares, se podría implementar una solución de gestión de acceso privilegiado que proporcione permisos de acceso según la necesidad estricta, lo que habría disuadido el acceso no autorizado desde el principio.
+  * **Solución**: Una posible solución reside en el uso de un software que permita monitorear el acceso a los datos como [Vanoris](https://www.varonis.com/use-case/data-privacy-dsar). Este software ofrece soluciones de seguridad de datos que incluyen la monitorización del acceso a archivos y datos confidenciales. Su plataforma permite detectar y analizar el comportamiento del usuario, establecer alertas para actividades sospechosas y controlar de forma granular quién tiene acceso a qué datos. Además, Varonis proporciona informes detallados y análisis de riesgos para ayudar a las organizaciones a proteger sus datos de manera efectiva. 
+  
   
 ### 2022
 
