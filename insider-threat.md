@@ -652,7 +652,7 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Fuente**: Zineb Helali Amoura
   * **Descripción**: Reddit experimentó un incidente de seguridad, atribuido a un ataque de phishing sofisticado y altamente dirigido. Los atacantes lograron acceder a documentos internos, código y algunos sistemas empresariales internos, tras obtener las credenciales de un empleado. La exposición incluyó información de contacto limitada de contactos y empleados de la compañía, así como de anunciantes. Reddit respondió retirando el acceso del infiltrado e iniciando una investigación interna.
   * **Estrategia**: Este tipo de ataques se podrían evitar, detectar o mitigar implementando un sistema de gestión del aprendizaje para proporcionar formación continua sobre seguridad y concienciación sobre phishing a todos los empleados. Este sistema puede usar simulaciones de ataques de phishing. También se podría utilizar un sistema de gestión de identidad y acceso que exija autenticación multifactor (MFA) más allá de las credenciales básicas.
-  * **Solución**: Un software que se alinea bien con esta estrategia podría ser BambooHR que facilita la gestión de la capacitación en seguridad de los empleados, complementado con Duo Security que proporciona una capa adicional de seguridad mediante autenticación multifactor.[BambooHR](https://www.bamboohr.com/) [Duo Security](https://duo.com/)
+  * **Solución**: Un software que se alinea bien con esta estrategia podría ser Duo Security que proporciona una capa adicional de seguridad mediante autenticación multifactor.[Duo Security](https://duo.com/)
 
 ## Saboteadores
 
