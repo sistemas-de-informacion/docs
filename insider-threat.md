@@ -380,7 +380,6 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: En este caso se podría haber detectado mucho antes (los datos se extrajeron entre el 6 de enero y el 11 de marzo de 2017) si Bupa hubiera monitorizado rutinariamente el registro de actividad de SWAN, el CRM que utilizaban, para detectar extracciones masivas de datos. También es criticable el hecho de que parte del personal podía no solo generar informes de datos masivos, sino también descargarlos o exportarlos a aplicaciones separadas de intercambio de archivos o redes sociales. En este caso el empleado desleal adjuntó los datos a su correo electrónico. El [ICO](https://ico.org.uk/) critica además que no todo el personal de 1351 personas con acceso a esos datos, lo necesitaba.
   * **Solución**: Una solución para proteger el sistema de archivos de esta delegación habría sido utilizar el CRM nacional de la empresa: SWIFT. Este no permite que los miembros del equipo intermediario generen informes directamente del sistema y permite generar informes de logs desde un sistema separado como [Cognos](https://www.ibm.com/es-es/products/cognos-analytics). De esta forma se puede prevenir el uso no autorizado de los datos.
 
-
 ### 2018
 
 * [SunTrust Investigation Shows Continuing Threats Posed by Insiders](https://www.securitynow.com/author.asp?section_id=613&doc_id=742491)
@@ -604,13 +603,11 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Fuente**: Oscar Anadon Olalla.
   * **Descripción**: Apple despide al ingeniero cuya hija subió un video a Youtube hablando de las caracteristicas del entonces todavia no lanzado iPhone X.
 
-
-
   * [Trabajador de Boeing expone la información personal de 36000 compañeros de trabajo](https://www.geekwire.com/2017/personal-data-36000-boeing-employees-put-risk-employee-emails-info-spouse/)
   * **Fuente**: Alain Cascán
   * **Descripción**: Un empleado de Boeing le mandó un correo electrónico con una hoja de cálculo excel a su pareja con el fin de que esta le ayudase a formatear este documento. El problema es que esta hoja excel contenía datos personales de 36 mil compañeros de trabajo en el que se incluian nombres, lugares de nacimiento e incluso, en campos ocultos, aparecían números de la seguridad social. Boeing ofreció de forma gratuita un monitoreo de crédito durante 2 años a todos sus empleados por un valor total aproximado de 7 millones de dólares
   * **Estrategia**: Un sistema de información que se podría haber utilizado para evitar este filtrado se información podría haber sido uno encargado de analizar los correos salientes de los usuarrios y, mediante un modelo de Inteligencia Artificial entrenado pudiese analizar tanto el cuerpo del correo, como los archivos adjuntados en alguna sandbox, con el fin de retener este correo hasta la verificación manual de este mismo y dando aviso a algún responsable.
-  * **Solución**: Un sistema como Proofpoint (https://www.proofpoint.com/us/products/information-protection/email-dlp) que es capaz de analizar datos desestructurados en busca de posibles fugas de datos sensibles
+  * **Solución**: Un sistema como [Proofpoint](https://www.proofpoint.com/us/products/information-protection/email-dlp) que es capaz de analizar datos desestructurados en busca de posibles fugas de datos sensibles
 
 ### 2018
 
@@ -784,8 +781,8 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 * [After verdict, debate rages in Terry Childs case](http://www.computerworld.com/s/article/9110278/Update_City_IT_admin_pleads_innocent_to_network_tampering_charges)
 * [Chelsea Manning shared secrets with WikiLeaks. Now she's telling her own story](https://www.npr.org/2022/10/17/1129416671/chelsea-manning-wikileaks-memoir-readme)
   * **Fuente**: Miguel Aréjula
-  * **Descripción**: Chelsea Manning, anteriormente conocido como Bradley Manning, es una exsoldado del Ejercito de Estados Unidos. Era analista de inteligencia en 2009 durante el conflicto en Irak. Gracias a su trabajo tenía acceso a una gran cantidad de información confidencial, videos, informes y documentos militares y diplomáticos. En 2010 comenzó a filtrar información clasificada a _WikiLeaks_. Estas filtraciones incluyeron un video conocido como _Collateral Murder_, en el cual aparecen imágenes de un ataque aéreo en 2017 sobre la ciudad de Bagdad. Un helicópetero estadounidense bombareadeó la ciudad. Este ataque resultó con víctimas civiles, incluyendo dos periodistas.
-  * **Estrategia**: Para evitar un caso como este se debe aumentar las medidas de seguridad  y los procedimientos, de esta forma se evitan el riesgo de filtarciones. Para aumentar la seguridad se puede implementar medidas de seguridad cibernética ( autentificación de dos factores). Conroles de acceso y provilegios más restringidos, limitando el acceso a las personas que deben conocerla. Tambiés se podría monitorear el comportamiento de tus empleados, tanto para detectar comportamientos anomalos y conocer el estado de tus empleados. Por último, es importante concienciar y educar a las personas de la importancia de proteger la información confidencial. 
+  * **Descripción**: Chelsea Manning, anteriormente conocido como Bradley Manning, es una exsoldado del Ejercito de Estados Unidos. Era analista de inteligencia en 2009 durante el conflicto en Irak. Gracias a su trabajo tenía acceso a una gran cantidad de información confidencial, videos, informes y documentos militares y diplomáticos. En 2010 comenzó a filtrar información clasificada a *WikiLeaks*. Estas filtraciones incluyeron un video conocido como *Collateral Murder*, en el cual aparecen imágenes de un ataque aéreo en 2017 sobre la ciudad de Bagdad. Un helicópetero estadounidense bombareadeó la ciudad. Este ataque resultó con víctimas civiles, incluyendo dos periodistas.
+  * **Estrategia**: Para evitar un caso como este se debe aumentar las medidas de seguridad  y los procedimientos, de esta forma se evitan el riesgo de filtarciones. Para aumentar la seguridad se puede implementar medidas de seguridad cibernética ( autentificación de dos factores). Conroles de acceso y provilegios más restringidos, limitando el acceso a las personas que deben conocerla. Tambiés se podría monitorear el comportamiento de tus empleados, tanto para detectar comportamientos anomalos y conocer el estado de tus empleados. Por último, es importante concienciar y educar a las personas de la importancia de proteger la información confidencial.
   * **Solución**: Una solución sencilla es introducir un sistema de administración y protección de información con [Microsoft Entra ID](https://www.microsoft.com/es-es/security/business/identity-access/microsoft-entra-id).
 
 ### 2013
@@ -913,7 +910,6 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Descripción**: Cash App sufrió una violación de datos debido a que un antiguo empleado pudo acceder tras su despido a informes financieros de clientes por venganza, comprometiendo información de 8.2 millones de usuarios. La notificación de la brecha ocurrió cuatro meses después del incidente, esto aumentó el riesgo de ciberataques. La débil respuesta de Cash App, junto con la falta de un soporte al cliente efectivo, mostró las deficiencias de seguridad de la compañia y provocó el comienzo de una investigación jurídica de lo ocurrido.
   * **Estrategia**: La creación de un procedimiento de terminación adecuado y la realización de revisiones regulares de acceso de usuario podrían haber evitado este incidente. Además, la implementación de una solución que permitiese monitorizar continuamente la actividad del usuario habría permitido a Cash App darse cuenta de la actividad sospechosa en la cuenta de su ex empleado y responder de manera rápida.
   * **Solución**: Para implementar la estrategia se podría utilizar un software de gestión de identidad y acceso como [Microsoft Entra](https://www.microsoft.com/es-es/security/business/microsoft-entra) que permite revocar accesos a empleados en caso de despido. También, se podría utilizar un módulo capaz de monitorizar la actividad de los empleados mediante [Ekran System](https://www.ekransystem.com/es)
-
 
 ### 2020
 
