@@ -380,6 +380,7 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: En este caso se podría haber detectado mucho antes (los datos se extrajeron entre el 6 de enero y el 11 de marzo de 2017) si Bupa hubiera monitorizado rutinariamente el registro de actividad de SWAN, el CRM que utilizaban, para detectar extracciones masivas de datos. También es criticable el hecho de que parte del personal podía no solo generar informes de datos masivos, sino también descargarlos o exportarlos a aplicaciones separadas de intercambio de archivos o redes sociales. En este caso el empleado desleal adjuntó los datos a su correo electrónico. El [ICO](https://ico.org.uk/) critica además que no todo el personal de 1351 personas con acceso a esos datos, lo necesitaba.
   * **Solución**: Una solución para proteger el sistema de archivos de esta delegación habría sido utilizar el CRM nacional de la empresa: SWIFT. Este no permite que los miembros del equipo intermediario generen informes directamente del sistema y permite generar informes de logs desde un sistema separado como [Cognos](https://www.ibm.com/es-es/products/cognos-analytics). De esta forma se puede prevenir el uso no autorizado de los datos.
 
+
 ### 2018
 
 * [SunTrust Investigation Shows Continuing Threats Posed by Insiders](https://www.securitynow.com/author.asp?section_id=613&doc_id=742491)
@@ -602,6 +603,14 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
 * [Apple despide a ingeniero porque su hija youtuber filtró el iPhone X](https://computerhoy.com/noticias/moviles/apple-despide-ingeniero-porque-su-hija-youtuber-filtro-iphone-x-70391)
   * **Fuente**: Oscar Anadon Olalla.
   * **Descripción**: Apple despide al ingeniero cuya hija subió un video a Youtube hablando de las caracteristicas del entonces todavia no lanzado iPhone X.
+
+
+
+  * [Trabajador de Boeing expone la información personal de 36000 compañeros de trabajo](https://www.geekwire.com/2017/personal-data-36000-boeing-employees-put-risk-employee-emails-info-spouse/)
+  * **Fuente**: Alain Cascán
+  * **Descripción**: Un empleado de Boeing le mandó un correo electrónico con una hoja de cálculo excel a su pareja con el fin de que esta le ayudase a formatear este documento. El problema es que esta hoja excel contenía datos personales de 36 mil compañeros de trabajo en el que se incluian nombres, lugares de nacimiento e incluso, en campos ocultos, aparecían números de la seguridad social. Boeing ofreció de forma gratuita un monitoreo de crédito durante 2 años a todos sus empleados por un valor total aproximado de 7 millones de dólares
+  * **Estrategia**: Un sistema de información que se podría haber utilizado para evitar este filtrado se información podría haber sido uno encargado de analizar los correos salientes de los usuarrios y, mediante un modelo de Inteligencia Artificial entrenado pudiese analizar tanto el cuerpo del correo, como los archivos adjuntados en alguna sandbox, con el fin de retener este correo hasta la verificación manual de este mismo y dando aviso a algún responsable.
+  * **Solución**: Un sistema como Proofpoint (https://www.proofpoint.com/us/products/information-protection/email-dlp) que es capaz de analizar datos desestructurados en busca de posibles fugas de datos sensibles
 
 ### 2018
 
