@@ -446,6 +446,12 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Descripción**: Menos de 200 usuarios de Shopify se vieron afectados en la mayor brecha de datos que ha tenido la plataforma. Se trata de datos personales pertenecientes a usuarios que poseen tiendas en la plataforma. Shopify insisten en que no ha sido una vulnerabilidad tecnica de la plataforma si no que achaca el infortunio a dos trabajadores del departamento de soporte que han sido immnediatamente puestos a disposición de los organismos compotentes y despedidos.
   * **Estrategia**: Segun este [comunicado oficial](https://community.shopify.com/c/shopify-discussions/incident-update/m-p/888971) de Shopify, la información personal que fue robada fue debido a que estaban involucrados en un esquema para obtener registros de transacciones de clientes de ciertos comerciantes. Shopify no ha querido dar más datos de como era el esquema en el que estaban operando.
   * **Solución**: Shopify podría haber evitado este infortunio contando con el apoyo software que proporciona [Proofpoint](https://www.proofpoint.com/es/products/information-protection/insider-threat-management) una empresa que ofrece software como servicio y productos para la prevención de pérdida de datos.
+    
+* [Nickolas Sharp Stealing Ubiquiti's Sensitive Data](https://acdsglobal.com/resources/blog/7-real-life-insider-threat-examples) 
+  (https://socialgeek.co/noticias/hombre-acusado-de-violacion-de-datos-de-ubiquiti-y-extorsion-fue-empleado-para-investigar-hackeos/)
+  * **Fuente**: Salma Hernández Sierra
+  * **Descripción**: Un ex empleado de Ubiquiti, Nickolas Sharp, fue sorprendido robando gigabytes de archivos de la red de Ubiquiti en un intento de extorsionar a su empleador. Sharp dirigió el equipo de nube del fabricante de dispositivos de red y se hizo pasar por un hacker anónimo y un denunciante. Sharp abusó de su confianza al realizar una violación de datos, explotar información confidencial y retenerla para pedir un rescate.
+
 
 ### 2021
 
