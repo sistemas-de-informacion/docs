@@ -505,6 +505,14 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Debido a que la extracción de los datos fue llevada a cabo por ex-empleados, los cuales podrían tener todavía los permisos necesarios para acceder a información confidencial de la empresa, una forma de evitar que aquellas personas que ya no forman parte de la empresa accedan a dicha información sería la eliminación de todo tipo de privilegios respecto a dichos usuarios. Además, podría implementarse algún tipo de sistema que detecte cuándo hay grandes consultas a la base de datos de los trabajadores puesto que la necessidad de acceder a tanta información a la vez de los propios trabajadores no es tan frecuente como la de acceder a los datos de los clientes.
   * **Solución**: con el objetivo de eliminar de manera automática los permisos de aquellos ex-empleados una vez han salido de la empresa, podríamos usar [SailPoint](https://www.sailpoint.com/es/). Esta herramienta, entre otras funcionalidades, va revisando y actualizando periódicamente el acceso de empleados inactivos. 
 
+### 2023
+
+* [Tesla points to insider wrongdoing as cause of massive employee data leak](https://www.theverge.com/2023/8/21/23839940/tesla-data-leak-inside-job-handelsblatt)
+  * **Fuente**: Ismael Berdusán Muñoz
+  * **Descripción**: Tesla descubre que dos de sus ex empleados son responsables de una fuga masiva de datos, afectando a más de 75,000 empleados. La información filtrada incluye datos personales identificables, como números de seguridad social. Los ex empleados violaron las políticas de seguridad de IT y protección de datos al compartir esta información con un medio de comunicación. Además, el incidente reveló problemas de seguridad en los sistemas de Tesla, incluyendo quejas de clientes sobre el sistema de conducción autónoma de la compañía.
+  * **Estrategia**: Implementar un control de acceso más estricto y un seguimiento detallado del acceso a los datos para identificar comportamientos sospechosos entre los empleados. Es crucial revisar y ajustar regularmente los permisos de acceso a la información, especialmente después de la terminación del empleo, para prevenir el acceso no autorizado a datos sensibles.
+  * **Solución**: Monitorizar y controlar el acceso a la información sensible y asegurar que se revocan todos los permisos de los empleados al salir de la empresa mediante sistemas de gestión de identidades y accesos, como [SAP S/4HANA](https://www.sap.com/spain/products/s4hana-erp.html), que facilita la administración centralizada de los permisos de usuario.
+
 ## Ladrones de dinero
 
 ### 2015
