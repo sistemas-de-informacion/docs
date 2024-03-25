@@ -989,3 +989,12 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Estrategia**: En la noticia nombran medidas que van a ser tomadas, a partir de este hecho, como: actualizar los formularios de autorización de seguridad, crear un nuevo centro de políticas para amenazas internas dentro de la rama de seguridad, hacer un análisis de los puestos que requieren acceso a la Canadian Top Secret Network.
   Resulta primordial que las organizaciones fortalezcan sus procedimientos de investigación y selección de empleados y contratistas que tengan acceso a información confidencial. Esto implica llevar a cabo, por ejemplo, realizar revisiones regulares de autorización de seguridad.
   * **Solución**: Existe una empresa de software de corporación estadounidense llamada [Forcepoint](https://www.forcepoint.com/es/security/insider-threat)* que es la compañía líder en ciberseguridad de protección de datos y usuarios y se especializa en la monitorización las actividades de los usuarios en una empresa.
+  
+### 2021
+* IBM (https://www.ibm.com/topics/insider-threats)
+  * **Fuente**: Pablo Moreno Muñoz
+  * **Descripción**: En 2021, un estafador utilizó una táctica de ingeniería social, específicamente una llamada de voz de phishing (vishing), para obtener credenciales de acceso a los sistemas de atención al cliente de la plataforma de trading Robinhood. Este acceso no autorizado podría haber llevado a la pérdida de datos confidenciales y potencialmente a problemas financieros para los usuarios de la plataforma.
+  * **Estrategia**: Implementar un sistema de formación en seguridad cibernética para los empleados. Esto puede ayudar a prevenir el acceso no autorizado a sistemas críticos y a detectar cualquier actividad sospechosa. Además, puede ayudar a los empleados a reconocer y evitar tácticas de ingeniería social.
+  * **Solución**: Existe una empresa de software de corporación estadounidense llamada KnowBe4. KnowBe4 proporciona una plataforma de formación en seguridad que ayuda a las organizaciones a educar a sus empleados sobre las amenazas de seguridad cibernética y cómo evitarlas.
+  Enlace de las posibilidades y entrenaminetos que se pueden realizar con KnowBe4 a los empleados: [KnowBe4 posibilidades](https://www.knowbe4.com/en/security-awareness-training-features/)
+  Distintos casos de estudio de empresas con problemas similares que han utilizado KnowBe4: [Knowbe4 casos reales](https://www.knowbe4.com/case-studies/)
