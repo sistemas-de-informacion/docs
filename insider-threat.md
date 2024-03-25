@@ -462,12 +462,6 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Segun este [comunicado oficial](https://community.shopify.com/c/shopify-discussions/incident-update/m-p/888971) de Shopify, la información personal que fue robada fue debido a que estaban involucrados en un esquema para obtener registros de transacciones de clientes de ciertos comerciantes. Shopify no ha querido dar más datos de como era el esquema en el que estaban operando.
   * **Solución**: Shopify podría haber evitado este infortunio contando con el apoyo software que proporciona [Proofpoint](https://www.proofpoint.com/es/products/information-protection/insider-threat-management) una empresa que ofrece software como servicio y productos para la prevención de pérdida de datos.
     
-* [Nickolas Sharp Stealing Ubiquiti's Sensitive Data](https://acdsglobal.com/resources/blog/7-real-life-insider-threat-examples) 
-  (https://socialgeek.co/noticias/hombre-acusado-de-violacion-de-datos-de-ubiquiti-y-extorsion-fue-empleado-para-investigar-hackeos/)
-  * **Fuente**: Salma Hernández Sierra
-  * **Descripción**: Un ex empleado de Ubiquiti, Nickolas Sharp, fue sorprendido robando gigabytes de archivos de la red de Ubiquiti en un intento de extorsionar a su empleador. Sharp dirigió el equipo de nube del fabricante de dispositivos de red y se hizo pasar por un hacker anónimo y un denunciante. Sharp abusó de su confianza al realizar una violación de datos, explotar información confidencial y retenerla para pedir un rescate.
-
-
 * [Ex ingeniero de Ubiquiti condenado a prisión por robo de datos y extorsión](https://arstechnica.com/tech-policy/2023/05/ex-ubiquiti-engineer-behind-breathtaking-data-theft-gets-6-year-prison-term/)
   * **Fuente**:  Clara Cerdán Torrubias
   * **Descripción**:  Un ex ingeniero de Ubiquiti, Nickolas Sharp, fue sentenciado a seis años de prisión en 2023 por robar decenas de gigabytes de datos confidenciales de la empresa y exigir un rescate de 1,9 millones de dólares. Utilizó sus credenciales de seguridad para copiar repositorios de datos mientras ocultaba su dirección IP con una VPN. Sharp se declaró culpable de múltiples cargos, incluido el fraude electrónico y hacer declaraciones falsas al FBI.
