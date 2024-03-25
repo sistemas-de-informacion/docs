@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD024 -->
 # Insider threat
 
 Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) como una amenaza maliciosa a una organización que procede de personas de dentro de la propia organización, como empleados, contratistas y socios, que tienen información interna relacionada con la seguridad y los sistemas informáticos. Esta página contiene ejemplos reales organizados por categorías y año.
@@ -203,7 +204,6 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**:  Para prevenir este tipo de amenazas se podría implementar un sistema de gestión de derechos digitales (DRM), de modo que la empresa sería capaz de controlar el acceso a sus activos digitales, establecer políticas claras de acceso y uso, y monitorear la actividad de los usuarios para detectar comportamientos sospechosos. Y más importante aún, podría eliminar automáticamente los derechos de acceso a activos digitales en caso de que un empleado deje la empresa, reduciendo así el riesgo de que se transfieran activos a terceros.
   * **Solución**:  El software de DRM de Microsoft, [Azure RMS](https://learn.microsoft.com/es-es/azure/information-protection/what-is-azure-rms), permite a las empresas proteger sus datos confidenciales en la nube y controlar el acceso a ellos, tanto dentro como fuera de la organización. Además, también proporciona funciones de monitoreo y generación de informes para detectar comportamientos sospechosos.
 
-
 ### 2021
 
 * [Robo de secretos comerciales por parte de empleados de Elliott Greenleaf para obtener una ventaja comercial](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
@@ -218,15 +218,13 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**: La mayoría de los insider threats por robo se efectúan por cargos relativamente altos en la organización. Para evitar este tipo de robos se puede instalar en la empresa un software para monitorizar los archivos, los correos electrónicos y la actividad en las fuentes de datos principales para así poder saber que se está haciendo en todo momento con los archivos.
   * **Solución** Para el monitoreo de redes existe la herramienta [Nagios](https://www.nagios.org/downloads/) que permite monitorear la actividad en la red de la organización, así como el tráfico de correo electrónico y el intercambio de archivos. Para monitorear los archivos se puede utilizar [FileAudit](https://www.manageengine.com/products/active-directory-audit/sem/lp/how-to-track-file-changes.html) que monitorea los cambios en archivos, incluyendo creación, modificación y eliminación.
   
-
 ### 2023
+
 * [FBI arrests 21-year-old Air Force guardsman in Pentagon leak case](https://edition.cnn.com/2023/04/13/politics/us-government-intel-leak/index.html)
   * **Fuente**: Diego Lasheras Blasco
   * **Descripción**:Jack Teixeira, miembro de la Guardia Nacional Aérea de Massachusetts, fue arrestado por el FBI por filtrar documentos clasificados del gobierno y militares de EE. UU. Los documentos, que incluían evaluaciones de inteligencia sobre la guerra en Ucrania, fueron compartidos en una plataforma de redes sociales popular entre los jugadores de videojuegos. Teixeira es sospechoso de liderar el grupo donde se publicaron los documentos clasificados. La investigación se centró en Teixeira después de una rápida búsqueda por parte del gobierno de EE. UU., y fue arrestado en Massachusetts sin incidentes. El FBI continúa investigando el caso para identificar y responsabilizar a quienes pongan en riesgo la seguridad nacional.
- * **Estrategia**: Una estrategia efectiva podría haber sido implementar un sistema de monitoreo continuo de actividad de usuarios en los sistemas y redes de la Guardia Nacional Aérea. Esto habría permitido detectar comportamientos sospechosos, como el acceso no autorizado a documentos clasificados o la transferencia de grandes volúmenes de datos, y tomar medidas preventivas de manera oportuna. Además, la educación y concienciación del personal sobre la importancia de proteger la información clasificada habría fortalecido la seguridad interna.
+  * **Estrategia**: Una estrategia efectiva podría haber sido implementar un sistema de monitoreo continuo de actividad de usuarios en los sistemas y redes de la Guardia Nacional Aérea. Esto habría permitido detectar comportamientos sospechosos, como el acceso no autorizado a documentos clasificados o la transferencia de grandes volúmenes de datos, y tomar medidas preventivas de manera oportuna. Además, la educación y concienciación del personal sobre la importancia de proteger la información clasificada habría fortalecido la seguridad interna.
   * **Solución** Un software compatible con esta estrategia sería Ekran System, que incluye funciones de monitoreo de actividad de usuarios y análisis de comportamiento para detectar anomalías y posibles amenazas internas. [Ekran System](https://www.ekransystem.com/es/product/user-activity-monitoring)
-  
-  
   
 ## Ladrones de datos
 
@@ -463,7 +461,7 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Descripción**:  Un ex ingeniero de Ubiquiti, Nickolas Sharp, fue sentenciado a seis años de prisión en 2023 por robar decenas de gigabytes de datos confidenciales de la empresa y exigir un rescate de 1,9 millones de dólares. Utilizó sus credenciales de seguridad para copiar repositorios de datos mientras ocultaba su dirección IP con una VPN. Sharp se declaró culpable de múltiples cargos, incluido el fraude electrónico y hacer declaraciones falsas al FBI.
   * **Estrategia**:  Una estrategia para prevenir este tipo de amenazas sería implementar un sistema de gestión de identidades y accesos (IAM). Este sistema permitiría administrar de manera centralizada los privilegios de acceso de los empleados a los sistemas y datos de la empresa, garantizando que solo tengan acceso a la información necesaria para realizar sus funciones. Además, se podría implementar la autenticación multifactor (MFA) para agregar una capa adicional de seguridad al proceso de inicio de sesión.
   * **Solución**:  Una solución apropiada sería el uso de un software IAM como [Okta](https://www.seidor.com/blog/okta-que-es) o [Microsoft Azure Active Directory](https://encora.es/azure-ad/). Estas plataformas ofrecen funciones avanzadas de gestión de identidades y accesos, incluida la asignación de roles y privilegios, la implementación de políticas de acceso basadas en el contexto y la autenticación multifactor. Esto ayudaría a prevenir el acceso no autorizado a los sistemas y datos de la empresa, reduciendo así el riesgo de robo de información confidencial.
- 
+
 ### 2021
 
 * [Proofpoint Alleges Ex-Exec Took Trade Secrets To Abnormal Security](https://www.crn.com/news/security/proofpoint-alleges-ex-exec-took-trade-secrets-to-abnormal-security)
@@ -482,8 +480,7 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Fuente**: Lucía Olmos Ortega
   * **Descripción**: En noviembre de 2021, un ex empleado del South Georgia Medical Center en Valdosta, Georgia, descargó datos privados de los sistemas del centro médico a su unidad USB sin motivo aparente el día después de renunciar. Este incidente ilustra los riesgos de seguridad asociados con los ex empleados que aún tienen acceso a los sistemas de una organización
   * **Estrategia**: Para evitar incidentes similares, se podría implementar una solución de gestión de acceso privilegiado que proporcione permisos de acceso según la necesidad estricta, lo que habría disuadido el acceso no autorizado desde el principio.
-  * **Solución**: Una posible solución reside en el uso de un software que permita monitorear el acceso a los datos como [Vanoris](https://www.varonis.com/use-case/data-privacy-dsar). Este software ofrece soluciones de seguridad de datos que incluyen la monitorización del acceso a archivos y datos confidenciales. Su plataforma permite detectar y analizar el comportamiento del usuario, establecer alertas para actividades sospechosas y controlar de forma granular quién tiene acceso a qué datos. Además, Varonis proporciona informes detallados y análisis de riesgos para ayudar a las organizaciones a proteger sus datos de manera efectiva. 
-  
+  * **Solución**: Una posible solución reside en el uso de un software que permita monitorear el acceso a los datos como [Vanoris](https://www.varonis.com/use-case/data-privacy-dsar). Este software ofrece soluciones de seguridad de datos que incluyen la monitorización del acceso a archivos y datos confidenciales. Su plataforma permite detectar y analizar el comportamiento del usuario, establecer alertas para actividades sospechosas y controlar de forma granular quién tiene acceso a qué datos. Además, Varonis proporciona informes detallados y análisis de riesgos para ayudar a las organizaciones a proteger sus datos de manera efectiva.
   
 ### 2022
 
@@ -504,13 +501,12 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Descripción**: En mayo de 2022, un científico de investigación de Yahoo llamado Qian Sang supuestamente robó información confidencial de Yahoo y un análisis de The Trade Desk minutos después de recibir una oferta de trabajo de la última empresa. Yahoo presentó una demanda alegando que las acciones de Sang le privaron del control exclusivo de sus secretos comerciales.
   * **Estrategia**: La implementación de un monitoreo continuo y la revisión regular de los registros de actividad del usuario en la red podría haber sido útil para evitar el robo de propiedad intelectual. Se podría haber establecido una política de clasificación de datos y roles. Por último, se podría haber implementado un sistema de detección de amenazas que alerte a la organización cuando se detecten actividades sospechosas en la red o descargas sin autorizar.
   * **Solución**: SAP SuccessFactors ofrece herramientas para la gestión de roles y permisos de usuario, autenticación de dos factores, encriptación de datos y monitoreo de actividades del usuario en la red, entre otros.
- 
-* [Tesla says former employees leaked thousands of personal records to German news outlet]
-(https://www.scmagazine.com/news/tesla-says-former-employees-leaked-thousands-of-personal-records-to-german-news-outlet)
+
+* [Tesla says former employees leaked thousands of personal records to German news outlet](https://www.scmagazine.com/news/tesla-says-former-employees-leaked-thousands-of-personal-records-to-german-news-outlet)
   * **Fuente**: Óscar Brizuela García
   * **Descripción**: Dos ex-empleados de Tesla violaron las políticas de protección de datos y seguridad de la compañía y se apropiaron de datos personales tanto de empleados como de ex-empleados para compartir esa información con un medio de comunicación alemán. Entre datos de los más de 75000 usuarios afectados se encontraban registros de empleo, números de telçefono y números de la Seguridad Social.
   * **Estrategia**: Debido a que la extracción de los datos fue llevada a cabo por ex-empleados, los cuales podrían tener todavía los permisos necesarios para acceder a información confidencial de la empresa, una forma de evitar que aquellas personas que ya no forman parte de la empresa accedan a dicha información sería la eliminación de todo tipo de privilegios respecto a dichos usuarios. Además, podría implementarse algún tipo de sistema que detecte cuándo hay grandes consultas a la base de datos de los trabajadores puesto que la necessidad de acceder a tanta información a la vez de los propios trabajadores no es tan frecuente como la de acceder a los datos de los clientes.
-  * **Solución**: con el objetivo de eliminar de manera automática los permisos de aquellos ex-empleados una vez han salido de la empresa, podríamos usar [SailPoint](https://www.sailpoint.com/es/). Esta herramienta, entre otras funcionalidades, va revisando y actualizando periódicamente el acceso de empleados inactivos. 
+  * **Solución**: con el objetivo de eliminar de manera automática los permisos de aquellos ex-empleados una vez han salido de la empresa, podríamos usar [SailPoint](https://www.sailpoint.com/es/). Esta herramienta, entre otras funcionalidades, va revisando y actualizando periódicamente el acceso de empleados inactivos.
 
 ## Ladrones de dinero
 
