@@ -217,7 +217,13 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: En mayo de 2022 un trabajador de Yahoo llamado Qian Sang robó información patentada sobre el producto de Yahoo AdLearn. Qian recibió una oferta de trabajo de Trade Desk, un competidor directo de Yahoo. Yahoo descubrió que 45 minutos después de recibir la oferta Qian descargó 570000 páginas de código fuente desde su portátil de Yahoo a dos portátiles personales. Además Qian se quedó los dispositivos hasta que Yahoo presentó una orden de cese semanas después.
   * **Estrategia**: La mayoría de los insider threats por robo se efectúan por cargos relativamente altos en la organización. Para evitar este tipo de robos se puede instalar en la empresa un software para monitorizar los archivos, los correos electrónicos y la actividad en las fuentes de datos principales para así poder saber que se está haciendo en todo momento con los archivos.
   * **Solución** Para el monitoreo de redes existe la herramienta [Nagios](https://www.nagios.org/downloads/) que permite monitorear la actividad en la red de la organización, así como el tráfico de correo electrónico y el intercambio de archivos. Para monitorear los archivos se puede utilizar [FileAudit](https://www.manageengine.com/products/active-directory-audit/sem/lp/how-to-track-file-changes.html) que monitorea los cambios en archivos, incluyendo creación, modificación y eliminación.
-  
+
+### 2022
+* [Rivos Poaching Apple's Engineers](https://acdsglobal.com/resources/blog/7-real-life-insider-threat-examples) (https://es.gearrice.com/apple-demanda-a-la-startup-rivos-de-soc-por-caza-furtiva-de-empleados-y-robo-de-secretos-comerciales/)
+  * **Fuente**: Salma Hernández Sierra
+  * **Descripción**: La empresa emergente de tecnología Rivos estaba trabajando en circuitos integrados similares a los que ejecutan las computadoras portátiles y teléfonos de Apple. Decidieron cazar furtivamente a los ingenieros de Apple que conocían secretos comerciales que los beneficiarían.En una demanda presentada por Apple, afirmó que Rivos había contratado a más de 40 de sus antiguos empleados para trabajar en tecnología de la competencia.Además, informa de que al menos dos empleados de Apple llevaron gigabytes de información confidencial a Rivos, en lo que Apple ha gastado miles de millones de dólares y más de una década de investigación.
+
+
 ### 2023
 
 * [FBI arrests 21-year-old Air Force guardsman in Pentagon leak case](https://edition.cnn.com/2023/04/13/politics/us-government-intel-leak/index.html)
