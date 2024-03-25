@@ -203,6 +203,7 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Estrategia**:  Para prevenir este tipo de amenazas se podría implementar un sistema de gestión de derechos digitales (DRM), de modo que la empresa sería capaz de controlar el acceso a sus activos digitales, establecer políticas claras de acceso y uso, y monitorear la actividad de los usuarios para detectar comportamientos sospechosos. Y más importante aún, podría eliminar automáticamente los derechos de acceso a activos digitales en caso de que un empleado deje la empresa, reduciendo así el riesgo de que se transfieran activos a terceros.
   * **Solución**:  El software de DRM de Microsoft, [Azure RMS](https://learn.microsoft.com/es-es/azure/information-protection/what-is-azure-rms), permite a las empresas proteger sus datos confidenciales en la nube y controlar el acceso a ellos, tanto dentro como fuera de la organización. Además, también proporciona funciones de monitoreo y generación de informes para detectar comportamientos sospechosos.
 
+
 ### 2021
 
 * [Robo de secretos comerciales por parte de empleados de Elliott Greenleaf para obtener una ventaja comercial](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
@@ -457,6 +458,12 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Estrategia**: Segun este [comunicado oficial](https://community.shopify.com/c/shopify-discussions/incident-update/m-p/888971) de Shopify, la información personal que fue robada fue debido a que estaban involucrados en un esquema para obtener registros de transacciones de clientes de ciertos comerciantes. Shopify no ha querido dar más datos de como era el esquema en el que estaban operando.
   * **Solución**: Shopify podría haber evitado este infortunio contando con el apoyo software que proporciona [Proofpoint](https://www.proofpoint.com/es/products/information-protection/insider-threat-management) una empresa que ofrece software como servicio y productos para la prevención de pérdida de datos.
 
+* [Ex ingeniero de Ubiquiti condenado a prisión por robo de datos y extorsión](https://arstechnica.com/tech-policy/2023/05/ex-ubiquiti-engineer-behind-breathtaking-data-theft-gets-6-year-prison-term/)
+  * **Fuente**:  Clara Cerdán Torrubias
+  * **Descripción**:  Un ex ingeniero de Ubiquiti, Nickolas Sharp, fue sentenciado a seis años de prisión en 2023 por robar decenas de gigabytes de datos confidenciales de la empresa y exigir un rescate de 1,9 millones de dólares. Utilizó sus credenciales de seguridad para copiar repositorios de datos mientras ocultaba su dirección IP con una VPN. Sharp se declaró culpable de múltiples cargos, incluido el fraude electrónico y hacer declaraciones falsas al FBI.
+  * **Estrategia**:  Una estrategia para prevenir este tipo de amenazas sería implementar un sistema de gestión de identidades y accesos (IAM). Este sistema permitiría administrar de manera centralizada los privilegios de acceso de los empleados a los sistemas y datos de la empresa, garantizando que solo tengan acceso a la información necesaria para realizar sus funciones. Además, se podría implementar la autenticación multifactor (MFA) para agregar una capa adicional de seguridad al proceso de inicio de sesión.
+  * **Solución**:  Una solución apropiada sería el uso de un software IAM como [Okta](https://www.seidor.com/blog/okta-que-es) o [Microsoft Azure Active Directory](https://encora.es/azure-ad/). Estas plataformas ofrecen funciones avanzadas de gestión de identidades y accesos, incluida la asignación de roles y privilegios, la implementación de políticas de acceso basadas en el contexto y la autenticación multifactor. Esto ayudaría a prevenir el acceso no autorizado a los sistemas y datos de la empresa, reduciendo así el riesgo de robo de información confidencial.
+ 
 ### 2021
 
 * [Proofpoint Alleges Ex-Exec Took Trade Secrets To Abnormal Security](https://www.crn.com/news/security/proofpoint-alleges-ex-exec-took-trade-secrets-to-abnormal-security)
