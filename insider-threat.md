@@ -217,7 +217,13 @@ En este caso particular, ya que aprovechó una visita guiada para obtener datos 
   * **Descripción**: En mayo de 2022 un trabajador de Yahoo llamado Qian Sang robó información patentada sobre el producto de Yahoo AdLearn. Qian recibió una oferta de trabajo de Trade Desk, un competidor directo de Yahoo. Yahoo descubrió que 45 minutos después de recibir la oferta Qian descargó 570000 páginas de código fuente desde su portátil de Yahoo a dos portátiles personales. Además Qian se quedó los dispositivos hasta que Yahoo presentó una orden de cese semanas después.
   * **Estrategia**: La mayoría de los insider threats por robo se efectúan por cargos relativamente altos en la organización. Para evitar este tipo de robos se puede instalar en la empresa un software para monitorizar los archivos, los correos electrónicos y la actividad en las fuentes de datos principales para así poder saber que se está haciendo en todo momento con los archivos.
   * **Solución** Para el monitoreo de redes existe la herramienta [Nagios](https://www.nagios.org/downloads/) que permite monitorear la actividad en la red de la organización, así como el tráfico de correo electrónico y el intercambio de archivos. Para monitorear los archivos se puede utilizar [FileAudit](https://www.manageengine.com/products/active-directory-audit/sem/lp/how-to-track-file-changes.html) que monitorea los cambios en archivos, incluyendo creación, modificación y eliminación.
-  
+
+### 2022
+
+* [Rivos Poaching Apple's Engineers](https://es.gearrice.com/apple-demanda-a-la-startup-rivos-de-soc-por-caza-furtiva-de-empleados-y-robo-de-secretos-comerciales/)
+  * **Fuente**: Salma Hernández Sierra
+  * **Descripción**: La empresa emergente de tecnología Rivos estaba trabajando en circuitos integrados similares a los que ejecutan las computadoras portátiles y teléfonos de Apple. Decidieron cazar furtivamente a los ingenieros de Apple que conocían secretos comerciales que los beneficiarían. En una demanda presentada por Apple, afirmó que Rivos había contratado a más de 40 de sus antiguos empleados para trabajar en tecnología de la competencia. Además, informa de que al menos dos empleados de Apple llevaron gigabytes de información confidencial a Rivos, en lo que Apple ha gastado miles de millones de dólares y más de una década de investigación.
+
 ### 2023
 
 * [FBI arrests 21-year-old Air Force guardsman in Pentagon leak case](https://edition.cnn.com/2023/04/13/politics/us-government-intel-leak/index.html)
@@ -455,7 +461,7 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Descripción**: Menos de 200 usuarios de Shopify se vieron afectados en la mayor brecha de datos que ha tenido la plataforma. Se trata de datos personales pertenecientes a usuarios que poseen tiendas en la plataforma. Shopify insisten en que no ha sido una vulnerabilidad tecnica de la plataforma si no que achaca el infortunio a dos trabajadores del departamento de soporte que han sido immnediatamente puestos a disposición de los organismos compotentes y despedidos.
   * **Estrategia**: Segun este [comunicado oficial](https://community.shopify.com/c/shopify-discussions/incident-update/m-p/888971) de Shopify, la información personal que fue robada fue debido a que estaban involucrados en un esquema para obtener registros de transacciones de clientes de ciertos comerciantes. Shopify no ha querido dar más datos de como era el esquema en el que estaban operando.
   * **Solución**: Shopify podría haber evitado este infortunio contando con el apoyo software que proporciona [Proofpoint](https://www.proofpoint.com/es/products/information-protection/insider-threat-management) una empresa que ofrece software como servicio y productos para la prevención de pérdida de datos.
-
+    
 * [Ex ingeniero de Ubiquiti condenado a prisión por robo de datos y extorsión](https://arstechnica.com/tech-policy/2023/05/ex-ubiquiti-engineer-behind-breathtaking-data-theft-gets-6-year-prison-term/)
   * **Fuente**:  Clara Cerdán Torrubias
   * **Descripción**:  Un ex ingeniero de Ubiquiti, Nickolas Sharp, fue sentenciado a seis años de prisión en 2023 por robar decenas de gigabytes de datos confidenciales de la empresa y exigir un rescate de 1,9 millones de dólares. Utilizó sus credenciales de seguridad para copiar repositorios de datos mientras ocultaba su dirección IP con una VPN. Sharp se declaró culpable de múltiples cargos, incluido el fraude electrónico y hacer declaraciones falsas al FBI.
