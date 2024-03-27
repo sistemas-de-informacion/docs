@@ -461,7 +461,7 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Descripción**: Menos de 200 usuarios de Shopify se vieron afectados en la mayor brecha de datos que ha tenido la plataforma. Se trata de datos personales pertenecientes a usuarios que poseen tiendas en la plataforma. Shopify insisten en que no ha sido una vulnerabilidad tecnica de la plataforma si no que achaca el infortunio a dos trabajadores del departamento de soporte que han sido immnediatamente puestos a disposición de los organismos compotentes y despedidos.
   * **Estrategia**: Segun este [comunicado oficial](https://community.shopify.com/c/shopify-discussions/incident-update/m-p/888971) de Shopify, la información personal que fue robada fue debido a que estaban involucrados en un esquema para obtener registros de transacciones de clientes de ciertos comerciantes. Shopify no ha querido dar más datos de como era el esquema en el que estaban operando.
   * **Solución**: Shopify podría haber evitado este infortunio contando con el apoyo software que proporciona [Proofpoint](https://www.proofpoint.com/es/products/information-protection/insider-threat-management) una empresa que ofrece software como servicio y productos para la prevención de pérdida de datos.
-    
+
 * [Ex ingeniero de Ubiquiti condenado a prisión por robo de datos y extorsión](https://arstechnica.com/tech-policy/2023/05/ex-ubiquiti-engineer-behind-breathtaking-data-theft-gets-6-year-prison-term/)
   * **Fuente**:  Clara Cerdán Torrubias
   * **Descripción**:  Un ex ingeniero de Ubiquiti, Nickolas Sharp, fue sentenciado a seis años de prisión en 2023 por robar decenas de gigabytes de datos confidenciales de la empresa y exigir un rescate de 1,9 millones de dólares. Utilizó sus credenciales de seguridad para copiar repositorios de datos mientras ocultaba su dirección IP con una VPN. Sharp se declaró culpable de múltiples cargos, incluido el fraude electrónico y hacer declaraciones falsas al FBI.
@@ -997,7 +997,8 @@ El ataque consistió en robo de información personal de los trabajadores, robo 
   * **Solución**: Existe una empresa de software de corporación estadounidense llamada [Forcepoint](https://www.forcepoint.com/es/security/insider-threat)* que es la compañía líder en ciberseguridad de protección de datos y usuarios y se especializa en la monitorización las actividades de los usuarios en una empresa.
   
 ### 2021
-* IBM (https://www.ibm.com/topics/insider-threats)
+
+* [When a Hacker Calls: How Robinhood Fell Victim to a Vishing Raid](https://www.bloomberg.com/news/articles/2021-11-27/when-a-hacker-calls-how-robinhood-fell-victim-to-vishing-attack)
   * **Fuente**: Pablo Moreno Muñoz
   * **Descripción**: En 2021, un estafador utilizó una táctica de ingeniería social, específicamente una llamada de voz de phishing (vishing), para obtener credenciales de acceso a los sistemas de atención al cliente de la plataforma de trading Robinhood. Este acceso no autorizado podría haber llevado a la pérdida de datos confidenciales y potencialmente a problemas financieros para los usuarios de la plataforma.
   * **Estrategia**: Implementar un sistema de formación en seguridad cibernética para los empleados. Esto puede ayudar a prevenir el acceso no autorizado a sistemas críticos y a detectar cualquier actividad sospechosa. Además, puede ayudar a los empleados a reconocer y evitar tácticas de ingeniería social.
