@@ -599,6 +599,12 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Solución**: La respuesta más eficaz frente a una amenaza interna de este tipo es monitorizar el comportamiento del usuario en tiempo real para predecir y detectar un comportamiento anormal asociado con un uso indebido de los datos. Por ello, una solución adecuada podría ser hacer uso del software [UEBA](https://gurucul.com/products/user-entity-behavior-analytics-ueba). UEBA usa la inteligencia artificial y el Big Data para monitorizar y detectar anomalías.
 
 ## Despistados y descuidos
+### 1988
+* [¿Que es el gusano de Morris?](https://keepcoding.io/blog/que-es-el-gusano-morris/)
+* **Fuente**: Gari Arellano
+* **Descripción**:  Robert Tappan Morris, un estudiante de posgrado en la Universidad de Cornell, diseñó el gusano como un experimento para medir el tamaño de Internet en ese momento, pero debido a un error en el código, el gusano se replicó de manera descontrolada, causando interrupciones masivas en los sistemas informáticos en los que se propagó. El gusano infectó miles de computadoras, ralentizando significativamente las redes y sistemas afectados. Fue una de las primeras instancias de un ataque a gran escala en la naciente Internet y destacó la importancia de la seguridad cibernética en un mundo cada vez más interconectado.
+* **Estrategia**: La Universidad de Cornell debería haber utilizado un sistema de detección de anomalías en la red, de manera que rápidamente pudiera detectar el impacto que estaba provocando el programa de Morris. Esta estrategia le habría permitido identificar la propagación del gusano y tomar medidas correctivas de manera oportuna. Al implementar esta solución, la Universidad de Cornell podría haber mitigado el daño causado por el ataque y reducido su impacto en la red.
+* **Solución**: Cisco Network Analytics es una solución de seguridad que utiliza análisis de comportamiento de red para detectar y responder a amenazas avanzadas en tiempo real. [Cisco Network Analytics](https://www.cisco.com/site/us/en/products/security/security-analytics/secure-network-analytics/index.html)
 
 ### 2008
 
