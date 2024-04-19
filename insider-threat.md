@@ -750,12 +750,18 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 ### 2021
 
-- [Dallas police department database leak caused by employee negligence](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
-  - **Fuente**: Álvaro Pomar
-  - **Descripción**: Un empleado de la policía de Dallas borró 8,7 millones de antecedentes policiales equivalentes a 23 TB de información. Estos datos estaban relacionados con aproximadamente 17.500 casos activos, lo que provocó la ralentización de estos procesos judiciales. De los 23TB borrados, solo 3TB consiguieron ser recuperados.
-  - **Estrategia**: el incidente ocurrió al mover los datos al cloud y fue debido a que el responsable de IT no tenía los conocimientos necesarios para realizar esta tarea (solo había tomado 2 clases acerca de como realizar el traslado de información). El departamento debió haber monitorizado todas las sesiones en las que se interactuaba con estos datos, de esta forma se habrían dado cuenta del borrado de los datos en tiempo real o se podrían haber creado backups de esta información regularmente.
-  - **Solución**: Emplear Software para crear backups como [Veeam](https://www.veeam.com/es/backup-replication-virtual-physical-cloud.html)
+* [Dallas police department database leak caused by employee negligence](https://www.ekransystem.com/en/blog/real-life-examples-insider-threat-caused-breaches)
+  * **Fuente**: Álvaro Pomar
+  * **Descripción**: Un empleado de la policía de Dallas borró 8,7 millones de antecedentes policiales equivalentes a 23 TB de información. Estos datos estaban relacionados con aproximadamente 17.500 casos activos, lo que provocó la ralentización de estos procesos judiciales. De los 23TB borrados, solo 3TB consiguieron ser recuperados.
+  * **Estrategia**: el incidente ocurrió al mover los datos al cloud y fue debido a que el responsable de IT no tenía los conocimientos necesarios para realizar esta tarea (solo había tomado 2 clases acerca de como realizar el traslado de información). El departamento debió haber monitorizado todas las sesiones en las que se interactuaba con estos datos, de esta forma se habrían dado cuenta del borrado de los datos en tiempo real o se podrían haber creado backups de esta información regularmente.
+  * **Solución**: Emplear Software para crear backups como [Veeam](https://www.veeam.com/es/backup-replication-virtual-physical-cloud.html)
 
+* [Pegasus Airlines Data Breach Exposes Sensitive Flight Information](https://portswigger.net/daily-swig/turkish-flight-operator-pegasus-airlines-suffers-data-breach)
+  * **Fuente**: Ismael Berdusán Muñoz
+  * **Descripción**: En marzo de 2022, se descubrió que un bucket de AWS S3 perteneciente a Pegasus Airlines estaba desprotegido, exponiendo 6.5 TB de datos sensibles, incluyendo información crítica del "Electronic Flight Bag" (EFB). La información expuesta incluía detalles de vuelo, códigos fuente y datos personales de la tripulación, lo que representaba una amenaza potencial para la seguridad de las operaciones de vuelo y la privacidad del personal.
+  * **Estrategia**: Una vigilancia más rigurosa y la implementación de políticas de seguridad de datos podrían haber prevenido este incidente. Se deberían establecer configuraciones de seguridad adecuadas en los buckets de almacenamiento y realizar auditorías de seguridad regulares para detectar y mitigar vulnerabilidades.
+  * **Solución**: Herramientas como [AWS Identity](https://aws.amazon.com/es/identity/) and [Access Management (IAM)](https://aws.amazon.com/es/iam/) y [AWS Bucket Policies](https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.html) pueden ayudar a gestionar permisos de acceso y mejorar la seguridad de los datos almacenados.
+  
 ### 2023
 
 - [IOTW: Mailchimp suffers another social engineering attack](https://www.cshub.com/attacks/news/iotw-mailchimp-suffers-another-social-engineering-attack)
