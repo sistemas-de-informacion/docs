@@ -137,7 +137,7 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
   
 * [Desenmascarando la Traición: Estrategias de Seguridad Post-Filtración en la CIA](https://cnnespanol.cnn.com/2024/02/02/condenan-exempleado-cia-40-anos-filtracion-trax/)
   * **Fuente**: Guillermo Bajo
-  * **Descripción**: Joshua Schulte, un exempleado de la CIA, fue condenado a 40 años de prisión por llevar a cabo la mayor filtración de datos en la historia de la agencia. Schulte entregó datos clasificados a WikiLeaks en 2016 y fue declarado culpable de múltiples cargos, incluida la transmisión ilegal de información de defensa nacional.
+  * **Descripción**: Joshua Schulte, un exempleado de la CIA, fue condenado a 40 años de prisión por llevar a cabo la mayor filtración de datos en la historia de la agencia. Schulte entregó datos clasificados gia WikiLeaks en 2016 y fue declarado culpable de múltiples cargos, incluida la transmisión ilegal de información de defensa nacional.
 
   * **Estrategia**: Una estrategia efectiva para evitar, detectar o mitigar este tipo de amenazas podría haber sido la implementación de un sistema de gestión de acceso y monitoreo de actividades del personal con privilegios de alto nivel en sistemas informáticos sensibles. Este sistema habría permitido rastrear y auditar las acciones de los usuarios, detectando comportamientos anómalos, como la transferencia masiva de datos o el acceso no autorizado a archivos clasificados. Además, la educación continua del personal sobre los riesgos de seguridad cibernética y la concientización sobre la importancia de proteger la información confidencial habría fortalecido aún más las defensas contra este tipo de filtraciones.
 
