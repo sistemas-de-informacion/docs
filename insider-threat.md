@@ -849,7 +849,7 @@ El ataque tuvo lugar durante 2012, pese a que Dropbox informó que una colecció
   * **Fuente**: Kamal Bouizy Ghazzal
   * **Descripción**:Pegasus Airline dejó accidentalmente expuestos en línea 23 millones de archivos que contenían datos personales después de que un empleado configurara incorrectamente una base de datos. Esto resultó en la filtración de información sensible, incluidos datos de vuelo, materiales de navegación y datos de la tripulación de vuelo.
   * **Estrategia**:Para evitar futuras brechas de seguridad, Pegasus Airline podría implementar un sistema de monitoreo y gestión de accesos más riguroso, como Identity Access Management (IAM), que limitaría el acceso de los empleados a datos sensibles según sus roles y responsabilidades. Además de una continua revisión del personal que trabaja en los puntos más delicados del sistema, asegurando sus capacidades técnicas y mentales.
-  * **Solución**: Nombre y enlace de software HRMS compatible con la estrategia mencionada. [Workday](https://www.workday.com/en-us/solutions/role/enterprise-hr/overview.html)
+  * **Solución**: Una posible solución sería implementar el software [One Identity](https://www.oneidentity.com/). Permite una gestión centralizada y controlada de accesos. Esta herramienta podría ayudar a Pegasus Airline a establecer políticas de acceso granular, asignar roles específicos a los empleados y auditar las actividades dentro del entorno de almacenamiento en la nube. Además, sería fundamental proporcionar una formación adecuada al personal sobre las mejores prácticas de seguridad cibernética y la importancia de configurar correctamente los sistemas para prevenir incidentes similares en el futuro.
 ## Accidente
 
 ### 1996
