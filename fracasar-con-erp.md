@@ -305,6 +305,9 @@ Kmart se declaró en bancarrota en 2002 debido a su incapacidad para competir co
 - **ERP X(nombre ficticio) y NYE (nombre ficticio)**:
 [Why ERP post-implementation fails? Lessons learned from a failure case in China](https://eprints.whiterose.ac.uk/79147/2/WRRO_79147.pdf) (Fuente: Kamal Bouizy)
 
+- **ERP X(nombre ficticio) y NYE (nombre ficticio)**:
+[Why ERP post-implementation fails? Lessons learned from a failure case in China](https://eprints.whiterose.ac.uk/79147/2/WRRO_79147.pdf) (Fuente: Kamal Bouizy)
+
 - **SAP, PeopleSoft and Oracle y [Walt Disney Corporation](https://thewaltdisneycompany.com/)**:
 [Disney keeps global SAP roll-out on track by making local executives responsible](http://www.computerweekly.com/feature/Disney-keeps-global-SAP-roll-out-on-track-by-making-local-executives-responsible) (Fuente: Adrián Ibáñez)
 
